@@ -1,0 +1,9 @@
+{
+  "subjects": {
+    "science": "https://jsonbaba.pages.dev/gk/Science.json",
+    "biology": "https://jsonbaba.pages.dev/gk/biology.json",
+    "history": "https://jsonbaba.pages.dev/gk/history.json",
+    "geography": "https://jsonbaba.pages.dev/gk/geography.json",
+    "static": "https://jsonbaba.pages.dev/gk/Static.json"
+  }
+}
