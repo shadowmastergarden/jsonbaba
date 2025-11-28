@@ -1,0 +1,893 @@
+[
+    {
+        "id": "ssc_cgl_comprehension_practice_1",
+        "title": {
+          "en": "Comprehension Set 1"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T20:38:00.000Z",
+        "passage": {
+      "en": "The transition to sustainable energy sources is crucial for mitigating the effects of climate change. While solar and wind power are leading the charge, they suffer from intermittency—they only generate electricity when the sun shines or the wind blows. This is where energy storage, particularly advanced battery technology, plays a pivotal role. Efficient large-scale batteries can store excess energy generated during peak times and release it when demand is high or generation is low. Investment in improving the capacity and lifespan of these batteries is arguably the most critical area of research needed to achieve a truly reliable and green energy grid."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What is the main challenge faced by solar and wind power, as stated in the passage?"
+            },
+            "options": {
+              "en": ["High installation cost", "Intermittency", "Lack of suitable locations", "Noise pollution"]
+            },
+            "correctAnswer": {
+              "en": "Intermittency"
+            },
+            "explanation": {
+              "en": "पैसेज में बताया गया है कि सौर और पवन ऊर्जा 'intermittency' (रुकावट) से ग्रस्त हैं – वे केवल तभी बिजली उत्पन्न करते हैं जब सूरज चमकता है या हवा चलती है।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What is the primary role of energy storage, according to the text?"
+            },
+            "options": {
+              "en": ["To replace solar and wind power completely", "To generate power during the night", "To store excess energy and release it when needed", "To reduce the cost of renewable energy"]
+            },
+            "correctAnswer": {
+              "en": "To store excess energy and release it when needed"
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, बैटरी 'can store excess energy generated during peak times and release it when demand is high or generation is low'।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "What is considered the 'most critical area of research' for a reliable green energy grid?"
+            },
+            "options": {
+              "en": ["Developing new solar panel designs", "Improving the efficiency of wind turbines", "Investment in capacity and lifespan of advanced battery technology", "Finding alternative uses for fossil fuels"]
+            },
+            "correctAnswer": {
+              "en": "Investment in capacity and lifespan of advanced battery technology"
+            },
+            "explanation": {
+              "en": "पैसेज में कहा गया है कि 'Investment in improving the capacity and lifespan of these batteries is arguably the most critical area of research'।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "The transition to sustainable energy sources is necessary for what purpose?"
+            },
+            "options": {
+              "en": ["To increase global energy consumption", "To mitigate the effects of climate change", "To reduce the price of electricity immediately", "To stop all international trade"]
+            },
+            "correctAnswer": {
+              "en": "To mitigate the effects of climate change"
+            },
+            "explanation": {
+              "en": "पहला वाक्य बताता है: 'The transition to sustainable energy sources is crucial for mitigating the effects of climate change' (जलवायु परिवर्तन के प्रभावों को कम करने के लिए महत्वपूर्ण है)।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "What does the phrase 'pivotal role' most nearly mean in the context of the passage?"
+            },
+            "options": {
+              "en": ["A small, insignificant role", "A central and crucial role", "A dangerous and risky role", "A temporary role"]
+            },
+            "correctAnswer": {
+              "en": "A central and crucial role"
+            },
+            "explanation": {
+              "en": "'Pivotal' का अर्थ होता है 'केंद्रीय और महत्वपूर्ण' (central and crucial)।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_2_new",
+        "title": {
+          "en": "Comprehension Set 2"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T21:09:00.000Z",
+        "passage": {
+      "en": "The evolution of currency from bartering to digital transactions highlights humanity's continuous quest for efficiency in trade. Early societies relied on commodity money, using items like salt or cattle, which were cumbersome and lacked standard value. The introduction of metallic coins provided portability and uniform valuation. Paper money simplified transactions further, yet its value was intrinsically linked to gold reserves. Today, digital currencies, while decentralized and offering instantaneous global transfers, present new challenges related to regulation, volatility, and security. Each transition was a response to the limitations of the previous medium, driven by the expanding scale and complexity of global commerce."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What does the evolution of currency primarily reflect about humanity?"
+            },
+            "options": {
+              "en": ["Their desire for wealth accumulation.", "Their continuous quest for efficiency in trade.", "Their need for standardized taxation.", "Their focus on agricultural produce."]
+            },
+            "correctAnswer": {
+              "en": "Their continuous quest for efficiency in trade."
+            },
+            "explanation": {
+              "en": "पैसेज का पहला वाक्य बताता है कि यह 'humanity's continuous quest for efficiency in trade' (व्यापार में दक्षता के लिए मानवता की निरंतर खोज) को दर्शाता है।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What were the limitations of commodity money like salt or cattle?"
+            },
+            "options": {
+              "en": ["They were easily stolen and lost.", "They were cumbersome and lacked standard value.", "They were only available seasonally.", "They caused inflation easily."]
+            },
+            "correctAnswer": {
+              "en": "They were cumbersome and lacked standard value."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, ये वस्तुएँ 'cumbersome and lacked standard value' (भारी थीं और उनमें मानक मूल्य की कमी थी)।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "What benefit did metallic coins introduce that commodity money lacked?"
+            },
+            "options": {
+              "en": ["Durability and higher intrinsic worth.", "A guarantee from the government.", "Portability and uniform valuation.", "The ability to earn interest."]
+            },
+            "correctAnswer": {
+              "en": "Portability and uniform valuation."
+            },
+            "explanation": {
+              "en": "धातु के सिक्कों ने 'portability and uniform valuation' (सुवाह्यता और एकसमान मूल्यांकन) प्रदान किया।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What is the primary new challenge presented by modern digital currencies?"
+            },
+            "options": {
+              "en": ["High transaction fees.", "Linkage to gold reserves.", "Issues related to regulation, volatility, and security.", "Difficulty in global transfer."
+              ]
+            },
+            "correctAnswer": {
+              "en": "Issues related to regulation, volatility, and security."
+            },
+            "explanation": {
+              "en": "डिजिटल मुद्राएँ 'new challenges related to regulation, volatility, and security' (विनियमन, अस्थिरता और सुरक्षा से संबंधित नई चुनौतियाँ) पेश करती हैं।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "According to the passage, what primarily drove the transition from one form of currency to the next?"
+            },
+            "options": {
+              "en": ["Political revolutions and wars.", "The limitations of the previous medium.", "The discovery of new metal mines.", "Changes in agricultural production."]
+            },
+            "correctAnswer": {
+              "en": "The limitations of the previous medium."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, प्रत्येक बदलाव 'a response to the limitations of the previous medium' (पिछले माध्यम की सीमाओं के जवाब में) था।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_3_new",
+        "title": {
+          "en": "Comprehension Set 3"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T21:58:00.000Z",
+        "passage": {
+      "en": "The ozone layer, a region in the Earth's stratosphere, absorbs most of the Sun's harmful ultraviolet (UV) radiation. Its thinning, often referred to as the 'ozone hole,' was primarily caused by the emission of chlorofluorocarbons (CFCs) from aerosols and refrigerants. The international response to this threat was swift and successful: the Montreal Protocol, signed in 1987, phased out the production of these ozone-depleting substances. As a result, scientists have observed a gradual but steady recovery of the ozone layer, a rare success story in global environmental cooperation, proving that collective human action can reverse widespread ecological damage."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What is the primary function of the ozone layer?"
+            },
+            "options": {
+              "en": ["To regulate the Earth's temperature.", "To absorb most of the Sun's harmful UV radiation.", "To generate lightning and rain.", "To block all solar light from reaching the surface."]
+            },
+            "correctAnswer": {
+              "en": "To absorb most of the Sun's harmful UV radiation."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, ओजोन परत सूर्य के अधिकांश हानिकारक पराबैंगनी (UV) विकिरण को अवशोषित करती है।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What was the main cause of the 'ozone hole'?"
+            },
+            "options": {
+              "en": ["Natural solar flares.", "Volcanic eruptions.", "Emission of Chlorofluorocarbons (CFCs).", "Increased carbon dioxide from factories."]
+            },
+            "correctAnswer": {
+              "en": "Emission of Chlorofluorocarbons (CFCs)."
+            },
+            "explanation": {
+              "en": "ओजोन परत के पतले होने का मुख्य कारण एयरोसोल और रेफ्रिजरेंट से क्लोरोफ्लोरोकार्बन (CFCs) का उत्सर्जन था।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "Which international agreement successfully addressed the issue of ozone depletion?"
+            },
+            "options": {
+              "en": ["The Paris Agreement", "The Kyoto Protocol", "The Geneva Convention", "The Montreal Protocol"]
+            },
+            "correctAnswer": {
+              "en": "The Montreal Protocol"
+            },
+            "explanation": {
+              "en": "1987 में हस्ताक्षरित 'The Montreal Protocol' ने ओजोन-घटाने वाले पदार्थों के उत्पादन को चरणबद्ध तरीके से समाप्त कर दिया।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "The recovery of the ozone layer is described as a success story in what area?"
+            },
+            "options": {
+              "en": ["Military strategy.", "Technological innovation.", "Global environmental cooperation.", "Economic development."]
+            },
+            "correctAnswer": {
+              "en": "Global environmental cooperation."
+            },
+            "explanation": {
+              "en": "पैसेज इसे 'a rare success story in global environmental cooperation' (वैश्विक पर्यावरण सहयोग में एक दुर्लभ सफलता की कहानी) कहता है।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "What conclusion about human action can be drawn from the ozone layer's recovery?"
+            },
+            "options": {
+              "en": ["Human action has no impact on the environment.", "Collective human action can reverse widespread ecological damage.", "Technology will solve all future environmental problems.", "Only single nations can effectively address environmental issues."]
+            },
+            "correctAnswer": {
+              "en": "Collective human action can reverse widespread ecological damage."
+            },
+            "explanation": {
+              "en": "रिकवरी यह साबित करती है कि 'collective human action can reverse widespread ecological damage' (सामूहिक मानवीय कार्रवाई व्यापक पारिस्थितिक क्षति को उलट सकती है)।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_4_new",
+        "title": {
+          "en": "Comprehension Set 4"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:00:00.000Z",
+        "passage": {
+      "en": "The discovery of the Indus Valley Civilization (IVC) in the 1920s dramatically reshaped the understanding of South Asian history. Before this discovery, it was widely believed that Indian civilization began with the Vedic period. The IVC, which flourished around 2500 BCE, revealed a highly sophisticated urban culture, characterized by well-planned cities like Mohenjo-Daro and Harappa, advanced drainage systems, and standardized weights and measures. The most intriguing aspect remains its script, which is yet to be fully deciphered, leaving many questions about their governance, religion, and social structure unanswered."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "When was the Indus Valley Civilization discovered?"
+            },
+            "options": {
+              "en": ["In the 19th century", "In the 1920s", "Around 2500 BCE", "In the 1940s"]
+            },
+            "correctAnswer": {
+              "en": "In the 1920s"
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, सिंधु घाटी सभ्यता (IVC) की खोज 'in the 1920s' में हुई।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What popular belief about Indian civilization did the discovery of the IVC challenge?"
+            },
+            "options": {
+              "en": ["That it originated in South India.", "That it was contemporary with the Egyptian civilization.", "That it began with the Vedic period.", "That it lacked urban development."]
+            },
+            "correctAnswer": {
+              "en": "That it began with the Vedic period."
+            },
+            "explanation": {
+              "en": "खोज से पहले यह माना जाता था कि भारतीय सभ्यता की शुरुआत 'Vedic period' (वैदिक काल) से हुई थी।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "Which feature is NOT listed as a characteristic of the IVC's urban culture?"
+            },
+            "options": {
+              "en": ["Well-planned cities", "Advanced drainage systems", "Standardized weights and measures", "Extensive use of iron tools"]
+            },
+            "correctAnswer": {
+              "en": "Extensive use of iron tools"
+            },
+            "explanation": {
+              "en": "पैसेज में सुव्यवस्थित शहरों, उन्नत जल निकासी प्रणालियों और मानकीकृत वज़न (standardized weights) का उल्लेख है, लेकिन लोहे के उपकरणों का नहीं।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What is the most 'intriguing aspect' of the IVC that remains a mystery?"
+            },
+            "options": {
+              "en": ["The location of its main cities.", "Its sophisticated urban planning.", "Its highly sophisticated metalwork.", "Its script, which is yet to be fully deciphered."]
+            },
+            "correctAnswer": {
+              "en": "Its script, which is yet to be fully deciphered."
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि 'most intriguing aspect remains its script, which is yet to be fully deciphered' (इसकी लिपि, जिसे अभी तक पूरी तरह से समझा नहीं गया है)।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "What is the implied effect of the IVC script not being deciphered?"
+            },
+            "options": {
+              "en": ["It has made archaeological digs unnecessary.", "It prevents understanding of their daily diet.", "It leaves many questions about their governance and social structure unanswered.", "It suggests the civilization had no social structure."]
+            },
+            "correctAnswer": {
+              "en": "It leaves many questions about their governance and social structure unanswered."
+            },
+            "explanation": {
+              "en": "लिपि का न समझा जाना उनके 'governance, religion, and social structure' के बारे में कई प्रश्नों को अनुत्तरित छोड़ देता है।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_5_new",
+        "title": {
+          "en": "Comprehension Set 5"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:02:00.000Z",
+        "passage": {
+      "en": "The development of vaccines represents one of the greatest achievements in public health. Vaccines work by stimulating the body’s immune system to recognize and fight off specific pathogens without causing the disease itself. This prepares the immune system for future exposure, providing immunity. Mass vaccination campaigns have successfully eradicated diseases like smallpox and dramatically reduced the incidence of polio and measles globally. The challenge today lies in combating vaccine hesitancy and ensuring equitable distribution worldwide, particularly in underserved communities, to maintain high levels of population immunity and prevent the resurgence of preventable diseases."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What is the function of vaccines in the human body?"
+            },
+            "options": {
+              "en": ["They directly kill pathogens in the bloodstream.", "They stimulate the immune system to recognize and fight off pathogens.", "They replace damaged cells in the body.", "They generate heat to kill viruses."]
+            },
+            "correctAnswer": {
+              "en": "They stimulate the immune system to recognize and fight off pathogens."
+            },
+            "explanation": {
+              "en": "पैसेज में कहा गया है कि टीके शरीर की प्रतिरक्षा प्रणाली को विशेष रोगाणुओं को पहचानने और उनसे लड़ने के लिए 'stimulate' (उत्तेजित) करते हैं।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What is the ultimate result of a vaccine preparing the immune system for future exposure?"
+            },
+            "options": {
+              "en": ["Immediate recovery from a disease.", "A short-term fever.", "Providing immunity.", "Reduced life expectancy."]
+            },
+            "correctAnswer": {
+              "en": "Providing immunity."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, यह प्रतिरक्षा प्रणाली को भविष्य में जोखिम के लिए तैयार करता है, 'providing immunity' (प्रतिरक्षा प्रदान करता है)।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "Which disease is mentioned as having been successfully eradicated globally through vaccination?"
+            },
+            "options": {
+              "en": ["Measles", "Polio", "Smallpox", "Tuberculosis"]
+            },
+            "correctAnswer": {
+              "en": "Smallpox"
+            },
+            "explanation": {
+              "en": "पैसेज में उल्लेख है कि बड़े पैमाने पर टीकाकरण अभियानों ने 'smallpox' (चेचक) जैसी बीमारियों का सफलतापूर्वक उन्मूलन किया है।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What are the two key challenges faced by public health today regarding vaccines?"
+            },
+            "options": {
+              "en": ["Developing new vaccines and lowering their cost.", "Combating vaccine hesitancy and ensuring equitable distribution.", "Testing their effectiveness and getting government approval.", "Storing them at high temperatures and increasing production."]
+            },
+            "correctAnswer": {
+              "en": "Combating vaccine hesitancy and ensuring equitable distribution."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, आज की चुनौती 'combating vaccine hesitancy and ensuring equitable distribution worldwide' (टीकाकरण में हिचकिचाहट का मुकाबला करना और दुनिया भर में समान वितरण सुनिश्चित करना) है।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "The development of vaccines is referred to as one of the greatest achievements in which field?"
+            },
+            "options": {
+              "en": ["Military defense.", "Space exploration.", "Public health.", "Agricultural science."]
+            },
+            "correctAnswer": {
+              "en": "Public health."
+            },
+            "explanation": {
+              "en": "पहला वाक्य बताता है कि टीकों का विकास 'one of the greatest achievements in public health' (सार्वजनिक स्वास्थ्य में सबसे बड़ी उपलब्धियों में से एक) का प्रतिनिधित्व करता है।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_6_new",
+        "title": {
+          "en": "Comprehension Set 6"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:05:00.000Z",
+        "passage": {
+      "en": "Climate change is fundamentally altering weather patterns globally, resulting in more frequent and intense extreme weather events. While a subtle rise in average global temperature might seem insignificant, it fuels powerful changes in the hydrological cycle, leading to heavier rainfall in some regions and prolonged droughts in others. These events strain resources, displace populations, and challenge the stability of critical infrastructure like power grids and transportation networks. Adaptation strategies, such as developing drought-resistant crops and building stronger coastal defenses, are becoming as crucial as mitigation efforts to reduce greenhouse gas emissions."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What is the primary effect of climate change on global weather patterns?"
+            },
+            "options": {
+              "en": ["Decreased air pressure.", "More frequent and intense extreme weather events.", "Stabilized rainfall across all regions.", "Slower melting of glaciers."]
+            },
+            "correctAnswer": {
+              "en": "More frequent and intense extreme weather events."
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि जलवायु परिवर्तन के कारण 'more frequent and intense extreme weather events' (अधिक लगातार और तीव्र चरम मौसम घटनाएँ) होती हैं।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What cycle is significantly impacted by the rise in average global temperature?"
+            },
+            "options": {
+              "en": ["The tectonic cycle.", "The carbon cycle.", "The hydrological cycle.", "The nitrogen cycle."]
+            },
+            "correctAnswer": {
+              "en": "The hydrological cycle."
+            },
+            "explanation": {
+              "en": "पैसेज में उल्लेख है कि तापमान में वृद्धि 'fuels powerful changes in the hydrological cycle' (जल चक्र में शक्तिशाली परिवर्तन लाती है)।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "What two contrasting effects on water resources are mentioned as a result of changes in the hydrological cycle?"
+            },
+            "options": {
+              "en": ["Increased flooding and reduced river flow.", "Heavier rainfall in some regions and prolonged droughts in others.", "Warmer oceans and melting ice caps.", "Higher humidity and lower cloud cover."]
+            },
+            "correctAnswer": {
+              "en": "Heavier rainfall in some regions and prolonged droughts in others."
+            },
+            "explanation": {
+              "en": "जल चक्र में परिवर्तन से 'heavier rainfall in some regions and prolonged droughts in others' (कुछ क्षेत्रों में भारी वर्षा और अन्य में लंबे समय तक सूखा) होता है।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What infrastructure is specifically mentioned as being challenged by these extreme weather events?"
+            },
+            "options": {
+              "en": ["Housing and hospitals.", "Schools and libraries.", "Power grids and transportation networks.", "Agricultural land and forests."]
+            },
+            "correctAnswer": {
+              "en": "Power grids and transportation networks."
+            },
+            "explanation": {
+              "en": "चरम मौसम घटनाएँ 'critical infrastructure like power grids and transportation networks' (बिजली ग्रिड और परिवहन नेटवर्क जैसे महत्वपूर्ण बुनियादी ढांचे) को चुनौती देती हैं।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "Besides reducing greenhouse gas emissions (mitigation), what other strategy is becoming crucial?"
+            },
+            "options": {
+              "en": ["Increased reliance on fossil fuels.", "Disbanding international climate agreements.", "Adaptation strategies like developing drought-resistant crops.", "Minimizing public awareness about the issue."]
+            },
+            "correctAnswer": {
+              "en": "Adaptation strategies like developing drought-resistant crops."
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि 'Adaptation strategies, such as developing drought-resistant crops... are becoming as crucial as mitigation efforts' (अनुकूलन रणनीतियाँ कम करने के प्रयासों जितनी ही महत्वपूर्ण होती जा रही हैं)।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_7_new",
+        "title": {
+          "en": "Comprehension Set 7"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:07:00.000Z",
+        "passage": {
+      "en": "The coffee plant, originally native to Ethiopia, was first widely cultivated and traded by the Arabs. They recognized its stimulating properties and developed sophisticated methods for roasting and brewing. For centuries, the Arab world maintained a virtual monopoly on coffee production, zealously guarding the fertile seeds. It wasn't until the 17th century that European traders managed to smuggle coffee seeds out, leading to its rapid spread to colonies in Asia and the Americas. The introduction of coffee to the New World transformed agricultural practices there, establishing it as one of the world’s most valuable and widely consumed commodities, second only to oil in global trade value."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "Where is the coffee plant originally native to?"
+            },
+            "options": {
+              "en": ["Brazil", "India", "Ethiopia", "Yemen"]
+            },
+            "correctAnswer": {
+              "en": "Ethiopia"
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, कॉफी का पौधा मूल रूप से 'Ethiopia' (इथियोपिया) का मूल निवासी था।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "Which group of people first widely cultivated and traded coffee?"
+            },
+            "options": {
+              "en": ["The Europeans", "The Americans", "The Indians", "The Arabs"]
+            },
+            "correctAnswer": {
+              "en": "The Arabs"
+            },
+            "explanation": {
+              "en": "पैसेज में उल्लेख है कि यह 'first widely cultivated and traded by the Arabs' (सबसे पहले अरबों द्वारा व्यापक रूप से खेती और व्यापार किया गया) था।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "What did the Arab world do to maintain control over coffee production for centuries?"
+            },
+            "options": {
+              "en": ["They destroyed all coffee plants outside of Arabia.", "They zealously guarded the fertile seeds.", "They charged extremely high prices for the beans.", "They restricted its consumption to the wealthy."]
+            },
+            "correctAnswer": {
+              "en": "They zealously guarded the fertile seeds."
+            },
+            "explanation": {
+              "en": "अरब जगत ने सदियों तक उत्पादन पर एकाधिकार बनाए रखने के लिए 'zealously guarding the fertile seeds' (उर्वर बीजों की लगन से रक्षा) की।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "How did coffee eventually spread to the Americas and Asia?"
+            },
+            "options": {
+              "en": ["Through peaceful scientific exchange.", "European traders managed to smuggle seeds out.", "Through a major diplomatic agreement.", "Native populations migrated with the plants."]
+            },
+            "correctAnswer": {
+              "en": "European traders managed to smuggle seeds out."
+            },
+            "explanation": {
+              "en": "17वीं शताब्दी में, 'European traders managed to smuggle coffee seeds out' (यूरोपीय व्यापारियों ने कॉफी के बीज तस्करी करके बाहर निकालने में कामयाबी हासिल की)।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "In terms of global trade value, coffee is second only to what commodity?"
+            },
+            "options": {
+              "en": ["Wheat", "Sugar", "Oil", "Cotton"]
+            },
+            "correctAnswer": {
+              "en": "Oil"
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि कॉफी दुनिया की सबसे मूल्यवान वस्तुओं में से एक बन गई, जो वैश्विक व्यापार मूल्य में 'second only to oil' (केवल तेल के बाद दूसरे स्थान पर) है।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_8_new",
+        "title": {
+          "en": "Comprehension Set 8"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:10:00.000Z",
+        "passage": {
+      "en": "The human reliance on sleep is often underestimated. Far from being a period of simple rest, sleep is an active state crucial for physical and cognitive restoration. During sleep, the brain consolidates memories, processes emotions, and clears metabolic waste products that accumulate during wakefulness. Lack of adequate sleep, even short-term, impairs concentration, judgment, and reaction time. Chronic sleep deprivation is linked to serious health issues, including increased risk of obesity, diabetes, and cardiovascular disease. Therefore, prioritizing consistent, high-quality sleep is not a luxury, but a fundamental requirement for optimal health and mental performance."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "How is sleep described in the passage, contrary to a common misconception?"
+            },
+            "options": {
+              "en": ["A passive state of dormancy.", "A period of simple physical rest.", "An active state crucial for restoration.", "A time when the body shuts down completely."]
+            },
+            "correctAnswer": {
+              "en": "An active state crucial for restoration."
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि नींद 'Far from being a period of simple rest, sleep is an active state crucial for physical and cognitive restoration' (एक सक्रिय अवस्था है जो शारीरिक और संज्ञानात्मक पुनर्स्थापना के लिए महत्वपूर्ण है)।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "What important cognitive function does the brain perform during sleep?"
+            },
+            "options": {
+              "en": ["Generating new brain cells.", "Consolidating memories and processing emotions.", "Controlling muscle movement.", "Actively digesting food."]
+            },
+            "correctAnswer": {
+              "en": "Consolidating memories and processing emotions."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, सोने के दौरान मस्तिष्क 'consolidates memories, processes emotions' (यादों को समेकित करता है, भावनाओं को संसाधित करता है)।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "What effect does a lack of adequate sleep have, even in the short term?"
+            },
+            "options": {
+              "en": ["Increased metabolism and energy levels.", "Impaired concentration, judgment, and reaction time.", "Reduced appetite and body weight.", "Enhanced physical strength and endurance."]
+            },
+            "correctAnswer": {
+              "en": "Impaired concentration, judgment, and reaction time."
+            },
+            "explanation": {
+              "en": "पर्याप्त नींद की कमी 'impairs concentration, judgment, and reaction time' (एकाग्रता, निर्णय और प्रतिक्रिया समय को बाधित करती है)।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "Chronic sleep deprivation is linked to an increased risk of which three serious health issues?"
+            },
+            "options": {
+              "en": ["Vision loss, hearing impairment, and hypertension.", "Obesity, diabetes, and cardiovascular disease.", "Allergies, asthma, and arthritis.", "Cancer, stroke, and mental illness."]
+            },
+            "correctAnswer": {
+              "en": "Obesity, diabetes, and cardiovascular disease."
+            },
+            "explanation": {
+              "en": "दीर्घकालिक नींद की कमी 'obesity, diabetes, and cardiovascular disease' (मोटापा, मधुमेह और हृदय रोग) सहित गंभीर स्वास्थ्य समस्याओं से जुड़ी है।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "The passage suggests that prioritizing consistent, high-quality sleep is what?"
+            },
+            "options": {
+              "en": ["A short-term solution to fatigue.", "A common habit among professionals.", "A luxury item for the wealthy.", "A fundamental requirement for optimal health and mental performance."]
+            },
+            "correctAnswer": {
+              "en": "A fundamental requirement for optimal health and mental performance."
+            },
+            "explanation": {
+              "en": "अंतिम वाक्य में कहा गया है कि यह 'a fundamental requirement for optimal health and mental performance' (इष्टतम स्वास्थ्य और मानसिक प्रदर्शन के लिए एक मौलिक आवश्यकता) है।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_9_new",
+        "title": {
+          "en": "Comprehension Set 9"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:15:00.000Z",
+        "passage": {
+      "en": "The evolution of cities is closely tied to the history of human innovation. Early settlements arose around fertile land and water sources, enabling agricultural surpluses. This surplus freed a portion of the population from farm work, allowing them to specialize in crafts, trade, and governance. The invention of sanitation systems, like those found in the ancient Indus Valley Civilization, was crucial for supporting high-density living by mitigating disease. Later, the Industrial Revolution accelerated urbanization, drawing masses from rural areas to factory hubs. Today, cities face the complex challenge of balancing rapid growth with sustainability, demanding smart technologies and efficient public transit to maintain livability and reduce environmental footprint."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "What allowed a portion of the early population to specialize in non-farm work?"
+            },
+            "options": {
+              "en": ["The discovery of metal.", "The invention of currency.", "Agricultural surpluses.", "The development of writing."]
+            },
+            "correctAnswer": {
+              "en": "Agricultural surpluses."
+            },
+            "explanation": {
+              "en": "पैसेज के अनुसार, 'agricultural surpluses' (कृषि अधिशेष) ने आबादी के एक हिस्से को खेती के काम से मुक्त कर दिया, जिससे वे विशेषज्ञ बन सके।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "According to the passage, what was crucial for supporting high-density living in early cities?"
+            },
+            "options": {
+              "en": ["Strong military defenses.", "Large public markets.", "The invention of sanitation systems.", "Written legal codes."]
+            },
+            "correctAnswer": {
+              "en": "The invention of sanitation systems."
+            },
+            "explanation": {
+              "en": "उच्च-घनत्व वाले जीवन का समर्थन करने के लिए 'The invention of sanitation systems' (स्वच्छता प्रणालियों का आविष्कार) महत्वपूर्ण था।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "Which historical event is mentioned as accelerating urbanization?"
+            },
+            "options": {
+              "en": ["The Renaissance.", "The Industrial Revolution.", "The Roman Empire's peak.", "The Information Age."]
+            },
+            "correctAnswer": {
+              "en": "The Industrial Revolution."
+            },
+            "explanation": {
+              "en": "'The Industrial Revolution accelerated urbanization' (औद्योगिक क्रांति ने शहरीकरण को तेज किया), जिससे ग्रामीण क्षेत्रों से कारखानों के केंद्रों की ओर भीड़ बढ़ी।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What complex challenge do modern cities currently face?"
+            },
+            "options": {
+              "en": ["Returning to a purely agrarian economy.", "Replacing all factory hubs with parks.", "Balancing rapid growth with sustainability.", "Eliminating all forms of trade and commerce."]
+            },
+            "correctAnswer": {
+              "en": "Balancing rapid growth with sustainability."
+            },
+            "explanation": {
+              "en": "आधुनिक शहरों के सामने 'balancing rapid growth with sustainability' (तेजी से विकास को स्थिरता के साथ संतुलित करने) की चुनौती है।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "What two elements are necessary today to maintain livability and reduce the environmental footprint of cities?"
+            },
+            "options": {
+              "en": ["More farm land and taller buildings.", "Higher taxes and stricter laws.", "Smart technologies and efficient public transit.", "Decentralization and individual transport."]
+            },
+            "correctAnswer": {
+              "en": "Smart technologies and efficient public transit."
+            },
+            "explanation": {
+              "en": "जीवंतता बनाए रखने और पर्यावरणीय पदचिह्न (environmental footprint) को कम करने के लिए 'smart technologies and efficient public transit' (स्मार्ट तकनीक और कुशल सार्वजनिक परिवहन) की मांग है।"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ssc_cgl_comprehension_practice_10_new",
+        "title": {
+          "en": "Comprehension Set 10"
+        },
+        "category": "Comprehension",
+        "createdAt": "2025-11-12T22:18:00.000Z",
+        "passage": {
+      "en": "The discovery of gravity by Sir Isaac Newton is a cornerstone of classical physics. The popular story of an apple falling from a tree is often used to illustrate the moment of insight, but the true brilliance lay not in observing the fall, which was common knowledge, but in connecting that fall to the orbital motion of the Moon and the planets. Newton realized that the same force causing the apple to drop also governed the celestial movements. His formulation of the Law of Universal Gravitation provided a unified mathematical framework that explained both terrestrial and astronomical phenomena, thereby fundamentally changing humanity's perception of the cosmos."
+          },
+
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "en": "Whose discovery of gravity is considered a cornerstone of classical physics?"
+            },
+            "options": {
+              "en": ["Galileo Galilei", "Albert Einstein", "Sir Isaac Newton", "Johannes Kepler"]
+            },
+            "correctAnswer": {
+              "en": "Sir Isaac Newton"
+            },
+            "explanation": {
+              "en": "पैसेज में 'Sir Isaac Newton' के गुरुत्वाकर्षण की खोज का उल्लेख है, जिसे शास्त्रीय भौतिकी (classical physics) का आधारशिला माना जाता है।"
+            }
+          },
+          {
+            "id": 2,
+            "question": {
+              "en": "According to the passage, where did Newton's 'true brilliance' lie?"
+            },
+            "options": {
+              "en": ["In inventing the telescope.", "In observing the apple fall.", "In connecting the apple's fall to the motion of the Moon.", "In solving complex algebraic equations."]
+            },
+            "correctAnswer": {
+              "en": "In connecting the apple's fall to the motion of the Moon."
+            },
+            "explanation": {
+              "en": "पैसेज कहता है कि सच्ची प्रतिभा 'in connecting that fall to the orbital motion of the Moon and the planets' (उस गिरावट को चंद्रमा और ग्रहों की कक्षीय गति से जोड़ने) में थी।"
+            }
+          },
+          {
+            "id": 3,
+            "question": {
+              "en": "The Law of Universal Gravitation provided a unified mathematical framework to explain what?"
+            },
+            "options": {
+              "en": ["Only terrestrial (Earth-based) phenomena.", "Only astronomical (celestial) phenomena.", "Both terrestrial and astronomical phenomena.", "The speed of light."]
+            },
+            "correctAnswer": {
+              "en": "Both terrestrial and astronomical phenomena."
+            },
+            "explanation": {
+              "en": "गुरुत्वाकर्षण के नियम ने 'both terrestrial and astronomical phenomena' (स्थलीय और खगोलीय दोनों घटनाओं) की व्याख्या की।"
+            }
+          },
+          {
+            "id": 4,
+            "question": {
+              "en": "What popular story is often used to illustrate Newton's moment of insight?"
+            },
+            "options": {
+              "en": ["A dream about the stars.", "An apple falling from a tree.", "An experiment with a prism.", "A fight with a colleague."]
+            },
+            "correctAnswer": {
+              "en": "An apple falling from a tree."
+            },
+            "explanation": {
+              "en": "पैसेज में 'The popular story of an apple falling from a tree' (एक पेड़ से सेब गिरने की लोकप्रिय कहानी) का उल्लेख है।"
+            }
+          },
+          {
+            "id": 5,
+            "question": {
+              "en": "What did Newton's work fundamentally change regarding humanity?"
+            },
+            "options": {
+              "en": ["Their diet and agricultural methods.", "Their understanding of the human body.", "Their perception of the cosmos.", "Their religious beliefs."]
+            },
+            "correctAnswer": {
+              "en": "Their perception of the cosmos."
+            },
+            "explanation": {
+              "en": "उनके नियम ने 'fundamentally changing humanity's perception of the cosmos' (मानवता की ब्रह्मांड की धारणा को मौलिक रूप से बदल दिया)।"
+            }
+          }
+        ]
+      }
+]
