@@ -1,0 +1,39 @@
+{
+  "mocks": [
+    {
+      "name": "algebra",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/draft_data/math/algebra.json"
+    },
+    {
+      "name": "ratio",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/draft_data/math/ratio.json"
+    },
+    {
+      "name": "percentage",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/draft_data/math/percentage.json"
+    },
+    {
+      "name": "history_mock",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/draft_data/draft_history_tests.json"
+    },
+    {
+      "name": "geography_mock",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/draft_data/draft_geography_tests.json"
+    },
+    {
+      "name": "english_comprehension",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/draft_data/comprehension.json"
+    },
+    {
+      "name": "english_grammar",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/draft_data/draft_english_tests.json"
+    }
+  ]
+}
