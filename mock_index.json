@@ -1,44 +1,156 @@
 {
   "mocks": [
+
+    /* ---------------- GA (GK) ---------------- */
+    {
+      "name": "geography_tests",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/mock/GA/geography_tests.json"
+    },
+    {
+      "name": "history_tests",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/mock/GA/history_tests.json"
+    },
+    {
+      "name": "polity_tests",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/mock/GA/polity_tests.json"
+    },
+    {
+      "name": "science_tests",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/mock/GA/science_tests.json"
+    },
+    {
+      "name": "static_gk_tests",
+      "category": "gk",
+      "link": "https://jsonbaba.pages.dev/mock/GA/static_gk_tests.json"
+    },
+
+    /* ---------------- Computer ---------------- */
+    {
+      "name": "computer_tests",
+      "category": "computer",
+      "link": "https://jsonbaba.pages.dev/mock/computer/computer_tests.json"
+    },
+
+    /* ---------------- English ---------------- */
+    {
+      "name": "Idioms",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/Idioms.json"
+    },
+    {
+      "name": "OWS",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/OWS.json"
+    },
+    {
+      "name": "comprehension",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/comprehension.json"
+    },
+    {
+      "name": "comprehension_tests",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/comprehension_tests.json"
+    },
+    {
+      "name": "grammar",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/grammar.json"
+    },
+    {
+      "name": "spelling",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/spelling.json"
+    },
+    {
+      "name": "vocab",
+      "category": "english",
+      "link": "https://jsonbaba.pages.dev/mock/english/vocab.json"
+    },
+
+    /* ---------------- Math ---------------- */
+    {
+      "name": "Ratio",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/Ratio.json"
+    },
+    {
+      "name": "Simple",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/Simple.json"
+    },
+    {
+      "name": "age_and_partnership",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/age_and_partnership.json"
+    },
     {
       "name": "algebra",
       "category": "math",
-      "link": "https://jsonbaba.pages.dev/draft_data/math/algebra.json"
+      "link": "https://jsonbaba.pages.dev/mock/math/algebra.json"
     },
     {
-      "name": "ratio",
+      "name": "avarage",
       "category": "math",
-      "link": "https://jsonbaba.pages.dev/draft_data/math/Ratio.json"
+      "link": "https://jsonbaba.pages.dev/mock/math/avarage.json"
     },
     {
-      "name": "percentage",
+      "name": "compound",
       "category": "math",
-      "link": "https://jsonbaba.pages.dev/draft_data/math/percentage.json"
+      "link": "https://jsonbaba.pages.dev/mock/math/compound.json"
     },
     {
-      "name": "history_mock",
-      "category": "gk",
-      "link": "https://jsonbaba.pages.dev/draft_data/draft_history_tests.json"
-    },
-    {
-      "name": "geography_mock",
-      "category": "gk",
-      "link": "https://jsonbaba.pages.dev/draft_data/draft_geography_tests.json"
-    },
-    {
-      "name": "english_comprehension",
-      "category": "english",
-      "link": "https://jsonbaba.pages.dev/draft_data/comprehension.json"
-    },
-    {
-      "name": "english_grammar",
-      "category": "english",
-      "link": "https://jsonbaba.pages.dev/draft_data/draft_english_tests.json"
-    },
-      {
-      "name": "Discouunt",
+      "name": "discount",
       "category": "math",
-      "link": "https://jsonbaba.pages.dev/draft_data/math/Discount.json"
+      "link": "https://jsonbaba.pages.dev/mock/math/discount.json"
+    },
+    {
+      "name": "mix_and_alligation",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/mix_and_alligation.json"
+    },
+    {
+      "name": "number_system",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/number_system.json"
+    },
+    {
+      "name": "pipes_and_cisterns",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/pipes_and_cisterns.json"
+    },
+    {
+      "name": "profit_and_loss",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/profit_and_loss.json"
+    },
+    {
+      "name": "proportion",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/proportion.json"
+    },
+    {
+      "name": "time_and_distance",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/time_and_distance.json"
+    },
+    {
+      "name": "time_and_work",
+      "category": "math",
+      "link": "https://jsonbaba.pages.dev/mock/math/time_and_work.json"
+    },
+
+    /* ---------------- Reasoning ---------------- */
+    {
+      "name": "reasoning_tests",
+      "category": "reasoning",
+      "link": "https://jsonbaba.pages.dev/mock/reasoning/reasoning_tests.json"
     }
+
   ]
 }
+
