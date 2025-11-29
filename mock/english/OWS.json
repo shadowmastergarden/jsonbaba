@@ -1,0 +1,4602 @@
+[
+  {
+    "id": "ssc_cgl_ows_practice_19",
+    "title": {
+      "en": "OWS Practice Set 1"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T08:45:00.000Z",
+    "questions": [
+      {
+        "id": 621,
+        "question": {
+          "en": "A person who is always doubtful about the sincerity of other people's motives."
+        },
+        "options": {
+          "en": ["Cynic", "Sceptic", "Misanthrope", "Atheist"]
+        },
+        "correctAnswer": {
+          "en": "Cynic"
+        },
+        "explanation": {
+          "en": "A **Cynic** (निंदक/सन्देही) is someone who believes that people are motivated purely by self-interest."
+        }
+      },
+      {
+        "id": 622,
+        "question": {
+          "en": "A place where government or public records are kept."
+        },
+        "options": {
+          "en": ["Archive", "Museum", "Cellar", "Coffer"]
+        },
+        "correctAnswer": {
+          "en": "Archive"
+        },
+        "explanation": {
+          "en": "An **Archive** (अभिलेखागार) is a collection of historical records or the place where they are kept."
+        }
+      },
+      {
+        "id": 623,
+        "question": {
+          "en": "One who walks in sleep."
+        },
+        "options": {
+          "en": ["Somniloquist", "Somnambulist", "Omniscient", "Philanthropist"]
+        },
+        "correctAnswer": {
+          "en": "Somnambulist"
+        },
+        "explanation": {
+          "en": "A **Somnambulist** (नींद में चलने वाला) comes from the root 'Somnus' (sleep) and 'Ambulare' (to walk)."
+        }
+      },
+      {
+        "id": 624,
+        "question": {
+          "en": "The study of birds."
+        },
+        "options": {
+          "en": ["Zoology", "Ornithology", "Anthropology", "Etymology"]
+        },
+        "correctAnswer": {
+          "en": "Ornithology"
+        },
+        "explanation": {
+          "en": "**Ornithology** (पक्षी विज्ञान) is the branch of science dedicated to the study of birds."
+        }
+      },
+      {
+        "id": 625,
+        "question": {
+          "en": "A general pardon of political offenders."
+        },
+        "options": {
+          "en": ["Amnesty", "Pardon", "Absolution", "Reprieve"]
+        },
+        "correctAnswer": {
+          "en": "Amnesty"
+        },
+        "explanation": {
+          "en": "**Amnesty** (राजक्षमा) is an official pardon for people who have been convicted of political offenses."
+        }
+      },
+      {
+        "id": 626,
+        "question": {
+          "en": "A government run by a king or queen."
+        },
+        "options": {
+          "en": ["Democracy", "Monarchy", "Oligarchy", "Theocracy"]
+        },
+        "correctAnswer": {
+          "en": "Monarchy"
+        },
+        "explanation": {
+          "en": "**Monarchy** (राजतंत्र) is a system of government where a monarch (king or queen) is the head."
+        }
+      },
+      {
+        "id": 627,
+        "question": {
+          "en": "One who is skilled in curing eye diseases."
+        },
+        "options": {
+          "en": ["Optician", "Ophthalmologist", "Paediatrician", "Dermatologist"]
+        },
+        "correctAnswer": {
+          "en": "Ophthalmologist"
+        },
+        "explanation": {
+          "en": "An **Ophthalmologist** (नेत्र विशेषज्ञ) is a medical doctor who specializes in eye and vision care."
+        }
+      },
+      {
+        "id": 628,
+        "question": {
+          "en": "A statement or proposition that is regarded as being established, accepted, or self-evidently true."
+        },
+        "options": {
+          "en": ["Axiom", "Hypothesis", "Thesis", "Paradox"]
+        },
+        "correctAnswer": {
+          "en": "Axiom"
+        },
+        "explanation": {
+          "en": "An **Axiom** (स्वयंसिद्ध सत्य) is a self-evident truth that requires no formal proof."
+        }
+      },
+      {
+        "id": 629,
+        "question": {
+          "en": "A person who is bad in spelling."
+        },
+        "options": {
+          "en": ["Calligrapher", "Linguist", "Cacographer", "Polyglot"]
+        },
+        "correctAnswer": {
+          "en": "Cacographer"
+        },
+        "explanation": {
+          "en": "A **Cacographer** (बुरी वर्तनी वाला) comes from the root 'Caco' (bad) and 'Graphy' (writing)."
+        }
+      },
+      {
+        "id": 630,
+        "question": {
+          "en": "The killing of one's sister."
+        },
+        "options": {
+          "en": ["Patricide", "Fratricide", "Matricide", "Sororicide"]
+        },
+        "correctAnswer": {
+          "en": "Sororicide"
+        },
+        "explanation": {
+          "en": "**Sororicide** (बहन की हत्या) comes from the root 'Soror' (sister) and 'Cide' (killing). Note: 'Fratricide' is the killing of one's brother."
+        }
+      },
+      {
+        "id": 631,
+        "question": {
+          "en": "An area of land controlled by a ruler or state."
+        },
+        "options": {
+          "en": ["Region", "Domain", "Locality", "Province"]
+        },
+        "correctAnswer": {
+          "en": "Domain"
+        },
+        "explanation": {
+          "en": "**Domain** (क्षेत्राधिकार/प्रभुत्व क्षेत्र) refers to an area ruled or controlled by a specific person or government."
+        }
+      },
+      {
+        "id": 632,
+        "question": {
+          "en": "A sound that cannot be heard."
+        },
+        "options": {
+          "en": ["Inaudible", "Invisible", "Illegible", "Incomprehensible"]
+        },
+        "correctAnswer": {
+          "en": "Inaudible"
+        },
+        "explanation": {
+          "en": "**Inaudible** (अश्रव्य) means incapable of being heard. 'Audible' means capable of being heard."
+        }
+      },
+      {
+        "id": 633,
+        "question": {
+          "en": "An imitation of a person or thing, usually to entertain."
+        },
+        "options": {
+          "en": ["Replication", "Mimicry", "Caricature", "Duplication"]
+        },
+        "correctAnswer": {
+          "en": "Mimicry"
+        },
+        "explanation": {
+          "en": "**Mimicry** (नकल/अनुकरण) is the action or art of imitating someone or something, often for comedic effect."
+        }
+      },
+      {
+        "id": 634,
+        "question": {
+          "en": "A person who lives alone and deliberately keeps away from society."
+        },
+        "options": {
+          "en": ["Introvert", "Ascetic", "Recluse", "Hermit"]
+        },
+        "correctAnswer": {
+          "en": "Recluse"
+        },
+        "explanation": {
+          "en": "A **Recluse** (एकांतवासी) is a person who lives a solitary life and tends to avoid other people."
+        }
+      },
+      {
+        "id": 635,
+        "question": {
+          "en": "The action of looking back on past events."
+        },
+        "options": {
+          "en": ["Retrospection", "Introspection", "Perspective", "Circumspection"]
+        },
+        "correctAnswer": {
+          "en": "Retrospection"
+        },
+        "explanation": {
+          "en": "**Retrospection** (पूर्वावलोकन) comes from the root 'Retro' (backward) and 'Spect' (to look)."
+        }
+      },
+      {
+        "id": 636,
+        "question": {
+          "en": "A handwriting that cannot be read."
+        },
+        "options": {
+          "en": ["Incorrigible", "Illegible", "Incomprehensible", "Unreadable"]
+        },
+        "correctAnswer": {
+          "en": "Illegible"
+        },
+        "explanation": {
+          "en": "**Illegible** (अपठनीय) means not clear enough to be read."
+        }
+      },
+      {
+        "id": 637,
+        "question": {
+          "en": "A person who is difficult to please."
+        },
+        "options": {
+          "en": ["Fastidious", "Capricious", "Gregarious", "Obdurate"]
+        },
+        "correctAnswer": {
+          "en": "Fastidious"
+        },
+        "explanation": {
+          "en": "**Fastidious** (तुनकमिजाज/दुष्प्रसाध्य) means very attentive to and concerned about accuracy and detail; hard to please."
+        }
+      },
+      {
+        "id": 638,
+        "question": {
+          "en": "A decorative array of flowers, leaves, or stems, usually for hanging."
+        },
+        "options": {
+          "en": ["Bouquet", "Garland", "Wreath", "Posy"]
+        },
+        "correctAnswer": {
+          "en": "Wreath"
+        },
+        "explanation": {
+          "en": "A **Wreath** (माला/चक्र) is an arrangement of flowers, leaves, or stems fastened in a ring shape, used for decoration."
+        }
+      },
+      {
+        "id": 639,
+        "question": {
+          "en": "Something that is no longer in use."
+        },
+        "options": {
+          "en": ["Obscure", "Obsolete", "Primitive", "Ancient"]
+        },
+        "correctAnswer": {
+          "en": "Obsolete"
+        },
+        "explanation": {
+          "en": "**Obsolete** (अप्रचलित) means no longer produced or used; out of date."
+        }
+      },
+      {
+        "id": 640,
+        "question": {
+          "en": "One who pretends to be what he is not."
+        },
+        "options": {
+          "en": ["Hypocrite", "Imposter", "Actor", "Fraud"]
+        },
+        "correctAnswer": {
+          "en": "Imposter"
+        },
+        "explanation": {
+          "en": "An **Imposter** (बहरूपिया/धोखेबाज) is a person who pretends to be someone else in order to deceive others."
+        }
+      },
+      {
+        "id": 641,
+        "question": {
+          "en": "A severe shortage of food (especially in a large area)."
+        },
+        "options": {
+          "en": ["Poverty", "Famine", "Drought", "Dearth"]
+        },
+        "correctAnswer": {
+          "en": "Famine"
+        },
+        "explanation": {
+          "en": "**Famine** (अकाल/भुखमरी) is an extreme scarcity of food."
+        }
+      },
+      {
+        "id": 642,
+        "question": {
+          "en": "A person who is known by only one name."
+        },
+        "options": {
+          "en": ["Monogram", "Monarchy", "Monotheist", "Mononym"]
+        },
+        "correctAnswer": {
+          "en": "Mononym"
+        },
+        "explanation": {
+          "en": "**Mononym** (एकल नाम) is a name that consists of only one word."
+        }
+      },
+      {
+        "id": 643,
+        "question": {
+          "en": "Impossible to defeat or change."
+        },
+        "options": {
+          "en": ["Invincible", "Unbeatable", "Immutable", "Indelible"]
+        },
+        "correctAnswer": {
+          "en": "Invincible"
+        },
+        "explanation": {
+          "en": "**Invincible** (अजेय) means too powerful to be defeated or overcome."
+        }
+      },
+      {
+        "id": 644,
+        "question": {
+          "en": "A humorous drawing dealing with a current event or person."
+        },
+        "options": {
+          "en": ["Sketch", "Caricature", "Portrait", "Cartoon"]
+        },
+        "correctAnswer": {
+          "en": "Cartoon"
+        },
+        "explanation": {
+          "en": "A **Cartoon** (व्यंग्य चित्र) is a simple drawing showing the features of its subjects in a humorously exaggerated way, especially a satirical one in a newspaper or magazine."
+        }
+      },
+      {
+        "id": 645,
+        "question": {
+          "en": "A person who speaks or writes two languages fluently."
+        },
+        "options": {
+          "en": ["Polyglot", "Monolingual", "Bilingual", "Interpreter"]
+        },
+        "correctAnswer": {
+          "en": "Bilingual"
+        },
+        "explanation": {
+          "en": "**Bilingual** (द्विभाषी) refers to a person who speaks two languages fluently. 'Polyglot' is for more than two."
+        }
+      },
+      {
+        "id": 646,
+        "question": {
+          "en": "A person who believes that war and violence are unjustifiable."
+        },
+        "options": {
+          "en": ["Anarchist", "Pacifist", "Optimist", "Fatalist"]
+        },
+        "correctAnswer": {
+          "en": "Pacifist"
+        },
+        "explanation": {
+          "en": "A **Pacifist** (शांतिवादी) is a person who believes that all forms of war and violence are unacceptable."
+        }
+      },
+      {
+        "id": 647,
+        "question": {
+          "en": "A word or phrase used as a formal title for someone or something."
+        },
+        "options": {
+          "en": ["Epithet", "Antithesis", "Paradigm", "Idiom"]
+        },
+        "correctAnswer": {
+          "en": "Epithet"
+        },
+        "explanation": {
+          "en": "An **Epithet** (उपाधि/विशेषण) is an adjective or descriptive phrase expressing a quality characteristic of the person or thing mentioned."
+        }
+      },
+      {
+        "id": 648,
+        "question": {
+          "en": "Something that is done without preparation."
+        },
+        "options": {
+          "en": ["Spontaneous", "Impromptu", "Extempore", "Improvise"]
+        },
+        "correctAnswer": {
+          "en": "Impromptu"
+        },
+        "explanation": {
+          "en": "**Impromptu** (तत्काल) means done without being planned, organized, or rehearsed. 'Extempore' and 'Spontaneous' are also close, but 'Impromptu' is the most common OWS for this."
+        }
+      },
+      {
+        "id": 649,
+        "question": {
+          "en": "A person who sacrifices his life for a cause."
+        },
+        "options": {
+          "en": ["Revolutionary", "Martyr", "Patriot", "Traitor"]
+        },
+        "correctAnswer": {
+          "en": "Martyr"
+        },
+        "explanation": {
+          "en": "A **Martyr** (शहीद) is a person who is killed because of their religious or other beliefs/cause."
+        }
+      },
+      {
+        "id": 650,
+        "question": {
+          "en": "An apartment building in which each apartment is owned by the person who lives there."
+        },
+        "options": {
+          "en": ["Dormitory", "Apartment", "Condominium", "Flat"]
+        },
+        "correctAnswer": {
+          "en": "Condominium"
+        },
+        "explanation": {
+          "en": "A **Condominium** (कोंडोमिनियम/सहस्वामित्व) is a building or complex of buildings containing a number of individually owned apartments."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_20",
+    "title": {
+      "en": "OWS Practice Set 2"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T08:50:00.000Z",
+    "questions": [
+      {
+        "id": 651,
+        "question": {
+          "en": "A person who is neither experienced nor professional."
+        },
+        "options": {
+          "en": ["Amateur", "Novice", "Tiro", "Veteran"]
+        },
+        "correctAnswer": {
+          "en": "Amateur"
+        },
+        "explanation": {
+          "en": "An **Amateur** (शौकिया/अव्यवसायी) is a person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis."
+        }
+      },
+      {
+        "id": 652,
+        "question": {
+          "en": "The inherent ability of a person to do something well."
+        },
+        "options": {
+          "en": ["Talent", "Faculty", "Aptitude", "Capacity"]
+        },
+        "correctAnswer": {
+          "en": "Aptitude"
+        },
+        "explanation": {
+          "en": "**Aptitude** (योग्यता/सहज क्षमता) is a natural ability to do something, especially one that can be learned or developed."
+        }
+      },
+      {
+        "id": 653,
+        "question": {
+          "en": "A system of government where only a small group of people hold power."
+        },
+        "options": {
+          "en": ["Monarchy", "Oligarchy", "Autocracy", "Theocracy"]
+        },
+        "correctAnswer": {
+          "en": "Oligarchy"
+        },
+        "explanation": {
+          "en": "**Oligarchy** (कुलीनतंत्र) is a small group of people having control of a country or organization."
+        }
+      },
+      {
+        "id": 654,
+        "question": {
+          "en": "The fear of being in closed or confined spaces."
+        },
+        "options": {
+          "en": ["Xenophobia", "Claustrophobia", "Agoraphobia", "Hydrophobia"]
+        },
+        "correctAnswer": {
+          "en": "Claustrophobia"
+        },
+        "explanation": {
+          "en": "**Claustrophobia** (संवृत स्थान से भय) is an extreme or irrational fear of confined places."
+        }
+      },
+      {
+        "id": 655,
+        "question": {
+          "en": "One who is opposed to the arts and sciences."
+        },
+        "options": {
+          "en": ["Philistine", "Aesthetic", "Dilettante", "Pedant"]
+        },
+        "correctAnswer": {
+          "en": "Philistine"
+        },
+        "explanation": {
+          "en": "A **Philistine** (कला-संस्कृति विरोधी) is a person who is hostile or indifferent to art and culture."
+        }
+      },
+      {
+        "id": 656,
+        "question": {
+          "en": "A place for storing grain."
+        },
+        "options": {
+          "en": ["Barn", "Granary", "Cellar", "Warehouse"]
+        },
+        "correctAnswer": {
+          "en": "Granary"
+        },
+        "explanation": {
+          "en": "A **Granary** (अन्न भंडार/कोठार) is a storehouse for threshed grain."
+        }
+      },
+      {
+        "id": 657,
+        "question": {
+          "en": "A person who is physically dependent on a substance."
+        },
+        "options": {
+          "en": ["Addict", "Sinner", "Hostage", "Infidel"]
+        },
+        "correctAnswer": {
+          "en": "Addict"
+        },
+        "explanation": {
+          "en": "An **Addict** (व्यसनी) is a person who is physically and mentally dependent on a particular substance (e.g., drug, alcohol)."
+        }
+      },
+      {
+        "id": 658,
+        "question": {        
+          "en": "The period between two reigns."
+        },
+        "options": {
+          "en": ["Intermission", "Interlude", "Interregnum", "Intervene"]
+        },
+        "correctAnswer": {
+          "en": "Interregnum"
+        },
+        "explanation": {
+          "en": "**Interregnum** (राज्यान्तराल) is a period when the normal succession of government is temporarily suspended, especially between two successive reigns or regimes."
+        }
+      },
+      {
+        "id": 659,
+        "question": {
+          "en": "One who eats human flesh."
+        },
+        "options": {
+          "en": ["Carnivore", "Cannibal", "Herbivore", "Predator"]
+        },
+        "correctAnswer": {
+          "en": "Cannibal"
+        },
+        "explanation": {
+          "en": "A **Cannibal** (नरभक्षी) is a person who eats the flesh of other human beings."
+        }
+      },
+      {
+        "id": 660,
+        "question": {
+          "en": "Something that is contrary to law."
+        },
+        "options": {
+          "en": ["Illegal", "Illegible", "Illicit", "Immoral"]
+        },
+        "correctAnswer": {
+          "en": "Illegal"
+        },
+        "explanation": {
+          "en": "**Illegal** (अवैध) means contrary to or forbidden by law, especially criminal law."
+        }
+      },
+      {
+        "id": 661,
+        "question": {
+          "en": "A person who is indifferent to pleasure or pain."
+        },
+        "options": {
+          "en": ["Stoic", "Cynic", "Sceptic", "Ascetic"]
+        },
+        "correctAnswer": {
+          "en": "Stoic"
+        },
+        "explanation": {
+          "en": "A **Stoic** (सुख-दुःख में सम) is a person who can endure pain or hardship without showing feelings or complaining."
+        }
+      },
+      {
+        "id": 662,
+        "question": {
+          "en": "The study of ancient societies."
+        },
+        "options": {
+          "en": ["Archaeology", "Anthropology", "History", "Geology"]
+        },
+        "correctAnswer": {
+          "en": "Archaeology"
+        },
+        "explanation": {
+          "en": "**Archaeology** (पुरातत्व) is the study of human history and prehistory through the excavation of sites and the analysis of artifacts."
+        }
+      },
+      {
+        "id": 663,
+        "question": {
+          "en": "The practice of having more than one wife at the same time."
+        },
+        "options": {
+          "en": ["Monogamy", "Polygamy", "Polyandry", "Bigamy"]
+        },
+        "correctAnswer": {
+          "en": "Polygamy"
+        },
+        "explanation": {
+          "en": "**Polygamy** (बहुविवाह) is the practice of having more than one spouse at one time. Specifically, 'Polygyny' is a man having multiple wives."
+        }
+      },
+      {
+        "id": 664,
+        "question": {
+          "en": "A word or name derived from the name of a person."
+        },
+        "options": {
+          "en": ["Pseudonym", "Eponym", "Homonym", "Acronym"]
+        },
+        "correctAnswer": {
+          "en": "Eponym"
+        },
+        "explanation": {
+          "en": "An **Eponym** (नाम का स्रोत) is a person after whom a discovery, invention, place, or era is named (e.g., 'America' is an eponym of 'Amerigo Vespucci')."
+        }
+      },
+      {
+        "id": 665,
+        "question": {
+          "en": "An animal that lives in water."
+        },
+        "options": {
+          "en": ["Terrestrial", "Aquatic", "Arboreal", "Amphibious"]
+        },
+        "correctAnswer": {
+          "en": "Aquatic"
+        },
+        "explanation": {
+          "en": "**Aquatic** (जलीय) means relating to water; living in or near water or carried on in water."
+        }
+      },
+      {
+        "id": 666,
+        "question": {
+          "en": "A person who is unable to pay his debts."
+        },
+        "options": {
+          "en": ["Bankrupt", "Solvent", "Debtor", "Borrower"]
+        },
+        "correctAnswer": {
+          "en": "Bankrupt"
+        },
+        "explanation": {
+          "en": "**Bankrupt** (दिवालिया) is a person judged to be unable to pay outstanding debts."
+        }
+      },
+      {
+        "id": 667,
+        "question": {
+          "en": "A remedy for all diseases."
+        },
+        "options": {
+          "en": ["Antidote", "Elixir", "Cure", "Panacea"]
+        },
+        "correctAnswer": {
+          "en": "Panacea"
+        },
+        "explanation": {
+          "en": "A **Panacea** (रामबाण औषधि) is a solution or remedy for all difficulties or diseases."
+        }
+      },
+      {
+        "id": 668,
+        "question": {
+          "en": "A short pleasant stroll or walk."
+        },
+        "options": {
+          "en": ["Trek", "Journey", "Stroll", "Saunter"]
+        },
+        "correctAnswer": {
+          "en": "Stroll"
+        },
+        "explanation": {
+          "en": "A **Stroll** (टहलना/सैर) is a short, leisurely walk."
+        }
+      },
+      {
+        "id": 669,
+        "question": {
+          "en": "A person who believes in the existence of God."
+        },
+        "options": {
+          "en": ["Agnostic", "Atheist", "Theist", "Fatalist"]
+        },
+        "correctAnswer": {
+          "en": "Theist"
+        },
+        "explanation": {
+          "en": "A **Theist** (आस्तिक) is a person who believes in the existence of a god or gods, specifically a creator of the universe."
+        }
+      },
+      {
+        "id": 670,
+        "question": {
+          "en": "A speech delivered without any preparation."
+        },
+        "options": {
+          "en": ["Debate", "Oratory", "Extempore", "Rhetoric"]
+        },
+        "correctAnswer": {
+          "en": "Extempore"
+        },
+        "explanation": {
+          "en": "**Extempore** (बिना तैयारी का भाषण) is spoken or done without preparation."
+        }
+      },
+      {
+        "id": 671,
+        "question": {
+          "en": "Something that cannot be avoided."
+        },
+        "options": {
+          "en": ["Inevitable", "Incredible", "Infallible", "Inexplicable"]
+        },
+        "correctAnswer": {
+          "en": "Inevitable"
+        },
+        "explanation": {
+          "en": "**Inevitable** (अपरिहार्य) means certain to happen; unavoidable."
+        }
+      },
+      {
+        "id": 672,
+        "question": {
+          "en": "A literary theft or stealing the ideas of another."
+        },
+        "options": {
+          "en": ["Plagiarism", "Copyright", "Forgery", "Imitation"]
+        },
+        "correctAnswer": {
+          "en": "Plagiarism"
+        },
+        "explanation": {
+          "en": "**Plagiarism** (साहित्यिक चोरी) is the practice of taking someone else's work or ideas and passing them off as one's own."
+        }
+      },
+      {
+        "id": 673,
+        "question": {
+          "en": "The period of ten years."
+        },
+        "options": {
+          "en": ["Century", "Decade", "Millennium", "Fortnight"]
+        },
+        "correctAnswer": {
+          "en": "Decade"
+        },
+        "explanation": {
+          "en": "A **Decade** (दशक) is a period of ten years."
+        }
+      },
+      {
+        "id": 674,
+        "question": {
+          "en": "A drawing on transparent paper."
+        },
+        "options": {
+          "en": ["Blueprint", "Transparency", "Sketch", "Diagram"]
+        },
+        "correctAnswer": {
+          "en": "Transparency"
+        },
+        "explanation": {
+          "en": "A **Transparency** (पारदर्शी शीट) is an image or diagram printed on clear plastic film for use with an overhead projector, or generally, a clear sheet with an image."
+        }
+      },
+      {
+        "id": 675,
+        "question": {
+          "en": "A person who is reserved and shy."
+        },
+        "options": {
+          "en": ["Extrovert", "Ambivert", "Introvert", "Egoist"]
+        },
+        "correctAnswer": {
+          "en": "Introvert"
+        },
+        "explanation": {
+          "en": "An **Introvert** (अंतर्मुखी) is a person characterized by preoccupation with their own thoughts and feelings; reserved."
+        }
+      },
+      {
+        "id": 676,
+        "question": {
+          "en": "A place where dead bodies are kept for identification."
+        },
+        "options": {
+          "en": ["Cemetery", "Mortuary", "Morgue", "Crematorium"]
+        },
+        "correctAnswer": {
+          "en": "Morgue"
+        },
+        "explanation": {
+          "en": "A **Morgue** (शवगृह) is a place where bodies are kept, especially to await identification or burial. 'Mortuary' is also possible, but Morgue specifically emphasizes identification."
+        }
+      },
+      {
+        "id": 677,
+        "question": {
+          "en": "A person who cannot be corrected or reformed."
+        },
+        "options": {
+          "en": ["Infallible", "Incorrigible", "Indelible", "Inexcusable"]
+        },
+        "correctAnswer": {
+          "en": "Incorrigible"
+        },
+        "explanation": {
+          "en": "**Incorrigible** (असुधार्य) means not able to be corrected, improved, or reformed (used for a person or their tendency)."
+        }
+      },
+      {
+        "id": 678,
+        "question": {
+          "en": "One who pretends knowledge or skill, usually without any basis."
+        },
+        "options": {
+          "en": ["Juggler", "Quack", "Connoisseur", "Expert"]
+        },
+        "correctAnswer": {
+          "en": "Quack"
+        },
+        "explanation": {
+          "en": "A **Quack** (नीम-हकीम) is a person who dishonestly claims to have special knowledge or skills, especially in medicine."
+        }
+      },
+      {
+        "id": 679,
+        "question": {
+          "en": "A person who is famous for something bad."
+        },
+        "options": {
+          "en": ["Notorious", "Eminent", "Illustrious", "Renowned"]
+        },
+        "correctAnswer": {
+          "en": "Notorious"
+        },
+        "explanation": {
+          "en": "**Notorious** (कुख्यात) means famous or well known for some bad quality or deed."
+        }
+      },
+      {
+        "id": 680,
+        "question": {
+          "en": "A harsh, disagreeable mixture of sounds."
+        },
+        "options": {
+          "en": ["Symphony", "Harmony", "Cacophony", "Melody"]
+        },
+        "correctAnswer": {
+          "en": "Cacophony"
+        },
+        "explanation": {
+          "en": "**Cacophony** (कर्कश ध्वनि) is a harsh, discordant mixture of sounds. It comes from the root 'Caco' (bad) and 'Phon' (sound)."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_21",
+    "title": {
+      "en": "OWS Practice Set 3"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T08:55:00.000Z",
+    "questions": [
+      {
+        "id": 681,
+        "question": {
+          "en": "A place where coins, medals, or tokens are manufactured."
+        },
+        "options": {
+          "en": ["Mint", "Factory", "Foundry", "Treasury"]
+        },
+        "correctAnswer": {
+          "en": "Mint"
+        },
+        "explanation": {
+          "en": "A **Mint** (टकसाल) is a place where currency is manufactured under government authority."
+        }
+      },
+      {
+        "id": 682,
+        "question": {
+          "en": "A person who is primarily concerned with making money at any cost."
+        },
+        "options": {
+          "en": ["Miser", "Mercenary", "Materialist", "Altruist"]
+        },
+        "correctAnswer": {
+          "en": "Mercenary"
+        },
+        "explanation": {
+          "en": "A **Mercenary** (किराये का/केवल धन के लिए काम करने वाला) is primarily motivated by personal gain (money)."
+        }
+      },
+      {
+        "id": 683,
+        "question": {
+          "en": "A doctor who specializes in skin diseases."
+        },
+        "options": {
+          "en": ["Paediatrician", "Dermatologist", "Gynaecologist", "Cardiologist"]
+        },
+        "correctAnswer": {
+          "en": "Dermatologist"
+        },
+        "explanation": {
+          "en": "A **Dermatologist** (त्वचा विशेषज्ञ) is a medical practitioner qualified to diagnose and treat skin disorders."
+        }
+      },
+      {
+        "id": 684,
+        "question": {
+          "en": "One who hates women."
+        },
+        "options": {
+          "en": ["Misogamist", "Misanthrope", "Misogynist", "Philogynist"]
+        },
+        "correctAnswer": {
+          "en": "Misogynist"
+        },
+        "explanation": {
+          "en": "**Misogynist** (स्त्रीद्वेषी) comes from the root 'Miso' (to hate) and 'Gyne' (woman)."
+        }
+      },
+      {
+        "id": 685,
+        "question": {
+          "en": "Something that is likely to break easily."
+        },
+        "options": {
+          "en": ["Durable", "Fragile", "Flexible", "Volatile"]
+        },
+        "correctAnswer": {
+          "en": "Fragile"
+        },
+        "explanation": {
+          "en": "**Fragile** (नाज़ुक/भंगुर) means easily broken or damaged."
+        }
+      },
+      {
+        "id": 686,
+        "question": {
+          "en": "The inability to sleep."
+        },
+        "options": {
+          "en": ["Coma", "Insomnia", "Lethargy", "Stupor"]
+        },
+        "correctAnswer": {
+          "en": "Insomnia"
+        },
+        "explanation": {
+          "en": "**Insomnia** (अनिद्रा) is habitual sleeplessness; inability to sleep."
+        }
+      },
+      {
+        "id": 687,
+        "question": {
+          "en": "A person who is interested in collecting, studying, and selling old things."
+        },
+        "options": {
+          "en": ["Antiquarian", "Archivist", "Linguist", "Historian"]
+        },
+        "correctAnswer": {
+          "en": "Antiquarian"
+        },
+        "explanation": {
+          "en": "An **Antiquarian** (पुरातन वस्तुओं का संग्राहक) is a collector or student of antiquities or old things."
+        }
+      },
+      {
+        "id": 688,
+        "question": {
+          "en": "The first public performance of a play or film."
+        },
+        "options": {
+          "en": ["Debut", "Premiere", "Inauguration", "Curtain call"]
+        },
+        "correctAnswer": {
+          "en": "Premiere"
+        },
+        "explanation": {
+          "en": "**Premiere** (पहला प्रदर्शन) is the first performance of a movie, play, opera, etc."
+        }
+      },
+      {
+        "id": 689,
+        "question": {
+          "en": "A short, written message or poem about a dead person."
+        },
+        "options": {
+          "en": ["Epilogue", "Eulogy", "Epitaph", "Epitome"]
+        },
+        "correctAnswer": {
+          "en": "Epitaph"
+        },
+        "explanation": {
+          "en": "An **Epitaph** (समाधि-लेख) is a phrase or form of words written in memory of a person who has died, especially as an inscription on a tombstone."
+        }
+      },
+      {
+        "id": 690,
+        "question": {
+          "en": "The deep-sea drilling program."
+        },
+        "options": {
+          "en": ["Bathymetry", "Oceanography", "Geophysics", "Drilling"]
+        },
+        "correctAnswer": {
+          "en": "Oceanography"
+        },
+        "explanation": {
+          "en": "**Oceanography** (समुद्र विज्ञान) is the branch of science dealing with the physical and biological aspects of the ocean (often relates to deep-sea studies)."
+        }
+      },
+      {
+        "id": 691,
+        "question": {
+          "en": "The study of map making."
+        },
+        "options": {
+          "en": ["Geography", "Geology", "Cartography", "Topography"]
+        },
+        "correctAnswer": {
+          "en": "Cartography"
+        },
+        "explanation": {
+          "en": "**Cartography** (मानचित्रकला) is the science or practice of drawing maps."
+        }
+      },
+      {
+        "id": 692,
+        "question": {
+          "en": "A government by the rich."
+        },
+        "options": {
+          "en": ["Plutocracy", "Bureaucracy", "Aristocracy", "Autocracy"]
+        },
+        "correctAnswer": {
+          "en": "Plutocracy"
+        },
+        "explanation": {
+          "en": "**Plutocracy** (धनिकतंत्र) is a government by the wealthy (from the Greek 'Ploutos' meaning wealth)."
+        }
+      },
+      {
+        "id": 693,
+        "question": {
+          "en": "Something that is perfectly clean and pure."
+        },
+        "options": {
+          "en": ["Immaculate", "Transparent", "Spotless", "Pristine"]
+        },
+        "correctAnswer": {
+          "en": "Immaculate"
+        },
+        "explanation": {
+          "en": "**Immaculate** (निर्मल/बेदाग) means perfectly clean, neat, or tidy; free from flaw or error."
+        }
+      },
+      {
+        "id": 694,
+        "question": {
+          "en": "A person who is skilled in horsemanship."
+        },
+        "options": {
+          "en": ["Rider", "Equestrian", "Jockey", "Cavalier"]
+        },
+        "correctAnswer": {
+          "en": "Equestrian"
+        },
+        "explanation": {
+          "en": "An **Equestrian** (अश्वारोही/घुड़सवार) is a rider or performer on horseback."
+        }
+      },
+      {
+        "id": 695,
+        "question": {
+          "en": "The art of beautiful handwriting."
+        },
+        "options": {
+          "en": ["Calligraphy", "Epigraphy", "Stenography", "Choreography"]
+        },
+        "correctAnswer": {
+          "en": "Calligraphy"
+        },
+        "explanation": {
+          "en": "**Calligraphy** (सुलेख) means decorative handwriting or handwritten lettering. ('Cali' means beautiful, 'Graphy' means writing)."
+        }
+      },
+      {
+        "id": 696,
+        "question": {
+          "en": "A person who agrees to work for somebody for a fixed period in exchange for learning a skill."
+        },
+        "options": {
+          "en": ["Trainee", "Apprentice", "Novice", "Worker"]
+        },
+        "correctAnswer": {
+          "en": "Apprentice"
+        },
+        "explanation": {
+          "en": "An **Apprentice** (शिक्षु/शागिर्द) is a person who is learning a trade from a skilled employer."
+        }
+      },
+      {
+        "id": 697,
+        "question": {
+          "en": "A statement made in public."
+        },
+        "options": {
+          "en": ["Declaration", "Address", "Announcement", "Proclamation"]
+        },
+        "correctAnswer": {
+          "en": "Proclamation"
+        },
+        "explanation": {
+          "en": "A **Proclamation** (उद्घोषणा) is a public or official announcement, especially one dealing with a matter of great importance."
+        }
+      },
+      {
+        "id": 698,
+        "question": {
+          "en": "A collection of dry plants pressed and mounted on paper."
+        },
+        "options": {
+          "en": ["Herbarium", "Museum", "Archive", "Specimen"]
+        },
+        "correctAnswer": {
+          "en": "Herbarium"
+        },
+        "explanation": {
+          "en": "A **Herbarium** (पादपालय) is a collection of preserved plant specimens, typically dried and mounted on sheets."
+        }
+      },
+      {
+        "id": 699,
+        "question": {
+          "en": "A person who is habitually reserved in speech."
+        },
+        "options": {
+          "en": ["Taciturn", "Reticent", "Garrulous", "Loquacious"]
+        },
+        "correctAnswer": {
+          "en": "Taciturn"
+        },
+        "explanation": {
+          "en": "**Taciturn** (अल्पभाषी) means reserved or uncommunicative in speech; saying little."
+        }
+      },
+      {
+        "id": 700,
+        "question": {
+          "en": "A figure of speech in which a phrase or word is applied to an object or action to which it is not literally applicable."
+        },
+        "options": {
+          "en": ["Simile", "Metaphor", "Personification", "Hyperbole"]
+        },
+        "correctAnswer": {
+          "en": "Metaphor"
+        },
+        "explanation": {
+          "en": "A **Metaphor** (रूपक अलंकार) is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable (e.g., 'the curtain of night')."
+        }
+      },
+      {
+        "id": 701,
+        "question": {
+          "en": "The murder of a whole race or group of people."
+        },
+        "options": {
+          "en": ["Homicide", "Fratricide", "Infanticide", "Genocide"]
+        },
+        "correctAnswer": {
+          "en": "Genocide"
+        },
+        "explanation": {
+          "en": "**Genocide** (नरसंहार) is the deliberate killing of a large number of people from a particular nation or ethnic group."
+        }
+      },
+      {
+        "id": 702,
+        "question": {
+          "en": "A poem of mourning."
+        },
+        "options": {
+          "en": ["Ode", "Sonnet", "Epic", "Elegy"]
+        },
+        "correctAnswer": {
+          "en": "Elegy"
+        },
+        "explanation": {
+          "en": "An **Elegy** (शोकगीत) is a poem of serious reflection, typically a lament for the dead."
+        }
+      },
+      {
+        "id": 703,
+        "question": {
+          "en": "A person who is skilled in making predictions about the future."
+        },
+        "options": {
+          "en": ["Soothsayer", "Oracle", "Seer", "Prophet"]
+        },
+        "correctAnswer": {
+          "en": "Prophet"
+        },
+        "explanation": {
+          "en": "A **Prophet** (भविष्यवक्ता) is a person regarded as an inspired teacher or proclaimer of the will of God, often predicting future events."
+        }
+      },
+      {
+        "id": 704,
+        "question": {
+          "en": "A period of time required for a patient to recover."
+        },
+        "options": {
+          "en": ["Healing", "Recuperation", "Convalescence", "Remission"]
+        },
+        "correctAnswer": {
+          "en": "Convalescence"
+        },
+        "explanation": {
+          "en": "**Convalescence** (स्वास्थ्य-लाभ की अवधि) is the time spent recovering from an illness or medical treatment; recuperation."
+        }
+      },
+      {
+        "id": 705,
+        "question": {
+          "en": "A raised structure on which speeches are made."
+        },
+        "options": {
+          "en": ["Platform", "Stage", "Pulpit", "Rostrum"]
+        },
+        "correctAnswer": {
+          "en": "Rostrum"
+        },
+        "explanation": {
+          "en": "A **Rostrum** (मंच/व्याख्यान मंच) is a raised platform on which a person stands to make a public speech, receive a prize, or conduct an orchestra."
+        }
+      },
+      {
+        "id": 706,
+        "question": {
+          "en": "A set of three related works of art or literature."
+        },
+        "options": {
+          "en": ["Duet", "Trio", "Trilogy", "Quadruplet"]
+        },
+        "correctAnswer": {
+          "en": "Trilogy"
+        },
+        "explanation": {
+          "en": "A **Trilogy** (त्रयी) is a group of three related novels, plays, or films."
+        }
+      },
+      {
+        "id": 707,
+        "question": {
+          "en": "A person who cannot be easily upset."
+        },
+        "options": {
+          "en": ["Imperturbable", "Inflexible", "Indomitable", "Inexorable"]
+        },
+        "correctAnswer": {
+          "en": "Imperturbable"
+        },
+        "explanation": {
+          "en": "**Imperturbable** (अविचलित/शांत) means unable to be upset or excited; calm."
+        }
+      },
+      {
+        "id": 708,
+        "question": {
+          "en": "A person who is sent on a mission, often diplomatic."
+        },
+        "options": {
+          "en": ["Emissary", "Ambassador", "Agent", "Messenger"]
+        },
+        "correctAnswer": {
+          "en": "Emissary"
+        },
+        "explanation": {
+          "en": "An **Emissary** (दूत/प्रतिनिधि) is a person sent on a special mission, usually as a diplomatic representative."
+        }
+      },
+      {
+        "id": 709,
+        "question": {
+          "en": "To look at someone or something in an angry or threatening way."
+        },
+        "options": {
+          "en": ["Glare", "Gaze", "Glimpse", "Gape"]
+        },
+        "correctAnswer": {
+          "en": "Glare"
+        },
+        "explanation": {
+          "en": "**Glare** (गुस्से से घूरना) means to stare in an angry or fierce way."
+        }
+      },
+      {
+        "id": 710,
+        "question": {
+          "en": "A brief or short stay at a place."
+        },
+        "options": {
+          "en": ["Visit", "Stay", "Sojourn", "Residency"]
+        },
+        "correctAnswer": {
+          "en": "Sojourn"
+        },
+        "explanation": {
+          "en": "A **Sojourn** (अल्प प्रवास) is a temporary stay at one place."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_23",
+    "title": {
+      "en": "OWS Practice Set 4"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:05:00.000Z",
+    "questions": [
+      {
+        "id": 761,
+        "question": {
+          "en": "A person who is fluent in two languages."
+        },
+        "options": {
+          "en": ["Monolingual", "Bilingual", "Polyglot", "Trilingual"]
+        },
+        "correctAnswer": {
+          "en": "Bilingual"
+        },
+        "explanation": {
+          "en": "A **Bilingual** (द्विभाषी) is fluent in two languages. 'Polyglot' is for more than two."
+        }
+      },
+      {
+        "id": 762,
+        "question": {
+          "en": "A large crowd of people, typically disorderly and angry."
+        },
+        "options": {
+          "en": ["Throng", "Mob", "Assembly", "Congregation"]
+        },
+        "correctAnswer": {
+          "en": "Mob"
+        },
+        "explanation": {
+          "en": "A **Mob** (हिंसक भीड़) is a large, disorderly, and often violent crowd of people."
+        }
+      },
+      {
+        "id": 763,
+        "question": {
+          "en": "A deep gorge or ravine, usually with a river running through it."
+        },
+        "options": {
+          "en": ["Valley", "Canyon", "Ditch", "Cave"]
+        },
+        "correctAnswer": {
+          "en": "Canyon"
+        },
+        "explanation": {
+          "en": "A **Canyon** (खड्ड) is a deep, narrow valley with steep sides, often with a stream or river flowing through it."
+        }
+      },
+      {
+        "id": 764,
+        "question": {
+          "en": "One who believes in fate."
+        },
+        "options": {
+          "en": ["Theist", "Fatalist", "Atheist", "Sceptic"]
+        },
+        "correctAnswer": {
+          "en": "Fatalist"
+        },
+        "explanation": {
+          "en": "A **Fatalist** (भाग्यवादी) believes that all events are predetermined and therefore inevitable."
+        }
+      },
+      {
+        "id": 765,
+        "question": {
+          "en": "A group of stars."
+        },
+        "options": {
+          "en": ["Nebula", "Comet", "Constellation", "Galaxy"]
+        },
+        "correctAnswer": {
+          "en": "Constellation"
+        },
+        "explanation": {
+          "en": "A **Constellation** (तारामंडल) is a group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure."
+        }
+      },
+      {
+        "id": 766,
+        "question": {
+          "en": "The quality of being open and honest."
+        },
+        "options": {
+          "en": ["Austerity", "Candour", "Fidelity", "Veracity"]
+        },
+        "correctAnswer": {
+          "en": "Candour"
+        },
+        "explanation": {
+          "en": "**Candour** (सच्चाई/ईमानदारी) means the quality of being open and honest in expression; frankness."
+        }
+      },
+      {
+        "id": 767,
+        "question": {
+          "en": "A person who is reserved and shy, preferring to be alone."
+        },
+        "options": {
+          "en": ["Extrovert", "Introvert", "Ambivert", "Egoist"]
+        },
+        "correctAnswer": {
+          "en": "Introvert"
+        },
+        "explanation": {
+          "en": "An **Introvert** (अंतर्मुखी) is primarily interested in his or her own thoughts and feelings."
+        }
+      },
+      {
+        "id": 768,
+        "question": {
+          "en": "A person appointed to represent two parties to settle a dispute."
+        },
+        "options": {
+          "en": ["Arbitrator", "Mediator", "Negotiator", "Advocate"]
+        },
+        "correctAnswer": {
+          "en": "Arbitrator"
+        },
+        "explanation": {
+          "en": "An **Arbitrator** (पंच/मध्यस्थ) is an independent person officially appointed to settle a dispute."
+        }
+      },
+      {
+        "id": 769,
+        "question": {
+          "en": "A person who eats too much."
+        },
+        "options": {
+          "en": ["Glutton", "Gourmet", "Cannibal", "Omnivore"]
+        },
+        "correctAnswer": {
+          "en": "Glutton"
+        },
+        "explanation": {
+          "en": "A **Glutton** (पेटू) is an excessively greedy eater."
+        }
+      },
+      {
+        "id": 770,
+        "question": {
+          "en": "A person who is well known for some bad quality or deed."
+        },
+        "options": {
+          "en": ["Famous", "Notorious", "Eminent", "Illustrious"]
+        },
+        "correctAnswer": {
+          "en": "Notorious"
+        },
+        "explanation": {
+          "en": "**Notorious** (कुख्यात) means famous or well known for some bad quality or deed."
+        }
+      },
+      {
+        "id": 771,
+        "question": {
+          "en": "A building where an audience sits."
+        },
+        "options": {
+          "en": ["Auditorium", "Amphitheatre", "Hangar", "Stadium"]
+        },
+        "correctAnswer": {
+          "en": "Auditorium"
+        },
+        "explanation": {
+          "en": "An **Auditorium** (सभागार) is the part of a theatre, concert hall, or other public building in which the audience sits."
+        }
+      },
+      {
+        "id": 772,
+        "question": {
+          "en": "One who believes that pleasure is the chief good."
+        },
+        "options": {
+          "en": ["Atheist", "Hedonist", "Stoic", "Ascetic"]
+        },
+        "correctAnswer": {
+          "en": "Hedonist"
+        },
+        "explanation": {
+          "en": "A **Hedonist** (सुखवादी) is a person who believes that the pursuit of pleasure is the most important thing in life."
+        }
+      },
+      {
+        "id": 773,
+        "question": {
+          "en": "A person who gives financial help to a library, school, or other institution."
+        },
+        "options": {
+          "en": ["Lender", "Sponsor", "Philanthropist", "Donor"]
+        },
+        "correctAnswer": {
+          "en": "Donor"
+        },
+        "explanation": {
+          "en": "A **Donor** (दाता) is a person who gives money or goods to an organization or charity. 'Philanthropist' is a general lover of mankind."
+        }
+      },
+      {
+        "id": 774,
+        "question": {
+          "en": "A word with the same meaning as another."
+        },
+        "options": {
+          "en": ["Antonym", "Homonym", "Synonym", "Acronym"]
+        },
+        "correctAnswer": {
+          "en": "Synonym"
+        },
+        "explanation": {
+          "en": "A **Synonym** (पर्यायवाची) is a word or phrase that means exactly or nearly the same as another word or phrase in the same language."
+        }
+      },
+      {
+        "id": 775,
+        "question": {
+          "en": "A disease that is spread by contact."
+        },
+        "options": {
+          "en": ["Epidemic", "Contagious", "Incurable", "Fatal"]
+        },
+        "correctAnswer": {
+          "en": "Contagious"
+        },
+        "explanation": {
+          "en": "A **Contagious** (संक्रामक) disease is spread from one person or organism to another by direct or indirect contact."
+        }
+      },
+      {
+        "id": 776,
+        "question": {
+          "en": "The act of giving up one's throne."
+        },
+        "options": {
+          "en": ["Abdication", "Resignation", "Retirement", "Relinquishment"]
+        },
+        "correctAnswer": {
+          "en": "Abdication"
+        },
+        "explanation": {
+          "en": "**Abdication** (राज-त्याग) is the act of formally giving up one's throne or position of authority."
+        }
+      },
+      {
+        "id": 777,
+        "question": {
+          "en": "An animal that lives on land and in water."
+        },
+        "options": {
+          "en": ["Aquatic", "Terrestrial", "Amphibian", "Reptile"]
+        },
+        "correctAnswer": {
+          "en": "Amphibian"
+        },
+        "explanation": {
+          "en": "An **Amphibian** (उभयचर) is a cold-blooded vertebrate animal, such as a frog or toad, that is typically characterized by a life cycle involving aquatic larva and terrestrial adult stages."
+        }
+      },
+      {
+        "id": 778,
+        "question": {
+          "en": "A person who is against religion."
+        },
+        "options": {
+          "en": ["Rebel", "Blasphemer", "Heathen", "Iconoclast"]
+        },
+        "correctAnswer": {
+          "en": "Blasphemer"
+        },
+        "explanation": {
+          "en": "A **Blasphemer** (ईशनिंदक) is a person who speaks irreverently about God or sacred things. 'Heathen' is a person who does not belong to a widely held religion."
+        }
+      },
+      {
+        "id": 779,
+        "question": {
+          "en": "A person who is fond of fighting."
+        },
+        "options": {
+          "en": ["Belligerent", "Bellicose", "Pugnacious", "Aggressor"]
+        },
+        "correctAnswer": {
+          "en": "Pugnacious"
+        },
+        "explanation": {
+          "en": "**Pugnacious** (झगड़ालू) means eager or quick to argue, quarrel, or fight. 'Belligerent' and 'Bellicose' are also close, but 'Pugnacious' focuses on the *fondness* of fighting."
+        }
+      },
+      {
+        "id": 780,
+        "question": {
+          "en": "A person who is indifferent to both praise and criticism."
+        },
+        "options": {
+          "en": ["Stoic", "Cynic", "Sceptic", "Apathetic"]
+        },
+        "correctAnswer": {
+          "en": "Apathetic"
+        },
+        "explanation": {
+          "en": "An **Apathetic** (उदासीन) person shows or feels no interest, enthusiasm, or concern, including indifference to external opinions."
+        }
+      },
+      {
+        "id": 781,
+        "question": {
+          "en": "A figure of speech by which a thing is spoken of as being that which it only resembles."
+        },
+        "options": {
+          "en": ["Metaphor", "Simile", "Euphemism", "Hyperbole"]
+        },
+        "correctAnswer": {
+          "en": "Simile"
+        },
+        "explanation": {
+          "en": "A **Simile** (उपमा अलंकार) is a figure of speech involving the comparison of one thing with another thing of a different kind, using 'like' or 'as' (e.g., 'as brave as a lion')."
+        }
+      },
+      {
+        "id": 782,
+        "question": {
+          "en": "A person who helps another commit a crime."
+        },
+        "options": {
+          "en": ["Collaborator", "Accomplice", "Partner", "Confederate"]
+        },
+        "correctAnswer": {
+          "en": "Accomplice"
+        },
+        "explanation": {
+          "en": "An **Accomplice** (सह-अपराधी) is a person who helps another person to commit a crime."
+        }
+      },
+      {
+        "id": 783,
+        "question": {
+          "en": "A medicine taken to counteract a particular poison."
+        },
+        "options": {
+          "en": ["Antiseptic", "Antibiotic", "Antidote", "Cure"]
+        },
+        "correctAnswer": {
+          "en": "Antidote"
+        },
+        "explanation": {
+          "en": "An **Antidote** (विषनाशक) is a medicine or other remedy for counteracting the effects of a poison."
+        }
+      },
+      {
+        "id": 784,
+        "question": {
+          "en": "The study of the earth's crust and rocks."
+        },
+        "options": {
+          "en": ["Geology", "Zoology", "Geography", "Archaeology"]
+        },
+        "correctAnswer": {
+          "en": "Geology"
+        },
+        "explanation": {
+          "en": "**Geology** (भूविज्ञान) is the science which deals with the physical structure and substance of the earth, their history, and the processes which act upon them."
+        }
+      },
+      {
+        "id": 785,
+        "question": {
+          "en": "A doctor who specializes in the diseases of the nose."
+        },
+        "options": {
+          "en": ["Rhinologist", "Ophthalmologist", "Neurologist", "Cardiologist"]
+        },
+        "correctAnswer": {
+          "en": "Rhinologist"
+        },
+        "explanation": {
+          "en": "A **Rhinologist** (नाक विशेषज्ञ) is a specialist in the pathology of the nose (from the Greek 'rhino' meaning nose)."
+        }
+      },
+      {
+        "id": 786,
+        "question": {
+          "en": "The belief that events are going to turn out badly."
+        },
+        "options": {
+          "en": ["Optimism", "Cynicism", "Pessimism", "Realism"]
+        },
+        "correctAnswer": {
+          "en": "Pessimism"
+        },
+        "explanation": {
+          "en": "**Pessimism** (निराशावाद) is a tendency to see the worst aspect of things or believe that the worst will happen."
+        }
+      },
+      {
+        "id": 787,
+        "question": {
+          "en": "The violation of what is sacred or holy."
+        },
+        "options": {
+          "en": ["Apostasy", "Sacrilege", "Heresy", "Profanity"]
+        },
+        "correctAnswer": {
+          "en": "Sacrilege"
+        },
+        "explanation": {
+          "en": "**Sacrilege** (अपवित्रीकरण/पवित्र वस्तु का अनादर) is the violation or misuse of what is regarded as sacred."
+        }
+      },
+      {
+        "id": 788,
+        "question": {
+          "en": "A word formed from the initial letters of other words and pronounced as a word."
+        },
+        "options": {
+          "en": ["Abbreviation", "Acronym", "Initialism", "Contraction"]
+        },
+        "correctAnswer": {
+          "en": "Acronym"
+        },
+        "explanation": {
+          "en": "An **Acronym** (संक्षिप्त शब्द) is an abbreviation formed from the initial letters of other words and pronounced as a word (e.g., NASA, SCUBA)."
+        }
+      },
+      {
+        "id": 789,
+        "question": {
+          "en": "A large enclosure for keeping birds."
+        },
+        "options": {
+          "en": ["Aquarium", "Apiary", "Aviary", "Sanctuary"]
+        },
+        "correctAnswer": {
+          "en": "Aviary"
+        },
+        "explanation": {
+          "en": "An **Aviary** (पक्षीशाला) is a large cage, building, or enclosure for keeping birds. (Note: 'Apiary' is for bees)."
+        }
+      },
+      {
+        "id": 790,
+        "question": {
+          "en": "A state of perfect balance."
+        },
+        "options": {
+          "en": ["Equanimity", "Equinox", "Equilibrium", "Symmetry"]
+        },
+        "correctAnswer": {
+          "en": "Equilibrium"
+        },
+        "explanation": {
+          "en": "**Equilibrium** (संतुलन) is a state in which opposing forces or influences are balanced."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_24",
+    "title": {
+      "en": "OWS Practice Set 5"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:10:00.000Z",
+    "questions": [
+      {
+        "id": 791,
+        "question": {
+          "en": "A book or work of art whose author is unknown."
+        },
+        "options": {
+          "en": ["Obscure", "Anonymous", "Pseudonym", "Scribe"]
+        },
+        "correctAnswer": {
+          "en": "Anonymous"
+        },
+        "explanation": {
+          "en": "**Anonymous** (गुमनाम) means (of a person) not identified by name; or (of a book/work) written or given by someone whose name is not known."
+        }
+      },
+      {
+        "id": 792,
+        "question": {
+          "en": "To cut off a part of a person's body, typically a limb or extremity."
+        },
+        "options": {
+          "en": ["Mutilate", "Decapitate", "Amputate", "Sever"]
+        },
+        "correctAnswer": {
+          "en": "Amputate"
+        },
+        "explanation": {
+          "en": "**Amputate** (अंग विच्छेदन करना) means to cut off a limb or extremity, typically by surgical operation."
+        }
+      },
+      {
+        "id": 793,
+        "question": {
+          "en": "The study of the relationship between living things and their environment."
+        },
+        "options": {
+          "en": ["Zoology", "Ecology", "Anthropology", "Geology"]
+        },
+        "correctAnswer": {
+          "en": "Ecology"
+        },
+        "explanation": {
+          "en": "**Ecology** (पारिस्थितिकी) is the branch of biology that deals with the relations of organisms to one another and to their physical surroundings."
+        }
+      },
+      {
+        "id": 794,
+        "question": {
+          "en": "A person who is self-centred and thinks only of his own self."
+        },
+        "options": {
+          "en": ["Egoist", "Egocentric", "Philanthropist", "Hedonist"]
+        },
+        "correctAnswer": {
+          "en": "Egoist"
+        },
+        "explanation": {
+          "en": "An **Egoist** (अहंवादी) is a person who is primarily motivated by self-interest. 'Egocentric' means self-centered."
+        }
+      },
+      {
+        "id": 795,
+        "question": {
+          "en": "The quality of being open to more than one interpretation; ambiguity."
+        },
+        "options": {
+          "en": ["Vagueness", "Clarity", "Obscurity", "Ambiguity"]
+        },
+        "correctAnswer": {
+          "en": "Ambiguity"
+        },
+        "explanation": {
+          "en": "**Ambiguity** (अस्पष्टता/अनेकार्थता) is the quality of being open to more than one interpretation."
+        }
+      },
+      {
+        "id": 796,
+        "question": {
+          "en": "A person who is fond of company."
+        },
+        "options": {
+          "en": ["Gregarious", "Introvert", "Sociable", "Reserved"]
+        },
+        "correctAnswer": {
+          "en": "Gregarious"
+        },
+        "explanation": {
+          "en": "**Gregarious** (झुंड में रहने वाला/मिलनसार) means fond of company; sociable."
+        }
+      },
+      {
+        "id": 797,
+        "question": {
+          "en": "A place where the sick or old are cared for."
+        },
+        "options": {
+          "en": ["Infirmary", "Sanatorium", "Asylum", "Dormitory"]
+        },
+        "correctAnswer": {
+          "en": "Infirmary"
+        },
+        "explanation": {
+          "en": "An **Infirmary** (अस्पताल/रोगशाला) is a place in a large institution or building for the care of people who are ill."
+        }
+      },
+      {
+        "id": 798,
+        "question": {
+          "en": "A temporary stay."
+        },
+        "options": {
+          "en": ["Sojourn", "Residence", "Exile", "Retirement"]
+        },
+        "correctAnswer": {
+          "en": "Sojourn"
+        },
+        "explanation": {
+          "en": "A **Sojourn** (अल्प प्रवास) is a temporary stay at one place."
+        }
+      },
+      {
+        "id": 799,
+        "question": {
+          "en": "One who is skilled in determining the future from star positions."
+        },
+        "options": {
+          "en": ["Astrologer", "Astronomer", "Prophet", "Psychic"]
+        },
+        "correctAnswer": {
+          "en": "Astrologer"
+        },
+        "explanation": {
+          "en": "An **Astrologer** (ज्योतिषी) is someone who studies the movements and relative positions of celestial bodies and interprets them as having an influence on human affairs."
+        }
+      },
+      {
+        "id": 800,
+        "question": {
+          "en": "A formal statement of a religious belief."
+        },
+        "options": {
+          "en": ["Sermon", "Creed", "Doctrine", "Pledge"]
+        },
+        "correctAnswer": {
+          "en": "Creed"
+        },
+        "explanation": {
+          "en": "A **Creed** (मत/सिद्धांत) is a system of religious belief; a faith."
+        }
+      },
+      {
+        "id": 801,
+        "question": {
+          "en": "Something that cannot be put out or quenched."
+        },
+        "options": {
+          "en": ["Inextinguishable", "Invincible", "Indelible", "Incomparable"]
+        },
+        "correctAnswer": {
+          "en": "Inextinguishable"
+        },
+        "explanation": {
+          "en": "**Inextinguishable** (अदम्य/अनियंत्रणीय) means impossible to put out (of a fire) or suppress (of a feeling)."
+        }
+      },
+      {
+        "id": 802,
+        "question": {
+          "en": "The murder of an infant."
+        },
+        "options": {
+          "en": ["Homicide", "Fratricide", "Infanticide", "Suicide"]
+        },
+        "correctAnswer": {
+          "en": "Infanticide"
+        },
+        "explanation": {
+          "en": "**Infanticide** (शिशुहत्या) is the crime of killing a child within a year of birth. (Root: 'Infant' + 'Cide')."
+        }
+      },
+      {
+        "id": 803,
+        "question": {
+          "en": "An object or statement containing contradictory elements."
+        },
+        "options": {
+          "en": ["Paradox", "Oxymoron", "Hyperbole", "Simile"]
+        },
+        "correctAnswer": {
+          "en": "Paradox"
+        },
+        "explanation": {
+          "en": "A **Paradox** (विरोधाभास) is a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true."
+        }
+      },
+      {
+        "id": 804,
+        "question": {
+          "en": "A person who is appointed by two parties to solve a dispute."
+        },
+        "options": {
+          "en": ["Arbiter", "Advocate", "Collaborator", "Mediator"]
+        },
+        "correctAnswer": {
+          "en": "Mediator"
+        },
+        "explanation": {
+          "en": "A **Mediator** (मध्यस्थ/बिचौलिया) is a person who attempts to make people involved in a conflict come to an agreement; a go-between."
+        }
+      },
+      {
+        "id": 805,
+        "question": {
+          "en": "The act of speaking one's thoughts aloud when alone or regardless of any hearers."
+        },
+        "options": {
+          "en": ["Monologue", "Dialogue", "Soliloquy", "Speech"]
+        },
+        "correctAnswer": {
+          "en": "Soliloquy"
+        },
+        "explanation": {
+          "en": "A **Soliloquy** (स्वगत भाषण) is an act of speaking one's thoughts aloud when by oneself (Root: 'Solus' means alone)."
+        }
+      },
+      {
+        "id": 806,
+        "question": {
+          "en": "A remedy for all troubles or diseases."
+        },
+        "options": {
+          "en": ["Elixir", "Antidote", "Tonic", "Panacea"]
+        },
+        "correctAnswer": {
+          "en": "Panacea"
+        },
+        "explanation": {
+          "en": "A **Panacea** (रामबाण औषधि) is a solution or remedy for all difficulties or diseases."
+        }
+      },
+      {
+        "id": 807,
+        "question": {
+          "en": "A person who is unable to read or write."
+        },
+        "options": {
+          "en": ["Illiterate", "Ignorant", "Uneducated", "Illogical"]
+        },
+        "correctAnswer": {
+          "en": "Illiterate"
+        },
+        "explanation": {
+          "en": "**Illiterate** (निरक्षर) means unable to read or write."
+        }
+      },
+      {
+        "id": 808,
+        "question": {
+          "en": "One who believes in the total abolition of war."
+        },
+        "options": {
+          "en": ["Pacifist", "Anarchist", "Feminist", "Communist"]
+        },
+        "correctAnswer": {
+          "en": "Pacifist"
+        },
+        "explanation": {
+          "en": "A **Pacifist** (शांतिवादी) is a person who believes that war and violence are unjustifiable."
+        }
+      },
+      {
+        "id": 809,
+        "question": {
+          "en": "The state of being married to only one person at a particular time."
+        },
+        "options": {
+          "en": ["Polygamy", "Monogamy", "Bigamy", "Polyandry"]
+        },
+        "correctAnswer": {
+          "en": "Monogamy"
+        },
+        "explanation": {
+          "en": "**Monogamy** (एकपत्नीत्व) is the practice or state of being married to one person at a time."
+        }
+      },
+      {
+        "id": 810,
+        "question": {
+          "en": "A long, continuous speech by one person."
+        },
+        "options": {
+          "en": ["Sermon", "Monologue", "Recitation", "Dialogue"]
+        },
+        "correctAnswer": {
+          "en": "Monologue"
+        },
+        "explanation": {
+          "en": "A **Monologue** (एकांकी भाषण) is a long speech by one actor in a play or movie, or a long speech by one person during a conversation."
+        }
+      },
+      {
+        "id": 811,
+        "question": {
+          "en": "A person who is easily deceived or tricked."
+        },
+        "options": {
+          "en": ["Gullible", "Credulous", "Innocent", "Naive"]
+        },
+        "correctAnswer": {
+          "en": "Gullible"
+        },
+        "explanation": {
+          "en": "**Gullible** (भोला/आसानी से ठगा जाने वाला) means easily persuaded to believe something; credulous."
+        }
+      },
+      {
+        "id": 812,
+        "question": {
+          "en": "A person who lives in a country where he is not a citizen."
+        },
+        "options": {
+          "en": ["Alien", "Immigrant", "Tourist", "Expatriate"]
+        },
+        "correctAnswer": {
+          "en": "Alien"
+        },
+        "explanation": {
+          "en": "An **Alien** (विदेशी/परदेशी) is a person belonging to a foreign country. 'Immigrant' is a person who comes to live permanently in a foreign country."
+        }
+      },
+      {
+        "id": 813,
+        "question": {
+          "en": "A difficult situation in which any possible course of action results in a negative outcome."
+        },
+        "options": {
+          "en": ["Quagmire", "Dilemma", "Quandary", "Impasse"]
+        },
+        "correctAnswer": {
+          "en": "Dilemma"
+        },
+        "explanation": {
+          "en": "A **Dilemma** (दुविधा) is a situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones."
+        }
+      },
+      {
+        "id": 814,
+        "question": {
+          "en": "The state of being deprived of a right or privilege, especially the right to vote."
+        },
+        "options": {
+          "en": ["Censorship", "Disfranchisement", "Dispossession", "Exclusion"]
+        },
+        "correctAnswer": {
+          "en": "Disfranchisement"
+        },
+        "explanation": {
+          "en": "**Disfranchisement** (मताधिकार से वंचित करना) is the revocation of the right of suffrage (the right to vote)."
+        }
+      },
+      {
+        "id": 815,
+        "question": {
+          "en": "The study of wines."
+        },
+        "options": {
+          "en": ["Geology", "Oenology", "Agronomy", "Enology"]
+        },
+        "correctAnswer": {
+          "en": "Oenology"
+        },
+        "explanation": {
+          "en": "**Oenology** (मदिरा विज्ञान) (or Enology) is the science and study of wine and winemaking. (Root: 'Oinos' means wine)."
+        }
+      },
+      {
+        "id": 816,
+        "question": {
+          "en": "One who despises art and culture."
+        },
+        "options": {
+          "en": ["Philistine", "Aesthetic", "Highbrow", "Sophisticated"]
+        },
+        "correctAnswer": {
+          "en": "Philistine"
+        },
+        "explanation": {
+          "en": "A **Philistine** (कला-संस्कृति विरोधी) is a person who is hostile or indifferent to art and culture, having no understanding of them."
+        }
+      },
+      {
+        "id": 817,
+        "question": {
+          "en": "A person pretending to be somebody else."
+        },
+        "options": {
+          "en": ["Impostor", "Cheat", "Fraud", "Hypocrite"]
+        },
+        "correctAnswer": {
+          "en": "Impostor"
+        },
+        "explanation": {
+          "en": "An **Impostor** (बहरूपिया/धोखेबाज) is a person who pretends to be someone else in order to deceive others."
+        }
+      },
+      {
+        "id": 818,
+        "question": {
+          "en": "To secretly listen to a conversation."
+        },
+        "options": {
+          "en": ["Spy", "Overhear", "Eavesdrop", "Listen in"]
+        },
+        "correctAnswer": {
+          "en": "Eavesdrop"
+        },
+        "explanation": {
+          "en": "**Eavesdrop** (चुपके से सुनना) means to secretly listen to a private conversation."
+        }
+      },
+      {
+        "id": 819,
+        "question": {
+          "en": "A continuous process of change is known as a..."
+        },
+        "options": {
+          "en": ["Metamorphosis", "Flux", "Flow", "Evolution"]
+        },
+        "correctAnswer": {
+          "en": "Flux"
+        },
+        "explanation": {
+          "en": "**Flux** (सतत परिवर्तन/प्रवाह) is the action or process of flowing or constantly changing."
+        }
+      },
+      {
+        "id": 820,
+        "question": {
+          "en": "Something that lasts only for a short time."
+        },
+        "options": {
+          "en": ["Temporary", "Perpetual", "Ephemeral", "Enduring"]
+        },
+        "correctAnswer": {
+          "en": "Ephemeral"
+        },
+        "explanation": {
+          "en": "**Ephemeral** (क्षणभंगुर) means lasting for a very short time."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_25",
+    "title": {
+      "en": "OWS Practice Set 6"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:15:00.000Z",
+    "questions": [
+      {
+        "id": 821,
+        "question": {
+          "en": "A person who does not believe in the institution of marriage."
+        },
+        "options": {
+          "en": ["Misogynist", "Misogamist", "Atheist", "Celibate"]
+        },
+        "correctAnswer": {
+          "en": "Misogamist"
+        },
+        "explanation": {
+          "en": "A **Misogamist** (विवाह विरोधी) is a person who hates marriage. ('Miso' means hate, 'gamy' means marriage)."
+        }
+      },
+      {
+        "id": 822,
+        "question": {
+          "en": "A speech or presentation made without prior preparation."
+        },
+        "options": {
+          "en": ["Impromptu", "Rehearsal", "Deliberate", "Monologue"]
+        },
+        "correctAnswer": {
+          "en": "Impromptu"
+        },
+        "explanation": {
+          "en": "**Impromptu** (तत्काल/बिना तैयारी के) means done without being planned, organized, or rehearsed."
+        }
+      },
+      {
+        "id": 823,
+        "question": {
+          "en": "A person who is primarily concerned with gaining money at the expense of ethics."
+        },
+        "options": {
+          "en": ["Mercenary", "Philanthropist", "Altruist", "Idealist"]
+        },
+        "correctAnswer": {
+          "en": "Mercenary"
+        },
+        "explanation": {
+          "en": "A **Mercenary** (केवल धन के लिए काम करने वाला) is primarily concerned with making money at the expense of ethics, serving only money."
+        }
+      },
+      {
+        "id": 824,
+        "question": {
+          "en": "The branch of philosophy concerned with the nature of existence, being, and the world."
+        },
+        "options": {
+          "en": ["Epistemology", "Metaphysics", "Aesthetics", "Ethics"]
+        },
+        "correctAnswer": {
+          "en": "Metaphysics"
+        },
+        "explanation": {
+          "en": "**Metaphysics** (तत्त्व मीमांसा) is the branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space."
+        }
+      },
+      {
+        "id": 825,
+        "question": {
+          "en": "To secretly listen to a conversation."
+        },
+        "options": {
+          "en": ["Intrude", "Eavesdrop", "Intervene", "Spy"]
+        },
+        "correctAnswer": {
+          "en": "Eavesdrop"
+        },
+        "explanation": {
+          "en": "**Eavesdrop** (चुपके से सुनना) means to secretly listen to a private conversation."
+        }
+      },
+      {
+        "id": 826,
+        "question": {
+          "en": "An area of grassland where animals graze."
+        },
+        "options": {
+          "en": ["Forest", "Savanna", "Meadow", "Desert"]
+        },
+        "correctAnswer": {
+          "en": "Meadow"
+        },
+        "explanation": {
+          "en": "A **Meadow** (चारागाह/घास का मैदान) is a piece of grassland, especially one used for hay or grazing."
+        }
+      },
+      {
+        "id": 827,
+        "question": {
+          "en": "The study of insects."
+        },
+        "options": {
+          "en": ["Ornithology", "Entomology", "Ecology", "Anthropology"]
+        },
+        "correctAnswer": {
+          "en": "Entomology"
+        },
+        "explanation": {
+          "en": "**Entomology** (कीट विज्ञान) is the branch of zoology concerned with the study of insects."
+        }
+      },
+      {
+        "id": 828,
+        "question": {
+          "en": "A person who is highly skilled in a specific art or field."
+        },
+        "options": {
+          "en": ["Amateur", "Novice", "Maestro", "Dilettante"]
+        },
+        "correctAnswer": {
+          "en": "Maestro"
+        },
+        "explanation": {
+          "en": "A **Maestro** (विशेषज्ञ/उस्ताद) is a distinguished musician, especially a conductor, or a highly skilled person in any field."
+        }
+      },
+      {
+        "id": 829,
+        "question": {
+          "en": "A situation requiring a choice between equally undesirable alternatives."
+        },
+        "options": {
+          "en": ["Predicament", "Dilemma", "Crisis", "Conflict"]
+        },
+        "correctAnswer": {
+          "en": "Dilemma"
+        },
+        "explanation": {
+          "en": "A **Dilemma** (दुविधा) is a situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones."
+        }
+      },
+      {
+        "id": 830,
+        "question": {
+          "en": "The act of speaking ill of sacred things."
+        },
+        "options": {
+          "en": ["Blasphemy", "Sacrilege", "Heresy", "Apostasy"]
+        },
+        "correctAnswer": {
+          "en": "Blasphemy"
+        },
+        "explanation": {
+          "en": "**Blasphemy** (ईशनिंदा) is the act or offense of speaking sacrilegiously about God or sacred things."
+        }
+      },
+      {
+        "id": 831,
+        "question": {
+          "en": "A period of a thousand years."
+        },
+        "options": {
+          "en": ["Decade", "Century", "Millennium", "Era"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "A **Millennium** (सहस्राब्दी) is a period of a thousand years."
+        }
+      },
+      {
+        "id": 832,
+        "question": {
+          "en": "A sudden rush of wind."
+        },
+        "options": {
+          "en": ["Gale", "Gust", "Squall", "Breeze"]
+        },
+        "correctAnswer": {
+          "en": "Gust"
+        },
+        "explanation": {
+          "en": "A **Gust** (झोंका) is a sudden brief rush of wind."
+        }
+      },
+      {
+        "id": 833,
+        "question": {
+          "en": "Something that is no longer acceptable because it is too old."
+        },
+        "options": {
+          "en": ["Obsolete", "Antique", "Archaic", "Ancient"]
+        },
+        "correctAnswer": {
+          "en": "Archaic"
+        },
+        "explanation": {
+          "en": "**Archaic** (पुरातन/अति प्राचीन) means very old or old-fashioned. (Often used for language or custom). 'Obsolete' is no longer in use."
+        }
+      },
+      {
+        "id": 834,
+        "question": {
+          "en": "A person who is hostile to or despises the beliefs and values of others."
+        },
+        "options": {
+          "en": ["Fanatic", "Iconoclast", "Cynic", "Misanthrope"]
+        },
+        "correctAnswer": {
+          "en": "Iconoclast"
+        },
+        "explanation": {
+          "en": "An **Iconoclast** (परंपरा तोड़ने वाला) is a person who attacks cherished beliefs or institutions."
+        }
+      },
+      {
+        "id": 835,
+        "question": {
+          "en": "The time between midnight and dawn."
+        },
+        "options": {
+          "en": ["Twilight", "Dusk", "Hesperus", "Cockcrow"]
+        },
+        "correctAnswer": {
+          "en": "Cockcrow"
+        },
+        "explanation": {
+          "en": "**Cockcrow** (प्रभात/तड़के) is an old-fashioned or literary term for dawn, or the early morning before sunrise (which falls between midnight and dawn)."
+        }
+      },
+      {
+        "id": 836,
+        "question": {
+          "en": "One who is skilled in determining the future from tea leaves."
+        },
+        "options": {
+          "en": ["Tasseographer", "Chiromancer", "Astrologer", "Prophet"]
+        },
+        "correctAnswer": {
+          "en": "Tasseographer"
+        },
+        "explanation": {
+          "en": "A **Tasseographer** (चाय की पत्तियों से भविष्य बताने वाला) is one who practices Tasseography, which is fortune-telling based on the patterns of tea leaves."
+        }
+      },
+      {
+        "id": 837,
+        "question": {
+          "en": "A person who is reserved and shy, preferring not to talk."
+        },
+        "options": {
+          "en": ["Taciturn", "Reticent", "Rambler", "Garrulous"]
+        },
+        "correctAnswer": {
+          "en": "Reticent"
+        },
+        "explanation": {
+          "en": "**Reticent** (संकोची/अल्पभाषी) means not revealing one's thoughts or feelings readily (reserved in speech)."
+        }
+      },
+      {
+        "id": 838,
+        "question": {
+          "en": "A brief summary of a book or piece of writing."
+        },
+        "options": {
+          "en": ["Critique", "Abstract", "Digest", "Epilogue"]
+        },
+        "correctAnswer": {
+          "en": "Abstract"
+        },
+        "explanation": {
+          "en": "An **Abstract** (सारांश) is a summary of the contents of a book, article, or formal speech."
+        }
+      },
+      {
+        "id": 839,
+        "question": {
+          "en": "One who collects postage stamps."
+        },
+        "options": {
+          "en": ["Numismatist", "Philatelist", "Dilettante", "Archivist"]
+        },
+        "correctAnswer": {
+          "en": "Philatelist"
+        },
+        "explanation": {
+          "en": "A **Philatelist** (डाक टिकट संग्रहकर्ता) is a person who collects or studies postage stamps."
+        }
+      },
+      {
+        "id": 840,
+        "question": {
+          "en": "A person who is unable to pay his debts."
+        },
+        "options": {
+          "en": ["Solvent", "Bankrupt", "Debtor", "Borrower"]
+        },
+        "correctAnswer": {
+          "en": "Bankrupt"
+        },
+        "explanation": {
+          "en": "**Bankrupt** (दिवालिया) means a person judged to be unable to pay outstanding debts."
+        }
+      },
+      {
+        "id": 841,
+        "question": {
+          "en": "A place where the dead are buried."
+        },
+        "options": {
+          "en": ["Mortuary", "Crematorium", "Cemetery", "Morgue"]
+        },
+        "correctAnswer": {
+          "en": "Cemetery"
+        },
+        "explanation": {
+          "en": "A **Cemetery** (कब्रिस्तान) is a large burial ground, typically not in a churchyard."
+        }
+      },
+      {
+        "id": 842,
+        "question": {
+          "en": "Something that cannot be explained."
+        },
+        "options": {
+          "en": ["Incredible", "Inexplicable", "Incomprehensible", "Intangible"]
+        },
+        "correctAnswer": {
+          "en": "Inexplicable"
+        },
+        "explanation": {
+          "en": "**Inexplicable** (अकथनीय/अस्पष्ट) means unable to be explained or accounted for."
+        }
+      },
+      {
+        "id": 843,
+        "question": {
+          "en": "An official count or survey of a population, typically recording various details of individuals."
+        },
+        "options": {
+          "en": ["Audit", "Survey", "Census", "Inventory"]
+        },
+        "correctAnswer": {
+          "en": "Census"
+        },
+        "explanation": {
+          "en": "**Census** (जनगणना) is an official count or survey of a population, typically recording various details of individuals."
+        }
+      },
+      {
+        "id": 844,
+        "question": {
+          "en": "The study of human cultures, origins, and development."
+        },
+        "options": {
+          "en": ["Ecology", "Anthropology", "Archaeology", "Ethnology"]
+        },
+        "correctAnswer": {
+          "en": "Anthropology"
+        },
+        "explanation": {
+          "en": "**Anthropology** (मानवशास्त्र) is the study of human societies, cultures, and their development."
+        }
+      },
+      {
+        "id": 845,
+        "question": {
+          "en": "A person who is skilled at public speaking."
+        },
+        "options": {
+          "en": ["Orator", "Rhetorician", "Linguist", "Lecturer"]
+        },
+        "correctAnswer": {
+          "en": "Orator"
+        },
+        "explanation": {
+          "en": "An **Orator** (वक्ता/भाषण कला विशेषज्ञ) is a public speaker, especially one who is eloquent or skilled."
+        }
+      },
+      {
+        "id": 846,
+        "question": {
+          "en": "The science of judging the character of men from their handwriting."
+        },
+        "options": {
+          "en": ["Calligraphy", "Stenography", "Graphology", "Epigraphy"]
+        },
+        "correctAnswer": {
+          "en": "Graphology"
+        },
+        "explanation": {
+          "en": "**Graphology** (हस्तलेख विज्ञान) is the study of handwriting, especially as a means of analyzing character."
+        }
+      },
+      {
+        "id": 847,
+        "question": {
+          "en": "The loss of ability to move in part or most of the body."
+        },
+        "options": {
+          "en": ["Amnesia", "Paralysis", "Fainting", "Coma"]
+        },
+        "correctAnswer": {
+          "en": "Paralysis"
+        },
+        "explanation": {
+          "en": "**Paralysis** (लकवा) is the loss of the ability to move (and sometimes to feel anything) in part or most of the body."
+        }
+      },
+      {
+        "id": 848,
+        "question": {
+          "en": "A state of disorder due to absence or non-recognition of authority."
+        },
+        "options": {
+          "en": ["Monarchy", "Oligarchy", "Anarchy", "Autocracy"]
+        },
+        "correctAnswer": {
+          "en": "Anarchy"
+        },
+        "explanation": {
+          "en": "**Anarchy** (अराजकता) is a state of disorder due to the absence or non-recognition of authority or other controlling systems."
+        }
+      },
+      {
+        "id": 849,
+        "question": {
+          "en": "A feeling of intense longing for something, often something lost or far away."
+        },
+        "options": {
+          "en": ["Nostalgia", "Desire", "Yearning", "Reminiscence"]
+        },
+        "correctAnswer": {
+          "en": "Nostalgia"
+        },
+        "explanation": {
+          "en": "**Nostalgia** (अतीत की तीव्र याद/पुरानी याद) is a sentimental longing or wistful affection for the past, typically for a period or place with happy personal associations."
+        }
+      },
+      {
+        "id": 850,
+        "question": {
+          "en": "Something that is sure to happen."
+        },
+        "options": {
+          "en": ["Inevitable", "Infallible", "Unavoidable", "Unpredictable"]
+        },
+        "correctAnswer": {
+          "en": "Inevitable"
+        },
+        "explanation": {
+          "en": "**Inevitable** (अपरिहार्य) means certain to happen; unavoidable."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_26",
+    "title": {
+      "en": "OWS Practice Set 7"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:20:00.000Z",
+    "questions": [
+      {
+        "id": 851,
+        "question": {
+          "en": "A person who is famous for something bad or disreputable."
+        },
+        "options": {
+          "en": ["Eminent", "Notorious", "Illustrious", "Renowned"]
+        },
+        "correctAnswer": {
+          "en": "Notorious"
+        },
+        "explanation": {
+          "en": "**Notorious** (कुख्यात) means famous or well known for some bad quality or deed."
+        }
+      },
+      {
+        "id": 852,
+        "question": {
+          "en": "A place where the sick or old are cared for."
+        },
+        "options": {
+          "en": ["Sanatorium", "Asylum", "Infirmary", "Dormitory"]
+        },
+        "correctAnswer": {
+          "en": "Infirmary"
+        },
+        "explanation": {
+          "en": "An **Infirmary** (रोगशाला) is a place in a large institution or building for the care of people who are ill."
+        }
+      },
+      {
+        "id": 853,
+        "question": {
+          "en": "A person who is highly skilled in music or another artistic pursuit."
+        },
+        "options": {
+          "en": ["Connoisseur", "Amateur", "Maestro", "Dilettante"]
+        },
+        "correctAnswer": {
+          "en": "Maestro"
+        },
+        "explanation": {
+          "en": "A **Maestro** (विशेषज्ञ/उस्ताद) is a distinguished musician, especially a conductor, or a highly skilled person in any field."
+        }
+      },
+      {
+        "id": 854,
+        "question": {
+          "en": "The inherent power of a person to do something well."
+        },
+        "options": {
+          "en": ["Talent", "Faculty", "Aptitude", "Capacity"]
+        },
+        "correctAnswer": {
+          "en": "Aptitude"
+        },
+        "explanation": {
+          "en": "**Aptitude** (योग्यता/सहज क्षमता) is a natural ability to do something, especially one that can be learned or developed."
+        }
+      },
+      {
+        "id": 855,
+        "question": {
+          "en": "The study of ancient societies."
+        },
+        "options": {
+          "en": ["Anthropology", "Archaeology", "History", "Geology"]
+        },
+        "correctAnswer": {
+          "en": "Archaeology"
+        },
+        "explanation": {
+          "en": "**Archaeology** (पुरातत्व) is the study of human history and prehistory through the excavation of sites and the analysis of artifacts."
+        }
+      },
+      {
+        "id": 856,
+        "question": {
+          "en": "A place for clothes and luggage at a railway station."
+        },
+        "options": {
+          "en": ["Cloakroom", "Waiting room", "Locker room", "Wardrobe"]
+        },
+        "correctAnswer": {
+          "en": "Cloakroom"
+        },
+        "explanation": {
+          "en": "A **Cloakroom** (सामान घर) is a room where coats, bags, or other items may be left temporarily."
+        }
+      },
+      {
+        "id": 857,
+        "question": {
+          "en": "To secretly store goods or money in a hiding place."
+        },
+        "options": {
+          "en": ["Hoard", "Amass", "Collect", "Accumulate"]
+        },
+        "correctAnswer": {
+          "en": "Hoard"
+        },
+        "explanation": {
+          "en": "**Hoard** (जमाखोरी करना) means to secretly save or store up something valuable or needful."
+        }
+      },
+      {
+        "id": 858,
+        "question": {
+          "en": "A person who is addicted to some habit."
+        },
+        "options": {
+          "en": ["Addict", "Devotee", "Fanatic", "Habitual"]
+        },
+        "correctAnswer": {
+          "en": "Addict"
+        },
+        "explanation": {
+          "en": "An **Addict** (व्यसनी) is a person who is physically and mentally dependent on a particular substance or habit."
+        }
+      },
+      {
+        "id": 859,
+        "question": {
+          "en": "A poem of mourning or grief for the dead."
+        },
+        "options": {
+          "en": ["Sonnet", "Epic", "Elegy", "Ode"]
+        },
+        "correctAnswer": {
+          "en": "Elegy"
+        },
+        "explanation": {
+          "en": "An **Elegy** (शोकगीत) is a poem of serious reflection, typically a lament for the dead."
+        }
+      },
+      {
+        "id": 860,
+        "question": {
+          "en": "The act of giving up a religious or political belief."
+        },
+        "options": {
+          "en": ["Blasphemy", "Apostasy", "Heresy", "Sacrilege"]
+        },
+        "correctAnswer": {
+          "en": "Apostasy"
+        },
+        "explanation": {
+          "en": "**Apostasy** (धर्मत्याग) is the abandonment or renunciation of a religious or political belief or principle."
+        }
+      },
+      {
+        "id": 861,
+        "question": {
+          "en": "A person who is reserved and uncommunicative in speech."
+        },
+        "options": {
+          "en": ["Garrulous", "Loquacious", "Taciturn", "Verbal"]
+        },
+        "correctAnswer": {
+          "en": "Taciturn"
+        },
+        "explanation": {
+          "en": "**Taciturn** (अल्पभाषी) means reserved or uncommunicative in speech; saying little."
+        }
+      },
+      {
+        "id": 862,
+        "question": {
+          "en": "The science that studies the development of language."
+        },
+        "options": {
+          "en": ["Philology", "Linguistics", "Semantics", "Etymology"]
+        },
+        "correctAnswer": {
+          "en": "Philology"
+        },
+        "explanation": {
+          "en": "**Philology** (भाषाशास्त्र) is the study of language in historical and cultural context, often dealing with the development of language and literature."
+        }
+      },
+      {
+        "id": 863,
+        "question": {
+          "en": "A person who is skilled at performing physical stunts."
+        },
+        "options": {
+          "en": ["Acrobat", "Gymnast", "Athlete", "Performer"]
+        },
+        "correctAnswer": {
+          "en": "Acrobat"
+        },
+        "explanation": {
+          "en": "An **Acrobat** (कलाबाज) is an entertainer who performs spectacular gymnastic feats."
+        }
+      },
+      {
+        "id": 864,
+        "question": {
+          "en": "The practice of having several husbands at the same time."
+        },
+        "options": {
+          "en": ["Monogamy", "Polygyny", "Polyandry", "Bigamy"]
+        },
+        "correctAnswer": {
+          "en": "Polyandry"
+        },
+        "explanation": {
+          "en": "**Polyandry** (बहुपतित्व) is the practice of one woman having several husbands."
+        }
+      },
+      {
+        "id": 865,
+        "question": {
+          "en": "A person who is easily led to believe something."
+        },
+        "options": {
+          "en": ["Gullible", "Credulous", "Infallible", "Cynic"]
+        },
+        "correctAnswer": {
+          "en": "Credulous"
+        },
+        "explanation": {
+          "en": "**Credulous** (सहजविश्वासी) means having or showing too great a readiness to believe things."
+        }
+      },
+      {
+        "id": 866,
+        "question": {
+          "en": "A group of cattle or sheep."
+        },
+        "options": {
+          "en": ["Flock", "Herd", "Swarm", "Shoal"]
+        },
+        "correctAnswer": {
+          "en": "Herd"
+        },
+        "explanation": {
+          "en": "A **Herd** (झुंड) is a large group of animals, especially hoofed mammals, that live, feed, or travel together (cattle, sheep, elephants)."
+        }
+      },
+      {
+        "id": 867,
+        "question": {
+          "en": "A statement that is obviously true and needs no proof."
+        },
+        "options": {
+          "en": ["Axiom", "Proverb", "Idiom", "Epigram"]
+        },
+        "correctAnswer": {
+          "en": "Axiom"
+        },
+        "explanation": {
+          "en": "An **Axiom** (स्वयंसिद्ध सत्य) is a statement or proposition that is regarded as being established, accepted, or self-evidently true."
+        }
+      },
+      {
+        "id": 868,
+        "question": {
+          "en": "To increase the power, status, or wealth of."
+        },
+        "options": {
+          "en": ["Augment", "Amplify", "Aggrandize", "Exaggerate"]
+        },
+        "correctAnswer": {
+          "en": "Aggrandize"
+        },
+        "explanation": {
+          "en": "**Aggrandize** (शक्ति बढ़ाना/विस्तार करना) means to increase the power, status, or wealth of; sometimes implying exaggeration."
+        }
+      },
+      {
+        "id": 869,
+        "question": {
+          "en": "A person who is indifferent to pleasure or pain."
+        },
+        "options": {
+          "en": ["Hedonist", "Stoic", "Ascetic", "Cynic"]
+        },
+        "correctAnswer": {
+          "en": "Stoic"
+        },
+        "explanation": {
+          "en": "A **Stoic** (सुख-दुःख में सम) is a person who can endure pain or hardship without showing feelings or complaining."
+        }
+      },
+      {
+        "id": 870,
+        "question": {
+          "en": "A word or name that reads the same backward as forward."
+        },
+        "options": {
+          "en": ["Anagram", "Palindrom", "Homonym", "Acronym"]
+        },
+        "correctAnswer": {
+          "en": "Palindrom"
+        },
+        "explanation": {
+          "en": "A **Palindrom** (उभयाक्षरी शब्द/वाक्यांश) is a word, phrase, or sequence that reads the same backward as forward (e.g., Madam, Level, Refer)."
+        }
+      },
+      {
+        "id": 871,
+        "question": {
+          "en": "A person who is appointed by two parties to settle a dispute."
+        },
+        "options": {
+          "en": ["Advocate", "Arbiter", "Mediator", "Negotiator"]
+        },
+        "correctAnswer": {
+          "en": "Arbiter"
+        },
+        "explanation": {
+          "en": "An **Arbiter** (निर्णायक/मध्यस्थ) is a person who settles a dispute or has ultimate authority in a matter. (Similar to Arbitrator/Mediator)."
+        }
+      },
+      {
+        "id": 872,
+        "question": {
+          "en": "An underground place for storing wine or other provisions."
+        },
+        "options": {
+          "en": ["Attic", "Cellar", "Granary", "Vault"]
+        },
+        "correctAnswer": {
+          "en": "Cellar"
+        },
+        "explanation": {
+          "en": "A **Cellar** (तहखाना/भंडार गृह) is an underground room often used for storing wine, food, or fuel."
+        }
+      },
+      {
+        "id": 873,
+        "question": {
+          "en": "A person who is skilled at speaking or debating."
+        },
+        "options": {
+          "en": ["Rhetorician", "Linguist", "Orator", "Narrator"]
+        },
+        "correctAnswer": {
+          "en": "Orator"
+        },
+        "explanation": {
+          "en": "An **Orator** (वक्ता) is a public speaker, especially one who is eloquent or skilled."
+        }
+      },
+      {
+        "id": 874,
+        "question": {
+          "en": "A person who is a new convert to a religion or political party."
+        },
+        "options": {
+          "en": ["Novice", "Neophyte", "Amateur", "Tiro"]
+        },
+        "correctAnswer": {
+          "en": "Neophyte"
+        },
+        "explanation": {
+          "en": "A **Neophyte** (नवदीक्षित/नवागंतुक) is a person who is new to a subject, skill, or belief."
+        }
+      },
+      {
+        "id": 875,
+        "question": {
+          "en": "The study of the sound and structure of words."
+        },
+        "options": {
+          "en": ["Syntax", "Phonetics", "Morphology", "Semantics"]
+        },
+        "correctAnswer": {
+          "en": "Morphology"
+        },
+        "explanation": {
+          "en": "**Morphology** (शब्द-रूप विज्ञान) is the study of the forms of words and how they are structured."
+        }
+      },
+      {
+        "id": 876,
+        "question": {
+          "en": "To look at someone or something in an angry or threatening way."
+        },
+        "options": {
+          "en": ["Stare", "Gaze", "Glare", "Pry"]
+        },
+        "correctAnswer": {
+          "en": "Glare"
+        },
+        "explanation": {
+          "en": "**Glare** (गुस्से से घूरना) means to stare in an angry or fierce way."
+        }
+      },
+      {
+        "id": 877,
+        "question": {
+          "en": "A person who is skilled in the art of beautiful handwriting."
+        },
+        "options": {
+          "en": ["Cartographer", "Stenographer", "Calligrapher", "Choreographer"]
+        },
+        "correctAnswer": {
+          "en": "Calligrapher"
+        },
+        "explanation": {
+          "en": "A **Calligrapher** (सुलेखक) is a person skilled in the art of decorative handwriting."
+        }
+      },
+      {
+        "id": 878,
+        "question": {
+          "en": "The practice of having more than one wife at the same time."
+        },
+        "options": {
+          "en": ["Monogamy", "Polygamy", "Polyandry", "Bigamy"]
+        },
+        "correctAnswer": {
+          "en": "Polygamy"
+        },
+        "explanation": {
+          "en": "**Polygamy** (बहुविवाह) is the practice of having more than one spouse at one time (either multiple wives or multiple husbands)."
+        }
+      },
+      {
+        "id": 879,
+        "question": {
+          "en": "A system of government where only a small group of people hold power."
+        },
+        "options": {
+          "en": ["Monarchy", "Oligarchy", "Democracy", "Autocracy"]
+        },
+        "correctAnswer": {
+          "en": "Oligarchy"
+        },
+        "explanation": {
+          "en": "**Oligarchy** (कुलीनतंत्र) is a small group of people having control of a country or organization."
+        }
+      },
+      {
+        "id": 880,
+        "question": {
+          "en": "To clear a person from blame or guilt."
+        },
+        "options": {
+          "en": ["Accuse", "Convict", "Vindicate", "Exonerate"]
+        },
+        "correctAnswer": {
+          "en": "Exonerate"
+        },
+        "explanation": {
+          "en": "**Exonerate** (दोषमुक्त करना) means to clear (someone) of blame or fault."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_27",
+    "title": {
+      "en": "OWS Practice Set 8"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:25:00.000Z",
+    "questions": [
+      {
+        "id": 881,
+        "question": {
+          "en": "A system of government where power is held by the people or their elected representatives."
+        },
+        "options": {
+          "en": ["Monarchy", "Oligarchy", "Democracy", "Theocracy"]
+        },
+        "correctAnswer": {
+          "en": "Democracy"
+        },
+        "explanation": {
+          "en": "**Democracy** (लोकतंत्र) is a system of government by the whole population or all the eligible members of a state, typically through elected representatives."
+        }
+      },
+      {
+        "id": 882,
+        "question": {
+          "en": "A doctor who specializes in the study and treatment of heart diseases."
+        },
+        "options": {
+          "en": ["Neurologist", "Cardiologist", "Dermatologist", "Pediatrician"]
+        },
+        "correctAnswer": {
+          "en": "Cardiologist"
+        },
+        "explanation": {
+          "en": "A **Cardiologist** (हृदय रोग विशेषज्ञ) is a doctor specializing in the heart and its diseases."
+        }
+      },
+      {
+        "id": 883,
+        "question": {
+          "en": "Something that is no longer in use."
+        },
+        "options": {
+          "en": ["Ancient", "Archaic", "Obsolete", "Primitive"]
+        },
+        "correctAnswer": {
+          "en": "Obsolete"
+        },
+        "explanation": {
+          "en": "**Obsolete** (अप्रचलित) means no longer produced or used; out of date."
+        }
+      },
+      {
+        "id": 884,
+        "question": {
+          "en": "A person who is skilled in making predictions about the future."
+        },
+        "options": {
+          "en": ["Oracle", "Prophet", "Seer", "Soothsayer"]
+        },
+        "correctAnswer": {
+          "en": "Prophet"
+        },
+        "explanation": {
+          "en": "A **Prophet** (भविष्यवक्ता) is a person who speaks for God or a deity, or one who makes predictions about the future."
+        }
+      },
+      {
+        "id": 885,
+        "question": {
+          "en": "A humorous drawing dealing with current events or politics."
+        },
+        "options": {
+          "en": ["Sketch", "Portrait", "Caricature", "Cartoon"]
+        },
+        "correctAnswer": {
+          "en": "Cartoon"
+        },
+        "explanation": {
+          "en": "A **Cartoon** (व्यंग्यचित्र) is a drawing depicting a humorous or satirical situation, often related to politics or current affairs."
+        }
+      },
+      {
+        "id": 886,
+        "question": {
+          "en": "To speak or behave in a way that suggests one has superior knowledge."
+        },
+        "options": {
+          "en": ["Boast", "Pontificate", "Prophesy", "Exclaim"]
+        },
+        "correctAnswer": {
+          "en": "Pontificate"
+        },
+        "explanation": {
+          "en": "**Pontificate** (ज्ञान बघारना/अधिकारपूर्वक बोलना) means to express one's opinions in a pompous and dogmatic way."
+        }
+      },
+      {
+        "id": 887,
+        "question": {
+          "en": "A person who believes that war and violence are unjustifiable."
+        },
+        "options": {
+          "en": ["Anarchist", "Pacifist", "Atheist", "Fatalist"]
+        },
+        "correctAnswer": {
+          "en": "Pacifist"
+        },
+        "explanation": {
+          "en": "A **Pacifist** (शांतिवादी) is a person who believes that war and violence are unjustifiable."
+        }
+      },
+      {
+        "id": 888,
+        "question": {
+          "en": "The study of the sound of language."
+        },
+        "options": {
+          "en": ["Etymology", "Semantics", "Phonetics", "Syntax"]
+        },
+        "correctAnswer": {
+          "en": "Phonetics"
+        },
+        "explanation": {
+          "en": "**Phonetics** (ध्वनि विज्ञान) is the study and classification of speech sounds."
+        }
+      },
+      {
+        "id": 889,
+        "question": {
+          "en": "A person who is primarily motivated by self-interest."
+        },
+        "options": {
+          "en": ["Egoist", "Egocentric", "Altruist", "Hedonist"]
+        },
+        "correctAnswer": {
+          "en": "Egoist"
+        },
+        "explanation": {
+          "en": "An **Egoist** (अहंवादी) is a person who is primarily motivated by self-interest."
+        }
+      },
+      {
+        "id": 890,
+        "question": {
+          "en": "A brief or short stay at a place."
+        },
+        "options": {
+          "en": ["Residence", "Sojourn", "Vacation", "Exile"]
+        },
+        "correctAnswer": {
+          "en": "Sojourn"
+        },
+        "explanation": {
+          "en": "A **Sojourn** (अल्प प्रवास) is a temporary stay at one place."
+        }
+      },
+      {
+        "id": 891,
+        "question": {
+          "en": "A government run by old people."
+        },
+        "options": {
+          "en": ["Oligarchy", "Gerontocracy", "Plutocracy", "Autocracy"]
+        },
+        "correctAnswer": {
+          "en": "Gerontocracy"
+        },
+        "explanation": {
+          "en": "**Gerontocracy** (वृद्धावस्था शासन) is a state, society, or group governed by old people."
+        }
+      },
+      {
+        "id": 892,
+        "question": {
+          "en": "A long walk, especially as an exercise or for pleasure."
+        },
+        "options": {
+          "en": ["Hike", "Stride", "Stroll", "Trek"]
+        },
+        "correctAnswer": {
+          "en": "Stroll"
+        },
+        "explanation": {
+          "en": "A **Stroll** (टहलना/सैर) is a relaxed walk, typically for pleasure or exercise."
+        }
+      },
+      {
+        "id": 893,
+        "question": {
+          "en": "Something that is likely to catch fire easily."
+        },
+        "options": {
+          "en": ["Flammable", "Combustible", "Ignitable", "Volatile"]
+        },
+        "correctAnswer": {
+          "en": "Flammable"
+        },
+        "explanation": {
+          "en": "**Flammable** (ज्वलनशील) means easily set on fire."
+        }
+      },
+      {
+        "id": 894,
+        "question": {
+          "en": "A person who is fond of company."
+        },
+        "options": {
+          "en": ["Introvert", "Sociable", "Reserved", "Gregarious"]
+        },
+        "correctAnswer": {
+          "en": "Gregarious"
+        },
+        "explanation": {
+          "en": "**Gregarious** (मिलनसार/झुंड में रहने वाला) means fond of company; sociable."
+        }
+      },
+      {
+        "id": 895,
+        "question": {
+          "en": "A statement or theory that is put forward as a premise to be maintained or proved."
+        },
+        "options": {
+          "en": ["Thesis", "Antithesis", "Hypothesis", "Assumption"]
+        },
+        "correctAnswer": {
+          "en": "Thesis"
+        },
+        "explanation": {
+          "en": "A **Thesis** (शोध प्रबंध/मुख्य विचार) is a statement or theory that is put forward as a premise to be maintained or proved."
+        }
+      },
+      {
+        "id": 896,
+        "question": {
+          "en": "A person who is skilled in horsemanship."
+        },
+        "options": {
+          "en": ["Jockey", "Equestrian", "Rider", "Cavalier"]
+        },
+        "correctAnswer": {
+          "en": "Equestrian"
+        },
+        "explanation": {
+          "en": "An **Equestrian** (घुड़सवार) is a rider or performer on horseback."
+        }
+      },
+      {
+        "id": 897,
+        "question": {
+          "en": "The study of the structure of the human body."
+        },
+        "options": {
+          "en": ["Physiology", "Psychology", "Anatomy", "Biology"]
+        },
+        "correctAnswer": {
+          "en": "Anatomy"
+        },
+        "explanation": {
+          "en": "**Anatomy** (शरीर-रचना विज्ञान) is the branch of science concerned with the bodily structure of humans, animals, and other organisms."
+        }
+      },
+      {
+        "id": 898,
+        "question": {
+          "en": "A person who hates or distrusts humankind."
+        },
+        "options": {
+          "en": ["Philanthropist", "Misogynist", "Misanthrope", "Altruist"]
+        },
+        "correctAnswer": {
+          "en": "Misanthrope"
+        },
+        "explanation": {
+          "en": "A **Misanthrope** (मनुष्य-द्वेषी) is a person who dislikes humankind and avoids human society."
+        }
+      },
+      {
+        "id": 899,
+        "question": {
+          "en": "The act of speaking one's thoughts aloud when alone."
+        },
+        "options": {
+          "en": ["Dialogue", "Monologue", "Soliloquy", "Discourse"]
+        },
+        "correctAnswer": {
+          "en": "Soliloquy"
+        },
+        "explanation": {
+          "en": "A **Soliloquy** (स्वगत भाषण) is an act of speaking one's thoughts aloud when by oneself or regardless of any hearers."
+        }
+      },
+      {
+        "id": 900,
+        "question": {
+          "en": "To clear from accusation or suspicion."
+        },
+        "options": {
+          "en": ["Acquit", "Vindicate", "Condemn", "Exonerate"]
+        },
+        "correctAnswer": {
+          "en": "Exonerate"
+        },
+        "explanation": {
+          "en": "**Exonerate** (दोषमुक्त करना) means to clear (someone) of blame or fault."
+        }
+      },
+      {
+        "id": 901,
+        "question": {
+          "en": "A person who lives a life of rigid self-denial, especially for religious reasons."
+        },
+        "options": {
+          "en": ["Hermit", "Skeptic", "Ascetic", "Recluse"]
+        },
+        "correctAnswer": {
+          "en": "Ascetic"
+        },
+        "explanation": {
+          "en": "An **Ascetic** (तपस्वी) is characterized by severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons."
+        }
+      },
+      {
+        "id": 902,
+        "question": {
+          "en": "Something that is incapable of being tired or exhausted."
+        },
+        "options": {
+          "en": ["Invincible", "Indefatigable", "Impregnable", "Insuperable"]
+        },
+        "correctAnswer": {
+          "en": "Indefatigable"
+        },
+        "explanation": {
+          "en": "**Indefatigable** (अथक/अनथक) means (of a person or their efforts) persisting tirelessly."
+        }
+      },
+      {
+        "id": 903,
+        "question": {
+          "en": "The ability to read one's thoughts by supernatural means."
+        },
+        "options": {
+          "en": ["Telepathy", "Clairvoyance", "Omniscience", "Divination"]
+        },
+        "correctAnswer": {
+          "en": "Telepathy"
+        },
+        "explanation": {
+          "en": "**Telepathy** (मानसिक दूरसंचार) is the supposed communication of thoughts or ideas by means other than the known senses."
+        }
+      },
+      {
+        "id": 904,
+        "question": {
+          "en": "The study of ancient writings and inscriptions."
+        },
+        "options": {
+          "en": ["Graphology", "Epigraphy", "Archaeology", "Calligraphy"]
+        },
+        "correctAnswer": {
+          "en": "Epigraphy"
+        },
+        "explanation": {
+          "en": "**Epigraphy** (शिलालेखन विज्ञान) is the study and interpretation of ancient inscriptions."
+        }
+      },
+      {
+        "id": 905,
+        "question": {
+          "en": "A small shelter for a dog."
+        },
+        "options": {
+          "en": ["Barn", "Hutch", "Kennel", "Den"]
+        },
+        "correctAnswer": {
+          "en": "Kennel"
+        },
+        "explanation": {
+          "en": "A **Kennel** (कुत्ता घर) is a small shelter for a dog or cat."
+        }
+      },
+      {
+        "id": 906,
+        "question": {
+          "en": "A statement that is open to more than one interpretation."
+        },
+        "options": {
+          "en": ["Ambiguous", "Vague", "Dubious", "Uncertain"]
+        },
+        "correctAnswer": {
+          "en": "Ambiguous"
+        },
+        "explanation": {
+          "en": "**Ambiguous** (अस्पष्ट/अनेकार्थक) means open to more than one interpretation; having a double meaning."
+        }
+      },
+      {
+        "id": 907,
+        "question": {
+          "en": "The quality of being brief and concise in speech or writing."
+        },
+        "options": {
+          "en": ["Loquacity", "Verbosity", "Brevity", "Eloquence"]
+        },
+        "correctAnswer": {
+          "en": "Brevity"
+        },
+        "explanation": {
+          "en": "**Brevity** (संक्षिप्तता) is concise and exact use of words in writing or speech."
+        }
+      },
+      {
+        "id": 908,
+        "question": {
+          "en": "A person who is skilled in judging food, wine, or art."
+        },
+        "options": {
+          "en": ["Epicure", "Gourmet", "Connoisseur", "Critic"]
+        },
+        "correctAnswer": {
+          "en": "Connoisseur"
+        },
+        "explanation": {
+          "en": "A **Connoisseur** (विशेषज्ञ/गुणज्ञ) is an expert judge in matters of taste (e.g., in the fine arts or food)."
+        }
+      },
+      {
+        "id": 909,
+        "question": {
+          "en": "A person who is primarily motivated by money and gain."
+        },
+        "options": {
+          "en": ["Materialist", "Avaricious", "Mercenary", "Miser"]
+        },
+        "correctAnswer": {
+          "en": "Mercenary"
+        },
+        "explanation": {
+          "en": "A **Mercenary** (किराये का/केवल धन के लिए काम करने वाला) is primarily concerned with making money at the expense of ethics, serving only money."
+        }
+      },
+      {
+        "id": 910,
+        "question": {
+          "en": "To clear a person from a charge or suspicion."
+        },
+        "options": {
+          "en": ["Vindicate", "Absolve", "Acquit", "Forgive"]
+        },
+        "correctAnswer": {
+          "en": "Vindicate"
+        },
+        "explanation": {
+          "en": "**Vindicate** (दोषमुक्ति साबित करना) means to clear (someone) of blame or suspicion."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_28",
+    "title": {
+      "en": "OWS Practice Set 9"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:30:00.000Z",
+    "questions": [
+      {
+        "id": 911,
+        "question": {
+          "en": "The study of the relationship between organisms and their environment."
+        },
+        "options": {
+          "en": ["Zoology", "Ecology", "Anthropology", "Botany"]
+        },
+        "correctAnswer": {
+          "en": "Ecology"
+        },
+        "explanation": {
+          "en": "**Ecology** (पारिस्थितिकी) is the branch of biology that deals with the relations of organisms to one another and to their physical surroundings."
+        }
+      },
+      {
+        "id": 912,
+        "question": {
+          "en": "A person who sacrifices his life for a cause."
+        },
+        "options": {
+          "en": ["Patriot", "Martyr", "Revolutionary", "Traitor"]
+        },
+        "correctAnswer": {
+          "en": "Martyr"
+        },
+        "explanation": {
+          "en": "A **Martyr** (शहीद) is a person who is killed because of their religious or other beliefs."
+        }
+      },
+      {
+        "id": 913,
+        "question": {
+          "en": "The art of writing or drawing on maps."
+        },
+        "options": {
+          "en": ["Geography", "Cartography", "Topography", "Geology"]
+        },
+        "correctAnswer": {
+          "en": "Cartography"
+        },
+        "explanation": {
+          "en": "**Cartography** (मानचित्र-कला) is the science or practice of drawing maps."
+        }
+      },
+      {
+        "id": 914,
+        "question": {
+          "en": "Something that is done for the first time."
+        },
+        "options": {
+          "en": ["Newfangled", "Unprecedented", "Innovative", "Original"]
+        },
+        "correctAnswer": {
+          "en": "Unprecedented"
+        },
+        "explanation": {
+          "en": "**Unprecedented** (अभूतपूर्व) means never having happened or existed before."
+        }
+      },
+      {
+        "id": 915,
+        "question": {
+          "en": "A person who is known for his love of wine."
+        },
+        "options": {
+          "en": ["Epicure", "Gourmet", "Oenophile", "Glutton"]
+        },
+        "correctAnswer": {
+          "en": "Oenophile"
+        },
+        "explanation": {
+          "en": "An **Oenophile** (शराब प्रेमी) is a person who is a connoisseur of or lover of wine."
+        }
+      },
+      {
+        "id": 916,
+        "question": {
+          "en": "A piece of writing that praises someone highly, especially a deceased person."
+        },
+        "options": {
+          "en": ["Eulogy", "Ode", "Elegy", "Sonnet"]
+        },
+        "correctAnswer": {
+          "en": "Eulogy"
+        },
+        "explanation": {
+          "en": "A **Eulogy** (प्रशंसा भाषण) is a speech or piece of writing that praises someone or something highly, typically someone who has just died."
+        }
+      },
+      {
+        "id": 917,
+        "question": {
+          "en": "A general pardon for offenses against a state."
+        },
+        "options": {
+          "en": ["Amnesty", "Parole", "Acquittal", "Respite"]
+        },
+        "correctAnswer": {
+          "en": "Amnesty"
+        },
+        "explanation": {
+          "en": "**Amnesty** (राजक्षमा) is an official pardon for people who have been convicted of political offenses."
+        }
+      },
+      {
+        "id": 918,
+        "question": {
+          "en": "A person who is primarily interested in material gain and pleasures."
+        },
+        "options": {
+          "en": ["Materialist", "Hedonist", "Stoic", "Ascetic"]
+        },
+        "correctAnswer": {
+          "en": "Materialist"
+        },
+        "explanation": {
+          "en": "A **Materialist** (भौतिकवादी) is a person who is excessively concerned with material possessions and wealth."
+        }
+      },
+      {
+        "id": 919,
+        "question": {
+          "en": "An apartment building in which each apartment is owned by the person living in it."
+        },
+        "options": {
+          "en": ["Apartment", "Dormitory", "Condominium", "Tenement"]
+        },
+        "correctAnswer": {
+          "en": "Condominium"
+        },
+        "explanation": {
+          "en": "A **Condominium** (स्वामित्व फ्लैट) is a building or complex of buildings containing a number of individually owned apartments or houses."
+        }
+      },
+      {
+        "id": 920,
+        "question": {
+          "en": "One who can be easily tricked or fooled."
+        },
+        "options": {
+          "en": ["Infallible", "Gullible", "Sceptic", "Credulous"]
+        },
+        "correctAnswer": {
+          "en": "Gullible"
+        },
+        "explanation": {
+          "en": "**Gullible** (भोला/आसानी से ठगा जाने वाला) means easily persuaded to believe something; easily fooled."
+        }
+      },
+      {
+        "id": 921,
+        "question": {
+          "en": "The study of the origin and history of words."
+        },
+        "options": {
+          "en": ["Philology", "Lexicography", "Etymology", "Semantics"]
+        },
+        "correctAnswer": {
+          "en": "Etymology"
+        },
+        "explanation": {
+          "en": "**Etymology** (व्युत्पत्ति विज्ञान) is the study of the origin of words and the way their meanings have changed throughout history."
+        }
+      },
+      {
+        "id": 922,
+        "question": {
+          "en": "A person who is skilled at performing dazzling feats of juggling, sleight of hand, etc."
+        },
+        "options": {
+          "en": ["Acrobat", "Magician", "Juggler", "Conjurer"]
+        },
+        "correctAnswer": {
+          "en": "Conjurer"
+        },
+        "explanation": {
+          "en": "A **Conjurer** (जादूगर/इन्द्रजाली) is a person who performs impressive tricks involving sleight of hand."
+        }
+      },
+      {
+        "id": 923,
+        "question": {
+          "en": "An area of land covered with low bushes and shrubs."
+        },
+        "options": {
+          "en": ["Grove", "Thicket", "Orchard", "Forest"]
+        },
+        "correctAnswer": {
+          "en": "Thicket"
+        },
+        "explanation": {
+          "en": "A **Thicket** (झाड़ी/झाड़ियों का झुरमुट) is a dense group of bushes or trees."
+        }
+      },
+      {
+        "id": 924,
+        "question": {
+          "en": "The act of compelling or forcing someone to do something."
+        },
+        "options": {
+          "en": ["Coercion", "Persuasion", "Entreaty", "Inducement"]
+        },
+        "correctAnswer": {
+          "en": "Coercion"
+        },
+        "explanation": {
+          "en": "**Coercion** (दबाव/ज़ोर-जबरदस्ती) is the practice of persuading someone to do something by using force or threats."
+        }
+      },
+      {
+        "id": 925,
+        "question": {
+          "en": "A child of unusual or remarkable talent."
+        },
+        "options": {
+          "en": ["Prodigy", "Genius", "Expert", "Talent"]
+        },
+        "correctAnswer": {
+          "en": "Prodigy"
+        },
+        "explanation": {
+          "en": "A **Prodigy** (प्रतिभाशाली बच्चा) is a person, especially a child, with exceptional qualities or abilities."
+        }
+      },
+      {
+        "id": 926,
+        "question": {
+          "en": "The loss of ability to feel pain while still conscious."
+        },
+        "options": {
+          "en": ["Amnesia", "Paralysis", "Analgesia", "Insomnia"]
+        },
+        "correctAnswer": {
+          "en": "Analgesia"
+        },
+        "explanation": {
+          "en": "**Analgesia** (पीड़ाहरता/दर्द का अभाव) is the inability to feel pain."
+        }
+      },
+      {
+        "id": 927,
+        "question": {
+          "en": "An imaginary ideal society free of poverty and suffering."
+        },
+        "options": {
+          "en": ["Paradise", "Utopia", "Elysium", "Arcadia"]
+        },
+        "correctAnswer": {
+          "en": "Utopia"
+        },
+        "explanation": {
+          "en": "**Utopia** (आदर्श राज्य) is an imagined place or state of things in which everything is perfect."
+        }
+      },
+      {
+        "id": 928,
+        "question": {
+          "en": "A person who is reserved, thoughtful, and tends to rely on inner feelings."
+        },
+        "options": {
+          "en": ["Introvert", "Extrovert", "Ambivert", "Egoist"]
+        },
+        "correctAnswer": {
+          "en": "Introvert"
+        },
+        "explanation": {
+          "en": "An **Introvert** (अंतर्मुखी) is a person predominantly concerned with their own thoughts and feelings rather than with external things."
+        }
+      },
+      {
+        "id": 929,
+        "question": {
+          "en": "A person who is skilled at telling stories."
+        },
+        "options": {
+          "en": ["Lecturer", "Narrator", "Raconteur", "Orator"]
+        },
+        "correctAnswer": {
+          "en": "Raconteur"
+        },
+        "explanation": {
+          "en": "A **Raconteur** (कहानीकार) is a person who tells anecdotes in a skillful and amusing way."
+        }
+      },
+      {
+        "id": 930,
+        "question": {
+          "en": "The scientific study of the diseases of animals."
+        },
+        "options": {
+          "en": ["Pathology", "Etiology", "Veterinary", "Epidemiology"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "**Veterinary** (पशु-चिकित्सा) medicine deals with the prevention, control, diagnosis, and treatment of disease, disorder, and injury in animals."
+        }
+      },
+      {
+        "id": 931,
+        "question": {
+          "en": "A person who believes in the goodness and honesty of people."
+        },
+        "options": {
+          "en": ["Sceptic", "Cynic", "Idealist", "Optimist"]
+        },
+        "correctAnswer": {
+          "en": "Idealist"
+        },
+        "explanation": {
+          "en": "An **Idealist** (आदर्शवादी) is a person who is guided by ideals rather than by practical considerations, often having a belief in the perfectibility of human nature."
+        }
+      },
+      {
+        "id": 932,
+        "question": {
+          "en": "A person who is completely self-sufficient and independent."
+        },
+        "options": {
+          "en": ["Autonomous", "Autocrat", "Autarkic", "Oligarch"]
+        },
+        "correctAnswer": {
+          "en": "Autarkic"
+        },
+        "explanation": {
+          "en": "**Autarkic** (आत्मनिर्भर) means economically self-sufficient."
+        }
+      },
+      {
+        "id": 933,
+        "question": {
+          "en": "A humorous imitation of a serious piece of literature or work."
+        },
+        "options": {
+          "en": ["Satire", "Parody", "Burlesque", "Travesty"]
+        },
+        "correctAnswer": {
+          "en": "Parody"
+        },
+        "explanation": {
+          "en": "A **Parody** (हास्य अनुकरण) is an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect."
+        }
+      },
+      {
+        "id": 934,
+        "question": {
+          "en": "Something that is no longer in existence or active."
+        },
+        "options": {
+          "en": ["Extinct", "Obsolete", "Defunct", "Wiped out"]
+        },
+        "correctAnswer": {
+          "en": "Defunct"
+        },
+        "explanation": {
+          "en": "**Defunct** (समाप्त/मृत) means no longer existing or functioning."
+        }
+      },
+      {
+        "id": 935,
+        "question": {
+          "en": "The study of mountains."
+        },
+        "options": {
+          "en": ["Geology", "Orology", "Topography", "Seismology"]
+        },
+        "correctAnswer": {
+          "en": "Orology"
+        },
+        "explanation": {
+          "en": "**Orology** (पर्वत विज्ञान) is the study of mountains and their formation."
+        }
+      },
+      {
+        "id": 936,
+        "question": {
+          "en": "A government that is controlled by one person with absolute power."
+        },
+        "options": {
+          "en": ["Monarchy", "Autocracy", "Tyranny", "Dictatorship"]
+        },
+        "correctAnswer": {
+          "en": "Autocracy"
+        },
+        "explanation": {
+          "en": "**Autocracy** (एकतंत्र) is a system of government by one person with absolute power."
+        }
+      },
+      {
+        "id": 937,
+        "question": {
+          "en": "A temporary suspension of an ongoing activity."
+        },
+        "options": {
+          "en": ["Adjournment", "Suspension", "Recess", "Interruption"]
+        },
+        "correctAnswer": {
+          "en": "Recess"
+        },
+        "explanation": {
+          "en": "A **Recess** (विराम/अवकाश) is a temporary cessation from work or activity."
+        }
+      },
+      {
+        "id": 938,
+        "question": {
+          "en": "A person who is famous and respected for professional achievements."
+        },
+        "options": {
+          "en": ["Notorious", "Eminent", "Illustrious", "Celebrity"]
+        },
+        "correctAnswer": {
+          "en": "Eminent"
+        },
+        "explanation": {
+          "en": "**Eminent** (प्रख्यात/प्रतिष्ठित) means famous and respected within a particular sphere."
+        }
+      },
+      {
+        "id": 939,
+        "question": {
+          "en": "A place where government records are kept."
+        },
+        "options": {
+          "en": ["Museum", "Library", "Archive", "Treasury"]
+        },
+        "correctAnswer": {
+          "en": "Archive"
+        },
+        "explanation": {
+          "en": "An **Archive** (अभिलेख-गृह) is a collection of historical documents or records providing information about a place, institution, or group of people."
+        }
+      },
+      {
+        "id": 940,
+        "question": {
+          "en": "The burial ceremony of a dead person."
+        },
+        "options": {
+          "en": ["Cremation", "Interment", "Obsequies", "Eulogy"]
+        },
+        "correctAnswer": {
+          "en": "Obsequies"
+        },
+        "explanation": {
+          "en": "**Obsequies** (अंतिम संस्कार) are funeral rites."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_ows_practice_29",
+    "title": {
+      "en": "OWS Practice Set 10"
+    },
+    "category": "OWS",
+    "createdAt": "2025-11-12T09:35:00.000Z",
+    "questions": [
+      {
+        "id": 941,
+        "question": {
+          "en": "A person who is skilled in the art of beautiful handwriting."
+        },
+        "options": {
+          "en": ["Calligrapher", "Stenographer", "Lexicographer", "Graphologist"]
+        },
+        "correctAnswer": {
+          "en": "Calligrapher"
+        },
+        "explanation": {
+          "en": "A **Calligrapher** (सुलेखक) is a person skilled in the art of decorative handwriting."
+        }
+      },
+      {
+        "id": 942,
+        "question": {
+          "en": "A medicine taken to counteract a particular poison."
+        },
+        "options": {
+          "en": ["Tonic", "Antidote", "Antiseptic", "Panacea"]
+        },
+        "correctAnswer": {
+          "en": "Antidote"
+        },
+        "explanation": {
+          "en": "An **Antidote** (विषनाशक) is a medicine or other remedy for counteracting the effects of a poison."
+        }
+      },
+      {
+        "id": 943,
+        "question": {
+          "en": "The study of the development of plants and animals from earlier forms."
+        },
+        "options": {
+          "en": ["Evolution", "Genetics", "Morphology", "Ecology"]
+        },
+        "correctAnswer": {
+          "en": "Evolution"
+        },
+        "explanation": {
+          "en": "**Evolution** (विकास) is the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth."
+        }
+      },
+      {
+        "id": 944,
+        "question": {
+          "en": "The act of speaking ill of God or sacred things."
+        },
+        "options": {
+          "en": ["Sacrilege", "Heresy", "Blasphemy", "Apostasy"]
+        },
+        "correctAnswer": {
+          "en": "Blasphemy"
+        },
+        "explanation": {
+          "en": "**Blasphemy** (ईशनिंदा) is the act or offense of speaking sacrilegiously about God or sacred things."
+        }
+      },
+      {
+        "id": 945,
+        "question": {
+          "en": "A person who is primarily concerned with human welfare and the advancement of humanity."
+        },
+        "options": {
+          "en": ["Altruist", "Philanthropist", "Optimist", "Egoist"]
+        },
+        "correctAnswer": {
+          "en": "Philanthropist"
+        },
+        "explanation": {
+          "en": "A **Philanthropist** (परोपकारी/जनहितैषी) is a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes."
+        }
+      },
+      {
+        "id": 946,
+        "question": {
+          "en": "To clear a person from an accusation."
+        },
+        "options": {
+          "en": ["Acquit", "Vindicate", "Condemn", "Exonerate"]
+        },
+        "correctAnswer": {
+          "en": "Exonerate"
+        },
+        "explanation": {
+          "en": "**Exonerate** (दोषमुक्त करना) means to clear (someone) of blame or fault."
+        }
+      },
+      {
+        "id": 947,
+        "question": {
+          "en": "A building where an audience sits during a performance."
+        },
+        "options": {
+          "en": ["Amphitheatre", "Auditorium", "Hangar", "Arena"]
+        },
+        "correctAnswer": {
+          "en": "Auditorium"
+        },
+        "explanation": {
+          "en": "An **Auditorium** (सभागार) is the part of a theatre, concert hall, or other public building in which the audience sits."
+        }
+      },
+      {
+        "id": 948,
+        "question": {
+          "en": "A person who is skilled in making predictions about the future."
+        },
+        "options": {
+          "en": ["Prophet", "Soothsayer", "Oracle", "Astrologer"]
+        },
+        "correctAnswer": {
+          "en": "Soothsayer"
+        },
+        "explanation": {
+          "en": "A **Soothsayer** (भविष्यवक्ता) is a person supposed to be able to foresee the future."
+        }
+      },
+      {
+        "id": 949,
+        "question": {
+          "en": "Something that is sure to happen."
+        },
+        "options": {
+          "en": ["Infallible", "Inevitable", "Unavoidable", "Immutable"]
+        },
+        "correctAnswer": {
+          "en": "Inevitable"
+        },
+        "explanation": {
+          "en": "**Inevitable** (अपरिहार्य) means certain to happen; unavoidable."
+        }
+      },
+      {
+        "id": 950,
+        "question": {
+          "en": "The quality of being open and honest."
+        },
+        "options": {
+          "en": ["Sincerity", "Veracity", "Candour", "Fidelity"]
+        },
+        "correctAnswer": {
+          "en": "Candour"
+        },
+        "explanation": {
+          "en": "**Candour** (सच्चाई/ईमानदारी) means the quality of being open and honest in expression; frankness."
+        }
+      },
+      {
+        "id": 951,
+        "question": {
+          "en": "A person who is unable to pay his debts."
+        },
+        "options": {
+          "en": ["Bankrupt", "Debtor", "Borrower", "Miser"]
+        },
+        "correctAnswer": {
+          "en": "Bankrupt"
+        },
+        "explanation": {
+          "en": "**Bankrupt** (दिवालिया) means a person judged to be unable to pay outstanding debts."
+        }
+      },
+      {
+        "id": 952,
+        "question": {
+          "en": "A piece of writing that is exaggerated for humorous effect."
+        },
+        "options": {
+          "en": ["Caricature", "Satire", "Parody", "Burlesque"]
+        },
+        "correctAnswer": {
+          "en": "Parody"
+        },
+        "explanation": {
+          "en": "A **Parody** (हास्य अनुकरण) is an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect."
+        }
+      },
+      {
+        "id": 953,
+        "question": {
+          "en": "A continuous process of change."
+        },
+        "options": {
+          "en": ["Stagnation", "Flux", "Flow", "Stability"]
+        },
+        "correctAnswer": {
+          "en": "Flux"
+        },
+        "explanation": {
+          "en": "**Flux** (सतत परिवर्तन/प्रवाह) is the action or process of flowing or constantly changing."
+        }
+      },
+      {
+        "id": 954,
+        "question": {
+          "en": "A place where the sick are cared for."
+        },
+        "options": {
+          "en": ["Sanatorium", "Asylum", "Infirmary", "Dormitory"]
+        },
+        "correctAnswer": {
+          "en": "Infirmary"
+        },
+        "explanation": {
+          "en": "An **Infirmary** (रोगशाला) is a place in a large institution or building for the care of people who are ill."
+        }
+      },
+      {
+        "id": 955,
+        "question": {
+          "en": "The study of coins and medals."
+        },
+        "options": {
+          "en": ["Philately", "Numismatics", "Epigraphy", "Cartography"]
+        },
+        "correctAnswer": {
+          "en": "Numismatics"
+        },
+        "explanation": {
+          "en": "**Numismatics** (सिक्का शास्त्र) is the study or collection of coins, banknotes, and medals."
+        }
+      },
+      {
+        "id": 956,
+        "question": {
+          "en": "A disease that affects many people at the same time and spreads over a wide area."
+        },
+        "options": {
+          "en": ["Contagious", "Endemic", "Epidemic", "Pandemic"]
+        },
+        "correctAnswer": {
+          "en": "Epidemic"
+        },
+        "explanation": {
+          "en": "An **Epidemic** (महामारी) is a widespread occurrence of an infectious disease in a community at a particular time. If it spreads globally, it's a **Pandemic**."
+        }
+      },
+      {
+        "id": 957,
+        "question": {
+          "en": "A word with the same meaning as another."
+        },
+        "options": {
+          "en": ["Antonym", "Homonym", "Synonym", "Acronym"]
+        },
+        "correctAnswer": {
+          "en": "Synonym"
+        },
+        "explanation": {
+          "en": "A **Synonym** (पर्यायवाची) is a word or phrase that means exactly or nearly the same as another word or phrase in the same language."
+        }
+      },
+      {
+        "id": 958,
+        "question": {
+          "en": "A sudden rush of wind."
+        },
+        "options": {
+          "en": ["Squall", "Breeze", "Gust", "Gale"]
+        },
+        "correctAnswer": {
+          "en": "Gust"
+        },
+        "explanation": {
+          "en": "A **Gust** (झोंका) is a sudden brief rush of wind."
+        }
+      },
+      {
+        "id": 959,
+        "question": {
+          "en": "A person who believes in fate."
+        },
+        "options": {
+          "en": ["Atheist", "Fatalist", "Sceptic", "Theist"]
+        },
+        "correctAnswer": {
+          "en": "Fatalist"
+        },
+        "explanation": {
+          "en": "A **Fatalist** (भाग्यवादी) believes that all events are predetermined and therefore inevitable."
+        }
+      },
+      {
+        "id": 960,
+        "question": {
+          "en": "Something that lasts only for a short time."
+        },
+        "options": {
+          "en": ["Temporary", "Perpetual", "Ephemeral", "Enduring"]
+        },
+        "correctAnswer": {
+          "en": "Ephemeral"
+        },
+        "explanation": {
+          "en": "**Ephemeral** (क्षणभंगुर) means lasting for a very short time."
+        }
+      },
+      {
+        "id": 961,
+        "question": {
+          "en": "A person who is highly skilled in a specific art or field."
+        },
+        "options": {
+          "en": ["Amateur", "Maestro", "Novice", "Dilettante"]
+        },
+        "correctAnswer": {
+          "en": "Maestro"
+        },
+        "explanation": {
+          "en": "A **Maestro** (विशेषज्ञ/उस्ताद) is a highly skilled person in a particular field, especially music or art."
+        }
+      },
+      {
+        "id": 962,
+        "question": {
+          "en": "The study of the earth's crust and rocks."
+        },
+        "options": {
+          "en": ["Geography", "Geology", "Zoology", "Archaeology"]
+        },
+        "correctAnswer": {
+          "en": "Geology"
+        },
+        "explanation": {
+          "en": "**Geology** (भूविज्ञान) is the science which deals with the physical structure and substance of the earth, their history, and the processes which act upon them."
+        }
+      },
+      {
+        "id": 963,
+        "question": {
+          "en": "A large enclosure for keeping birds."
+        },
+        "options": {
+          "en": ["Aquarium", "Apiary", "Aviary", "Sanctuary"]
+        },
+        "correctAnswer": {
+          "en": "Aviary"
+        },
+        "explanation": {
+          "en": "An **Aviary** (पक्षीशाला) is a large cage, building, or enclosure for keeping birds."
+        }
+      },
+      {
+        "id": 964,
+        "question": {
+          "en": "A person who is easily deceived or tricked."
+        },
+        "options": {
+          "en": ["Gullible", "Credulous", "Innocent", "Naive"]
+        },
+        "correctAnswer": {
+          "en": "Gullible"
+        },
+        "explanation": {
+          "en": "**Gullible** (भोला/आसानी से ठगा जाने वाला) means easily persuaded to believe something; credulous."
+        }
+      },
+      {
+        "id": 965,
+        "question": {
+          "en": "A person who is hostile to or despises the beliefs and values of others."
+        },
+        "options": {
+          "en": ["Fanatic", "Iconoclast", "Cynic", "Misanthrope"]
+        },
+        "correctAnswer": {
+          "en": "Iconoclast"
+        },
+        "explanation": {
+          "en": "An **Iconoclast** (परंपरा तोड़ने वाला) is a person who attacks cherished beliefs or institutions."
+        }
+      },
+      {
+        "id": 966,
+        "question": {
+          "en": "The act of giving up one's throne."
+        },
+        "options": {
+          "en": ["Resignation", "Retirement", "Abdication", "Relinquishment"]
+        },
+        "correctAnswer": {
+          "en": "Abdication"
+        },
+        "explanation": {
+          "en": "**Abdication** (राज-त्याग) is the act of formally giving up one's throne or position of authority."
+        }
+      },
+      {
+        "id": 967,
+        "question": {
+          "en": "A person appointed to represent two parties to settle a dispute."
+        },
+        "options": {
+          "en": ["Mediator", "Negotiator", "Advocate", "Arbitrator"]
+        },
+        "correctAnswer": {
+          "en": "Arbitrator"
+        },
+        "explanation": {
+          "en": "An **Arbitrator** (पंच/मध्यस्थ) is an independent person officially appointed to settle a dispute."
+        }
+      },
+      {
+        "id": 968,
+        "question": {
+          "en": "A difficult situation in which any possible course of action results in a negative outcome."
+        },
+        "options": {
+          "en": ["Impasse", "Dilemma", "Quandary", "Crisis"]
+        },
+        "correctAnswer": {
+          "en": "Dilemma"
+        },
+        "explanation": {
+          "en": "A **Dilemma** (दुविधा) is a situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones."
+        }
+      },
+      {
+        "id": 969,
+        "question": {
+          "en": "A person who is indifferent to pleasure or pain."
+        },
+        "options": {
+          "en": ["Hedonist", "Stoic", "Ascetic", "Apathetic"]
+        },
+        "correctAnswer": {
+          "en": "Stoic"
+        },
+        "explanation": {
+          "en": "A **Stoic** (सुख-दुःख में सम) is a person who can endure pain or hardship without showing their feelings or complaining."
+        }
+      },
+      {
+        "id": 970,
+        "question": {
+          "en": "The study of the nature of existence, being, and the world."
+        },
+        "options": {
+          "en": ["Epistemology", "Metaphysics", "Aesthetics", "Ethics"]
+        },
+        "correctAnswer": {
+          "en": "Metaphysics"
+        },
+        "explanation": {
+          "en": "**Metaphysics** (तत्त्व मीमांसा) is the branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space."
+        }
+      }
+    ]
+  }
+]
