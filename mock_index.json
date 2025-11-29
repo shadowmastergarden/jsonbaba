@@ -1,7 +1,7 @@
 {
   "mocks": [
 
-    /* ---------------- GA (GK) ---------------- */
+   
     {
       "name": "geography_tests",
       "category": "gk",
@@ -28,14 +28,14 @@
       "link": "https://jsonbaba.pages.dev/mock/GA/static_gk_tests.json"
     },
 
-    /* ---------------- Computer ---------------- */
+   
     {
       "name": "computer_tests",
       "category": "computer",
       "link": "https://jsonbaba.pages.dev/mock/computer/computer_tests.json"
     },
 
-    /* ---------------- English ---------------- */
+  
     {
       "name": "Idioms",
       "category": "english",
@@ -72,7 +72,7 @@
       "link": "https://jsonbaba.pages.dev/mock/english/vocab.json"
     },
 
-    /* ---------------- Math ---------------- */
+
     {
       "name": "Ratio",
       "category": "math",
@@ -144,7 +144,6 @@
       "link": "https://jsonbaba.pages.dev/mock/math/time_and_work.json"
     },
 
-    /* ---------------- Reasoning ---------------- */
     {
       "name": "reasoning_tests",
       "category": "reasoning",
