@@ -1,0 +1,4753 @@
+[
+  {
+    "id": "ssc_cgl_idioms_practice_2",
+    "title": {
+      "en": "Idioms Practice Set 2"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T09:40:00.000Z",
+    "questions": [
+      {
+        "id": 51,
+        "question": {
+          "en": "To throw cold water on"
+        },
+        "options": {
+          "en": ["To encourage the spirit", "To discourage the enthusiasm", "To waste a good opportunity", "To get rid of a bad habit"]
+        },
+        "correctAnswer": {
+          "en": "To discourage the enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के उत्साह को कम करना या उस पर पानी फेरना। (To discourage the enthusiasm of a person or dampen an idea.)"
+        }
+      },
+      {
+        "id": 52,
+        "question": {
+          "en": "To burn the midnight oil"
+        },
+        "options": {
+          "en": ["To waste electricity", "To work late into the night", "To cook food at night", "To get up early in the morning"]
+        },
+        "correctAnswer": {
+          "en": "To work late into the night"
+        },
+        "explanation": {
+          "en": "Meaning: देर रात तक मेहनत करना। (To work or study hard late into the night.)"
+        }
+      },
+      {
+        "id": 53,
+        "question": {
+          "en": "To put a spoke in one's wheel"
+        },
+        "options": {
+          "en": ["To help someone in their work", "To be involved in an accident", "To prevent the execution of a design", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To prevent the execution of a design"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के काम में बाधा डालना। (To hinder or thwart someone in the execution of their plan.)"
+        }
+      },
+      {
+        "id": 54,
+        "question": {
+          "en": "To face the music"
+        },
+        "options": {
+          "en": ["To enjoy a concert", "To accept criticism or punishment", "To be optimistic in a difficult situation", "To change one's opinion"]
+        },
+        "correctAnswer": {
+          "en": "To accept criticism or punishment"
+        },
+        "explanation": {
+          "en": "Meaning: अपने बुरे कार्यों के लिए परिणाम भुगतना। (To accept the consequences of one's actions; to be confronted with an unpleasant result.)"
+        }
+      },
+      {
+        "id": 55,
+        "question": {
+          "en": "To blow one's own trumpet"
+        },
+        "options": {
+          "en": ["To praise one's own efforts and achievements", "To announce a secret to everyone", "To make too much noise", "To play music loudly"]
+        },
+        "correctAnswer": {
+          "en": "To praise one's own efforts and achievements"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी शेखी मारना या अपनी ही तारीफ करना। (To boast about one's own talents and achievements.)"
+        }
+      },
+      {
+        "id": 56,
+        "question": {
+          "en": "To cut a sorry figure"
+        },
+        "options": {
+          "en": ["To give a poor performance", "To behave like a clown", "To be proud of one's achievements", "To apologize in a sad manner"]
+        },
+        "correctAnswer": {
+          "en": "To give a poor performance"
+        },
+        "explanation": {
+          "en": "Meaning: शर्मनाक प्रदर्शन करना या खराब प्रभाव डालना। (To make a poor impression.)"
+        }
+      },
+      {
+        "id": 57,
+        "question": {
+          "en": "To hit the nail on the head"
+        },
+        "options": {
+          "en": ["To hit someone precisely", "To state the exact truth", "To get injured on the head", "To guess the answer incorrectly"]
+        },
+        "correctAnswer": {
+          "en": "To state the exact truth"
+        },
+        "explanation": {
+          "en": "Meaning: सही बात कहना या सटीक आकलन करना। (To describe exactly what is causing a situation or problem.)"
+        }
+      },
+      {
+        "id": 58,
+        "question": {
+          "en": "To be at daggers drawn"
+        },
+        "options": {
+          "en": ["To be friendly with someone", "To be ready for a fight", "To keep one's weapons ready", "To be bitter enemies"]
+        },
+        "correctAnswer": {
+          "en": "To be bitter enemies"
+        },
+        "explanation": {
+          "en": "Meaning: कट्टर दुश्मन होना। (To be openly hostile or to have a deep-seated enmity.)"
+        }
+      },
+      {
+        "id": 59,
+        "question": {
+          "en": "To smell a rat"
+        },
+        "options": {
+          "en": ["To detect an unusual smell", "To misunderstand a situation", "To suspect deceit or trickery", "To face an obstacle"]
+        },
+        "correctAnswer": {
+          "en": "To suspect deceit or trickery"
+        },
+        "explanation": {
+          "en": "Meaning: कुछ गड़बड़ी या धोखा होने का संदेह होना। (To suspect that something is wrong or that someone is trying to deceive you.)"
+        }
+      },
+      {
+        "id": 60,
+        "question": {
+          "en": "To cry over spilled milk"
+        },
+        "options": {
+          "en": ["To suffer a minor injury", "To complain about a loss in the past", "To weep profusely", "To regret a foolish action"]
+        },
+        "correctAnswer": {
+          "en": "To complain about a loss in the past"
+        },
+        "explanation": {
+          "en": "Meaning: अब पछताने का कोई फायदा नहीं। (To regret about something that has already happened and cannot be changed.)"
+        }
+      },
+      {
+        "id": 61,
+        "question": {
+          "en": "To talk through one's hat"
+        },
+        "options": {
+          "en": ["To talk slowly and deliberately", "To talk nonsense or without knowing the facts", "To talk very loudly", "To discuss a serious matter"]
+        },
+        "correctAnswer": {
+          "en": "To talk nonsense or without knowing the facts"
+        },
+        "explanation": {
+          "en": "Meaning: बेतुकी बातें करना या बिना जानकारी के बात करना। (To speak foolishly or without having a proper knowledge of the subject.)"
+        }
+      },
+      {
+        "id": 62,
+        "question": {
+          "en": "To go to the dogs"
+        },
+        "options": {
+          "en": ["To live a lavish life", "To be ruined or degenerate", "To become very successful", "To abandon one's family"]
+        },
+        "correctAnswer": {
+          "en": "To be ruined or degenerate"
+        },
+        "explanation": {
+          "en": "Meaning: बर्बाद हो जाना या पतन हो जाना। (To fall into ruin or to degenerate rapidly.)"
+        }
+      },
+      {
+        "id": 63,
+        "question": {
+          "en": "To take to one's heels"
+        },
+        "options": {
+          "en": ["To walk slowly", "To run away or flee", "To stand firm and fight", "To dance to a tune"]
+        },
+        "correctAnswer": {
+          "en": "To run away or flee"
+        },
+        "explanation": {
+          "en": "Meaning: भाग जाना। (To run away, often quickly and suddenly.)"
+        }
+      },
+      {
+        "id": 64,
+        "question": {
+          "en": "To be at the end of one's tether"
+        },
+        "options": {
+          "en": ["To have many available options", "To be completely exhausted and unable to cope", "To start a new project", "To be successful in life"]
+        },
+        "correctAnswer": {
+          "en": "To be completely exhausted and unable to cope"
+        },
+        "explanation": {
+          "en": "Meaning: धैर्य या सहनशक्ति की सीमा पर होना। (To be at the limit of one's patience or endurance.)"
+        }
+      },
+      {
+        "id": 65,
+        "question": {
+          "en": "To turn a deaf ear"
+        },
+        "options": {
+          "en": ["To listen carefully", "To refuse to listen or ignore", "To pretend to be asleep", "To give attention to something"]
+        },
+        "correctAnswer": {
+          "en": "To refuse to listen or ignore"
+        },
+        "explanation": {
+          "en": "Meaning: अनसुना करना या ध्यान न देना। (To deliberately disregard a request or advice.)"
+        }
+      },
+      {
+        "id": 66,
+        "question": {
+          "en": "A fool's paradise"
+        },
+        "options": {
+          "en": ["A state of happiness based on false hope or delusion", "A place where fools gather", "A successful business venture", "An imaginary, beautiful place"]
+        },
+        "correctAnswer": {
+          "en": "A state of happiness based on false hope or delusion"
+        },
+        "explanation": {
+          "en": "Meaning: झूठे और अवास्तविक सुख में रहना। (A state of being happy based on false or mistaken beliefs.)"
+        }
+      },
+      {
+        "id": 67,
+        "question": {
+          "en": "To keep the wolf from the door"
+        },
+        "options": {
+          "en": ["To protect animals from danger", "To ward off starvation or poverty", "To keep out intruders", "To store food for the future"]
+        },
+        "correctAnswer": {
+          "en": "To ward off starvation or poverty"
+        },
+        "explanation": {
+          "en": "Meaning: गरीबी या भूख से बचना। (To have just enough money to avert hunger or destitution.)"
+        }
+      },
+      {
+        "id": 68,
+        "question": {
+          "en": "To fish in troubled waters"
+        },
+        "options": {
+          "en": ["To try to catch fish in a difficult spot", "To take advantage of a disturbed state of affairs", "To create a commotion", "To make a difficult situation easy"]
+        },
+        "correctAnswer": {
+          "en": "To take advantage of a disturbed state of affairs"
+        },
+        "explanation": {
+          "en": "Meaning: परेशानी या गड़बड़ी का फायदा उठाना। (To profit from a confused or unstable situation.)"
+        }
+      },
+      {
+        "id": 69,
+        "question": {
+          "en": "To give the slip"
+        },
+        "options": {
+          "en": ["To hand over something to someone secretly", "To escape or get away from someone", "To give a wrong piece of advice", "To slip and fall down"]
+        },
+        "correctAnswer": {
+          "en": "To escape or get away from someone"
+        },
+        "explanation": {
+          "en": "Meaning: चकमा देकर भाग जाना। (To escape from or evade someone.)"
+        }
+      },
+      {
+        "id": 70,
+        "question": {
+          "en": "To be in the good books of"
+        },
+        "options": {
+          "en": ["To be a scholar or avid reader", "To be in favour with someone", "To be praised in a book", "To be morally upright"]
+        },
+        "correctAnswer": {
+          "en": "To be in favour with someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी की नजरों में अच्छा होना या किसी का प्रिय होना। (To be regarded with favour by someone.)"
+        }
+      },
+      {
+        "id": 71,
+        "question": {
+          "en": "To read between the lines"
+        },
+        "options": {
+          "en": ["To read slowly and carefully", "To misunderstand the text", "To search for the hidden meaning", "To read a book quickly"]
+        },
+        "correctAnswer": {
+          "en": "To search for the hidden meaning"
+        },
+        "explanation": {
+          "en": "Meaning: अंतर्निहित अर्थ को समझना। (To look for or discover a meaning that is implied rather than explicitly stated.)"
+        }
+      },
+      {
+        "id": 72,
+        "question": {
+          "en": "To wash one's dirty linen in public"
+        },
+        "options": {
+          "en": ["To clean clothes in public", "To discuss private quarrels in public", "To talk loudly about a secret", "To criticize someone openly"]
+        },
+        "correctAnswer": {
+          "en": "To discuss private quarrels in public"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी निजी कलह या झगड़ों को सार्वजनिक रूप से चर्चा करना। (To discuss one's private affairs or quarrels in the presence of others.)"
+        }
+      },
+      {
+        "id": 73,
+        "question": {
+          "en": "A cock-and-bull story"
+        },
+        "options": {
+          "en": ["A detailed factual story", "An incredible and fabricated story", "A story about farm animals", "A true account of an event"]
+        },
+        "correctAnswer": {
+          "en": "An incredible and fabricated story"
+        },
+        "explanation": {
+          "en": "Meaning: मनगढ़ंत, अविश्वसनीय कहानी। (A story or explanation that is obviously untrue and absurd.)"
+        }
+      },
+      {
+        "id": 74,
+        "question": {
+          "en": "To be well off"
+        },
+        "options": {
+          "en": ["To be far away from home", "To be in a comfortable position, especially financially", "To be ill", "To manage a situation easily"]
+        },
+        "correctAnswer": {
+          "en": "To be in a comfortable position, especially financially"
+        },
+        "explanation": {
+          "en": "Meaning: समृद्ध या अमीर होना। (To be in a good or financially comfortable situation.)"
+        }
+      },
+      {
+        "id": 75,
+        "question": {
+          "en": "To be out of the woods"
+        },
+        "options": {
+          "en": ["To be lost in a forest", "To have passed a difficult stage or danger", "To start a new adventure", "To be in a healthy physical state"]
+        },
+        "correctAnswer": {
+          "en": "To have passed a difficult stage or danger"
+        },
+        "explanation": {
+          "en": "Meaning: किसी खतरे या कठिनाई से बाहर निकलना। (To be safe from a difficulty or danger.)"
+        }
+      },
+      {
+        "id": 76,
+        "question": {
+          "en": "To hang fire"
+        },
+        "options": {
+          "en": ["To fire immediately", "To be delayed or wait", "To set something on fire", "To lose one's temper"]
+        },
+        "correctAnswer": {
+          "en": "To be delayed or wait"
+        },
+        "explanation": {
+          "en": "Meaning: विलंबित होना या कार्रवाई शुरू होने में देरी होना। (To be slow in acting or deciding; to be delayed.)"
+        }
+      },
+      {
+        "id": 77,
+        "question": {
+          "en": "To steal one's thunder"
+        },
+        "options": {
+          "en": ["To shout loudly in anger", "To anticipate someone and take the credit", "To get into trouble for one's actions", "To surprise someone unexpectedly"]
+        },
+        "correctAnswer": {
+          "en": "To anticipate someone and take the credit"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के विचार को चुरा लेना और उस पर श्रेय लेना। (To take credit for someone else's idea or achievement.)"
+        }
+      },
+      {
+        "id": 78,
+        "question": {
+          "en": "A dime a dozen"
+        },
+        "options": {
+          "en": ["Something very cheap", "Something that is very rare", "Something common and of little value", "Something priceless and expensive"]
+        },
+        "correctAnswer": {
+          "en": "Something common and of little value"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत सामान्य और आसानी से उपलब्ध होने के कारण कम मूल्यवान। (Very common, numerous, and therefore of little value.)"
+        }
+      },
+      {
+        "id": 79,
+        "question": {
+          "en": "To call a spade a spade"
+        },
+        "options": {
+          "en": ["To speak indirectly or vaguely", "To speak in plain, truthful terms", "To call someone by their real name", "To talk about gardening"]
+        },
+        "correctAnswer": {
+          "en": "To speak in plain, truthful terms"
+        },
+        "explanation": {
+          "en": "Meaning: स्पष्ट और खरी बात कहना। (To speak in a direct, blunt, and straightforward manner, without euphemisms.)"
+        }
+      },
+      {
+        "id": 80,
+        "question": {
+          "en": "To break the ice"
+        },
+        "options": {
+          "en": ["To solve a difficult problem", "To start a conversation or ease tension", "To damage something important", "To make someone feel cold"]
+        },
+        "correctAnswer": {
+          "en": "To start a conversation or ease tension"
+        },
+        "explanation": {
+          "en": "Meaning: चुप्पी तोड़ना या अजनबी लोगों के बीच तनाव को कम करना। (To initiate social interaction or conversation in a strained or awkward situation.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_1_revised",
+    "title": {
+      "en": "Idioms Practice Set 1 (Revised)"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T09:45:00.000Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "en": "A hard nut to crack"
+        },
+        "options": {
+          "en": ["An easy task", "A difficult problem to solve", "A foolish person", "A tough challenge"]
+        },
+        "correctAnswer": {
+          "en": "A difficult problem to solve"
+        },
+        "explanation": {
+          "en": "Meaning: एक कठिन समस्या या व्यक्ति जिससे निपटना मुश्किल हो। (A difficult problem or person to deal with or understand.)"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "en": "To go to rack and ruin"
+        },
+        "options": {
+          "en": ["To invest wisely", "To be completely destroyed or fall into decay", "To repair old things", "To achieve success quickly"]
+        },
+        "correctAnswer": {
+          "en": "To be completely destroyed or fall into decay"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी तरह से बर्बाद हो जाना या क्षय होना। (To fall into a state of disrepair, decay, or complete ruin.)"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "en": "To keep the ball rolling"
+        },
+        "options": {
+          "en": ["To stop working immediately", "To continue an activity or conversation", "To finish a task perfectly", "To play a game of ball"]
+        },
+        "correctAnswer": {
+          "en": "To continue an activity or conversation"
+        },
+        "explanation": {
+          "en": "Meaning: किसी गतिविधि या बातचीत को जारी रखना। (To maintain an activity or conversation.)"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "en": "To steal a march"
+        },
+        "options": {
+          "en": ["To walk silently", "To outdo someone secretly or gain an advantage secretly", "To march forward quickly", "To start a riot"]
+        },
+        "correctAnswer": {
+          "en": "To outdo someone secretly or gain an advantage secretly"
+        },
+        "explanation": {
+          "en": "Meaning: किसी से चुपके से बेहतर प्रदर्शन करना या गोपनीय रूप से आगे निकल जाना। (To gain an advantage over someone without their knowing.)"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "en": "To fight tooth and nail"
+        },
+        "options": {
+          "en": ["To fight with weapons", "To fight a losing battle", "To fight fiercely and desperately", "To fight using unfair means"]
+        },
+        "correctAnswer": {
+          "en": "To fight fiercely and desperately"
+        },
+        "explanation": {
+          "en": "Meaning: ज़ोरदार और पूरी ताकत से लड़ना। (To fight or compete with great intensity and determination.)"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "en": "To make a clean breast of"
+        },
+        "options": {
+          "en": ["To clean one's clothes thoroughly", "To tell the truth and confess everything", "To hide a mistake", "To apologize to someone"]
+        },
+        "correctAnswer": {
+          "en": "To tell the truth and confess everything"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी सच्चाई बता देना और सब कुछ कबूल कर लेना। (To confess one's faults or mistakes completely.)"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "en": "To be caught red-handed"
+        },
+        "options": {
+          "en": ["To be found with red paint on hands", "To be caught in the act of committing a crime", "To be found innocent", "To be arrested without evidence"]
+        },
+        "correctAnswer": {
+          "en": "To be caught in the act of committing a crime"
+        },
+        "explanation": {
+          "en": "Meaning: रंगे हाथों पकड़ा जाना। (To be apprehended at the very moment of doing something wrong or illegal.)"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "en": "To take the bull by the horns"
+        },
+        "options": {
+          "en": ["To handle a difficult situation directly and courageously", "To be afraid of a powerful enemy", "To avoid a problem", "To create a commotion"]
+        },
+        "correctAnswer": {
+          "en": "To handle a difficult situation directly and courageously"
+        },
+        "explanation": {
+          "en": "Meaning: साहसपूर्वक और सीधे तौर पर मुश्किल का सामना करना। (To confront a difficulty or danger boldly and directly.)"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "en": "To bring to light"
+        },
+        "options": {
+          "en": ["To illuminate a dark room", "To make a secret known; reveal", "To confuse others", "To hide something important"]
+        },
+        "correctAnswer": {
+          "en": "To make a secret known; reveal"
+        },
+        "explanation": {
+          "en": "Meaning: उजागर करना या रहस्य को ज्ञात करना। (To reveal something that was previously secret or unknown.)"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "en": "To leave someone in the lurch"
+        },
+        "options": {
+          "en": ["To come to someone's rescue", "To abandon someone in a difficult situation", "To share a secret with someone", "To encourage someone to work hard"]
+        },
+        "correctAnswer": {
+          "en": "To abandon someone in a difficult situation"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को मुश्किल में अकेला छोड़ देना। (To desert someone in a difficult situation or emergency.)"
+        }
+      },
+      {
+        "id": 11,
+        "question": {
+          "en": "To bite the dust"
+        },
+        "options": {
+          "en": ["To stumble and fall", "To suffer a defeat or fail", "To eat dirty food", "To work hard and succeed"]
+        },
+        "correctAnswer": {
+          "en": "To suffer a defeat or fail"
+        },
+        "explanation": {
+          "en": "Meaning: पराजित होना या बुरी तरह असफल होना। (To be defeated, fail, or be killed.)"
+        }
+      },
+      {
+        "id": 12,
+        "question": {
+          "en": "To grease the palm"
+        },
+        "options": {
+          "en": ["To wash hands with soap", "To give a bribe", "To massage the hand", "To work hard for money"]
+        },
+        "correctAnswer": {
+          "en": "To give a bribe"
+        },
+        "explanation": {
+          "en": "Meaning: रिश्वत देना। (To bribe someone.)"
+        }
+      },
+      {
+        "id": 13,
+        "question": {
+          "en": "To beat about the bush"
+        },
+        "options": {
+          "en": ["To talk directly to the point", "To avoid the main topic and talk vaguely", "To clear the obstacles in the way", "To search for a hidden treasure"]
+        },
+        "correctAnswer": {
+          "en": "To avoid the main topic and talk vaguely"
+        },
+        "explanation": {
+          "en": "Meaning: मुख्य बात को टालना या घुमा-फिराकर बात करना। (To discuss a topic without coming to the point.)"
+        }
+      },
+      {
+        "id": 14,
+        "question": {
+          "en": "A snake in the grass"
+        },
+        "options": {
+          "en": ["A harmless creature", "A treacherous or deceptive person", "A friend who helps in need", "A hidden obstacle"]
+        },
+        "correctAnswer": {
+          "en": "A treacherous or deceptive person"
+        },
+        "explanation": {
+          "en": "Meaning: एक कपटी या धोखेबाज़ व्यक्ति। (A treacherous, deceitful, or hidden enemy.)"
+        }
+      },
+      {
+        "id": 15,
+        "question": {
+          "en": "To flog a dead horse"
+        },
+        "options": {
+          "en": ["To work tirelessly", "To waste energy on a lost cause", "To revive an old issue", "To exploit someone for one's gain"]
+        },
+        "correctAnswer": {
+          "en": "To waste energy on a lost cause"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ के काम में ऊर्जा बर्बाद करना। (To waste effort on something that is no longer possible or useful.)"
+        }
+      },
+      {
+        "id": 16,
+        "question": {
+          "en": "To have an axe to grind"
+        },
+        "options": {
+          "en": ["To have a personal motive or selfish reason", "To have a difficult task to complete", "To be highly ambitious", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To have a personal motive or selfish reason"
+        },
+        "explanation": {
+          "en": "Meaning: कोई व्यक्तिगत स्वार्थ या गुप्त उद्देश्य होना। (To have a private reason for doing or being involved in something.)"
+        }
+      },
+      {
+        "id": 17,
+        "question": {
+          "en": "To nip in the bud"
+        },
+        "options": {
+          "en": ["To delay a problem", "To encourage growth", "To stop something at an early stage", "To destroy completely"]
+        },
+        "correctAnswer": {
+          "en": "To stop something at an early stage"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बुरी चीज को शुरू में ही रोक देना। (To stop something at the very beginning, before it can become serious.)"
+        }
+      },
+      {
+        "id": 18,
+        "question": {
+          "en": "To burn one's boats/bridges"
+        },
+        "options": {
+          "en": ["To ruin oneself financially", "To make a decision that is irreversible", "To plan a secret escape", "To win a decisive battle"]
+        },
+        "correctAnswer": {
+          "en": "To make a decision that is irreversible"
+        },
+        "explanation": {
+          "en": "Meaning: ऐसा कदम उठाना जिसके बाद वापस लौटना असंभव हो। (To do something that makes it impossible to return to the former position.)"
+        }
+      },
+      {
+        "id": 19,
+        "question": {
+          "en": "To call in question"
+        },
+        "options": {
+          "en": ["To praise someone publicly", "To doubt or challenge something", "To ask someone for help", "To accept a fact without scrutiny"]
+        },
+        "correctAnswer": {
+          "en": "To doubt or challenge something"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बात पर संदेह करना या चुनौती देना। (To express doubts about something or challenge its validity.)"
+        }
+      },
+      {
+        "id": 20,
+        "question": {
+          "en": "A close shave"
+        },
+        "options": {
+          "en": ["A neat and tidy appearance", "A narrow escape from danger", "A major accident", "A precise and accurate judgment"]
+        },
+        "correctAnswer": {
+          "en": "A narrow escape from danger"
+        },
+        "explanation": {
+          "en": "Meaning: बाल-बाल बचना। (A narrow, near, or slight escape from danger or trouble.)"
+        }
+      },
+      {
+        "id": 21,
+        "question": {
+          "en": "To leave no stone unturned"
+        },
+        "options": {
+          "en": ["To search for something carelessly", "To make every possible effort", "To finish a task quickly", "To leave a place permanently"]
+        },
+        "correctAnswer": {
+          "en": "To make every possible effort"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every possible effort to achieve something.)"
+        }
+      },
+      {
+        "id": 22,
+        "question": {
+          "en": "To be at sixes and sevens"
+        },
+        "options": {
+          "en": ["To be perfectly organized", "To be in a state of confusion and disorder", "To be very angry", "To be very calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of confusion and disorder"
+        },
+        "explanation": {
+          "en": "Meaning: अव्यवस्था या भ्रम की स्थिति में होना। (In a state of confusion, disarray, or disorder.)"
+        }
+      },
+      {
+        "id": 23,
+        "question": {
+          "en": "To play fast and loose"
+        },
+        "options": {
+          "en": ["To be trustworthy and reliable", "To behave in a deceitful or irresponsible way", "To play games quickly", "To take things seriously"]
+        },
+        "correctAnswer": {
+          "en": "To behave in a deceitful or irresponsible way"
+        },
+        "explanation": {
+          "en": "Meaning: धोखेबाजी करना या अविश्वसनीय तरीके से व्यवहार करना। (To act in a deceitful or irresponsible way; to make promises and not keep them.)"
+        }
+      },
+      {
+        "id": 24,
+        "question": {
+          "en": "To turn over a new leaf"
+        },
+        "options": {
+          "en": ["To change one's behavior for the better", "To read a new page in a book", "To start a new business venture", "To postpone a decision"]
+        },
+        "correctAnswer": {
+          "en": "To change one's behavior for the better"
+        },
+        "explanation": {
+          "en": "Meaning: बेहतर बनने के लिए व्यवहार बदलना। (To start again with a clean slate; to completely change one's conduct.)"
+        }
+      },
+      {
+        "id": 25,
+        "question": {
+          "en": "To end in smoke"
+        },
+        "options": {
+          "en": ["To be completely successful", "To come to nothing or fail to yield a practical result", "To start a fire", "To escape punishment"]
+        },
+        "correctAnswer": {
+          "en": "To come to nothing or fail to yield a practical result"
+        },
+        "explanation": {
+          "en": "Meaning: परिणाम कुछ न निकलना या व्यर्थ हो जाना। (To come to nothing; to yield no practical result.)"
+        }
+      },
+      {
+        "id": 26,
+        "question": {
+          "en": "To break the ice"
+        },
+        "options": {
+          "en": ["To solve a difficult problem", "To start a conversation or ease tension in a difficult social situation", "To stop a fight", "To make a decision quickly"]
+        },
+        "correctAnswer": {
+          "en": "To start a conversation or ease tension in a difficult social situation"
+        },
+        "explanation": {
+          "en": "Meaning: चुप्पी तोड़ना या सामाजिक तनाव को कम करना। (To initiate social interaction or conversation.)"
+        }
+      },
+      {
+        "id": 27,
+        "question": {
+          "en": "To hit below the belt"
+        },
+        "options": {
+          "en": ["To hit someone lightly", "To attack unfairly or use unfair methods", "To hit someone accurately", "To play a game by the rules"]
+        },
+        "correctAnswer": {
+          "en": "To attack unfairly or use unfair methods"
+        },
+        "explanation": {
+          "en": "Meaning: बेईमानी से या अनुचित तरीके से हमला करना। (To attack unfairly; to use unethical methods.)"
+        }
+      },
+      {
+        "id": 28,
+        "question": {
+          "en": "To read between the lines"
+        },
+        "options": {
+          "en": ["To read a book quickly", "To search for the hidden meaning", "To make a mistake while reading", "To read aloud to an audience"]
+        },
+        "correctAnswer": {
+          "en": "To search for the hidden meaning"
+        },
+        "explanation": {
+          "en": "Meaning: अंतर्निहित अर्थ को समझना। (To look for or discover a meaning that is implied rather than explicitly stated.)"
+        }
+      },
+      {
+        "id": 29,
+        "question": {
+          "en": "To call a spade a spade"
+        },
+        "options": {
+          "en": ["To speak in a complex manner", "To be straightforward and speak frankly", "To hide the truth", "To talk about gardening"]
+        },
+        "correctAnswer": {
+          "en": "To be straightforward and speak frankly"
+        },
+        "explanation": {
+          "en": "Meaning: स्पष्ट और खरी बात कहना। (To speak in a direct, blunt, and straightforward manner, without euphemisms.)"
+        }
+      },
+      {
+        "id": 30,
+        "question": {
+          "en": "To get into hot water"
+        },
+        "options": {
+          "en": ["To take a hot bath", "To get into trouble or be in difficulty", "To relax and unwind", "To get out of a difficult situation"]
+        },
+        "correctAnswer": {
+          "en": "To get into trouble or be in difficulty"
+        },
+        "explanation": {
+          "en": "Meaning: मुसीबत में पड़ना या संकट में होना। (To get into trouble or an awkward situation.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_3",
+    "title": {
+      "en": "Idioms Practice Set 3"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T09:50:00.000Z",
+    "questions": [
+      {
+        "id": 81,
+        "question": {
+          "en": "To pay through the nose"
+        },
+        "options": {
+          "en": ["To pay a reasonable price", "To pay an extremely high price", "To pay in installments", "To pay nothing at all"]
+        },
+        "correctAnswer": {
+          "en": "To pay an extremely high price"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत अधिक कीमत चुकाना। (To pay a very high price or an excessive amount of money for something.)"
+        }
+      },
+      {
+        "id": 82,
+        "question": {
+          "en": "To be caught on the horns of a dilemma"
+        },
+        "options": {
+          "en": ["To be in a fighting mood", "To be in a fix; having to choose between two equally undesirable options", "To be in a situation of certainty", "To solve a difficult puzzle"]
+        },
+        "correctAnswer": {
+          "en": "To be in a fix; having to choose between two equally undesirable options"
+        },
+        "explanation": {
+          "en": "Meaning: दुविधा में फँस जाना, जहाँ दोनों विकल्प खराब हों। (To be faced with a choice between two equally unpleasant alternatives.)"
+        }
+      },
+      {
+        "id": 83,
+        "question": {
+          "en": "To put the cart before the horse"
+        },
+        "options": {
+          "en": ["To perform a task in the right order", "To do things in the wrong order", "To show great enthusiasm", "To be very cautious"]
+        },
+        "correctAnswer": {
+          "en": "To do things in the wrong order"
+        },
+        "explanation": {
+          "en": "Meaning: काम को उल्टे क्रम में करना। (To do things in the wrong or reverse order; to emphasize the wrong thing.)"
+        }
+      },
+      {
+        "id": 84,
+        "question": {
+          "en": "To move heaven and earth"
+        },
+        "options": {
+          "en": ["To pray to God for help", "To cause an earthquake", "To make a supreme effort or all possible efforts", "To travel extensively"]
+        },
+        "correctAnswer": {
+          "en": "To make a supreme effort or all possible efforts"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every possible effort to achieve something.)"
+        }
+      },
+      {
+        "id": 85,
+        "question": {
+          "en": "To throw up the sponge"
+        },
+        "options": {
+          "en": ["To surrender or give up a contest", "To clean a surface thoroughly", "To play a game of boxing", "To start a new endeavor"]
+        },
+        "correctAnswer": {
+          "en": "To surrender or give up a contest"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या समर्पण कर देना। (To admit defeat; to give up a struggle or effort.)"
+        }
+      },
+      {
+        "id": 86,
+        "question": {
+          "en": "To come to a head"
+        },
+        "options": {
+          "en": ["To reach a crisis", "To start a conversation", "To solve a problem easily", "To get confused"]
+        },
+        "correctAnswer": {
+          "en": "To reach a crisis"
+        },
+        "explanation": {
+          "en": "Meaning: संकट की पराकाष्ठा पर पहुँचना। (To reach a decisive point or a crisis, often a bad one.)"
+        }
+      },
+      {
+        "id": 87,
+        "question": {
+          "en": "To cool one's heels"
+        },
+        "options": {
+          "en": ["To relax and enjoy oneself", "To be kept waiting for a long time", "To run very fast", "To take a break from work"]
+        },
+        "correctAnswer": {
+          "en": "To be kept waiting for a long time"
+        },
+        "explanation": {
+          "en": "Meaning: लंबे समय तक इंतजार करना। (To be kept waiting, especially when one is forced to stand.)"
+        }
+      },
+      {
+        "id": 88,
+        "question": {
+          "en": "To bark up the wrong tree"
+        },
+        "options": {
+          "en": ["To make the wrong choice; to pursue a mistaken course of action", "To make an unnecessary effort", "To shout loudly at someone", "To climb a tree illegally"]
+        },
+        "correctAnswer": {
+          "en": "To make the wrong choice; to pursue a mistaken course of action"
+        },
+        "explanation": {
+          "en": "Meaning: गलत दिशा में प्रयास करना। (To be mistaken about the identity of someone or the nature of something; to pursue a wrong course.)"
+        }
+      },
+      {
+        "id": 89,
+        "question": {
+          "en": "To keep the wolf from the door"
+        },
+        "options": {
+          "en": ["To live in poverty", "To ward off starvation or extreme poverty", "To save money for luxury", "To keep animals away from the house"]
+        },
+        "correctAnswer": {
+          "en": "To ward off starvation or extreme poverty"
+        },
+        "explanation": {
+          "en": "Meaning: भूख या गरीबी से किसी तरह बचना। (To have just enough money or food to ward off hunger or starvation.)"
+        }
+      },
+      {
+        "id": 90,
+        "question": {
+          "en": "To play to the gallery"
+        },
+        "options": {
+          "en": ["To perform brilliantly on stage", "To seek the approval of the common people by appealing to their tastes", "To ignore the audience's reactions", "To entertain a select group of people"]
+        },
+        "correctAnswer": {
+          "en": "To seek the approval of the common people by appealing to their tastes"
+        },
+        "explanation": {
+          "en": "Meaning: सस्ता लोक-लुभावन कार्य करना या सामान्य जनता की तालियाँ बटोरने की कोशिश करना। (To behave in an exaggerated or showy way to gain attention or applause from the public.)"
+        }
+      },
+      {
+        "id": 91,
+        "question": {
+          "en": "To spill the beans"
+        },
+        "options": {
+          "en": ["To cook food badly", "To reveal a secret or hidden information", "To spill something accidentally", "To talk about food"]
+        },
+        "correctAnswer": {
+          "en": "To reveal a secret or hidden information"
+        },
+        "explanation": {
+          "en": "Meaning: भेद खोलना या रहस्य बता देना। (To reveal secret information, often inadvertently.)"
+        }
+      },
+      {
+        "id": 92,
+        "question": {
+          "en": "To get out of hand"
+        },
+        "options": {
+          "en": ["To complete a task successfully", "To lose control", "To seek guidance from others", "To gain an advantage"]
+        },
+        "correctAnswer": {
+          "en": "To lose control"
+        },
+        "explanation": {
+          "en": "Meaning: नियंत्रण से बाहर हो जाना। (To become uncontrollable.)"
+        }
+      },
+      {
+        "id": 93,
+        "question": {
+          "en": "To bite one's lip"
+        },
+        "options": {
+          "en": ["To show physical discomfort", "To be in deep thought", "To hold back anger or emotion", "To express regret openly"]
+        },
+        "correctAnswer": {
+          "en": "To hold back anger or emotion"
+        },
+        "explanation": {
+          "en": "Meaning: गुस्से या भावनाओं को रोकना। (To struggle to suppress a strong emotion, especially frustration or annoyance.)"
+        }
+      },
+      {
+        "id": 94,
+        "question": {
+          "en": "To play ducks and drakes with"
+        },
+        "options": {
+          "en": ["To use resources carefully", "To waste money recklessly", "To swim like a duck", "To share expenses equally"]
+        },
+        "correctAnswer": {
+          "en": "To waste money recklessly"
+        },
+        "explanation": {
+          "en": "Meaning: पैसे या संसाधनों को लापरवाही से बर्बाद करना। (To squander or carelessly misuse money or property.)"
+        }
+      },
+      {
+        "id": 95,
+        "question": {
+          "en": "To be under the weather"
+        },
+        "options": {
+          "en": ["To be exposed to bad weather", "To feel slightly ill or unwell", "To be in a challenging mood", "To be confused about something"]
+        },
+        "correctAnswer": {
+          "en": "To feel slightly ill or unwell"
+        },
+        "explanation": {
+          "en": "Meaning: बीमार महसूस करना या अस्वस्थ होना। (To feel slightly unwell or ill.)"
+        }
+      },
+      {
+        "id": 96,
+        "question": {
+          "en": "A storm in a teacup"
+        },
+        "options": {
+          "en": ["A major global crisis", "A lot of anger or worry about something unimportant", "A dangerous situation", "A sudden, heavy downpour"]
+        },
+        "correctAnswer": {
+          "en": "A lot of anger or worry about something unimportant"
+        },
+        "explanation": {
+          "en": "Meaning: छोटी सी बात पर बड़ा विवाद। (A lot of fuss or unnecessary excitement over a trivial or minor matter.)"
+        }
+      },
+      {
+        "id": 97,
+        "question": {
+          "en": "To come clean"
+        },
+        "options": {
+          "en": ["To wash thoroughly", "To confess fully or admit the truth about something secret", "To avoid a difficult situation", "To be deceitful"]
+        },
+        "correctAnswer": {
+          "en": "To confess fully or admit the truth about something secret"
+        },
+        "explanation": {
+          "en": "Meaning: सच स्वीकार कर लेना। (To confess or be honest about something one has kept secret.)"
+        }
+      },
+      {
+        "id": 98,
+        "question": {
+          "en": "To cut the mustard"
+        },
+        "options": {
+          "en": ["To meet expectations or perform adequately", "To cut vegetables quickly", "To work slowly and inefficiently", "To succeed in a small task"]
+        },
+        "correctAnswer": {
+          "en": "To meet expectations or perform adequately"
+        },
+        "explanation": {
+          "en": "Meaning: अपेक्षित स्तर तक पहुँचना या अच्छा प्रदर्शन करना। (To be satisfactory; to be good enough.)"
+        }
+      },
+      {
+        "id": 99,
+        "question": {
+          "en": "To jump the gun"
+        },
+        "options": {
+          "en": ["To fire a gun unexpectedly", "To act prematurely or before the proper time", "To run very fast", "To take careful, calculated steps"]
+        },
+        "correctAnswer": {
+          "en": "To act prematurely or before the proper time"
+        },
+        "explanation": {
+          "en": "Meaning: समय से पहले कार्रवाई करना। (To act or begin to speak before the proper or appropriate time.)"
+        }
+      },
+      {
+        "id": 100,
+        "question": {
+          "en": "To take someone for a ride"
+        },
+        "options": {
+          "en": ["To give someone a lift in a vehicle", "To deceive or cheat someone", "To criticize someone harshly", "To help someone in their work"]
+        },
+        "correctAnswer": {
+          "en": "To deceive or cheat someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या ठगना। (To deceive or cheat someone.)"
+        }
+      },
+      {
+        "id": 101,
+        "question": {
+          "en": "To have a finger in the pie"
+        },
+        "options": {
+          "en": ["To eat too much food", "To be involved in something", "To interfere in other people's affairs", "To cook food expertly"]
+        },
+        "correctAnswer": {
+          "en": "To be involved in something"
+        },
+        "explanation": {
+          "en": "Meaning: किसी मामले या गतिविधि में शामिल होना। (To have an active part or involvement in a matter or activity.)"
+        }
+      },
+      {
+        "id": 102,
+        "question": {
+          "en": "To hang by a thread"
+        },
+        "options": {
+          "en": ["To be in a very dangerous situation", "To hang clothes to dry", "To be very cautious", "To achieve a major success"]
+        },
+        "correctAnswer": {
+          "en": "To be in a very dangerous situation"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत खतरनाक या अनिश्चित स्थिति में होना। (To be in a precarious, risky, or dangerous situation.)"
+        }
+      },
+      {
+        "id": 103,
+        "question": {
+          "en": "To draw the line"
+        },
+        "options": {
+          "en": ["To draw a picture perfectly", "To set a limit to what is acceptable", "To describe a boundary", "To confuse others with a false claim"]
+        },
+        "correctAnswer": {
+          "en": "To set a limit to what is acceptable"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बात की स्वीकार्यता की सीमा निर्धारित करना। (To set a boundary or limit to behavior or activity.)"
+        }
+      },
+      {
+        "id": 104,
+        "question": {
+          "en": "To get a taste of one's own medicine"
+        },
+        "options": {
+          "en": ["To appreciate someone's actions", "To be treated the way one has treated others", "To take medication correctly", "To learn a new skill"]
+        },
+        "correctAnswer": {
+          "en": "To be treated the way one has treated others"
+        },
+        "explanation": {
+          "en": "Meaning: जैसा व्यवहार दूसरों के साथ किया है, वैसा ही व्यवहार खुद के साथ होना। (To experience the same unpleasantness or difficulty that one has inflicted on others.)"
+        }
+      },
+      {
+        "id": 105,
+        "question": {
+          "en": "To be on tenterhooks"
+        },
+        "options": {
+          "en": ["To be in a relaxed mood", "To be in a state of suspense or anxiety", "To be very angry", "To be extremely happy"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of suspense or anxiety"
+        },
+        "explanation": {
+          "en": "Meaning: बेचैनी या चिंता की स्थिति में होना। (To be in a state of nervous tension or suspense.)"
+        }
+      },
+      {
+        "id": 106,
+        "question": {
+          "en": "To fight a losing battle"
+        },
+        "options": {
+          "en": ["To fight with full force", "To engage in a struggle that one is unlikely to win", "To win a decisive victory", "To surrender immediately"]
+        },
+        "correctAnswer": {
+          "en": "To engage in a struggle that one is unlikely to win"
+        },
+        "explanation": {
+          "en": "Meaning: ऐसी लड़ाई लड़ना जिसमें हार निश्चित हो। (To be engaged in a struggle that one is almost certain to lose.)"
+        }
+      },
+      {
+        "id": 107,
+        "question": {
+          "en": "To put a damper on"
+        },
+        "options": {
+          "en": ["To encourage or inspire", "To discourage or check enthusiasm", "To ignite a fire", "To dry something quickly"]
+        },
+        "correctAnswer": {
+          "en": "To discourage or check enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: उत्साह या खुशी को कम करना। (To have a depressing or chilling effect on something or someone's enthusiasm.)"
+        }
+      },
+      {
+        "id": 108,
+        "question": {
+          "en": "To save one's skin"
+        },
+        "options": {
+          "en": ["To protect someone else", "To save oneself from danger or punishment", "To hide one's true identity", "To become very wealthy"]
+        },
+        "correctAnswer": {
+          "en": "To save oneself from danger or punishment"
+        },
+        "explanation": {
+          "en": "Meaning: खुद को खतरे या सजा से बचाना। (To escape injury, punishment, or death.)"
+        }
+      },
+      {
+        "id": 109,
+        "question": {
+          "en": "To cut corners"
+        },
+        "options": {
+          "en": ["To take a shortcut while travelling", "To do something carelessly or improperly to save time or money", "To complete a task accurately", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To do something carelessly or improperly to save time or money"
+        },
+        "explanation": {
+          "en": "Meaning: पैसे या समय बचाने के लिए किसी काम को लापरवाही से करना। (To do something in the easiest, quickest, or cheapest way, often at the expense of quality.)"
+        }
+      },
+      {
+        "id": 110,
+        "question": {
+          "en": "A pipe dream"
+        },
+        "options": {
+          "en": ["A practical and realistic plan", "An impossible or impracticable idea or hope", "A long-cherished goal", "A dream that comes true"]
+        },
+        "correctAnswer": {
+          "en": "An impossible or impracticable idea or hope"
+        },
+        "explanation": {
+          "en": "Meaning: एक असंभव या अव्यावहारिक विचार या सपना। (An unrealistic hope, idea, or scheme.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_4",
+    "title": {
+      "en": "Idioms Practice Set 4"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T09:55:00.000Z",
+    "questions": [
+      {
+        "id": 111,
+        "question": {
+          "en": "To throw in the towel"
+        },
+        "options": {
+          "en": ["To accept defeat; surrender", "To clean up the mess", "To start a new fight", "To enjoy a victory"]
+        },
+        "correctAnswer": {
+          "en": "To accept defeat; surrender"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या प्रयास करना बंद कर देना। (To give up a struggle or contest, derived from boxing where a towel is thrown into the ring to signal defeat.)"
+        }
+      },
+      {
+        "id": 112,
+        "question": {
+          "en": "To call the shots"
+        },
+        "options": {
+          "en": ["To be able to take photographs", "To be in a position to direct or control events", "To make a mistake in judgment", "To criticize others loudly"]
+        },
+        "correctAnswer": {
+          "en": "To be in a position to direct or control events"
+        },
+        "explanation": {
+          "en": "Meaning: निर्णय लेने या नियंत्रण करने की स्थिति में होना। (To be the person in charge who decides how things are done.)"
+        }
+      },
+      {
+        "id": 113,
+        "question": {
+          "en": "A wild goose chase"
+        },
+        "options": {
+          "en": ["A successful hunting trip", "A hopeless, foolish, or futile search", "A playful pursuit of someone", "A long and difficult journey"]
+        },
+        "correctAnswer": {
+          "en": "A hopeless, foolish, or futile search"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ की खोज या निरर्थक प्रयास। (A futile or hopeless pursuit of something unattainable.)"
+        }
+      },
+      {
+        "id": 114,
+        "question": {
+          "en": "To nip something in the bud"
+        },
+        "options": {
+          "en": ["To allow something to grow fully", "To destroy something quickly", "To stop something at an early stage", "To nurture a plant carefully"]
+        },
+        "correctAnswer": {
+          "en": "To stop something at an early stage"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बुरी चीज को आरंभ में ही समाप्त कर देना। (To stop a bad situation or habit from developing before it becomes a serious problem.)"
+        }
+      },
+      {
+        "id": 115,
+        "question": {
+          "en": "To be born with a silver spoon in one's mouth"
+        },
+        "options": {
+          "en": ["To be born to poor parents", "To be born in a wealthy or privileged family", "To be a fast eater", "To be a lucky person"]
+        },
+        "correctAnswer": {
+          "en": "To be born in a wealthy or privileged family"
+        },
+        "explanation": {
+          "en": "Meaning: अमीर या धनी परिवार में पैदा होना। (To be born into a rich or prosperous family.)"
+        }
+      },
+      {
+        "id": 116,
+        "question": {
+          "en": "To bite the bullet"
+        },
+        "options": {
+          "en": ["To show cowardice", "To face a difficult or unpleasant situation with courage", "To feel a sharp pain", "To complain bitterly"]
+        },
+        "correctAnswer": {
+          "en": "To face a difficult or unpleasant situation with courage"
+        },
+        "explanation": {
+          "en": "Meaning: कठिन या अप्रिय स्थिति का बहादुरी से सामना करना। (To endure a painful or unpleasant situation that is unavoidable.)"
+        }
+      },
+      {
+        "id": 117,
+        "question": {
+          "en": "To bark up the wrong tree"
+        },
+        "options": {
+          "en": ["To pursue a mistaken or misguided course of action", "To make the correct prediction", "To shout loudly at a dog", "To complain about a small issue"]
+        },
+        "correctAnswer": {
+          "en": "To pursue a mistaken or misguided course of action"
+        },
+        "explanation": {
+          "en": "Meaning: गलत दिशा में प्रयास करना या गलत व्यक्ति को दोष देना। (To be wrong about the identity of something or the nature of a problem.)"
+        }
+      },
+      {
+        "id": 118,
+        "question": {
+          "en": "To bury the hatchet"
+        },
+        "options": {
+          "en": ["To hide a weapon", "To make peace or end a quarrel", "To start a new conflict", "To save money secretly"]
+        },
+        "correctAnswer": {
+          "en": "To make peace or end a quarrel"
+        },
+        "explanation": {
+          "en": "Meaning: दुश्मनी खत्म करना और सुलह करना। (To cease a hostile or argumentative disagreement; to make peace.)"
+        }
+      },
+      {
+        "id": 119,
+        "question": {
+          "en": "A shot in the dark"
+        },
+        "options": {
+          "en": ["A very clever guess", "A random or wild guess with little chance of success", "A precise and accurate aim", "A secret plan"]
+        },
+        "correctAnswer": {
+          "en": "A random or wild guess with little chance of success"
+        },
+        "explanation": {
+          "en": "Meaning: अंधाधुंध अनुमान या बेतुका प्रयास। (An attempt to guess something without having enough information to know whether you will be successful.)"
+        }
+      },
+      {
+        "id": 120,
+        "question": {
+          "en": "To keep the wolf from the door"
+        },
+        "options": {
+          "en": ["To live comfortably and luxuriously", "To avoid extreme hunger or poverty", "To save money for travel", "To be extremely busy"]
+        },
+        "correctAnswer": {
+          "en": "To avoid extreme hunger or poverty"
+        },
+        "explanation": {
+          "en": "Meaning: भूख या गरीबी से किसी तरह बचना। (To have just enough money or food to ward off hunger or starvation.)"
+        }
+      },
+      {
+        "id": 121,
+        "question": {
+          "en": "To hold water"
+        },
+        "options": {
+          "en": ["To carry a liquid effectively", "To be logical, sound, or reasonable", "To sink and fail", "To be easily damaged"]
+        },
+        "correctAnswer": {
+          "en": "To be logical, sound, or reasonable"
+        },
+        "explanation": {
+          "en": "Meaning: तार्किक रूप से सही होना। (To seem reasonable, valid, or logically consistent.)"
+        }
+      },
+      {
+        "id": 122,
+        "question": {
+          "en": "To steal someone's thunder"
+        },
+        "options": {
+          "en": ["To praise someone publicly", "To take credit for someone else's achievement", "To be very generous", "To announce a piece of good news"]
+        },
+        "correctAnswer": {
+          "en": "To take credit for someone else's achievement"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के विचार या उपलब्धि का श्रेय खुद ले लेना। (To anticipate someone and take the credit or attention they deserve.)"
+        }
+      },
+      {
+        "id": 123,
+        "question": {
+          "en": "To get cold feet"
+        },
+        "options": {
+          "en": ["To become very angry", "To get nervous or lose courage just before a decisive action", "To feel physically cold", "To run away from danger"]
+        },
+        "correctAnswer": {
+          "en": "To get nervous or lose courage just before a decisive action"
+        },
+        "explanation": {
+          "en": "Meaning: किसी महत्वपूर्ण कार्य से ठीक पहले घबरा जाना या साहस खो देना। (To suddenly become too scared to do something one has planned to do.)"
+        }
+      },
+      {
+        "id": 124,
+        "question": {
+          "en": "To break a leg"
+        },
+        "options": {
+          "en": ["To get injured badly", "A phrase used to wish someone good luck", "To sabotage someone's work", "To be unable to walk"]
+        },
+        "correctAnswer": {
+          "en": "A phrase used to wish someone good luck"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को शुभकामनाएँ देना (विशेषकर रंगमंच पर प्रदर्शन से पहले)। (Used to wish someone good luck, especially before a performance.)"
+        }
+      },
+      {
+        "id": 125,
+        "question": {
+          "en": "To pay lip service"
+        },
+        "options": {
+          "en": ["To praise sincerely", "To express respect or support insincerely", "To speak very loudly", "To give a formal speech"]
+        },
+        "correctAnswer": {
+          "en": "To express respect or support insincerely"
+        },
+        "explanation": {
+          "en": "Meaning: केवल दिखावा करना या ऊपरी तौर पर समर्थन व्यक्त करना। (To express allegiance or support merely in words, without corresponding conviction or action.)"
+        }
+      },
+      {
+        "id": 126,
+        "question": {
+          "en": "To have a chip on one's shoulder"
+        },
+        "options": {
+          "en": ["To be successful in one's career", "To harbor a feeling of resentment or grievance", "To be very supportive of others", "To be calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To harbor a feeling of resentment or grievance"
+        },
+        "explanation": {
+          "en": "Meaning: पिछली घटनाओं के कारण शिकायत या नाराजगी महसूस करना। (To hold a grudge or have a persistent feeling of being wronged or treated unfairly.)"
+        }
+      },
+      {
+        "id": 127,
+        "question": {
+          "en": "To smell a rat"
+        },
+        "options": {
+          "en": ["To detect an unusual odor", "To suspect that something is wrong or deceitful", "To be very cautious", "To feel uneasy"]
+        },
+        "correctAnswer": {
+          "en": "To suspect that something is wrong or deceitful"
+        },
+        "explanation": {
+          "en": "Meaning: कुछ गड़बड़ी या धोखा होने का संदेह होना। (To suspect deceit or trickery.)"
+        }
+      },
+      {
+        "id": 128,
+        "question": {
+          "en": "To wash one's dirty linen in public"
+        },
+        "options": {
+          "en": ["To praise someone openly", "To discuss private quarrels or embarrassing matters openly", "To criticize someone harshly in private", "To clean up one's act"]
+        },
+        "correctAnswer": {
+          "en": "To discuss private quarrels or embarrassing matters openly"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी निजी समस्याओं या झगड़ों को सार्वजनिक रूप से चर्चा करना। (To discuss one's private affairs or quarrels in public.)"
+        }
+      },
+      {
+        "id": 129,
+        "question": {
+          "en": "To be out of the woods"
+        },
+        "options": {
+          "en": ["To be lost in a forest", "To be safe from a difficulty or danger", "To start a new journey", "To be confused about a path"]
+        },
+        "correctAnswer": {
+          "en": "To be safe from a difficulty or danger"
+        },
+        "explanation": {
+          "en": "Meaning: किसी खतरे या कठिनाई से बाहर निकलना। (To have passed a difficult or dangerous stage.)"
+        }
+      },
+      {
+        "id": 130,
+        "question": {
+          "en": "To put one's best foot forward"
+        },
+        "options": {
+          "en": ["To walk with care", "To make a maximum effort or try one's hardest", "To take a step back from a situation", "To act quickly without thought"]
+        },
+        "correctAnswer": {
+          "en": "To make a maximum effort or try one's hardest"
+        },
+        "explanation": {
+          "en": "Meaning: सर्वोत्तम प्रयास करना या अच्छा प्रभाव डालने की कोशिश करना। (To make a good impression or proceed as quickly and effectively as possible.)"
+        }
+      },
+      {
+        "id": 131,
+        "question": {
+          "en": "To leave no stone unturned"
+        },
+        "options": {
+          "en": ["To do something half-heartedly", "To make every possible effort", "To give up easily", "To accept failure gracefully"]
+        },
+        "correctAnswer": {
+          "en": "To make every possible effort"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every effort possible to achieve a goal.)"
+        }
+      },
+      {
+        "id": 132,
+        "question": {
+          "en": "To turn over a new leaf"
+        },
+        "options": {
+          "en": ["To read a book quickly", "To change one's behavior for the better", "To complain about one's past", "To hide a secret"]
+        },
+        "correctAnswer": {
+          "en": "To change one's behavior for the better"
+        },
+        "explanation": {
+          "en": "Meaning: व्यवहार या आचरण में सुधार लाना। (To start a fresh chapter or change one's life or conduct for the better.)"
+        }
+      },
+      {
+        "id": 133,
+        "question": {
+          "en": "To have a finger in the pie"
+        },
+        "options": {
+          "en": ["To be completely uninvolved", "To be involved in something, often in an uninvited way", "To be very hungry", "To criticize someone's work"]
+        },
+        "correctAnswer": {
+          "en": "To be involved in something, often in an uninvited way"
+        },
+        "explanation": {
+          "en": "Meaning: किसी मामले या गतिविधि में शामिल होना। (To be involved in something, especially where one should not be.)"
+        }
+      },
+      {
+        "id": 134,
+        "question": {
+          "en": "To lead one up the garden path"
+        },
+        "options": {
+          "en": ["To guide someone through a garden", "To deceive or mislead someone", "To encourage someone to pursue a dream", "To give clear and concise instructions"]
+        },
+        "correctAnswer": {
+          "en": "To deceive or mislead someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या गुमराह करना। (To mislead or deceive someone.)"
+        }
+      },
+      {
+        "id": 135,
+        "question": {
+          "en": "To be as deaf as a post"
+        },
+        "options": {
+          "en": ["To be unable to hear at all", "To be very noisy", "To be very slow to respond", "To be a strong and reliable person"]
+        },
+        "correctAnswer": {
+          "en": "To be unable to hear at all"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी तरह से बहरा होना। (To be very deaf; completely unable to hear.)"
+        }
+      },
+      {
+        "id": 136,
+        "question": {
+          "en": "To pull a fast one"
+        },
+        "options": {
+          "en": ["To run very quickly", "To try to deceive or cheat someone", "To complete a task accurately", "To act responsibly"]
+        },
+        "correctAnswer": {
+          "en": "To try to deceive or cheat someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या ठगना। (To successfully achieve something by deception or trickery.)"
+        }
+      },
+      {
+        "id": 137,
+        "question": {
+          "en": "To throw caution to the wind"
+        },
+        "options": {
+          "en": ["To be very careful and cautious", "To take a great risk; to act recklessly", "To plan things thoroughly", "To ignore good advice"]
+        },
+        "correctAnswer": {
+          "en": "To take a great risk; to act recklessly"
+        },
+        "explanation": {
+          "en": "Meaning: अत्यधिक जोखिम लेना या लापरवाही से काम करना। (To act without caring about the possible dangers or negative results.)"
+        }
+      },
+      {
+        "id": 138,
+        "question": {
+          "en": "To be in the driving seat"
+        },
+        "options": {
+          "en": ["To be driving a car slowly", "To be in control of a situation", "To be a passive observer", "To be traveling abroad"]
+        },
+        "correctAnswer": {
+          "en": "To be in control of a situation"
+        },
+        "explanation": {
+          "en": "Meaning: नियंत्रण की स्थिति में होना। (To be in control of a situation or organization.)"
+        }
+      },
+      {
+        "id": 139,
+        "question": {
+          "en": "To pass the buck"
+        },
+        "options": {
+          "en": ["To accept responsibility", "To shift responsibility or blame to another person", "To give money to someone", "To work hard and earn respect"]
+        },
+        "correctAnswer": {
+          "en": "To shift responsibility or blame to another person"
+        },
+        "explanation": {
+          "en": "Meaning: जिम्मेदारी या दोष दूसरे पर टालना। (To evade responsibility by passing it to someone else.)"
+        }
+      },
+      {
+        "id": 140,
+        "question": {
+          "en": "A dime a dozen"
+        },
+        "options": {
+          "en": ["Something very rare and valuable", "Something common, readily available, and therefore of little value", "Something very expensive", "A secret conspiracy"]
+        },
+        "correctAnswer": {
+          "en": "Something common, readily available, and therefore of little value"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत सामान्य और आसानी से उपलब्ध होने के कारण कम मूल्यवान। (Very common, numerous, and therefore of little value.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_5",
+    "title": {
+      "en": "Idioms Practice Set 5"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:00:00.000Z",
+    "questions": [
+      {
+        "id": 141,
+        "question": {
+          "en": "To paddle one's own canoe"
+        },
+        "options": {
+          "en": ["To depend on others for help", "To be independent and self-reliant", "To work in a team", "To travel by water"]
+        },
+        "correctAnswer": {
+          "en": "To be independent and self-reliant"
+        },
+        "explanation": {
+          "en": "Meaning: आत्मनिर्भर होना या किसी पर निर्भर न रहना। (To rely on one's own efforts and resources.)"
+        }
+      },
+      {
+        "id": 142,
+        "question": {
+          "en": "To make a mountain out of a molehill"
+        },
+        "options": {
+          "en": ["To exaggerate a minor problem", "To solve a difficult problem quickly", "To work hard for a small gain", "To ignore a major crisis"]
+        },
+        "correctAnswer": {
+          "en": "To exaggerate a minor problem"
+        },
+        "explanation": {
+          "en": "Meaning: छोटी सी बात को बढ़ा-चढ़ा कर बताना। (To exaggerate the importance of a trivial matter.)"
+        }
+      },
+      {
+        "id": 143,
+        "question": {
+          "en": "To be a wet blanket"
+        },
+        "options": {
+          "en": ["Someone who brings excitement", "Someone who discourages enjoyment or enthusiasm", "Someone who is always shivering", "Someone who always tells lies"]
+        },
+        "correctAnswer": {
+          "en": "Someone who discourages enjoyment or enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: वह व्यक्ति जो दूसरों की खुशी या उत्साह को कम करता है। (A person who prevents others from having fun or enjoying themselves.)"
+        }
+      },
+      {
+        "id": 144,
+        "question": {
+          "en": "To be on the top of the world"
+        },
+        "options": {
+          "en": ["To travel all over the world", "To be extremely happy and triumphant", "To be very rich and famous", "To be on a dangerous mountain top"]
+        },
+        "correctAnswer": {
+          "en": "To be extremely happy and triumphant"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत खुश और सफल होना। (To be extremely happy or proud.)"
+        }
+      },
+      {
+        "id": 145,
+        "question": {
+          "en": "To pay through the nose"
+        },
+        "options": {
+          "en": ["To pay at a discount", "To pay an excessive or extremely high price", "To pay slowly", "To pay a low price"]
+        },
+        "correctAnswer": {
+          "en": "To pay an excessive or extremely high price"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत अधिक कीमत चुकाना। (To pay too much money for something.)"
+        }
+      },
+      {
+        "id": 146,
+        "question": {
+          "en": "To put the cart before the horse"
+        },
+        "options": {
+          "en": ["To follow the correct procedure", "To do things in the wrong order", "To complete a task quickly", "To make unnecessary effort"]
+        },
+        "correctAnswer": {
+          "en": "To do things in the wrong order"
+        },
+        "explanation": {
+          "en": "Meaning: काम को उल्टे क्रम में करना। (To do things in the wrong order.)"
+        }
+      },
+      {
+        "id": 147,
+        "question": {
+          "en": "To take someone to task"
+        },
+        "options": {
+          "en": ["To give someone an easy assignment", "To criticize or reprimand someone severely", "To praise someone's efforts", "To assign a difficult job"]
+        },
+        "correctAnswer": {
+          "en": "To criticize or reprimand someone severely"
+        },
+        "explanation": {
+          "en": "Meaning: किसी की आलोचना करना या उसे फटकारना। (To severely scold, criticize, or reprimand someone.)"
+        }
+      },
+      {
+        "id": 148,
+        "question": {
+          "en": "To hit the sack"
+        },
+        "options": {
+          "en": ["To hit someone with a sack", "To go to bed or sleep", "To steal a sack of money", "To work hard on a project"]
+        },
+        "correctAnswer": {
+          "en": "To go to bed or sleep"
+        },
+        "explanation": {
+          "en": "Meaning: सोने जाना। (To go to bed.)"
+        }
+      },
+      {
+        "id": 149,
+        "question": {
+          "en": "To hang by a thread"
+        },
+        "options": {
+          "en": ["To be in a very dangerous or precarious state", "To be very relaxed and calm", "To be dependent on someone", "To achieve a major success"]
+        },
+        "correctAnswer": {
+          "en": "To be in a very dangerous or precarious state"
+        },
+        "explanation": {
+          "en": "Meaning: अत्यंत खतरनाक या अनिश्चित स्थिति में होना। (To be in a precarious or highly dangerous situation.)"
+        }
+      },
+      {
+        "id": 150,
+        "question": {
+          "en": "To give the cold shoulder"
+        },
+        "options": {
+          "en": ["To greet someone warmly", "To ignore or be unfriendly to someone", "To share a secret with someone", "To give a massage"]
+        },
+        "correctAnswer": {
+          "en": "To ignore or be unfriendly to someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को नजरअंदाज करना या जानबूझकर उपेक्षा करना। (To deliberately ignore or treat someone in an unfriendly way.)"
+        }
+      },
+      {
+        "id": 151,
+        "question": {
+          "en": "To turn a deaf ear"
+        },
+        "options": {
+          "en": ["To listen carefully", "To ignore a request or refusal to listen", "To pretend to be asleep", "To give full attention"]
+        },
+        "correctAnswer": {
+          "en": "To ignore a request or refusal to listen"
+        },
+        "explanation": {
+          "en": "Meaning: अनसुना करना या ध्यान न देना। (To disregard an appeal or request; to refuse to listen.)"
+        }
+      },
+      {
+        "id": 152,
+        "question": {
+          "en": "To pour oil on troubled waters"
+        },
+        "options": {
+          "en": ["To make a situation worse", "To calm down a quarrel or troubled situation", "To create a commotion", "To waste precious resources"]
+        },
+        "correctAnswer": {
+          "en": "To calm down a quarrel or troubled situation"
+        },
+        "explanation": {
+          "en": "Meaning: झगड़े या उत्तेजित स्थिति को शांत करना। (To attempt to calm a difficult or contentious situation.)"
+        }
+      },
+      {
+        "id": 153,
+        "question": {
+          "en": "To throw in the towel"
+        },
+        "options": {
+          "en": ["To accept defeat or surrender", "To clean up the mess", "To celebrate a victory", "To challenge an opponent"]
+        },
+        "correctAnswer": {
+          "en": "To accept defeat or surrender"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या प्रयास करना बंद कर देना। (To admit defeat.)"
+        }
+      },
+      {
+        "id": 154,
+        "question": {
+          "en": "To beat around the bush"
+        },
+        "options": {
+          "en": ["To speak directly and frankly", "To avoid the main topic and talk vaguely", "To search for a hidden item", "To criticize someone harshly"]
+        },
+        "correctAnswer": {
+          "en": "To avoid the main topic and talk vaguely"
+        },
+        "explanation": {
+          "en": "Meaning: मुख्य बात को टालना या घुमा-फिराकर बात करना। (To approach a subject cautiously, without coming to the point.)"
+        }
+      },
+      {
+        "id": 155,
+        "question": {
+          "en": "A cock-and-bull story"
+        },
+        "options": {
+          "en": ["A detailed factual story", "An incredible, fabricated, and absurd story", "A story about pets", "A religious parable"]
+        },
+        "correctAnswer": {
+          "en": "An incredible, fabricated, and absurd story"
+        },
+        "explanation": {
+          "en": "Meaning: मनगढ़ंत, अविश्वसनीय कहानी। (A story or explanation that is obviously untrue and absurd.)"
+        }
+      },
+      {
+        "id": 156,
+        "question": {
+          "en": "To be in the soup"
+        },
+        "options": {
+          "en": ["To be cooking a dish", "To be in great trouble or difficulty", "To be very relaxed", "To enjoy a meal"]
+        },
+        "correctAnswer": {
+          "en": "To be in great trouble or difficulty"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत बड़ी मुसीबत या परेशानी में होना। (To be in trouble or difficulty.)"
+        }
+      },
+      {
+        "id": 157,
+        "question": {
+          "en": "To go to the dogs"
+        },
+        "options": {
+          "en": ["To become successful quickly", "To be ruined or degenerate", "To train animals", "To become very disciplined"]
+        },
+        "correctAnswer": {
+          "en": "To be ruined or degenerate"
+        },
+        "explanation": {
+          "en": "Meaning: बर्बाद हो जाना या पतन हो जाना। (To be ruined or to degenerate rapidly.)"
+        }
+      },
+      {
+        "id": 158,
+        "question": {
+          "en": "To take the bull by the horns"
+        },
+        "options": {
+          "en": ["To be afraid of a problem", "To handle a difficult situation directly and courageously", "To avoid a dangerous situation", "To be confused about a problem"]
+        },
+        "correctAnswer": {
+          "en": "To handle a difficult situation directly and courageously"
+        },
+        "explanation": {
+          "en": "Meaning: साहसपूर्वक और सीधे तौर पर मुश्किल का सामना करना। (To confront a difficulty or danger boldly and directly.)"
+        }
+      },
+      {
+        "id": 159,
+        "question": {
+          "en": "To come clean"
+        },
+        "options": {
+          "en": ["To hide the truth", "To admit the truth or confess fully", "To wash thoroughly", "To tell a lie"]
+        },
+        "correctAnswer": {
+          "en": "To admit the truth or confess fully"
+        },
+        "explanation": {
+          "en": "Meaning: सच स्वीकार कर लेना। (To confess or be honest about something one has kept secret.)"
+        }
+      },
+      {
+        "id": 160,
+        "question": {
+          "en": "To get cold feet"
+        },
+        "options": {
+          "en": ["To run away fast", "To become nervous or lose courage", "To feel physically cold", "To take a major risk"]
+        },
+        "correctAnswer": {
+          "en": "To become nervous or lose courage"
+        },
+        "explanation": {
+          "en": "Meaning: घबरा जाना या साहस खो देना। (To suddenly become too scared to do something one has planned to do.)"
+        }
+      },
+      {
+        "id": 161,
+        "question": {
+          "en": "To leave no stone unturned"
+        },
+        "options": {
+          "en": ["To make minimum effort", "To be careless about work", "To make every possible effort", "To postpone a task"]
+        },
+        "correctAnswer": {
+          "en": "To make every possible effort"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every effort possible to achieve something.)"
+        }
+      },
+      {
+        "id": 162,
+        "question": {
+          "en": "To draw the line"
+        },
+        "options": {
+          "en": ["To be undecided", "To set a limit to what is acceptable", "To draw a boundary quickly", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To set a limit to what is acceptable"
+        },
+        "explanation": {
+          "en": "Meaning: स्वीकार्यता की सीमा निर्धारित करना। (To set a boundary or limit to behavior or activity.)"
+        }
+      },
+      {
+        "id": 163,
+        "question": {
+          "en": "To smell a rat"
+        },
+        "options": {
+          "en": ["To detect a bad odor", "To suspect deceit or trickery", "To be very cautious", "To feel relaxed"]
+        },
+        "correctAnswer": {
+          "en": "To suspect deceit or trickery"
+        },
+        "explanation": {
+          "en": "Meaning: कुछ गड़बड़ी या धोखा होने का संदेह होना। (To suspect that something is wrong or that someone is trying to deceive you.)"
+        }
+      },
+      {
+        "id": 164,
+        "question": {
+          "en": "To call a spade a spade"
+        },
+        "options": {
+          "en": ["To speak in a complex manner", "To be straightforward and speak frankly", "To talk about gardening", "To hide the truth"]
+        },
+        "correctAnswer": {
+          "en": "To be straightforward and speak frankly"
+        },
+        "explanation": {
+          "en": "Meaning: स्पष्ट और खरी बात कहना। (To speak in a direct, blunt, and straightforward manner.)"
+        }
+      },
+      {
+        "id": 165,
+        "question": {
+          "en": "To give someone the slip"
+        },
+        "options": {
+          "en": ["To assist someone secretly", "To escape or get away from someone", "To give someone a warning", "To hand over something to someone"]
+        },
+        "correctAnswer": {
+          "en": "To escape or get away from someone"
+        },
+        "explanation": {
+          "en": "Meaning: चकमा देकर भाग जाना। (To escape from or evade someone.)"
+        }
+      },
+      {
+        "id": 166,
+        "question": {
+          "en": "A storm in a teacup"
+        },
+        "options": {
+          "en": ["A sudden powerful storm", "A lot of unnecessary anger or worry about something trivial", "A secret meeting", "A major global crisis"]
+        },
+        "correctAnswer": {
+          "en": "A lot of unnecessary anger or worry about something trivial"
+        },
+        "explanation": {
+          "en": "Meaning: छोटी सी बात पर बड़ा विवाद। (A lot of fuss or unnecessary excitement over a minor matter.)"
+        }
+      },
+      {
+        "id": 167,
+        "question": {
+          "en": "To burn the midnight oil"
+        },
+        "options": {
+          "en": ["To waste electricity", "To work or study late into the night", "To get up early in the morning", "To cook food at night"]
+        },
+        "correctAnswer": {
+          "en": "To work or study late into the night"
+        },
+        "explanation": {
+          "en": "Meaning: देर रात तक मेहनत करना। (To work or study hard late into the night.)"
+        }
+      },
+      {
+        "id": 168,
+        "question": {
+          "en": "To hit below the belt"
+        },
+        "options": {
+          "en": ["To hit someone precisely", "To attack unfairly or use unethical methods", "To criticize someone publicly", "To follow rules strictly"]
+        },
+        "correctAnswer": {
+          "en": "To attack unfairly or use unethical methods"
+        },
+        "explanation": {
+          "en": "Meaning: बेईमानी से या अनुचित तरीके से हमला करना। (To attack unfairly or contrary to the rules.)"
+        }
+      },
+      {
+        "id": 169,
+        "question": {
+          "en": "To throw cold water on"
+        },
+        "options": {
+          "en": ["To encourage the spirit", "To criticize or discourage enthusiasm", "To waste a good opportunity", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To criticize or discourage enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के उत्साह को कम करना या उस पर पानी फेरना। (To discourage the enthusiasm of a person or dampen an idea.)"
+        }
+      },
+      {
+        "id": 170,
+        "question": {
+          "en": "To pay lip service"
+        },
+        "options": {
+          "en": ["To express respect or support insincerely", "To praise sincerely", "To speak very loudly", "To give financial support"]
+        },
+        "correctAnswer": {
+          "en": "To express respect or support insincerely"
+        },
+        "explanation": {
+          "en": "Meaning: केवल दिखावा करना या ऊपरी तौर पर समर्थन व्यक्त करना। (To express allegiance or support merely in words, without corresponding conviction or action.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_6",
+    "title": {
+      "en": "Idioms Practice Set 6"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:05:00.000Z",
+    "questions": [
+      {
+        "id": 171,
+        "question": {
+          "en": "To cry wolf"
+        },
+        "options": {
+          "en": ["To call for help when it is not needed", "To warn others about a real danger", "To express deep regret", "To frighten someone with loud noises"]
+        },
+        "correctAnswer": {
+          "en": "To call for help when it is not needed"
+        },
+        "explanation": {
+          "en": "Meaning: झूठा अलार्म देना या मदद के लिए अनावश्यक रूप से चिल्लाना। (To give a false alarm or warning; to call for help when it is not needed.)"
+        }
+      },
+      {
+        "id": 172,
+        "question": {
+          "en": "To hang in the balance"
+        },
+        "options": {
+          "en": ["To be perfectly stable and secure", "To be in an uncertain or undecided situation", "To be weighed carefully", "To achieve a major breakthrough"]
+        },
+        "correctAnswer": {
+          "en": "To be in an uncertain or undecided situation"
+        },
+        "explanation": {
+          "en": "Meaning: अनिश्चित या असमंजस की स्थिति में होना। (To have an uncertain outcome; to be in a critical or precarious state.)"
+        }
+      },
+      {
+        "id": 173,
+        "question": {
+          "en": "To pull someone's leg"
+        },
+        "options": {
+          "en": ["To help someone climb", "To tease or joke with someone playfully", "To hurt someone physically", "To criticize someone harshly"]
+        },
+        "correctAnswer": {
+          "en": "To tease or joke with someone playfully"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के साथ मज़ाक करना या चिढ़ाना। (To joke with or tease someone, especially by trying to make them believe something that is not true.)"
+        }
+      },
+      {
+        "id": 174,
+        "question": {
+          "en": "To be a sitting duck"
+        },
+        "options": {
+          "en": ["Someone who is safe and well protected", "Someone who is an easy target for attack or criticism", "Someone who is always working hard", "Someone who is easily deceived"]
+        },
+        "correctAnswer": {
+          "en": "Someone who is an easy target for attack or criticism"
+        },
+        "explanation": {
+          "en": "Meaning: आसान शिकार या हमला करने के लिए एक आसान लक्ष्य। (A person or thing that is vulnerable to attack or easy to target.)"
+        }
+      },
+      {
+        "id": 175,
+        "question": {
+          "en": "To face the music"
+        },
+        "options": {
+          "en": ["To enjoy a concert", "To accept criticism or punishment for what one has done", "To be optimistic in a difficult situation", "To change one's opinion"]
+        },
+        "correctAnswer": {
+          "en": "To accept criticism or punishment for what one has done"
+        },
+        "explanation": {
+          "en": "Meaning: अपने बुरे कार्यों के लिए परिणाम भुगतना। (To accept the consequences of one's actions, especially punishment or severe criticism.)"
+        }
+      },
+      {
+        "id": 176,
+        "question": {
+          "en": "To cut the mustard"
+        },
+        "options": {
+          "en": ["To perform brilliantly", "To meet expectations or be adequate", "To work slowly and inefficiently", "To achieve a small success"]
+        },
+        "correctAnswer": {
+          "en": "To meet expectations or be adequate"
+        },
+        "explanation": {
+          "en": "Meaning: अपेक्षित स्तर तक पहुँचना या अच्छा प्रदर्शन करना। (To be satisfactory; to be good enough for a purpose.)"
+        }
+      },
+      {
+        "id": 177,
+        "question": {
+          "en": "To be up in arms"
+        },
+        "options": {
+          "en": ["To be very supportive", "To be carrying a weapon", "To be protesting vigorously or very angry", "To be highly organized"]
+        },
+        "correctAnswer": {
+          "en": "To be protesting vigorously or very angry"
+        },
+        "explanation": {
+          "en": "Meaning: विरोध करना या बहुत क्रोधित होना। (To be very angry and ready to protest or fight.)"
+        }
+      },
+      {
+        "id": 178,
+        "question": {
+          "en": "To be caught on the horns of a dilemma"
+        },
+        "options": {
+          "en": ["To be in a situation of certainty", "To be in a fix; having to choose between two equally undesirable options", "To be ready for a fight", "To solve a difficult puzzle"]
+        },
+        "correctAnswer": {
+          "en": "To be in a fix; having to choose between two equally undesirable options"
+        },
+        "explanation": {
+          "en": "Meaning: दुविधा में फँस जाना, जहाँ दोनों विकल्प खराब हों। (To be forced to choose between two equally difficult alternatives.)"
+        }
+      },
+      {
+        "id": 179,
+        "question": {
+          "en": "To bite the dust"
+        },
+        "options": {
+          "en": ["To stumble and fall", "To suffer a defeat or fail", "To eat dirty food", "To work hard and succeed"]
+        },
+        "correctAnswer": {
+          "en": "To suffer a defeat or fail"
+        },
+        "explanation": {
+          "en": "Meaning: पराजित होना या बुरी तरह असफल होना। (To suffer a defeat or failure; to die.)"
+        }
+      },
+      {
+        "id": 180,
+        "question": {
+          "en": "To take to one's heels"
+        },
+        "options": {
+          "en": ["To walk slowly", "To run away or flee rapidly", "To stand firm and fight", "To enjoy a leisure walk"]
+        },
+        "correctAnswer": {
+          "en": "To run away or flee rapidly"
+        },
+        "explanation": {
+          "en": "Meaning: भाग जाना या तेज़ी से दौड़ना। (To run away or flee.)"
+        }
+      },
+      {
+        "id": 181,
+        "question": {
+          "en": "To steal a march on someone"
+        },
+        "options": {
+          "en": ["To help someone secretly", "To outdo someone secretly or gain an advantage secretly", "To criticize someone publicly", "To make a joint effort"]
+        },
+        "correctAnswer": {
+          "en": "To outdo someone secretly or gain an advantage secretly"
+        },
+        "explanation": {
+          "en": "Meaning: किसी से चुपके से बेहतर प्रदर्शन करना या गोपनीय रूप से आगे निकल जाना। (To gain an advantage over someone without their knowing.)"
+        }
+      },
+      {
+        "id": 182,
+        "question": {
+          "en": "To throw caution to the wind"
+        },
+        "options": {
+          "en": ["To be extremely careful", "To act recklessly or take a great risk", "To plan meticulously", "To ignore good advice"]
+        },
+        "correctAnswer": {
+          "en": "To act recklessly or take a great risk"
+        },
+        "explanation": {
+          "en": "Meaning: अत्यधिक जोखिम लेना या लापरवाही से काम करना। (To act without caring about the possible dangers or negative results.)"
+        }
+      },
+      {
+        "id": 183,
+        "question": {
+          "en": "To blow one's own trumpet"
+        },
+        "options": {
+          "en": ["To announce a secret to everyone", "To praise one's own efforts and achievements", "To play music loudly", "To criticize one's own work"]
+        },
+        "correctAnswer": {
+          "en": "To praise one's own efforts and achievements"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी शेखी मारना या अपनी ही तारीफ करना। (To boast about one's own talents and achievements.)"
+        }
+      },
+      {
+        "id": 184,
+        "question": {
+          "en": "To pass the buck"
+        },
+        "options": {
+          "en": ["To accept responsibility gladly", "To shift responsibility or blame to another person", "To give money to someone", "To work hard for a reward"]
+        },
+        "correctAnswer": {
+          "en": "To shift responsibility or blame to another person"
+        },
+        "explanation": {
+          "en": "Meaning: जिम्मेदारी या दोष दूसरे पर टालना। (To evade responsibility by passing it to someone else.)"
+        }
+      },
+      {
+        "id": 185,
+        "question": {
+          "en": "To have an axe to grind"
+        },
+        "options": {
+          "en": ["To be very generous", "To have a difficult task to complete", "To have a private motive or selfish reason", "To be highly ambitious"]
+        },
+        "correctAnswer": {
+          "en": "To have a private motive or selfish reason"
+        },
+        "explanation": {
+          "en": "Meaning: कोई व्यक्तिगत स्वार्थ या गुप्त उद्देश्य होना। (To have a private reason for doing or being involved in something.)"
+        }
+      },
+      {
+        "id": 186,
+        "question": {
+          "en": "To hit the nail on the head"
+        },
+        "options": {
+          "en": ["To make an accurate guess", "To state the exact truth or be perfectly correct", "To criticize someone harshly", "To get injured accidentally"]
+        },
+        "correctAnswer": {
+          "en": "To state the exact truth or be perfectly correct"
+        },
+        "explanation": {
+          "en": "Meaning: सही बात कहना या सटीक आकलन करना। (To describe exactly what is causing a situation or problem.)"
+        }
+      },
+      {
+        "id": 187,
+        "question": {
+          "en": "To be at daggers drawn"
+        },
+        "options": {
+          "en": ["To be friendly with someone", "To be bitter enemies or openly hostile", "To be ready for a fight", "To keep one's weapons ready"]
+        },
+        "correctAnswer": {
+          "en": "To be bitter enemies or openly hostile"
+        },
+        "explanation": {
+          "en": "Meaning: कट्टर दुश्मन होना। (To be openly hostile; to have a deep-seated enmity.)"
+        }
+      },
+      {
+        "id": 188,
+        "question": {
+          "en": "To be well off"
+        },
+        "options": {
+          "en": ["To be physically ill", "To be in a financially comfortable or prosperous position", "To be far away from home", "To manage a situation easily"]
+        },
+        "correctAnswer": {
+          "en": "To be in a financially comfortable or prosperous position"
+        },
+        "explanation": {
+          "en": "Meaning: समृद्ध या अमीर होना। (To be rich or in a good financial situation.)"
+        }
+      },
+      {
+        "id": 189,
+        "question": {
+          "en": "To move heaven and earth"
+        },
+        "options": {
+          "en": ["To achieve a simple task", "To make a supreme effort or all possible efforts", "To cause a commotion", "To travel extensively"]
+        },
+        "correctAnswer": {
+          "en": "To make a supreme effort or all possible efforts"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every possible effort to achieve something.)"
+        }
+      },
+      {
+        "id": 190,
+        "question": {
+          "en": "To turn over a new leaf"
+        },
+        "options": {
+          "en": ["To read a new page in a book", "To change one's behavior for the better", "To postpone a decision", "To start a new business venture"]
+        },
+        "correctAnswer": {
+          "en": "To change one's behavior for the better"
+        },
+        "explanation": {
+          "en": "Meaning: बेहतर बनने के लिए व्यवहार बदलना। (To start a fresh chapter or change one's life or conduct for the better.)"
+        }
+      },
+      {
+        "id": 191,
+        "question": {
+          "en": "To fish in troubled waters"
+        },
+        "options": {
+          "en": ["To try to catch fish in a difficult spot", "To take advantage of a disturbed or difficult situation", "To create a commotion", "To make a difficult situation easy"]
+        },
+        "correctAnswer": {
+          "en": "To take advantage of a disturbed or difficult situation"
+        },
+        "explanation": {
+          "en": "Meaning: परेशानी या गड़बड़ी का फायदा उठाना। (To profit from a confused or unstable situation.)"
+        }
+      },
+      {
+        "id": 192,
+        "question": {
+          "en": "To make a clean breast of"
+        },
+        "options": {
+          "en": ["To clean one's clothes thoroughly", "To tell the truth and confess everything", "To hide a mistake successfully", "To apologize in a sad manner"]
+        },
+        "correctAnswer": {
+          "en": "To tell the truth and confess everything"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी सच्चाई बता देना और सब कुछ कबूल कर लेना। (To confess one's faults or mistakes completely.)"
+        }
+      },
+      {
+        "id": 193,
+        "question": {
+          "en": "To throw in the towel"
+        },
+        "options": {
+          "en": ["To clean up the mess", "To accept defeat; surrender", "To start a new contest", "To celebrate a victory"]
+        },
+        "correctAnswer": {
+          "en": "To accept defeat; surrender"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या प्रयास करना बंद कर देना। (To give up a struggle or contest.)"
+        }
+      },
+      {
+        "id": 194,
+        "question": {
+          "en": "A hard nut to crack"
+        },
+        "options": {
+          "en": ["An easy task to complete", "A difficult problem to solve or a difficult person to understand", "A sweet snack", "A person who is easily fooled"]
+        },
+        "correctAnswer": {
+          "en": "A difficult problem to solve or a difficult person to understand"
+        },
+        "explanation": {
+          "en": "Meaning: एक कठिन समस्या या व्यक्ति जिससे निपटना मुश्किल हो। (A difficult problem or person to deal with or understand.)"
+        }
+      },
+      {
+        "id": 195,
+        "question": {
+          "en": "To be in the good books of"
+        },
+        "options": {
+          "en": ["To be an avid reader", "To be in favour with someone or well regarded by them", "To be praised in a book", "To be morally upright"]
+        },
+        "correctAnswer": {
+          "en": "To be in favour with someone or well regarded by them"
+        },
+        "explanation": {
+          "en": "Meaning: किसी की नजरों में अच्छा होना या किसी का प्रिय होना। (To be regarded with favour by someone.)"
+        }
+      },
+      {
+        "id": 196,
+        "question": {
+          "en": "To be at sixes and sevens"
+        },
+        "options": {
+          "en": ["To be perfectly organized", "To be in a state of confusion and disorder", "To be very angry", "To be very calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of confusion and disorder"
+        },
+        "explanation": {
+          "en": "Meaning: अव्यवस्था या भ्रम की स्थिति में होना। (In a state of confusion, disarray, or disorder.)"
+        }
+      },
+      {
+        "id": 197,
+        "question": {
+          "en": "To pull a fast one"
+        },
+        "options": {
+          "en": ["To run very quickly", "To try to deceive or cheat someone", "To complete a task accurately", "To act responsibly and honestly"]
+        },
+        "correctAnswer": {
+          "en": "To try to deceive or cheat someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या ठगना। (To successfully achieve something by deception or trickery.)"
+        }
+      },
+      {
+        "id": 198,
+        "question": {
+          "en": "To get into hot water"
+        },
+        "options": {
+          "en": ["To take a hot bath", "To get into trouble or difficulty", "To relax and unwind", "To get out of a difficult situation"]
+        },
+        "correctAnswer": {
+          "en": "To get into trouble or difficulty"
+        },
+        "explanation": {
+          "en": "Meaning: मुसीबत में पड़ना या संकट में होना। (To get into trouble or an awkward situation.)"
+        }
+      },
+      {
+        "id": 199,
+        "question": {
+          "en": "To keep the ball rolling"
+        },
+        "options": {
+          "en": ["To stop working immediately", "To continue an activity or conversation", "To finish a task perfectly", "To play a game of ball"]
+        },
+        "correctAnswer": {
+          "en": "To continue an activity or conversation"
+        },
+        "explanation": {
+          "en": "Meaning: किसी गतिविधि या बातचीत को जारी रखना। (To maintain an activity or conversation.)"
+        }
+      },
+      {
+        "id": 200,
+        "question": {
+          "en": "To give the slip"
+        },
+        "options": {
+          "en": ["To hand over something to someone secretly", "To escape or get away from someone", "To give a wrong piece of advice", "To slip and fall down"]
+        },
+        "correctAnswer": {
+          "en": "To escape or get away from someone"
+        },
+        "explanation": {
+          "en": "Meaning: चकमा देकर भाग जाना। (To escape from or evade someone.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_7",
+    "title": {
+      "en": "Idioms Practice Set 7"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:10:00.000Z",
+    "questions": [
+      {
+        "id": 201,
+        "question": {
+          "en": "To live in clover"
+        },
+        "options": {
+          "en": ["To live in poverty", "To live a life of luxury and ease", "To live in a remote area", "To live in a small, crowded house"]
+        },
+        "correctAnswer": {
+          "en": "To live a life of luxury and ease"
+        },
+        "explanation": {
+          "en": "Meaning: आराम और विलासिता का जीवन जीना। (To live a life of ease and luxury.)"
+        }
+      },
+      {
+        "id": 202,
+        "question": {
+          "en": "To put a spoke in one's wheel"
+        },
+        "options": {
+          "en": ["To help someone in their work", "To prevent the execution of a design or hinder a plan", "To be involved in an accident", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To prevent the execution of a design or hinder a plan"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के काम में बाधा डालना। (To hinder or thwart someone in the execution of their plan.)"
+        }
+      },
+      {
+        "id": 203,
+        "question": {
+          "en": "To take the rough with the smooth"
+        },
+        "options": {
+          "en": ["To deal with unpleasant or difficult things as well as pleasant ones", "To always choose the easy path", "To criticize someone harshly", "To praise someone's efforts"]
+        },
+        "correctAnswer": {
+          "en": "To deal with unpleasant or difficult things as well as pleasant ones"
+        },
+        "explanation": {
+          "en": "Meaning: जीवन के सुख-दुख या अच्छे-बुरे समय को स्वीकार करना। (To accept the difficult or unpleasant aspects of life as well as the good.)"
+        }
+      },
+      {
+        "id": 204,
+        "question": {
+          "en": "To bury the hatchet"
+        },
+        "options": {
+          "en": ["To hide a weapon", "To make peace and end a quarrel", "To start a new conflict", "To save money secretly"]
+        },
+        "correctAnswer": {
+          "en": "To make peace and end a quarrel"
+        },
+        "explanation": {
+          "en": "Meaning: दुश्मनी खत्म करना और सुलह करना। (To cease a hostile or argumentative disagreement; to make peace.)"
+        }
+      },
+      {
+        "id": 205,
+        "question": {
+          "en": "To make a clean breast of"
+        },
+        "options": {
+          "en": ["To clean one's clothes thoroughly", "To tell the truth and confess everything", "To hide a mistake", "To apologize in a sad manner"]
+        },
+        "correctAnswer": {
+          "en": "To tell the truth and confess everything"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी सच्चाई बता देना और सब कुछ कबूल कर लेना। (To confess one's faults or mistakes completely.)"
+        }
+      },
+      {
+        "id": 206,
+        "question": {
+          "en": "To be at the end of one's tether"
+        },
+        "options": {
+          "en": ["To have many available options", "To be completely exhausted and unable to cope", "To start a new project", "To be successful in life"]
+        },
+        "correctAnswer": {
+          "en": "To be completely exhausted and unable to cope"
+        },
+        "explanation": {
+          "en": "Meaning: धैर्य या सहनशक्ति की सीमा पर होना। (To be at the limit of one's patience or endurance.)"
+        }
+      },
+      {
+        "id": 207,
+        "question": {
+          "en": "To cut a sorry figure"
+        },
+        "options": {
+          "en": ["To give an excellent performance", "To give a poor or disappointing performance", "To behave like a clown", "To apologize sincerely"]
+        },
+        "correctAnswer": {
+          "en": "To give a poor or disappointing performance"
+        },
+        "explanation": {
+          "en": "Meaning: शर्मनाक प्रदर्शन करना या खराब प्रभाव डालना। (To make a poor impression.)"
+        }
+      },
+      {
+        "id": 208,
+        "question": {
+          "en": "To play to the gallery"
+        },
+        "options": {
+          "en": ["To perform brilliantly on stage", "To seek the approval of the common people by appealing to their tastes", "To ignore the audience's reactions", "To entertain a select group of people"]
+        },
+        "correctAnswer": {
+          "en": "To seek the approval of the common people by appealing to their tastes"
+        },
+        "explanation": {
+          "en": "Meaning: सस्ता लोक-लुभावन कार्य करना या सामान्य जनता की तालियाँ बटोरने की कोशिश करना। (To behave in an exaggerated or showy way to gain attention or applause from the public.)"
+        }
+      },
+      {
+        "id": 209,
+        "question": {
+          "en": "A wild goose chase"
+        },
+        "options": {
+          "en": ["A successful hunting trip", "A hopeless, foolish, or futile search", "A playful pursuit of someone", "A long and difficult journey"]
+        },
+        "correctAnswer": {
+          "en": "A hopeless, foolish, or futile search"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ की खोज या निरर्थक प्रयास। (A futile or hopeless pursuit of something unattainable.)"
+        }
+      },
+      {
+        "id": 210,
+        "question": {
+          "en": "To flog a dead horse"
+        },
+        "options": {
+          "en": ["To work tirelessly", "To waste energy on a lost cause or a matter already settled", "To revive an old issue", "To exploit someone for one's gain"]
+        }
+        ,
+        "correctAnswer": {
+          "en": "To waste energy on a lost cause or a matter already settled"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ के काम में ऊर्जा बर्बाद करना। (To waste effort on something that is no longer possible or useful.)"
+        }
+      },
+      {
+        "id": 211,
+        "question": {
+          "en": "To get out of hand"
+        },
+        "options": {
+          "en": ["To complete a task successfully", "To lose control", "To seek guidance from others", "To gain an advantage"]
+        },
+        "correctAnswer": {
+          "en": "To lose control"
+        },
+        "explanation": {
+          "en": "Meaning: नियंत्रण से बाहर हो जाना। (To become uncontrollable.)"
+        }
+      },
+      {
+        "id": 212,
+        "question": {
+          "en": "To get a taste of one's own medicine"
+        },
+        "options": {
+          "en": ["To appreciate someone's actions", "To be treated the way one has treated others", "To take medication correctly", "To learn a new skill"]
+        },
+        "correctAnswer": {
+          "en": "To be treated the way one has treated others"
+        },
+        "explanation": {
+          "en": "Meaning: जैसा व्यवहार दूसरों के साथ किया है, वैसा ही व्यवहार खुद के साथ होना। (To experience the same unpleasantness or difficulty that one has inflicted on others.)"
+        }
+      },
+      {
+        "id": 213,
+        "question": {
+          "en": "To call the shots"
+        },
+        "options": {
+          "en": ["To be able to take photographs", "To be in a position to direct or control events", "To make a mistake in judgment", "To criticize others loudly"]
+        },
+        "correctAnswer": {
+          "en": "To be in a position to direct or control events"
+        },
+        "explanation": {
+          "en": "Meaning: निर्णय लेने या नियंत्रण करने की स्थिति में होना। (To be the person in charge who decides how things are done.)"
+        }
+      },
+      {
+        "id": 214,
+        "question": {
+          "en": "To throw in the towel"
+        },
+        "options": {
+          "en": ["To clean up the mess", "To accept defeat; surrender", "To start a new fight", "To enjoy a victory"]
+        },
+        "correctAnswer": {
+          "en": "To accept defeat; surrender"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या प्रयास करना बंद कर देना। (To give up a struggle or contest.)"
+        }
+      },
+      {
+        "id": 215,
+        "question": {
+          "en": "To hold water"
+        },
+        "options": {
+          "en": ["To carry a liquid effectively", "To be logical, sound, or reasonable", "To sink and fail", "To be easily damaged"]
+        },
+        "correctAnswer": {
+          "en": "To be logical, sound, or reasonable"
+        },
+        "explanation": {
+          "en": "Meaning: तार्किक रूप से सही होना। (To seem reasonable, valid, or logically consistent.)"
+        }
+      },
+      {
+        "id": 216,
+        "question": {
+          "en": "To be caught red-handed"
+        },
+        "options": {
+          "en": ["To be found with red paint on hands", "To be caught in the act of committing a crime", "To be found innocent", "To be arrested without evidence"]
+        },
+        "correctAnswer": {
+          "en": "To be caught in the act of committing a crime"
+        },
+        "explanation": {
+          "en": "Meaning: रंगे हाथों पकड़ा जाना। (To be apprehended at the very moment of doing something wrong or illegal.)"
+        }
+      },
+      {
+        "id": 217,
+        "question": {
+          "en": "To bite the bullet"
+        },
+        "options": {
+          "en": ["To show cowardice", "To face a difficult or unpleasant situation with courage", "To feel a sharp pain", "To complain bitterly"]
+        },
+        "correctAnswer": {
+          "en": "To face a difficult or unpleasant situation with courage"
+        },
+        "explanation": {
+          "en": "Meaning: कठिन या अप्रिय स्थिति का बहादुरी से सामना करना। (To endure a painful or unpleasant situation that is unavoidable.)"
+        }
+      },
+      {
+        "id": 218,
+        "question": {
+          "en": "To be born with a silver spoon in one's mouth"
+        },
+        "options": {
+          "en": ["To be born to poor parents", "To be born in a wealthy or privileged family", "To be a fast eater", "To be a lucky person"]
+        },
+        "correctAnswer": {
+          "en": "To be born in a wealthy or privileged family"
+        },
+        "explanation": {
+          "en": "Meaning: अमीर या धनी परिवार में पैदा होना। (To be born into a rich or prosperous family.)"
+        }
+      },
+      {
+        "id": 219,
+        "question": {
+          "en": "To be at sixes and sevens"
+        },
+        "options": {
+          "en": ["To be perfectly organized", "To be in a state of confusion and disorder", "To be very angry", "To be very calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of confusion and disorder"
+        },
+        "explanation": {
+          "en": "Meaning: अव्यवस्था या भ्रम की स्थिति में होना। (In a state of confusion, disarray, or disorder.)"
+        }
+      },
+      {
+        "id": 220,
+        "question": {
+          "en": "A close shave"
+        },
+        "options": {
+          "en": ["A neat and tidy appearance", "A narrow escape from danger", "A major accident", "A precise and accurate judgment"]
+        },
+        "correctAnswer": {
+          "en": "A narrow escape from danger"
+        },
+        "explanation": {
+          "en": "Meaning: बाल-बाल बचना। (A narrow, near, or slight escape from danger or trouble.)"
+        }
+      },
+      {
+        "id": 221,
+        "question": {
+          "en": "To put one's best foot forward"
+        },
+        "options": {
+          "en": ["To walk with care", "To make a maximum effort or try one's hardest", "To take a step back from a situation", "To act quickly without thought"]
+        },
+        "correctAnswer": {
+          "en": "To make a maximum effort or try one's hardest"
+        },
+        "explanation": {
+          "en": "Meaning: सर्वोत्तम प्रयास करना या अच्छा प्रभाव डालने की कोशिश करना। (To make a good impression or proceed as quickly and effectively as possible.)"
+        }
+      },
+      {
+        "id": 222,
+        "question": {
+          "en": "To be on tenterhooks"
+        },
+        "options": {
+          "en": ["To be in a relaxed mood", "To be in a state of suspense or anxiety", "To be very angry", "To be extremely happy"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of suspense or anxiety"
+        },
+        "explanation": {
+          "en": "Meaning: बेचैनी या चिंता की स्थिति में होना। (To be in a state of nervous tension or suspense.)"
+        }
+      },
+      {
+        "id": 223,
+        "question": {
+          "en": "To steal someone's thunder"
+        },
+        "options": {
+          "en": ["To praise someone publicly", "To take credit for someone else's achievement", "To be very generous", "To announce a piece of good news"]
+        },
+        "correctAnswer": {
+          "en": "To take credit for someone else's achievement"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के विचार या उपलब्धि का श्रेय खुद ले लेना। (To anticipate someone and take the credit or attention they deserve.)"
+        }
+      },
+      {
+        "id": 224,
+        "question": {
+          "en": "To paddle one's own canoe"
+        },
+        "options": {
+          "en": ["To depend on others for help", "To be independent and self-reliant", "To work in a team", "To travel by water"]
+        },
+        "correctAnswer": {
+          "en": "To be independent and self-reliant"
+        },
+        "explanation": {
+          "en": "Meaning: आत्मनिर्भर होना या किसी पर निर्भर न रहना। (To rely on one's own efforts and resources.)"
+        }
+      },
+      {
+        "id": 225,
+        "question": {
+          "en": "To be a wet blanket"
+        },
+        "options": {
+          "en": ["Someone who brings excitement", "Someone who discourages enjoyment or enthusiasm", "Someone who is always shivering", "Someone who always tells lies"]
+        },
+        "correctAnswer": {
+          "en": "Someone who discourages enjoyment or enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: वह व्यक्ति जो दूसरों की खुशी या उत्साह को कम करता है। (A person who prevents others from having fun or enjoying themselves.)"
+        }
+      },
+      {
+        "id": 226,
+        "question": {
+          "en": "To throw cold water on"
+        },
+        "options": {
+          "en": ["To encourage the spirit", "To criticize or discourage enthusiasm", "To waste a good opportunity", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To criticize or discourage enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के उत्साह को कम करना या उस पर पानी फेरना। (To discourage the enthusiasm of a person or dampen an idea.)"
+        }
+      },
+      {
+        "id": 227,
+        "question": {
+          "en": "To call in question"
+        },
+        "options": {
+          "en": ["To praise someone publicly", "To doubt or challenge something", "To ask someone for help", "To accept a fact without scrutiny"]
+        },
+        "correctAnswer": {
+          "en": "To doubt or challenge something"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बात पर संदेह करना या चुनौती देना। (To express doubts about something or challenge its validity.)"
+        }
+      },
+      {
+        "id": 228,
+        "question": {
+          "en": "To pay through the nose"
+        },
+        "options": {
+          "en": ["To pay a reasonable price", "To pay an extremely high price", "To pay in installments", "To pay nothing at all"]
+        },
+        "correctAnswer": {
+          "en": "To pay an extremely high price"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत अधिक कीमत चुकाना। (To pay a very high price or an excessive amount of money for something.)"
+        }
+      },
+      {
+        "id": 229,
+        "question": {
+          "en": "To go to rack and ruin"
+        },
+        "options": {
+          "en": ["To invest wisely", "To be completely destroyed or fall into decay", "To repair old things", "To achieve success quickly"]
+        },
+        "correctAnswer": {
+          "en": "To be completely destroyed or fall into decay"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी तरह से बर्बाद हो जाना या क्षय होना। (To fall into a state of disrepair, decay, or complete ruin.)"
+        }
+      },
+      {
+        "id": 230,
+        "question": {
+          "en": "To break a leg"
+        },
+        "options": {
+          "en": ["To get injured badly", "A phrase used to wish someone good luck", "To sabotage someone's work", "To be unable to walk"]
+        },
+        "correctAnswer": {
+          "en": "A phrase used to wish someone good luck"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को शुभकामनाएँ देना (विशेषकर रंगमंच पर प्रदर्शन से पहले)। (Used to wish someone good luck, especially before a performance.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_8",
+    "title": {
+      "en": "Idioms Practice Set 8"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:15:00.000Z",
+    "questions": [
+      {
+        "id": 231,
+        "question": {
+          "en": "To call the shots"
+        },
+        "options": {
+          "en": ["To criticize someone sharply", "To be in a position to direct or control events", "To make a spontaneous decision", "To ask for help from others"]
+        },
+        "correctAnswer": {
+          "en": "To be in a position to direct or control events"
+        },
+        "explanation": {
+          "en": "Meaning: निर्णय लेने या नियंत्रण करने की स्थिति में होना। (To be the person in charge who makes the decisions.)"
+        }
+      },
+      {
+        "id": 232,
+        "question": {
+          "en": "To cool one's heels"
+        },
+        "options": {
+          "en": ["To run away from danger", "To be kept waiting for a long time", "To relax and enjoy oneself", "To take revenge on someone"]
+        },
+        "correctAnswer": {
+          "en": "To be kept waiting for a long time"
+        },
+        "explanation": {
+          "en": "Meaning: लंबे समय तक इंतजार करना। (To be kept waiting, especially when one is forced to stand.)"
+        }
+      },
+      {
+        "id": 233,
+        "question": {
+          "en": "To get a handle on"
+        },
+        "options": {
+          "en": ["To hold something firmly", "To understand or deal with something effectively", "To lose control of a situation", "To ignore a problem"]
+        },
+        "correctAnswer": {
+          "en": "To understand or deal with something effectively"
+        },
+        "explanation": {
+          "en": "Meaning: किसी बात को समझना या उससे प्रभावी ढंग से निपटना। (To acquire an understanding of, or means to deal with, something.)"
+        }
+      },
+      {
+        "id": 234,
+        "question": {
+          "en": "To cut corners"
+        },
+        "options": {
+          "en": ["To take a shortcut while travelling", "To do something quickly and cheaply, often by sacrificing quality", "To complete a task accurately", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To do something quickly and cheaply, often by sacrificing quality"
+        },
+        "explanation": {
+          "en": "Meaning: पैसे या समय बचाने के लिए किसी काम को लापरवाही से करना। (To do something in the easiest, quickest, or cheapest way, often at the expense of quality.)"
+        }
+      },
+      {
+        "id": 235,
+        "question": {
+          "en": "To jump the gun"
+        },
+        "options": {
+          "en": ["To take calculated steps", "To act prematurely or before the proper time", "To fire a gun unexpectedly", "To run very fast"]
+        },
+        "correctAnswer": {
+          "en": "To act prematurely or before the proper time"
+        },
+        "explanation": {
+          "en": "Meaning: समय से पहले कार्रवाई करना। (To act or begin to speak before the proper or appropriate time.)"
+        }
+      },
+      {
+        "id": 236,
+        "question": {
+          "en": "To be under the weather"
+        },
+        "options": {
+          "en": ["To be happy and energetic", "To feel slightly ill or unwell", "To be exposed to bad weather", "To be in a challenging mood"]
+        },
+        "correctAnswer": {
+          "en": "To feel slightly ill or unwell"
+        },
+        "explanation": {
+          "en": "Meaning: बीमार महसूस करना या अस्वस्थ होना। (To feel slightly unwell or ill.)"
+        }
+      },
+      {
+        "id": 237,
+        "question": {
+          "en": "To spill the beans"
+        },
+        "options": {
+          "en": ["To cook food badly", "To reveal a secret or hidden information", "To spill something accidentally", "To talk about food"]
+        },
+        "correctAnswer": {
+          "en": "To reveal a secret or hidden information"
+        },
+        "explanation": {
+          "en": "Meaning: भेद खोलना या रहस्य बता देना। (To reveal secret information, often inadvertently.)"
+        }
+      },
+      {
+        "id": 238,
+        "question": {
+          "en": "To face the music"
+        },
+        "options": {
+          "en": ["To enjoy a concert", "To accept criticism or punishment for what one has done", "To be optimistic in a difficult situation", "To change one's opinion"]
+        },
+        "correctAnswer": {
+          "en": "To accept criticism or punishment for what one has done"
+        },
+        "explanation": {
+          "en": "Meaning: अपने बुरे कार्यों के लिए परिणाम भुगतना। (To accept the consequences of one's actions, especially punishment or severe criticism.)"
+        }
+      },
+      {
+        "id": 239,
+        "question": {
+          "en": "To get out of hand"
+        },
+        "options": {
+          "en": ["To complete a task successfully", "To lose control", "To seek guidance from others", "To gain an advantage"]
+        },
+        "correctAnswer": {
+          "en": "To lose control"
+        },
+        "explanation": {
+          "en": "Meaning: नियंत्रण से बाहर हो जाना। (To become uncontrollable.)"
+        }
+      },
+      {
+        "id": 240,
+        "question": {
+          "en": "To throw in the towel"
+        },
+        "options": {
+          "en": ["To accept defeat; surrender", "To clean up the mess", "To start a new fight", "To enjoy a victory"]
+        },
+        "correctAnswer": {
+          "en": "To accept defeat; surrender"
+        },
+        "explanation": {
+          "en": "Meaning: हार मान लेना या प्रयास करना बंद कर देना। (To give up a struggle or contest, derived from boxing.)"
+        }
+      },
+      {
+        "id": 241,
+        "question": {
+          "en": "To be at daggers drawn"
+        },
+        "options": {
+          "en": ["To be in deep conversation", "To be bitter enemies or openly hostile", "To be ready for a duel", "To keep one's weapons ready"]
+        },
+        "correctAnswer": {
+          "en": "To be bitter enemies or openly hostile"
+        },
+        "explanation": {
+          "en": "Meaning: कट्टर दुश्मन होना। (To be openly hostile; to have a deep-seated enmity.)"
+        }
+      },
+      {
+        "id": 242,
+        "question": {
+          "en": "To take someone to task"
+        },
+        "options": {
+          "en": ["To give someone an easy assignment", "To criticize or reprimand someone severely", "To praise someone's efforts", "To assign a difficult job"]
+        },
+        "correctAnswer": {
+          "en": "To criticize or reprimand someone severely"
+        },
+        "explanation": {
+          "en": "Meaning: किसी की आलोचना करना या उसे फटकारना। (To severely scold, criticize, or reprimand someone.)"
+        }
+      },
+      {
+        "id": 243,
+        "question": {
+          "en": "To make a mountain out of a molehill"
+        },
+        "options": {
+          "en": ["To solve a problem easily", "To exaggerate a minor problem", "To build something grand", "To minimize a serious issue"]
+        },
+        "correctAnswer": {
+          "en": "To exaggerate a minor problem"
+        },
+        "explanation": {
+          "en": "Meaning: छोटी सी बात को बढ़ा-चढ़ा कर बताना। (To exaggerate the importance of a trivial matter.)"
+        }
+      },
+      {
+        "id": 244,
+        "question": {
+          "en": "A dime a dozen"
+        },
+        "options": {
+          "en": ["Something very rare and valuable", "Something common, readily available, and therefore of little value", "Something very expensive", "A secret conspiracy"]
+        },
+        "correctAnswer": {
+          "en": "Something common, readily available, and therefore of little value"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत सामान्य और आसानी से उपलब्ध होने के कारण कम मूल्यवान। (Very common, numerous, and therefore of little value.)"
+        }
+      },
+      {
+        "id": 245,
+        "question": {
+          "en": "To burn one's boats/bridges"
+        },
+        "options": {
+          "en": ["To plan a secret escape", "To make a decision that is irreversible", "To ruin oneself financially", "To win a decisive battle"]
+        },
+        "correctAnswer": {
+          "en": "To make a decision that is irreversible"
+        },
+        "explanation": {
+          "en": "Meaning: ऐसा कदम उठाना जिसके बाद वापस लौटना असंभव हो। (To do something that makes it impossible to return to the former position.)"
+        }
+      },
+      {
+        "id": 246,
+        "question": {
+          "en": "To be on tenterhooks"
+        },
+        "options": {
+          "en": ["To be in a relaxed mood", "To be in a state of suspense or anxiety", "To be very angry", "To be extremely happy"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of suspense or anxiety"
+        },
+        "explanation": {
+          "en": "Meaning: बेचैनी या चिंता की स्थिति में होना। (To be in a state of nervous tension or suspense.)"
+        }
+      },
+      {
+        "id": 247,
+        "question": {
+          "en": "To lead one up the garden path"
+        },
+        "options": {
+          "en": ["To guide someone through a garden", "To deceive or mislead someone", "To encourage someone to pursue a dream", "To give clear and concise instructions"]
+        },
+        "correctAnswer": {
+          "en": "To deceive or mislead someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या गुमराह करना। (To mislead or deceive someone.)"
+        }
+      },
+      {
+        "id": 248,
+        "question": {
+          "en": "To play ducks and drakes with"
+        },
+        "options": {
+          "en": ["To use resources carefully", "To waste money or resources recklessly", "To swim like a duck", "To share expenses equally"]
+        },
+        "correctAnswer": {
+          "en": "To waste money or resources recklessly"
+        },
+        "explanation": {
+          "en": "Meaning: पैसे या संसाधनों को लापरवाही से बर्बाद करना। (To squander or carelessly misuse money or property.)"
+        }
+      },
+      {
+        "id": 249,
+        "question": {
+          "en": "To be a sitting duck"
+        },
+        "options": {
+          "en": ["Someone who is safe and well protected", "Someone who is an easy target for attack or criticism", "Someone who is always working hard", "Someone who is easily deceived"]
+        },
+        "correctAnswer": {
+          "en": "Someone who is an easy target for attack or criticism"
+        },
+        "explanation": {
+          "en": "Meaning: आसान शिकार या हमला करने के लिए एक आसान लक्ष्य। (A person or thing that is vulnerable to attack or easy to target.)"
+        }
+      },
+      {
+        "id": 250,
+        "question": {
+          "en": "To take the rough with the smooth"
+        },
+        "options": {
+          "en": ["To always choose the easy path", "To deal with unpleasant or difficult things as well as pleasant ones", "To criticize someone harshly", "To praise someone's efforts"]
+        },
+        "correctAnswer": {
+          "en": "To deal with unpleasant or difficult things as well as pleasant ones"
+        },
+        "explanation": {
+          "en": "Meaning: जीवन के सुख-दुख या अच्छे-बुरे समय को स्वीकार करना। (To accept the difficult or unpleasant aspects of life as well as the good.)"
+        }
+      },
+      {
+        "id": 251,
+        "question": {
+          "en": "To be out of the woods"
+        },
+        "options": {
+          "en": ["To be lost in a forest", "To be safe from a difficulty or danger", "To start a new journey", "To be confused about a path"]
+        },
+        "correctAnswer": {
+          "en": "To be safe from a difficulty or danger"
+        },
+        "explanation": {
+          "en": "Meaning: किसी खतरे या कठिनाई से बाहर निकलना। (To have passed a difficult or dangerous stage.)"
+        }
+      },
+      {
+        "id": 252,
+        "question": {
+          "en": "To have a finger in the pie"
+        },
+        "options": {
+          "en": ["To eat too much food", "To be involved in something, often in an uninvited way", "To interfere in other people's affairs", "To cook food expertly"]
+        },
+        "correctAnswer": {
+          "en": "To be involved in something, often in an uninvited way"
+        },
+        "explanation": {
+          "en": "Meaning: किसी मामले या गतिविधि में शामिल होना। (To have an active part or involvement in a matter or activity.)"
+        }
+      },
+      {
+        "id": 253,
+        "question": {
+          "en": "A pipe dream"
+        },
+        "options": {
+          "en": ["A practical and realistic plan", "An impossible or impracticable idea or hope", "A long-cherished goal", "A dream that comes true"]
+        },
+        "correctAnswer": {
+          "en": "An impossible or impracticable idea or hope"
+        },
+        "explanation": {
+          "en": "Meaning: एक असंभव या अव्यावहारिक विचार या सपना। (An unrealistic hope, idea, or scheme.)"
+        }
+      },
+      {
+        "id": 254,
+        "question": {
+          "en": "To be at the end of one's tether"
+        },
+        "options": {
+          "en": ["To have many available options", "To be completely exhausted and unable to cope", "To start a new project", "To be successful in life"]
+        },
+        "correctAnswer": {
+          "en": "To be completely exhausted and unable to cope"
+        },
+        "explanation": {
+          "en": "Meaning: धैर्य या सहनशक्ति की सीमा पर होना। (To be at the limit of one's patience or endurance.)"
+        }
+      },
+      {
+        "id": 255,
+        "question": {
+          "en": "To be in the driving seat"
+        },
+        "options": {
+          "en": ["To be driving a car slowly", "To be in control of a situation", "To be a passive observer", "To be traveling abroad"]
+        },
+        "correctAnswer": {
+          "en": "To be in control of a situation"
+        },
+        "explanation": {
+          "en": "Meaning: नियंत्रण की स्थिति में होना। (To be in control of a situation or organization.)"
+        }
+      },
+      {
+        "id": 256,
+        "question": {
+          "en": "To throw caution to the wind"
+        },
+        "options": {
+          "en": ["To be very careful and cautious", "To act recklessly or take a great risk", "To plan things thoroughly", "To ignore good advice"]
+        },
+        "correctAnswer": {
+          "en": "To act recklessly or take a great risk"
+        },
+        "explanation": {
+          "en": "Meaning: अत्यधिक जोखिम लेना या लापरवाही से काम करना। (To act without caring about the possible dangers or negative results.)"
+        }
+      },
+      {
+        "id": 257,
+        "question": {
+          "en": "To put a spoke in one's wheel"
+        },
+        "options": {
+          "en": ["To help someone in their work", "To prevent the execution of a design or hinder a plan", "To be involved in an accident", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To prevent the execution of a design or hinder a plan"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के काम में बाधा डालना। (To hinder or thwart someone in the execution of their plan.)"
+        }
+      },
+      {
+        "id": 258,
+        "question": {
+          "en": "To give the cold shoulder"
+        },
+        "options": {
+          "en": ["To greet someone warmly", "To ignore or be unfriendly to someone", "To share a secret with someone", "To give a massage"]
+        },
+        "correctAnswer": {
+          "en": "To ignore or be unfriendly to someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को नजरअंदाज करना या जानबूझकर उपेक्षा करना। (To deliberately ignore or treat someone in an unfriendly way.)"
+        }
+      },
+      {
+        "id": 259,
+        "question": {
+          "en": "To be in the soup"
+        },
+        "options": {
+          "en": ["To be cooking a dish", "To be in great trouble or difficulty", "To be very relaxed", "To enjoy a meal"]
+        },
+        "correctAnswer": {
+          "en": "To be in great trouble or difficulty"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत बड़ी मुसीबत या परेशानी में होना। (To be in trouble or difficulty.)"
+        }
+      },
+      {
+        "id": 260,
+        "question": {
+          "en": "To pass the buck"
+        },
+        "options": {
+          "en": ["To accept responsibility", "To shift responsibility or blame to another person", "To give money to someone", "To work hard and earn respect"]
+        },
+        "correctAnswer": {
+          "en": "To shift responsibility or blame to another person"
+        },
+        "explanation": {
+          "en": "Meaning: जिम्मेदारी या दोष दूसरे पर टालना। (To evade responsibility by passing it to someone else.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_9",
+    "title": {
+      "en": "Idioms Practice Set 9"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:20:00.000Z",
+    "questions": [
+      {
+        "id": 261,
+        "question": {
+          "en": "To come to a head"
+        },
+        "options": {
+          "en": ["To start a conversation", "To solve a problem easily", "To reach a crisis or decisive point", "To get confused"]
+        },
+        "correctAnswer": {
+          "en": "To reach a crisis or decisive point"
+        },
+        "explanation": {
+          "en": "Meaning: संकट की पराकाष्ठा पर पहुँचना या निर्णायक बिंदु पर पहुँचना। (To reach a decisive point or a crisis, often a bad one.)"
+        }
+      },
+      {
+        "id": 262,
+        "question": {
+          "en": "To give someone the slip"
+        },
+        "options": {
+          "en": ["To assist someone secretly", "To escape or get away from someone", "To give someone a warning", "To hand over something to someone"]
+        },
+        "correctAnswer": {
+          "en": "To escape or get away from someone"
+        },
+        "explanation": {
+          "en": "Meaning: चकमा देकर भाग जाना। (To escape from or evade someone.)"
+        }
+      },
+      {
+        "id": 263,
+        "question": {
+          "en": "To cut the mustard"
+        },
+        "options": {
+          "en": ["To perform brilliantly", "To meet expectations or be adequate", "To work slowly and inefficiently", "To achieve a small success"]
+        },
+        "correctAnswer": {
+          "en": "To meet expectations or be adequate"
+        },
+        "explanation": {
+          "en": "Meaning: अपेक्षित स्तर तक पहुँचना या अच्छा प्रदर्शन करना। (To be satisfactory; to be good enough for a purpose.)"
+        }
+      },
+      {
+        "id": 264,
+        "question": {
+          "en": "To steal a march on someone"
+        },
+        "options": {
+          "en": ["To help someone secretly", "To outdo someone secretly or gain an advantage secretly", "To criticize someone publicly", "To make a joint effort"]
+        },
+        "correctAnswer": {
+          "en": "To outdo someone secretly or gain an advantage secretly"
+        },
+        "explanation": {
+          "en": "Meaning: किसी से चुपके से बेहतर प्रदर्शन करना या गोपनीय रूप से आगे निकल जाना। (To gain an advantage over someone without their knowing.)"
+        }
+      },
+      {
+        "id": 265,
+        "question": {
+          "en": "A cock-and-bull story"
+        },
+        "options": {
+          "en": ["A detailed factual story", "An incredible, fabricated, and absurd story", "A story about pets", "A religious parable"]
+        },
+        "correctAnswer": {
+          "en": "An incredible, fabricated, and absurd story"
+        },
+        "explanation": {
+          "en": "Meaning: मनगढ़ंत, अविश्वसनीय कहानी। (A story or explanation that is obviously untrue and absurd.)"
+        }
+      },
+      {
+        "id": 266,
+        "question": {
+          "en": "To draw the line"
+        },
+        "options": {
+          "en": ["To be undecided", "To set a limit to what is acceptable", "To draw a boundary quickly", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To set a limit to what is acceptable"
+        },
+        "explanation": {
+          "en": "Meaning: स्वीकार्यता की सीमा निर्धारित करना। (To set a boundary or limit to behavior or activity.)"
+        }
+      },
+      {
+        "id": 267,
+        "question": {
+          "en": "To bury the hatchet"
+        },
+        "options": {
+          "en": ["To hide a weapon", "To make peace or end a quarrel", "To start a new conflict", "To save money secretly"]
+        },
+        "correctAnswer": {
+          "en": "To make peace or end a quarrel"
+        },
+        "explanation": {
+          "en": "Meaning: दुश्मनी खत्म करना और सुलह करना। (To cease a hostile or argumentative disagreement; to make peace.)"
+        }
+      },
+      {
+        "id": 268,
+        "question": {
+          "en": "To wash one's dirty linen in public"
+        },
+        "options": {
+          "en": ["To praise someone openly", "To discuss private quarrels or embarrassing matters openly", "To criticize someone harshly in private", "To clean up one's act"]
+        },
+        "correctAnswer": {
+          "en": "To discuss private quarrels or embarrassing matters openly"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी निजी समस्याओं या झगड़ों को सार्वजनिक रूप से चर्चा करना। (To discuss one's private affairs or quarrels in public.)"
+        }
+      },
+      {
+        "id": 269,
+        "question": {
+          "en": "A hard nut to crack"
+        },
+        "options": {
+          "en": ["An easy task to complete", "A difficult problem to solve or a difficult person to understand", "A sweet snack", "A person who is easily fooled"]
+        },
+        "correctAnswer": {
+          "en": "A difficult problem to solve or a difficult person to understand"
+        },
+        "explanation": {
+          "en": "Meaning: एक कठिन समस्या या व्यक्ति जिससे निपटना मुश्किल हो। (A difficult problem or person to deal with or understand.)"
+        }
+      },
+      {
+        "id": 270,
+        "question": {
+          "en": "To pay lip service"
+        },
+        "options": {
+          "en": ["To praise sincerely", "To express respect or support insincerely", "To speak very loudly", "To give a formal speech"]
+        },
+        "correctAnswer": {
+          "en": "To express respect or support insincerely"
+        },
+        "explanation": {
+          "en": "Meaning: केवल दिखावा करना या ऊपरी तौर पर समर्थन व्यक्त करना। (To express allegiance or support merely in words, without corresponding conviction or action.)"
+        }
+      },
+      {
+        "id": 271,
+        "question": {
+          "en": "To have a finger in the pie"
+        },
+        "options": {
+          "en": ["To eat too much food", "To be involved in something, often in an uninvited way", "To interfere in other people's affairs", "To cook food expertly"]
+        },
+        "correctAnswer": {
+          "en": "To be involved in something, often in an uninvited way"
+        },
+        "explanation": {
+          "en": "Meaning: किसी मामले या गतिविधि में शामिल होना। (To have an active part or involvement in a matter or activity.)"
+        }
+      },
+      {
+        "id": 272,
+        "question": {
+          "en": "To smell a rat"
+        },
+        "options": {
+          "en": ["To detect an unusual odor", "To suspect that something is wrong or deceitful", "To be very cautious", "To feel uneasy"]
+        },
+        "correctAnswer": {
+          "en": "To suspect that something is wrong or deceitful"
+        },
+        "explanation": {
+          "en": "Meaning: कुछ गड़बड़ी या धोखा होने का संदेह होना। (To suspect deceit or trickery.)"
+        }
+      },
+      {
+        "id": 273,
+        "question": {
+          "en": "To beat around the bush"
+        },
+        "options": {
+          "en": ["To speak directly and frankly", "To avoid the main topic and talk vaguely", "To search for a hidden item", "To criticize someone harshly"]
+        },
+        "correctAnswer": {
+          "en": "To avoid the main topic and talk vaguely"
+        },
+        "explanation": {
+          "en": "Meaning: मुख्य बात को टालना या घुमा-फिराकर बात करना। (To approach a subject cautiously, without coming to the point.)"
+        }
+      },
+      {
+        "id": 274,
+        "question": {
+          "en": "To bite the dust"
+        },
+        "options": {
+          "en": ["To stumble and fall", "To suffer a defeat or fail", "To eat dirty food", "To work hard and succeed"]
+        },
+        "correctAnswer": {
+          "en": "To suffer a defeat or fail"
+        },
+        "explanation": {
+          "en": "Meaning: पराजित होना या बुरी तरह असफल होना। (To suffer a defeat or failure; to die.)"
+        }
+      },
+      {
+        "id": 275,
+        "question": {
+          "en": "To have a chip on one's shoulder"
+        },
+        "options": {
+          "en": ["To be successful in one's career", "To harbor a feeling of resentment or grievance", "To be very supportive of others", "To be calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To harbor a feeling of resentment or grievance"
+        },
+        "explanation": {
+          "en": "Meaning: पिछली घटनाओं के कारण शिकायत या नाराजगी महसूस करना। (To hold a grudge or have a persistent feeling of being wronged or treated unfairly.)"
+        }
+      },
+      {
+        "id": 276,
+        "question": {
+          "en": "To cry wolf"
+        },
+        "options": {
+          "en": ["To call for help when it is not needed", "To warn others about a real danger", "To express deep regret", "To frighten someone with loud noises"]
+        },
+        "correctAnswer": {
+          "en": "To call for help when it is not needed"
+        },
+        "explanation": {
+          "en": "Meaning: झूठा अलार्म देना या मदद के लिए अनावश्यक रूप से चिल्लाना। (To give a false alarm or warning; to call for help when it is not needed.)"
+        }
+      },
+      {
+        "id": 277,
+        "question": {
+          "en": "To put the cart before the horse"
+        },
+        "options": {
+          "en": ["To perform a task in the right order", "To do things in the wrong order", "To show great enthusiasm", "To be very cautious"]
+        },
+        "correctAnswer": {
+          "en": "To do things in the wrong order"
+        },
+        "explanation": {
+          "en": "Meaning: काम को उल्टे क्रम में करना। (To do things in the wrong or reverse order; to emphasize the wrong thing.)"
+        }
+      },
+      {
+        "id": 278,
+        "question": {
+          "en": "To take to one's heels"
+        },
+        "options": {
+          "en": ["To walk slowly", "To run away or flee rapidly", "To stand firm and fight", "To enjoy a leisure walk"]
+        },
+        "correctAnswer": {
+          "en": "To run away or flee rapidly"
+        },
+        "explanation": {
+          "en": "Meaning: भाग जाना या तेज़ी से दौड़ना। (To run away or flee.)"
+        }
+      },
+      {
+        "id": 279,
+        "question": {
+          "en": "To bite one's lip"
+        },
+        "options": {
+          "en": ["To show physical discomfort", "To be in deep thought", "To hold back anger or emotion", "To express regret openly"]
+        },
+        "correctAnswer": {
+          "en": "To hold back anger or emotion"
+        },
+        "explanation": {
+          "en": "Meaning: गुस्से या भावनाओं को रोकना। (To struggle to suppress a strong emotion, especially frustration or annoyance.)"
+        }
+      },
+      {
+        "id": 280,
+        "question": {
+          "en": "To be caught on the horns of a dilemma"
+        },
+        "options": {
+          "en": ["To be in a fighting mood", "To be in a fix; having to choose between two equally undesirable options", "To be in a situation of certainty", "To solve a difficult puzzle"]
+        },
+        "correctAnswer": {
+          "en": "To be in a fix; having to choose between two equally undesirable options"
+        },
+        "explanation": {
+          "en": "Meaning: दुविधा में फँस जाना, जहाँ दोनों विकल्प खराब हों। (To be faced with a choice between two equally unpleasant alternatives.)"
+        }
+      },
+      {
+        "id": 281,
+        "question": {
+          "en": "To put one's best foot forward"
+        },
+        "options": {
+          "en": ["To walk with care", "To make a maximum effort or try one's hardest", "To take a step back from a situation", "To act quickly without thought"]
+        },
+        "correctAnswer": {
+          "en": "To make a maximum effort or try one's hardest"
+        },
+        "explanation": {
+          "en": "Meaning: सर्वोत्तम प्रयास करना या अच्छा प्रभाव डालने की कोशिश करना। (To make a good impression or proceed as quickly and effectively as possible.)"
+        }
+      },
+      {
+        "id": 282,
+        "question": {
+          "en": "To take the bull by the horns"
+        },
+        "options": {
+          "en": ["To be afraid of a problem", "To handle a difficult situation directly and courageously", "To avoid a dangerous situation", "To be confused about a problem"]
+        },
+        "correctAnswer": {
+          "en": "To handle a difficult situation directly and courageously"
+        },
+        "explanation": {
+          "en": "Meaning: साहसपूर्वक और सीधे तौर पर मुश्किल का सामना करना। (To confront a difficulty or danger boldly and directly.)"
+        }
+      },
+      {
+        "id": 283,
+        "question": {
+          "en": "To cut a sorry figure"
+        },
+        "options": {
+          "en": ["To give an excellent performance", "To give a poor or disappointing performance", "To behave like a clown", "To apologize sincerely"]
+        },
+        "correctAnswer": {
+          "en": "To give a poor or disappointing performance"
+        },
+        "explanation": {
+          "en": "Meaning: शर्मनाक प्रदर्शन करना या खराब प्रभाव डालना। (To make a poor impression.)"
+        }
+      },
+      {
+        "id": 284,
+        "question": {
+          "en": "To be well off"
+        },
+        "options": {
+          "en": ["To be physically ill", "To be in a financially comfortable or prosperous position", "To be far away from home", "To manage a situation easily"]
+        },
+        "correctAnswer": {
+          "en": "To be in a financially comfortable or prosperous position"
+        },
+        "explanation": {
+          "en": "Meaning: समृद्ध या अमीर होना। (To be rich or in a good financial situation.)"
+        }
+      },
+      {
+        "id": 285,
+        "question": {
+          "en": "To be up in arms"
+        },
+        "options": {
+          "en": ["To be very supportive", "To be carrying a weapon", "To be protesting vigorously or very angry", "To be highly organized"]
+        },
+        "correctAnswer": {
+          "en": "To be protesting vigorously or very angry"
+        },
+        "explanation": {
+          "en": "Meaning: विरोध करना या बहुत क्रोधित होना। (To be very angry and ready to protest or fight.)"
+        }
+      },
+      {
+        "id": 286,
+        "question": {
+          "en": "To live in clover"
+        },
+        "options": {
+          "en": ["To live in poverty", "To live a life of luxury and ease", "To live in a remote area", "To live in a small, crowded house"]
+        },
+        "correctAnswer": {
+          "en": "To live a life of luxury and ease"
+        },
+        "explanation": {
+          "en": "Meaning: आराम और विलासिता का जीवन जीना। (To live a life of ease and luxury.)"
+        }
+      },
+      {
+        "id": 287,
+        "question": {
+          "en": "To go to the dogs"
+        },
+        "options": {
+          "en": ["To become successful quickly", "To be ruined or degenerate", "To train animals", "To become very disciplined"]
+        },
+        "correctAnswer": {
+          "en": "To be ruined or degenerate"
+        },
+        "explanation": {
+          "en": "Meaning: बर्बाद हो जाना या पतन हो जाना। (To be ruined or to degenerate rapidly.)"
+        }
+      },
+      {
+        "id": 288,
+        "question": {
+          "en": "To be caught red-handed"
+        },
+        "options": {
+          "en": ["To be found with red paint on hands", "To be caught in the act of committing a crime", "To be found innocent", "To be arrested without evidence"]
+        },
+        "correctAnswer": {
+          "en": "To be caught in the act of committing a crime"
+        },
+        "explanation": {
+          "en": "Meaning: रंगे हाथों पकड़ा जाना। (To be apprehended at the very moment of doing something wrong or illegal.)"
+        }
+      },
+      {
+        "id": 289,
+        "question": {
+          "en": "To hit the sack"
+        },
+        "options": {
+          "en": ["To hit someone with a sack", "To go to bed or sleep", "To steal a sack of money", "To work hard on a project"]
+        },
+        "correctAnswer": {
+          "en": "To go to bed or sleep"
+        },
+        "explanation": {
+          "en": "Meaning: सोने जाना। (To go to bed.)"
+        }
+      },
+      {
+        "id": 290,
+        "question": {
+          "en": "To be at sixes and sevens"
+        },
+        "options": {
+          "en": ["To be perfectly organized", "To be in a state of confusion and disorder", "To be very angry", "To be very calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of confusion and disorder"
+        },
+        "explanation": {
+          "en": "Meaning: अव्यवस्था या भ्रम की स्थिति में होना। (In a state of confusion, disarray, or disorder.)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_idioms_practice_10",
+    "title": {
+      "en": "Idioms Practice Set 10"
+    },
+    "category": "Idioms",
+    "createdAt": "2025-11-12T10:25:00.000Z",
+    "questions": [
+      {
+        "id": 291,
+        "question": {
+          "en": "To take to one's heels"
+        },
+        "options": {
+          "en": ["To stand firm and fight", "To run away or flee rapidly", "To walk slowly and deliberately", "To enjoy a leisure walk"]
+        },
+        "correctAnswer": {
+          "en": "To run away or flee rapidly"
+        },
+        "explanation": {
+          "en": "Meaning: भाग जाना या तेज़ी से दौड़ना। (To run away or flee.)"
+        }
+      },
+      {
+        "id": 292,
+        "question": {
+          "en": "To flog a dead horse"
+        },
+        "options": {
+          "en": ["To work tirelessly", "To waste energy on a lost cause or a matter already settled", "To revive an old issue", "To exploit someone for one's gain"]
+        },
+        "correctAnswer": {
+          "en": "To waste energy on a lost cause or a matter already settled"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ के काम में ऊर्जा बर्बाद करना। (To waste effort on something that is no longer possible or useful.)"
+        }
+      },
+      {
+        "id": 293,
+        "question": {
+          "en": "To be caught red-handed"
+        },
+        "options": {
+          "en": ["To be found with red paint on hands", "To be caught in the act of committing a crime", "To be found innocent", "To be arrested without evidence"]
+        },
+        "correctAnswer": {
+          "en": "To be caught in the act of committing a crime"
+        },
+        "explanation": {
+          "en": "Meaning: रंगे हाथों पकड़ा जाना। (To be apprehended at the very moment of doing something wrong or illegal.)"
+        }
+      },
+      {
+        "id": 294,
+        "question": {
+          "en": "To have an axe to grind"
+        },
+        "options": {
+          "en": ["To be very generous", "To have a difficult task to complete", "To have a private motive or selfish reason", "To be highly ambitious"]
+        },
+        "correctAnswer": {
+          "en": "To have a private motive or selfish reason"
+        },
+        "explanation": {
+          "en": "Meaning: कोई व्यक्तिगत स्वार्थ या गुप्त उद्देश्य होना। (To have a private reason for doing or being involved in something.)"
+        }
+      },
+      {
+        "id": 295,
+        "question": {
+          "en": "To cool one's heels"
+        },
+        "options": {
+          "en": ["To run away from danger", "To be kept waiting for a long time", "To relax and enjoy oneself", "To take revenge on someone"]
+        },
+        "correctAnswer": {
+          "en": "To be kept waiting for a long time"
+        },
+        "explanation": {
+          "en": "Meaning: लंबे समय तक इंतजार करना। (To be kept waiting, especially when one is forced to stand.)"
+        }
+      },
+      {
+        "id": 296,
+        "question": {
+          "en": "To pull someone's leg"
+        },
+        "options": {
+          "en": ["To help someone climb", "To tease or joke with someone playfully", "To hurt someone physically", "To criticize someone harshly"]
+        },
+        "correctAnswer": {
+          "en": "To tease or joke with someone playfully"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के साथ मज़ाक करना या चिढ़ाना। (To joke with or tease someone, especially by trying to make them believe something that is not true.)"
+        }
+      },
+      {
+        "id": 297,
+        "question": {
+          "en": "To be under the weather"
+        },
+        "options": {
+          "en": ["To be happy and energetic", "To feel slightly ill or unwell", "To be exposed to bad weather", "To be in a challenging mood"]
+        },
+        "correctAnswer": {
+          "en": "To feel slightly ill or unwell"
+        },
+        "explanation": {
+          "en": "Meaning: बीमार महसूस करना या अस्वस्थ होना। (To feel slightly unwell or ill.)"
+        }
+      },
+      {
+        "id": 298,
+        "question": {
+          "en": "To spill the beans"
+        },
+        "options": {
+          "en": ["To cook food badly", "To reveal a secret or hidden information", "To spill something accidentally", "To talk about food"]
+        },
+        "correctAnswer": {
+          "en": "To reveal a secret or hidden information"
+        },
+        "explanation": {
+          "en": "Meaning: भेद खोलना या रहस्य बता देना। (To reveal secret information, often inadvertently.)"
+        }
+      },
+      {
+        "id": 299,
+        "question": {
+          "en": "To blow one's own trumpet"
+        },
+        "options": {
+          "en": ["To announce a secret to everyone", "To praise one's own efforts and achievements", "To play music loudly", "To criticize one's own work"]
+        },
+        "correctAnswer": {
+          "en": "To praise one's own efforts and achievements"
+        },
+        "explanation": {
+          "en": "Meaning: अपनी शेखी मारना या अपनी ही तारीफ करना। (To boast about one's own talents and achievements.)"
+        }
+      },
+      {
+        "id": 300,
+        "question": {
+          "en": "To be in the good books of"
+        },
+        "options": {
+          "en": ["To be an avid reader", "To be in favour with someone or well regarded by them", "To be praised in a book", "To be morally upright"]
+        },
+        "correctAnswer": {
+          "en": "To be in favour with someone or well regarded by them"
+        },
+        "explanation": {
+          "en": "Meaning: किसी की नजरों में अच्छा होना या किसी का प्रिय होना। (To be regarded with favour by someone.)"
+        }
+      },
+      {
+        "id": 301,
+        "question": {
+          "en": "To keep the ball rolling"
+        },
+        "options": {
+          "en": ["To stop working immediately", "To continue an activity or conversation", "To finish a task perfectly", "To play a game of ball"]
+        },
+        "correctAnswer": {
+          "en": "To continue an activity or conversation"
+        },
+        "explanation": {
+          "en": "Meaning: किसी गतिविधि या बातचीत को जारी रखना। (To maintain an activity or conversation.)"
+        }
+      },
+      {
+        "id": 302,
+        "question": {
+          "en": "To break the ice"
+        },
+        "options": {
+          "en": ["To make a situation awkward", "To initiate conversation and relieve tension in a social setting", "To do a difficult physical task", "To cause an argument"]
+        },
+        "correctAnswer": {
+          "en": "To initiate conversation and relieve tension in a social setting"
+        },
+        "explanation": {
+          "en": "Meaning: सामाजिक माहौल में बातचीत शुरू करके तनाव कम करना। (To initiate social interaction or conversation, especially in a quiet or reserved group.)"
+        }
+      },
+      {
+        "id": 303,
+        "question": {
+          "en": "To hit the nail on the head"
+        },
+        "options": {
+          "en": ["To make an accurate guess", "To state the exact truth or be perfectly correct", "To criticize someone harshly", "To get injured accidentally"]
+        },
+        "correctAnswer": {
+          "en": "To state the exact truth or be perfectly correct"
+        },
+        "explanation": {
+          "en": "Meaning: सही बात कहना या सटीक आकलन करना। (To describe exactly what is causing a situation or problem.)"
+        }
+      },
+      {
+        "id": 304,
+        "question": {
+          "en": "A storm in a teacup"
+        },
+        "options": {
+          "en": ["A sudden powerful storm", "A lot of unnecessary anger or worry about something trivial", "A secret meeting", "A major global crisis"]
+        },
+        "correctAnswer": {
+          "en": "A lot of unnecessary anger or worry about something trivial"
+        },
+        "explanation": {
+          "en": "Meaning: छोटी सी बात पर बड़ा विवाद। (A lot of fuss or unnecessary excitement over a minor matter.)"
+        }
+      },
+      {
+        "id": 305,
+        "question": {
+          "en": "To turn over a new leaf"
+        },
+        "options": {
+          "en": ["To read a book quickly", "To change one's behavior for the better", "To complain about one's past", "To hide a secret"]
+        },
+        "correctAnswer": {
+          "en": "To change one's behavior for the better"
+        },
+        "explanation": {
+          "en": "Meaning: व्यवहार या आचरण में सुधार लाना। (To start a fresh chapter or change one's life or conduct for the better.)"
+        }
+      },
+      {
+        "id": 306,
+        "question": {
+          "en": "To be at the end of one's tether"
+        },
+        "options": {
+          "en": ["To have many available options", "To be completely exhausted and unable to cope", "To start a new project", "To be successful in life"]
+        },
+        "correctAnswer": {
+          "en": "To be completely exhausted and unable to cope"
+        },
+        "explanation": {
+          "en": "Meaning: धैर्य या सहनशक्ति की सीमा पर होना। (To be at the limit of one's patience or endurance.)"
+        }
+      },
+      {
+        "id": 307,
+        "question": {
+          "en": "To put a spoke in one's wheel"
+        },
+        "options": {
+          "en": ["To help someone in their work", "To prevent the execution of a design or hinder a plan", "To be involved in an accident", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To prevent the execution of a design or hinder a plan"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के काम में बाधा डालना। (To hinder or thwart someone in the execution of their plan.)"
+        }
+      },
+      {
+        "id": 308,
+        "question": {
+          "en": "To break a leg"
+        },
+        "options": {
+          "en": ["To get injured badly", "A phrase used to wish someone good luck", "To sabotage someone's work", "To be unable to walk"]
+        },
+        "correctAnswer": {
+          "en": "A phrase used to wish someone good luck"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को शुभकामनाएँ देना। (Used to wish someone good luck, especially before a performance.)"
+        }
+      },
+      {
+        "id": 309,
+        "question": {
+          "en": "To put the cart before the horse"
+        },
+        "options": {
+          "en": ["To follow the correct procedure", "To do things in the wrong order", "To complete a task quickly", "To make unnecessary effort"]
+        },
+        "correctAnswer": {
+          "en": "To do things in the wrong order"
+        },
+        "explanation": {
+          "en": "Meaning: काम को उल्टे क्रम में करना। (To do things in the wrong order.)"
+        }
+      },
+      {
+        "id": 310,
+        "question": {
+          "en": "A wild goose chase"
+        },
+        "options": {
+          "en": ["A successful hunting trip", "A hopeless, foolish, or futile search", "A playful pursuit of someone", "A long and difficult journey"]
+        },
+        "correctAnswer": {
+          "en": "A hopeless, foolish, or futile search"
+        },
+        "explanation": {
+          "en": "Meaning: व्यर्थ की खोज या निरर्थक प्रयास। (A futile or hopeless pursuit of something unattainable.)"
+        }
+      },
+      {
+        "id": 311,
+        "question": {
+          "en": "To be out of the woods"
+        },
+        "options": {
+          "en": ["To be lost in a forest", "To be safe from a difficulty or danger", "To start a new journey", "To be confused about a path"]
+        },
+        "correctAnswer": {
+          "en": "To be safe from a difficulty or danger"
+        },
+        "explanation": {
+          "en": "Meaning: किसी खतरे या कठिनाई से बाहर निकलना। (To have passed a difficult or dangerous stage.)"
+        }
+      },
+      {
+        "id": 312,
+        "question": {
+          "en": "To move heaven and earth"
+        },
+        "options": {
+          "en": ["To achieve a simple task", "To make a supreme effort or all possible efforts", "To cause a commotion", "To travel extensively"]
+        },
+        "correctAnswer": {
+          "en": "To make a supreme effort or all possible efforts"
+        },
+        "explanation": {
+          "en": "Meaning: हर संभव प्रयास करना। (To make every possible effort to achieve something.)"
+        }
+      },
+      {
+        "id": 313,
+        "question": {
+          "en": "To call the shots"
+        },
+        "options": {
+          "en": ["To criticize someone sharply", "To be in a position to direct or control events", "To make a spontaneous decision", "To ask for help from others"]
+        },
+        "correctAnswer": {
+          "en": "To be in a position to direct or control events"
+        },
+        "explanation": {
+          "en": "Meaning: निर्णय लेने या नियंत्रण करने की स्थिति में होना। (To be the person in charge who makes the decisions.)"
+        }
+      },
+      {
+        "id": 314,
+        "question": {
+          "en": "To pay through the nose"
+        },
+        "options": {
+          "en": ["To pay a reasonable price", "To pay an extremely high price", "To pay in installments", "To pay nothing at all"]
+        },
+        "correctAnswer": {
+          "en": "To pay an extremely high price"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत अधिक कीमत चुकाना। (To pay a very high price or an excessive amount of money for something.)"
+        }
+      },
+      {
+        "id": 315,
+        "question": {
+          "en": "To throw cold water on"
+        },
+        "options": {
+          "en": ["To encourage the spirit", "To criticize or discourage enthusiasm", "To waste a good opportunity", "To make a situation worse"]
+        },
+        "correctAnswer": {
+          "en": "To criticize or discourage enthusiasm"
+        },
+        "explanation": {
+          "en": "Meaning: किसी के उत्साह को कम करना या उस पर पानी फेरना। (To discourage the enthusiasm of a person or dampen an idea.)"
+        }
+      },
+      {
+        "id": 316,
+        "question": {
+          "en": "To give the cold shoulder"
+        },
+        "options": {
+          "en": ["To greet someone warmly", "To ignore or be unfriendly to someone", "To share a secret with someone", "To give a massage"]
+        },
+        "correctAnswer": {
+          "en": "To ignore or be unfriendly to someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को नजरअंदाज करना या जानबूझकर उपेक्षा करना। (To deliberately ignore or treat someone in an unfriendly way.)"
+        }
+      },
+      {
+        "id": 317,
+        "question": {
+          "en": "To be born with a silver spoon in one's mouth"
+        },
+        "options": {
+          "en": ["To be born to poor parents", "To be born in a wealthy or privileged family", "To be a fast eater", "To be a lucky person"]
+        },
+        "correctAnswer": {
+          "en": "To be born in a wealthy or privileged family"
+        },
+        "explanation": {
+          "en": "Meaning: अमीर या धनी परिवार में पैदा होना। (To be born into a rich or prosperous family.)"
+        }
+      },
+      {
+        "id": 318,
+        "question": {
+          "en": "To play to the gallery"
+        },
+        "options": {
+          "en": ["To perform brilliantly on stage", "To seek the approval of the common people by appealing to their tastes", "To ignore the audience's reactions", "To entertain a select group of people"]
+        },
+        "correctAnswer": {
+          "en": "To seek the approval of the common people by appealing to their tastes"
+        },
+        "explanation": {
+          "en": "Meaning: सस्ता लोक-लुभावन कार्य करना या सामान्य जनता की तालियाँ बटोरने की कोशिश करना। (To behave in an exaggerated or showy way to gain attention or applause from the public.)"
+        }
+      },
+      {
+        "id": 319,
+        "question": {
+          "en": "To cut corners"
+        },
+        "options": {
+          "en": ["To take a shortcut while travelling", "To do something quickly and cheaply, often by sacrificing quality", "To complete a task accurately", "To be very generous"]
+        },
+        "correctAnswer": {
+          "en": "To do something quickly and cheaply, often by sacrificing quality"
+        },
+        "explanation": {
+          "en": "Meaning: पैसे या समय बचाने के लिए किसी काम को लापरवाही से करना। (To do something in the easiest, quickest, or cheapest way, often at the expense of quality.)"
+        }
+      },
+      {
+        "id": 320,
+        "question": {
+          "en": "To make a clean breast of"
+        },
+        "options": {
+          "en": ["To clean one's clothes thoroughly", "To tell the truth and confess everything", "To hide a mistake successfully", "To apologize in a sad manner"]
+        },
+        "correctAnswer": {
+          "en": "To tell the truth and confess everything"
+        },
+        "explanation": {
+          "en": "Meaning: पूरी सच्चाई बता देना और सब कुछ कबूल कर लेना। (To confess one's faults or mistakes completely.)"
+        }
+      },
+      {
+        "id": 321,
+        "question": {
+          "en": "To get cold feet"
+        },
+        "options": {
+          "en": ["To run away fast", "To become nervous or lose courage just before a decisive action", "To feel physically cold", "To take a major risk"]
+        },
+        "correctAnswer": {
+          "en": "To become nervous or lose courage just before a decisive action"
+        },
+        "explanation": {
+          "en": "Meaning: किसी महत्वपूर्ण कार्य से ठीक पहले घबरा जाना या साहस खो देना। (To suddenly become too scared to do something one has planned to do.)"
+        }
+      },
+      {
+        "id": 322,
+        "question": {
+          "en": "To be on the top of the world"
+        },
+        "options": {
+          "en": ["To travel all over the world", "To be extremely happy and triumphant", "To be very rich and famous", "To be on a dangerous mountain top"]
+        },
+        "correctAnswer": {
+          "en": "To be extremely happy and triumphant"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत खुश और सफल होना। (To be extremely happy or proud.)"
+        }
+      },
+      {
+        "id": 323,
+        "question": {
+          "en": "To hold water"
+        },
+        "options": {
+          "en": ["To carry a liquid effectively", "To be logical, sound, or reasonable", "To sink and fail", "To be easily damaged"]
+        },
+        "correctAnswer": {
+          "en": "To be logical, sound, or reasonable"
+        },
+        "explanation": {
+          "en": "Meaning: तार्किक रूप से सही होना। (To seem reasonable, valid, or logically consistent.)"
+        }
+      },
+      {
+        "id": 324,
+        "question": {
+          "en": "To be at daggers drawn"
+        },
+        "options": {
+          "en": ["To be in deep conversation", "To be bitter enemies or openly hostile", "To be ready for a duel", "To keep one's weapons ready"]
+        },
+        "correctAnswer": {
+          "en": "To be bitter enemies or openly hostile"
+        },
+        "explanation": {
+          "en": "Meaning: कट्टर दुश्मन होना। (To be openly hostile; to have a deep-seated enmity.)"
+        }
+      },
+      {
+        "id": 325,
+        "question": {
+          "en": "To jump the gun"
+        },
+        "options": {
+          "en": ["To take calculated steps", "To act prematurely or before the proper time", "To fire a gun unexpectedly", "To run very fast"]
+        },
+        "correctAnswer": {
+          "en": "To act prematurely or before the proper time"
+        },
+        "explanation": {
+          "en": "Meaning: समय से पहले कार्रवाई करना। (To act or begin to speak before the proper or appropriate time.)"
+        }
+      },
+      {
+        "id": 326,
+        "question": {
+          "en": "To turn a deaf ear"
+        },
+        "options": {
+          "en": ["To listen carefully", "To ignore a request or refusal to listen", "To pretend to be asleep", "To give full attention"]
+        },
+        "correctAnswer": {
+          "en": "To ignore a request or refusal to listen"
+        },
+        "explanation": {
+          "en": "Meaning: अनसुना करना या ध्यान न देना। (To disregard an appeal or request; to refuse to listen.)"
+        }
+      },
+      {
+        "id": 327,
+        "question": {
+          "en": "To lead one up the garden path"
+        },
+        "options": {
+          "en": ["To guide someone through a garden", "To deceive or mislead someone", "To encourage someone to pursue a dream", "To give clear and concise instructions"]
+        },
+        "correctAnswer": {
+          "en": "To deceive or mislead someone"
+        },
+        "explanation": {
+          "en": "Meaning: किसी को धोखा देना या गुमराह करना। (To mislead or deceive someone.)"
+        }
+      },
+      {
+        "id": 328,
+        "question": {
+          "en": "To be at sixes and sevens"
+        },
+        "options": {
+          "en": ["To be perfectly organized", "To be in a state of confusion and disorder", "To be very angry", "To be very calm and composed"]
+        },
+        "correctAnswer": {
+          "en": "To be in a state of confusion and disorder"
+        },
+        "explanation": {
+          "en": "Meaning: अव्यवस्था या भ्रम की स्थिति में होना। (In a state of confusion, disarray, or disorder.)"
+        }
+      },
+      {
+        "id": 329,
+        "question": {
+          "en": "A dime a dozen"
+        },
+        "options": {
+          "en": ["Something very rare and valuable", "Something common, readily available, and therefore of little value", "Something very expensive", "A secret conspiracy"]
+        },
+        "correctAnswer": {
+          "en": "Something common, readily available, and therefore of little value"
+        },
+        "explanation": {
+          "en": "Meaning: बहुत सामान्य और आसानी से उपलब्ध होने के कारण कम मूल्यवान। (Very common, numerous, and therefore of little value.)"
+        }
+      },
+      {
+        "id": 330,
+        "question": {
+          "en": "To bite the bullet"
+        },
+        "options": {
+          "en": ["To show cowardice", "To face a difficult or unpleasant situation with courage", "To feel a sharp pain", "To complain bitterly"]
+        },
+        "correctAnswer": {
+          "en": "To face a difficult or unpleasant situation with courage"
+        },
+        "explanation": {
+          "en": "Meaning: कठिन या अप्रिय स्थिति का बहादुरी से सामना करना। (To endure a painful or unpleasant situation that is unavoidable.)"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4606 @@
+
+  {
+    "id": "ssc_cgl_spelling_practice_1",
+    "title": {
+      "en": "Spelling Practice Set 1"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:30:00.000Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Mischevious", "Mischievous", "Mischivious", "Mischievious"]
+        },
+        "correctAnswer": {
+          "en": "Mischievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Mischievous** (शरारती)"
+        }
+      },
+      {
+        "id": 2,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Occassion", "Occaision", "Occasion", "Occasionn"]
+        },
+        "correctAnswer": {
+          "en": "Occasion"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occasion** (अवसर) - इसमें एक 'c' और दो 's' के बजाय एक 's' आता है।"
+        }
+      },
+      {
+        "id": 3,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Guaratee", "Guarantee", "Gaurantee", "Guarrante"]
+        },
+        "correctAnswer": {
+          "en": "Guarantee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Guarantee** (गारंटी/जमानत)"
+        }
+      },
+      {
+        "id": 4,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Separaate", "Seperate", "Separate", "Seperatte"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना)"
+        }
+      },
+      {
+        "id": 5,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Neccessary", "Necessary", "Necessarry", "Neceassary"]
+        },
+        "correctAnswer": {
+          "en": "Necessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Necessary** (आवश्यक) - इसमें एक 'c' और दो 's' के बजाय दो 'c' आता है।"
+        }
+      },
+      {
+        "id": 6,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Committe", "Comittee", "Committee", "Commitee"]
+        },
+        "correctAnswer": {
+          "en": "Committee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Committee** (समिति) - इसमें डबल 'm', डबल 't', और डबल 'e' आता है।"
+        }
+      },
+      {
+        "id": 7,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reccommend", "Recomend", "Recommend", "Recommed"]
+        },
+        "correctAnswer": {
+          "en": "Recommend"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Recommend** (सिफारिश करना)"
+        }
+      },
+      {
+        "id": 8,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Existance", "Existense", "Existence", "Existince"]
+        },
+        "correctAnswer": {
+          "en": "Existence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Existence** (अस्तित्व)"
+        }
+      },
+      {
+        "id": 9,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Definite", "Definate", "Definit", "Deffinite"]
+        },
+        "correctAnswer": {
+          "en": "Definite"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Definite** (निश्चित)"
+        }
+      },
+      {
+        "id": 10,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reciept", "Receipt", "Receit", "Recceipt"]
+        },
+        "correctAnswer": {
+          "en": "Receipt"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receipt** (रसीद) - इसमें 'p' अक्षर साइलेंट रहता है।"
+        }
+      },
+      {
+        "id": 11,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Priviledge", "Privellege", "Privilege", "Privillege"]
+        },
+        "correctAnswer": {
+          "en": "Privilege"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Privilege** (विशेषाधिकार)"
+        }
+      },
+      {
+        "id": 12,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Grammer", "Grammar", "Grammerr", "Grammarre"]
+        },
+        "correctAnswer": {
+          "en": "Grammar"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Grammar** (व्याकरण) - 'mar' के अंत में 'a' आता है।"
+        }
+      },
+      {
+        "id": 13,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Embarrass", "Embarass", "Embarras", "Embarrasss"]
+        },
+        "correctAnswer": {
+          "en": "Embarrass"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Embarrass** (शर्मिंदा करना) - इसमें डबल 'r' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 14,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Judgement", "Judgment", "Judgmant", "Judgemant"]
+        },
+        "correctAnswer": {
+          "en": "Judgment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Judgment** (निर्णय) - American English में 'e' नहीं आता है, जबकि British English में 'judgement' भी स्वीकार्य है। परीक्षा के लिए **Judgment** को प्राथमिकता दें।"
+        }
+      },
+      {
+        "id": 15,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Wiered", "Weird", "Wirde", "Wierd"]
+        },
+        "correctAnswer": {
+          "en": "Weird"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Weird** (अजीब) - यह 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 16,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Acquire", "Aquire", "Acquiree", "Acquair"]
+        },
+        "correctAnswer": {
+          "en": "Acquire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Acquire** (हासिल करना)"
+        }
+      },
+      {
+        "id": 17,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Concious", "Conscious", "Conciouss", "Consscious"]
+        },
+        "correctAnswer": {
+          "en": "Conscious"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscious** (जागरूक)"
+        }
+      },
+      {
+        "id": 18,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Apparent", "Apparant", "Aparent", "Apparentt"]
+        },
+        "correctAnswer": {
+          "en": "Apparent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Apparent** (स्पष्ट)"
+        }
+      },
+      {
+        "id": 19,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Releive", "Receive", "Receeve", "Receiv"]
+        },
+        "correctAnswer": {
+          "en": "Receive"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receive** (प्राप्त करना) - 'c' के बाद 'ei' आता है।"
+        }
+      },
+      {
+        "id": 20,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Millenium", "Millennium", "Milennium", "Millennum"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 21,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Inoculate", "Inocculate", "Inocculatte", "Inoculatee"]
+        },
+        "correctAnswer": {
+          "en": "Inoculate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Inoculate** (टीका लगाना) - इसमें केवल एक 'c' आता है।"
+        }
+      },
+      {
+        "id": 22,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Concience", "Conscience", "Consciounce", "Consience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा)"
+        }
+      },
+      {
+        "id": 23,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Accummulate", "Accumulate", "Acumulate", "Accumulatte"]
+        },
+        "correctAnswer": {
+          "en": "Accumulate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accumulate** (जमा करना) - इसमें डबल 'c' आता है।"
+        }
+      },
+      {
+        "id": 24,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Curiousity", "Curiossity", "Curiosity", "Curiositty"]
+        },
+        "correctAnswer": {
+          "en": "Curiosity"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Curiosity** (जिज्ञासा)"
+        }
+      },
+      {
+        "id": 25,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Exilirate", "Exhilarate", "Exhilerate", "Exillarate"]
+        },
+        "correctAnswer": {
+          "en": "Exhilarate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Exhilarate** (प्रसन्न करना)"
+        }
+      },
+      {
+        "id": 26,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Paralel", "Parallell", "Parallel", "Paralell"]
+        },
+        "correctAnswer": {
+          "en": "Parallel"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parallel** (समानांतर) - डबल 'l' के बाद एक 'l' आता है।"
+        }
+      },
+      {
+        "id": 27,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Restuarant", "Restaurante", "Restaurant", "Resturrant"]
+        },
+        "correctAnswer": {
+          "en": "Restaurant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Restaurant** (भोजनालय)"
+        }
+      },
+      {
+        "id": 28,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Forein", "Foriegn", "Foreign", "Foreigne"]
+        },
+        "correctAnswer": {
+          "en": "Foreign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Foreign** (विदेशी) - इसमें 'ei' आता है।"
+        }
+      },
+      {
+        "id": 29,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Bureaucracy", "Beureaucracy", "Burocracy", "Buraucracy"]
+        },
+        "correctAnswer": {
+          "en": "Bureaucracy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Bureaucracy** (नौकरशाही)"
+        }
+      },
+      {
+        "id": 30,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disasterous", "Disastrous", "Disastorous", "Dissasterous"]
+        },
+        "correctAnswer": {
+          "en": "Disastrous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disastrous** (विनाशकारी) - इसमें 'e' या 'o' नहीं आता है।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_2",
+    "title": {
+      "en": "Spelling Practice Set 2"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:35:00.000Z",
+    "questions": [
+      {
+        "id": 31,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Sacrilegious", "Sacreligious", "Sacriligious", "Sacrilegous"]
+        },
+        "correctAnswer": {
+          "en": "Sacrilegious"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sacrilegious** (धर्मभ्रष्ट/अपवित्र करने वाला) - 'religious' से भ्रमित न हों।"
+        }
+      },
+      {
+        "id": 32,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना/हटाना) - यह इकलौता सामान्य अंग्रेजी शब्द है जिसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 33,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Connoisseur", "Connoiseur", "Connaisseur", "Connoiseurr"]
+        },
+        "correctAnswer": {
+          "en": "Connoisseur"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Connoisseur** (कला आदि का पारखी) - इसमें डबल 'n' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 34,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Acommodation", "Accommodation", "Accomodation", "Acommadation"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास/रहने की जगह) - इसमें डबल 'c' और डबल 'm' आता है।"
+        }
+      },
+      {
+        "id": 35,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Independant", "Indipendent", "Independent", "Independdent"]
+        },
+        "correctAnswer": {
+          "en": "Independent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Independent** (स्वतंत्र) - इसका अंत **'dent'** से होता है, न कि 'dant' से।"
+        }
+      },
+      {
+        "id": 36,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Maintenance", "Maintainence", "Maintenence", "Maintanence"]
+        },
+        "correctAnswer": {
+          "en": "Maintenance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Maintenance** (रखरखाव) - यह 'maintain' (बनाए रखना) से बना है, लेकिन वर्तनी में **'ten'** आता है।"
+        }
+      },
+      {
+        "id": 37,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Profesional", "Proffessional", "Professional", "Proffesional"]
+        },
+        "correctAnswer": {
+          "en": "Professional"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Professional** (पेशेवर) - इसमें डबल 's' आता है, लेकिन केवल एक 'f'।"
+        }
+      },
+      {
+        "id": 38,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liquefy", "Liquify", "Liquifie", "Liqueify"]
+        },
+        "correctAnswer": {
+          "en": "Liquefy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liquefy** (तरल करना) - इसका अंत **'efy'** से होता है, न कि 'ify' से।"
+        }
+      },
+      {
+        "id": 39,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Consceince", "Conscience", "Consciouse", "Consience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा) - ध्यान दें: Conscious (जागरूक) में 'e' नहीं आता, Conscience में 'e' आता है।"
+        }
+      },
+      {
+        "id": 40,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Questionaire", "Questionnaire", "Questionnair", "Questionairre"]
+        },
+        "correctAnswer": {
+          "en": "Questionnaire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Questionnaire** (प्रश्नावली) - इसमें डबल 'n' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 41,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Harrasment", "Harassment", "Harressment", "Harrassment"]
+        },
+        "correctAnswer": {
+          "en": "Harassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Harassment** (उत्पीड़न) - इसमें केवल एक 'r' आता है, लेकिन डबल 's'।"
+        }
+      },
+      {
+        "id": 42,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Jewellery", "Jewelry", "Jewelerry", "Jwellery"]
+        },
+        "correctAnswer": {
+          "en": "Jewellery"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Jewellery** (आभूषण) - यह British English की वर्तनी है (डबल 'l')। American English में 'Jewelry' का प्रयोग होता है।"
+        }
+      },
+      {
+        "id": 43,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Bussiness", "Business", "Bussines", "Buisness"]
+        },
+        "correctAnswer": {
+          "en": "Business"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Business** (व्यापार)"
+        }
+      },
+      {
+        "id": 44,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Humourous", "Humourrus", "Humorous", "Humerous"]
+        },
+        "correctAnswer": {
+          "en": "Humorous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Humorous** (हास्यप्रद) - 'humor' से बना है, 'u' नहीं आता है।"
+        }
+      },
+      {
+        "id": 45,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ommission", "Omision", "Omission", "Omisssion"]
+        },
+        "correctAnswer": {
+          "en": "Omission"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Omission** (चूक/लोप) - इसमें केवल एक 'm' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 46,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irresistible", "Irresistable", "Irresisteble", "Iresistible"]
+        },
+        "correctAnswer": {
+          "en": "Irresistible"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irresistible** (अदम्य) - इसका अंत **'ible'** से होता है, न कि 'able' से।"
+        }
+      },
+      {
+        "id": 47,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Curiosity", "Curiositty", "Curiousity", "Curiossity"]
+        },
+        "correctAnswer": {
+          "en": "Curiosity"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Curiosity** (जिज्ञासा)"
+        }
+      },
+      {
+        "id": 48,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Siesure", "Seizure", "Seizuree", "Siezeur"]
+        },
+        "correctAnswer": {
+          "en": "Seizure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seizure** (दौरा/अधिकार) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 49,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Appreciatte", "Apreciate", "Appreciate", "Aprecciate"]
+        },
+        "correctAnswer": {
+          "en": "Appreciate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Appreciate** (सराहना करना) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 50,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Millennium", "Milennium", "Millennum", "Milleniumm"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 51,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Enviroment", "Environment", "Envirronment", "Envirnment"]
+        },
+        "correctAnswer": {
+          "en": "Environment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Environment** (पर्यावरण) - 'r' के बाद 'o' आता है।"
+        }
+      },
+      {
+        "id": 52,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Unneccesary", "Unnecessary", "Unnecesary", "Unneccessary"]
+        },
+        "correctAnswer": {
+          "en": "Unnecessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Unnecessary** (अनावश्यक) - 'necessary' में एक 'c' और दो 's' होता है।"
+        }
+      },
+      {
+        "id": 53,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Definate", "Definit", "Definite", "Deffinite"]
+        },
+        "correctAnswer": {
+          "en": "Definite"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Definite** (निश्चित) - इसका अंत **'ite'** से होता है, न कि 'ate' से।"
+        }
+      },
+      {
+        "id": 54,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Paralelogram", "Parallelogram", "Parallelagram", "Paralellogram"]
+        },
+        "correctAnswer": {
+          "en": "Parallelogram"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parallelogram** (समांतर चतुर्भुज) - 'Parallel' के बाद 'ogram' आता है।"
+        }
+      },
+      {
+        "id": 55,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perseverrance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता/अडिगता) - इसका अंत **'ance'** से होता है, न कि 'ence' से।"
+        }
+      },
+      {
+        "id": 56,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Vacuum", "Vaccum", "Vacuume", "Vaccumme"]
+        },
+        "correctAnswer": {
+          "en": "Vacuum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Vacuum** (निर्वात) - यह उन कुछ शब्दों में से एक है जिनमें **डबल 'u'** आता है।"
+        }
+      },
+      {
+        "id": 57,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Hypocrisy", "Hypocrasy", "Hipocrisy", "Hypocrissy"]
+        },
+        "correctAnswer": {
+          "en": "Hypocrisy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Hypocrisy** (पाखंड/दंभ)"
+        }
+      },
+      {
+        "id": 58,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irrelavant", "Irrelevant", "Irrelevent", "Irrelivent"]
+        },
+        "correctAnswer": {
+          "en": "Irrelevant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irrelevant** (अप्रासंगिक) - 'relevant' में भी 'a' आता है।"
+        }
+      },
+      {
+        "id": 59,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Seperate", "Separate", "Separaate", "Seperrate"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना) - 'a' **-pa-** 'a' में आता है।"
+        }
+      },
+      {
+        "id": 60,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liaision", "Liaison", "Liason", "Liaissonn"]
+        },
+        "correctAnswer": {
+          "en": "Liaison"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liaison** (संपर्क/तालमेल) - इसमें 'i' के बाद 'a' आता है और 's' से पहले 'i' आता है।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_3",
+    "title": {
+      "en": "Spelling Practice Set 3"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:40:00.000Z",
+    "questions": [
+      {
+        "id": 61,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Eflorescence", "Efflorescence", "Efflourescence", "Efloressence"]
+        },
+        "correctAnswer": {
+          "en": "Efflorescence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Efflorescence** (फूलना/चूना पत्थर का सफेद जमाव) - इसमें डबल 'f' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 62,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Veternary", "Veterinary", "Vetterinary", "Vetterenary"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Veterinary** (पशु चिकित्सा संबंधी)"
+        }
+      },
+      {
+        "id": 63,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disappoint", "Disapoint", "Dissapoint", "Disappointt"]
+        },
+        "correctAnswer": {
+          "en": "Disappoint"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disappoint** (निराश करना) - इसमें एक 's' और डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 64,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Colleague", "Colleage", "Colleaguee", "Colleggue"]
+        },
+        "correctAnswer": {
+          "en": "Colleague"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Colleague** (सहकर्मी)"
+        }
+      },
+      {
+        "id": 65,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Brocchure", "Brochure", "Broachure", "Brochuere"]
+        },
+        "correctAnswer": {
+          "en": "Brochure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Brochure** (पुस्तिका/विवरणिका)"
+        }
+      },
+      {
+        "id": 66,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Assassination", "Asassination", "Assasination", "Assassinnation"]
+        },
+        "correctAnswer": {
+          "en": "Assassination"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Assassination** (हत्या) - इसमें डबल 's' के बाद डबल 's' आता है ('ass' 'ass' 'nation')."
+        }
+      },
+      {
+        "id": 67,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Grievous", "Grievous", "Grevious", "Greevous"]
+        },
+        "correctAnswer": {
+          "en": "Grievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Grievous** (गंभीर/दुःखद) - इसमें 'i' before 'e' का नियम लागू होता है।"
+        }
+      },
+      {
+        "id": 68,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Cieling", "Ceiling", "Ceilingg", "Cielingg"]
+        },
+        "correctAnswer": {
+          "en": "Ceiling"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Ceiling** (छत) - 'i' before 'e' नियम का अपवाद: 'ei' आता है।"
+        }
+      },
+      {
+        "id": 69,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Souvenir", "Souveneir", "Souvenier", "Souvenirr"]
+        },
+        "correctAnswer": {
+          "en": "Souvenir"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Souvenir** (स्मृति चिन्ह)"
+        }
+      },
+      {
+        "id": 70,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Accomplish", "Acomplish", "Accompelish", "Accomplishh"]
+        },
+        "correctAnswer": {
+          "en": "Accomplish"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accomplish** (पूरा करना) - इसमें डबल 'c' आता है।"
+        }
+      },
+      {
+        "id": 71,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reciept", "Receipt", "Receit", "Receeipt"]
+        },
+        "correctAnswer": {
+          "en": "Receipt"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receipt** (रसीद) - इसमें 'p' अक्षर साइलेंट रहता है।"
+        }
+      },
+      {
+        "id": 72,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ocurred", "Ocurred", "Occurred", "Occured"]
+        },
+        "correctAnswer": {
+          "en": "Occurred"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occurred** (हुआ) - इसमें डबल 'c' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 73,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Conscience", "Consciounce", "Conceience", "Consceience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा)"
+        }
+      },
+      {
+        "id": 74,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Grammer", "Grammar", "Grammerr", "Grammarre"]
+        },
+        "correctAnswer": {
+          "en": "Grammar"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Grammar** (व्याकरण) - 'mar' के अंत में 'a' आता है।"
+        }
+      },
+      {
+        "id": 75,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Priviledge", "Privilege", "Privellege", "Privillege"]
+        },
+        "correctAnswer": {
+          "en": "Privilege"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Privilege** (विशेषाधिकार) - ध्यान दें 'i' - 'i' - 'e' आता है।"
+        }
+      },
+      {
+        "id": 76,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reccommend", "Recommend", "Recomend", "Recommed"]
+        },
+        "correctAnswer": {
+          "en": "Recommend"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Recommend** (सिफारिश करना)"
+        }
+      },
+      {
+        "id": 77,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Irritate", "Iritate", "Irritatte", "Irritatet"]
+        }
+        ,
+        "correctAnswer": {
+          "en": "Irritate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irritate** (चिढ़ाना) - इसमें डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 78,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Apparant", "Apparent", "Aparent", "Apparentt"]
+        },
+        "correctAnswer": {
+          "en": "Apparent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Apparent** (स्पष्ट) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 79,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Exilirate", "Exhilerate", "Exhilarate", "Exillarate"]
+        },
+        "correctAnswer": {
+          "en": "Exhilarate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Exhilarate** (प्रसन्न करना) - ध्यान दें इसमें 'h' आता है।"
+        }
+      },
+      {
+        "id": 80,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Definate", "Definite", "Definit", "Deffinite"]
+        },
+        "correctAnswer": {
+          "en": "Definite"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Definite** (निश्चित) - इसका अंत **'ite'** से होता है, न कि 'ate' से।"
+        }
+      },
+      {
+        "id": 81,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Millennium", "Milennium", "Millennum", "Milleniumm"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 82,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ocassion", "Occasion", "Occaision", "Occasionn"]
+        },
+        "correctAnswer": {
+          "en": "Occasion"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occasion** (अवसर) - इसमें एक 'c' और एक 's' आता है।"
+        }
+      },
+      {
+        "id": 83,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seize", "Sieze", "Siez", "Seisee"]
+        },
+        "correctAnswer": {
+          "en": "Seize"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seize** (पकड़ना/जब्त करना) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 84,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Neccessary", "Necessary", "Necessarry", "Neceassary"]
+        },
+        "correctAnswer": {
+          "en": "Necessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Necessary** (आवश्यक) - इसमें एक 'c' और डबल 's' आता है (N**ec**e**ss**ary)."
+        }
+      },
+      {
+        "id": 85,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Truely", "Truly", "Truelyy", "Truuly"]
+        },
+        "correctAnswer": {
+          "en": "Truly"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Truly** (वास्तव में) - 'true' से 'e' हट जाता है जब '-ly' जोड़ा जाता है।"
+        }
+      },
+      {
+        "id": 86,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Accomodation", "Accommodation", "Acommodation", "Accommodattion"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास/रहने की जगह) - इसमें डबल 'c' और डबल 'm' आता है।"
+        }
+      },
+      {
+        "id": 87,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Connoisseur", "Connoiseur", "Connaisseur", "Connoissur"]
+        },
+        "correctAnswer": {
+          "en": "Connoisseur"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Connoisseur** (कला आदि का पारखी) - इसमें डबल 'n' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 88,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Bussiness", "Business", "Buisness", "Bussines"]
+        },
+        "correctAnswer": {
+          "en": "Business"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Business** (व्यापार)"
+        }
+      },
+      {
+        "id": 89,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Pneumonia", "Pnuemonia", "Pneumonea", "Nemonia"]
+        },
+        "correctAnswer": {
+          "en": "Pneumonia"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pneumonia** (निमोनिया) - इसमें 'P' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 90,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perseverrance", "Persevereance"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता/अडिगता) - इसका अंत **'ance'** से होता है, न कि 'ence' से।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_4",
+    "title": {
+      "en": "Spelling Practice Set 4"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:45:00.000Z",
+    "questions": [
+      {
+        "id": 91,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Handkercheif", "Handkerchif", "Handkerchief", "Handkerchieff"]
+        },
+        "correctAnswer": {
+          "en": "Handkerchief"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Handkerchief** (रूमाल) - 'chief' शब्द अंत में आता है।"
+        }
+      },
+      {
+        "id": 92,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Recommodation", "Accommodation", "Accomodation", "Acommodation"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास) - इसमें डबल 'c' और डबल 'm' आता है।"
+        }
+      },
+      {
+        "id": 93,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Bureucracy", "Bureaucracy", "Buraucracy", "Beurocracy"]
+        },
+        "correctAnswer": {
+          "en": "Bureaucracy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Bureaucracy** (नौकरशाही) - 'eau' और 'cra' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 94,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Existance", "Existense", "Existence", "Existince"]
+        },
+        "correctAnswer": {
+          "en": "Existence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Existence** (अस्तित्व) - इसका अंत **'ence'** से होता है।"
+        }
+      },
+      {
+        "id": 95,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Pronunciation", "Pronounciation", "Pronunsiation", "Pronounsiation"]
+        },
+        "correctAnswer": {
+          "en": "Pronunciation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pronunciation** (उच्चारण) - 'pronounce' से भ्रमित न हों, 'pronun' में 'o' नहीं आता।"
+        }
+      },
+      {
+        "id": 96,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Committee", "Comittee", "Commitee", "Commite"]
+        },
+        "correctAnswer": {
+          "en": "Committee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Committee** (समिति) - इसमें डबल 'm', डबल 't', और डबल 'e' आता है।"
+      }
+      },
+      {
+        "id": 97,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Eminent", "Imminent", "Emminent", "Imminnent"]
+        },
+        "correctAnswer": {
+          "en": "Eminent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Eminent** (प्रख्यात/महान) - 'Imminent' (आसन्न) एक अलग शब्द है।"
+        }
+      },
+      {
+        "id": 98,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Guarantee", "Guarrentee", "Gaurantee", "Guaratee"]
+        },
+        "correctAnswer": {
+          "en": "Guarantee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Guarantee** (गारंटी) - 'ua' और डबल 'e' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 99,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Millennium", "Milennium", "Millenium", "Millennum"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 100,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Mischevious", "Mischievous", "Mischivous", "Mischievious"]
+        },
+        "correctAnswer": {
+          "en": "Mischievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Mischievous** (शरारती) - ध्यान दें कि यह **तीन सिलेबल्स** का शब्द है (mis-chie-vous)।"
+        }
+      },
+      {
+        "id": 101,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Controversy", "Controversy", "Controversy", "Controversy"]
+        },
+        "correctAnswer": {
+          "en": "Controversy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Controversy** (विवाद) - सभी विकल्प सही हैं, लेकिन 'Controversy' मानक वर्तनी है।"
+        }
+      },
+      {
+        "id": 102,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irrelevent", "Irrelevant", "Irrelavent", "Irrelivant"]
+        },
+        "correctAnswer": {
+          "en": "Irrelevant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irrelevant** (अप्रासंगिक) - 'a' **-va-** 'e' आता है।"
+        }
+      },
+      {
+        "id": 103,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Sovereign", "Soveriegn", "Sovereignn", "Sovreign"]
+        },
+        "correctAnswer": {
+          "en": "Sovereign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sovereign** (संप्रभु/शासक) - 'ei' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 104,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Veterinary", "Veternary", "Vetterinary", "Vetterenary"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Veterinary** (पशु चिकित्सा संबंधी) - अक्सर 'e' की जगह 'a' से भ्रमित किया जाता है।"
+        }
+      },
+      {
+        "id": 105,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Occurance", "Occurence", "Occurrence", "Occurrance"]
+        },
+        "correctAnswer": {
+          "en": "Occurrence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occurrence** (घटना) - इसमें डबल 'c' और डबल 'r' और **'ence'** आता है।"
+        }
+      },
+      {
+        "id": 106,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seperate", "Separate", "Separaate", "Seperrate"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना) - 'a' **-pa-** 'a' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 107,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Embarrassment", "Embarrasment", "Embarrasmentt", "Embarassament"]
+        },
+        "correctAnswer": {
+          "en": "Embarrassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Embarrassment** (शर्मिंदगी) - इसमें डबल 'r' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 108,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liaison", "Liaision", "Liason", "Liaissonn"]
+        },
+        "correctAnswer": {
+          "en": "Liaison"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liaison** (संपर्क/तालमेल) - 'ai' और 'i' के स्थान पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 109,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Acquire", "Aquire", "Acquiree", "Acquair"]
+        },
+        "correctAnswer": {
+          "en": "Acquire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Acquire** (हासिल करना)"
+        }
+      },
+      {
+        "id": 110,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disastrous", "Disasterous", "Disastorous", "Dissasterous"]
+        },
+        "correctAnswer": {
+          "en": "Disastrous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disastrous** (विनाशकारी) - 'disaster' (आपदा) से बना है, लेकिन 'o' नहीं आता है।"
+        }
+      },
+      {
+        "id": 111,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perserverance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता) - 'per-se-ve-rance' उच्चारण पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 112,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Vacuum", "Vaccum", "Vacuume", "Vaccumme"]
+        },
+        "correctAnswer": {
+          "en": "Vacuum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Vacuum** (निर्वात) - यह उन कुछ शब्दों में से एक है जिनमें **डबल 'u'** आता है।"
+        }
+      },
+      {
+        "id": 113,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Queue", "Queu", "Cueue", "Queaue"]
+        },
+        "correctAnswer": {
+          "en": "Queue"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Queue** (कतार) - अंतिम चार अक्षर 'ueue' का उच्चारण नहीं होता है।"
+        }
+      },
+      {
+        "id": 114,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Wiered", "Weird", "Wirde", "Wierd"]
+        },
+        "correctAnswer": {
+          "en": "Weird"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Weird** (अजीब) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 115,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Hypocrisy", "Hypocrasy", "Hipocrisy", "Hypocrissy"]
+        },
+        "correctAnswer": {
+          "en": "Hypocrisy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Hypocrisy** (पाखंड)"
+        }
+      },
+      {
+        "id": 116,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Harassment", "Harrasment", "Harressment", "Harrassment"]
+        },
+        "correctAnswer": {
+          "en": "Harassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Harassment** (उत्पीड़न) - इसमें एक 'r' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 117,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Knowledge", "Knowlege", "Knowlledge", "Knowledg"]
+        },
+        "correctAnswer": {
+          "en": "Knowledge"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Knowledge** (ज्ञान) - 'd' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 118,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Foreign", "Forein", "Foriegn", "Foreigne"]
+        },
+        "correctAnswer": {
+          "en": "Foreign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Foreign** (विदेशी) - 'g' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 119,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Receive", "Recieve", "Receeve", "Receiv"]
+        },
+        "correctAnswer": {
+          "en": "Receive"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receive** (प्राप्त करना) - 'c' के बाद 'ei' आता है (The famous rule: i before e, except after c)।"
+        }
+      },
+      {
+        "id": 120,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Truely", "Truly", "Truelyy", "Truuly"]
+        },
+        "correctAnswer": {
+          "en": "Truly"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Truly** (वास्तव में) - 'true' से 'e' हट जाता है जब '-ly' जोड़ा जाता है।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_5",
+    "title": {
+      "en": "Spelling Practice Set 5"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:50:00.000Z",
+    "questions": [
+      {
+        "id": 121,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Emmission", "Emission", "Emision", "Emmisionn"]
+        },
+        "correctAnswer": {
+          "en": "Emission"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Emission** (उत्सर्जन) - इसमें डबल 's' और केवल एक 'm' आता है।"
+        }
+      },
+      {
+        "id": 122,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Consceince", "Conscience", "Consciouse", "Consience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा) - ध्यान दें: Conscious (जागरूक) में 'e' नहीं आता, Conscience में 'e' आता है।"
+        }
+      },
+      {
+        "id": 123,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reccommend", "Recomend", "Recommend", "Recommed"]
+        },
+        "correctAnswer": {
+          "en": "Recommend"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Recommend** (सिफारिश करना) - इसमें डबल 'm' या डबल 'c' नहीं आता।"
+        }
+      },
+      {
+        "id": 124,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Neccessary", "Necessary", "Necessarry", "Neceassary"]
+        },
+        "correctAnswer": {
+          "en": "Necessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Necessary** (आवश्यक) - एक 'c' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 125,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Inoculate", "Inocculate", "Inocculatte", "Inoculatee"]
+        },
+        "correctAnswer": {
+          "en": "Inoculate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Inoculate** (टीका लगाना) - इसमें केवल एक 'c' आता है।"
+        }
+      },
+      {
+        "id": 126,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ommission", "Omision", "Omission", "Omisssion"]
+        },
+        "correctAnswer": {
+          "en": "Omission"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Omission** (चूक/लोप) - इसमें एक 'm' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 127,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Atheist", "Atheistt", "Athiest", "Atheeist"]
+        },
+        "correctAnswer": {
+          "en": "Atheist"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Atheist** (नास्तिक) - 'A' के बाद 'the' आता है।"
+        }
+      },
+      {
+        "id": 128,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Brocchure", "Brochure", "Broachure", "Brochuere"]
+        },
+        "correctAnswer": {
+          "en": "Brochure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Brochure** (पुस्तिका)"
+        }
+      },
+      {
+        "id": 129,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Cieling", "Ceiling", "Ceilingg", "Cielingg"]
+        },
+        "correctAnswer": {
+          "en": "Ceiling"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Ceiling** (छत) - 'i' before 'e' नियम का अपवाद: 'ei' आता है।"
+        }
+      },
+      {
+        "id": 130,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Definite", "Definate", "Definit", "Deffinite"]
+        },
+        "correctAnswer": {
+          "en": "Definite"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Definite** (निश्चित) - इसका अंत **'ite'** से होता है।"
+        }
+      },
+      {
+        "id": 131,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Guaratee", "Guarantee", "Gaurantee", "Guarrante"]
+        },
+        "correctAnswer": {
+          "en": "Guarantee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Guarantee** (गारंटी/जमानत)"
+        }
+      },
+      {
+        "id": 132,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Handkercheif", "Handkerchif", "Handkerchief", "Handkerchieff"]
+        },
+        "correctAnswer": {
+          "en": "Handkerchief"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Handkerchief** (रूमाल) - अंत में 'chief' आता है।"
+        }
+      },
+      {
+        "id": 133,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Judgement", "Judgment", "Judgmant", "Judgemant"]
+        },
+        "correctAnswer": {
+          "en": "Judgment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Judgment** (निर्णय) - American English वर्तनी; 'e' नहीं आता है।"
+        }
+      },
+      {
+        "id": 134,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liaison", "Liaision", "Liason", "Liaissonn"]
+        },
+        "correctAnswer": {
+          "en": "Liaison"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liaison** (संपर्क/तालमेल) - 'ai' और 'i' के स्थान पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 135,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Millenium", "Millennium", "Milennium", "Millennum"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 136,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Mischievous", "Mischevious", "Mischivious", "Mischievious"]
+        },
+        "correctAnswer": {
+          "en": "Mischievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Mischievous** (शरारती) - ध्यान दें: 'i'e आता है, और अंत में 'o' नहीं आता।"
+        }
+      },
+      {
+        "id": 137,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Occasion", "Occassion", "Occaision", "Occasionn"]
+        },
+        "correctAnswer": {
+          "en": "Occasion"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occasion** (अवसर) - इसमें एक 'c' और एक 's' आता है।"
+        }
+      },
+      {
+        "id": 138,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Occurance", "Occurence", "Occurrence", "Occurrance"]
+        },
+        "correctAnswer": {
+          "en": "Occurrence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occurrence** (घटना) - इसमें डबल 'c' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 139,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Parallel", "Paralel", "Parallell", "Paralell"]
+        },
+        "correctAnswer": {
+          "en": "Parallel"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parallel** (समानांतर) - डबल 'l' के बाद एक 'l' आता है।"
+        }
+      },
+      {
+        "id": 140,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perserverance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता) - अंत में **'ance'** आता है।"
+        }
+      },
+      {
+        "id": 141,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Priviledge", "Privellege", "Privilege", "Privillege"]
+        },
+        "correctAnswer": {
+          "en": "Privilege"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Privilege** (विशेषाधिकार) - ध्यान दें 'i' - 'i' - 'e' आता है।"
+        }
+      },
+      {
+        "id": 142,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Pronunciation", "Pronounciation", "Pronunsiation", "Pronounsiation"]
+        },
+        "correctAnswer": {
+          "en": "Pronunciation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pronunciation** (उच्चारण) - 'pronoun' से भ्रमित न हों, 'pronun' में 'o' नहीं आता।"
+        }
+      },
+      {
+        "id": 143,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Receipt", "Reciept", "Receit", "Recceipt"]
+        },
+        "correctAnswer": {
+          "en": "Receipt"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receipt** (रसीद) - 'p' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 144,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Restaurant", "Restuarant", "Restaurante", "Resturrant"]
+        },
+        "correctAnswer": {
+          "en": "Restaurant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Restaurant** (भोजनालय) - 'u' और 'a' के स्थान पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 145,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Sacrilegious", "Sacreligious", "Sacriligious", "Sacrilegous"]
+        },
+        "correctAnswer": {
+          "en": "Sacrilegious"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sacrilegious** (धर्मभ्रष्ट) - 'religious' से भ्रमित न हों।"
+        }
+      },
+      {
+        "id": 146,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seize", "Sieze", "Siez", "Seisee"]
+        },
+        "correctAnswer": {
+          "en": "Seize"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seize** (पकड़ना/जब्त करना) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 147,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seperate", "Separate", "Separaate", "Seperrate"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना) - 'a' **-pa-** 'a' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 148,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Sovereign", "Soveriegn", "Sovereignn", "Sovreign"]
+        },
+        "correctAnswer": {
+          "en": "Sovereign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sovereign** (संप्रभु/शासक) - 'ei' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 149,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना/हटाना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 150,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Weird", "Wiered", "Wirde", "Wierd"]
+        },
+        "correctAnswer": {
+          "en": "Weird"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Weird** (अजीब) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_6",
+    "title": {
+      "en": "Spelling Practice Set 6"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T10:55:00.000Z",
+    "questions": [
+      {
+        "id": 151,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Paralell", "Parallel", "Parallell", "Paralel"]
+        },
+        "correctAnswer": {
+          "en": "Parallel"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parallel** (समानांतर) - इसमें डबल 'l' के बाद एक 'l' आता है।"
+        }
+      },
+      {
+        "id": 152,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Enviroment", "Environment", "Envirronment", "Envirnment"]
+        },
+        "correctAnswer": {
+          "en": "Environment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Environment** (पर्यावरण) - 'r' के बाद 'o' आता है।"
+        }
+      },
+      {
+        "id": 153,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Questionaire", "Questionnaire", "Questionnair", "Questionairre"]
+        },
+        "correctAnswer": {
+          "en": "Questionnaire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Questionnaire** (प्रश्नावली) - इसमें डबल 'n' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 154,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Apparent", "Apparant", "Aparent", "Apparentt"]
+        },
+        "correctAnswer": {
+          "en": "Apparent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Apparent** (स्पष्ट) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 155,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Appreciatte", "Apreciate", "Appreciate", "Aprecciate"]
+        },
+        "correctAnswer": {
+          "en": "Appreciate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Appreciate** (सराहना करना) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 156,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Harrasment", "Harassment", "Harressment", "Harrassment"]
+        },
+        "correctAnswer": {
+          "en": "Harassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Harassment** (उत्पीड़न) - इसमें केवल एक 'r' आता है, लेकिन डबल 's'।"
+        }
+      },
+      {
+        "id": 157,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irresistible", "Irresistable", "Irresisteble", "Iresistible"]
+        },
+        "correctAnswer": {
+          "en": "Irresistible"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irresistible** (अदम्य/अकाट्य) - इसका अंत **'ible'** से होता है, न कि 'able' से।"
+        }
+      },
+      {
+        "id": 158,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Embarrass", "Embaras", "Embarass", "Embarrasss"]
+        },
+        "correctAnswer": {
+          "en": "Embarrass"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Embarrass** (शर्मिंदा करना) - इसमें डबल 'r' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 159,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Veternary", "Veterinary", "Vetterinary", "Vetterenary"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Veterinary** (पशु चिकित्सा संबंधी)"
+        }
+      },
+      {
+        "id": 160,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Truely", "Truly", "Truelyy", "Truuly"]
+        },
+        "correctAnswer": {
+          "en": "Truly"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Truly** (वास्तव में) - 'true' से 'e' हट जाता है जब '-ly' जोड़ा जाता है।"
+        }
+      },
+      {
+        "id": 161,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Connoisseur", "Connoiseur", "Connaisseur", "Connoissur"]
+        },
+        "correctAnswer": {
+          "en": "Connoisseur"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Connoisseur** (पारखी) - इसमें डबल 'n' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 162,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Acommodation", "Accommodation", "Accomodation", "Acommadation"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास) - इसमें डबल 'c' और डबल 'm' आता है।"
+        }
+      },
+      {
+        "id": 163,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Liaison", "Liaision", "Liason", "Liaissonn"]
+        },
+        "correctAnswer": {
+          "en": "Liaison"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liaison** (संपर्क/तालमेल) - 'ai' और 'i' के स्थान पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 164,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Colleague", "Colleage", "Colleaguee", "Colleggue"]
+        },
+        "correctAnswer": {
+          "en": "Colleague"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Colleague** (सहकर्मी)"
+        }
+      },
+      {
+        "id": 165,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disappoint", "Disapoint", "Dissapoint", "Disappointt"]
+        },
+        "correctAnswer": {
+          "en": "Disappoint"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disappoint** (निराश करना) - इसमें एक 's' और डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 166,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liquefy", "Liquify", "Liquifie", "Liqueify"]
+        },
+        "correctAnswer": {
+          "en": "Liquefy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liquefy** (तरल करना) - इसका अंत **'efy'** से होता है।"
+        }
+      },
+      {
+        "id": 167,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Bureucracy", "Bureaucracy", "Buraucracy", "Beurocracy"]
+        },
+        "correctAnswer": {
+          "en": "Bureaucracy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Bureaucracy** (नौकरशाही)"
+        }
+      },
+      {
+        "id": 168,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Pronunciation", "Pronounciation", "Pronunsiation", "Pronounsiation"]
+        },
+        "correctAnswer": {
+          "en": "Pronunciation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pronunciation** (उच्चारण) - 'pronun' में 'o' नहीं आता।"
+        }
+      },
+      {
+        "id": 169,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Restuarant", "Restaurante", "Restaurant", "Resturrant"]
+        },
+        "correctAnswer": {
+          "en": "Restaurant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Restaurant** (भोजनालय)"
+        }
+      },
+      {
+        "id": 170,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Wiered", "Weird", "Wirde", "Wierd"]
+        },
+        "correctAnswer": {
+          "en": "Weird"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Weird** (अजीब) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 171,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Humourous", "Humourrus", "Humorous", "Humerous"]
+        },
+        "correctAnswer": {
+          "en": "Humorous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Humorous** (हास्यप्रद) - 'humor' से बना है, 'u' नहीं आता है।"
+        }
+      },
+      {
+        "id": 172,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Exilirate", "Exhilarate", "Exhilerate", "Exillarate"]
+        },
+        "correctAnswer": {
+          "en": "Exhilarate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Exhilarate** (प्रसन्न करना) - ध्यान दें इसमें 'h' आता है।"
+        }
+      },
+      {
+        "id": 173,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 174,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disastrous", "Disasterous", "Disastorous", "Dissasterous"]
+        },
+        "correctAnswer": {
+          "en": "Disastrous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disastrous** (विनाशकारी) - इसमें 'o' नहीं आता है।"
+        }
+      },
+      {
+        "id": 175,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Siesure", "Seizure", "Seizuree", "Siezeur"]
+        },
+        "correctAnswer": {
+          "en": "Seizure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seizure** (दौरा/अधिकार) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 176,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Maintenance", "Maintainence", "Maintenence", "Maintanence"]
+        },
+        "correctAnswer": {
+          "en": "Maintenance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Maintenance** (रखरखाव) - 'ten' आता है।"
+        }
+      },
+      {
+        "id": 177,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Eminent", "Imminent", "Emminent", "Imminnent"]
+        },
+        "correctAnswer": {
+          "en": "Eminent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Eminent** (प्रख्यात) - 'Imminent' (आसन्न) एक अलग शब्द है।"
+        }
+      },
+      {
+        "id": 178,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Sacrilegious", "Sacreligious", "Sacriligious", "Sacrilegous"]
+        },
+        "correctAnswer": {
+          "en": "Sacrilegious"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sacrilegious** (धर्मभ्रष्ट/अपवित्र) - 'religious' से भ्रमित न हों।"
+        }
+      },
+      {
+        "id": 179,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Irrelavant", "Irrelevant", "Irrelevent", "Irrelivant"]
+        },
+        "correctAnswer": {
+          "en": "Irrelevant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irrelevant** (अप्रासंगिक) - 'a' **-va-** 'e' आता है।"
+        }
+      },
+      {
+        "id": 180,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Sovereign", "Soveriegn", "Sovereignn", "Sovreign"]
+        },
+        "correctAnswer": {
+          "en": "Sovereign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sovereign** (संप्रभु/शासक) - 'ei' पर ध्यान दें।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_7",
+    "title": {
+      "en": "Spelling Practice Set 7"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T11:00:00.000Z",
+    "questions": [
+      {
+        "id": 181,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Profesional", "Proffessional", "Professional", "Proffesional"]
+        },
+        "correctAnswer": {
+          "en": "Professional"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Professional** (पेशेवर) - इसमें डबल 's' आता है, लेकिन केवल एक 'f'।"
+        }
+      },
+      {
+        "id": 182,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Cieling", "Ceiling", "Ceilingg", "Cielingg"]
+        },
+        "correctAnswer": {
+          "en": "Ceiling"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Ceiling** (छत) - 'i' before 'e' नियम का अपवाद: 'ei' आता है।"
+        }
+      },
+      {
+        "id": 183,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Grievous", "Grievous", "Grevious", "Greevous"]
+        },
+        "correctAnswer": {
+          "en": "Grievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Grievous** (गंभीर/दुःखद) - इसमें 'i' before 'e' का नियम लागू होता है।"
+        }
+      },
+      {
+        "id": 184,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Embarrassment", "Embarrasment", "Embarrasmentt", "Embarassament"]
+        },
+        "correctAnswer": {
+          "en": "Embarrassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Embarrassment** (शर्मिंदगी) - इसमें डबल 'r' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 185,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Eflorescence", "Efflorescence", "Efflourescence", "Efloressence"]
+        },
+        "correctAnswer": {
+          "en": "Efflorescence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Efflorescence** (फूलना/चूना पत्थर का जमाव) - इसमें डबल 'f' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 186,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Unneccesary", "Unnecessary", "Unnecesary", "Unneccessary"]
+        },
+        "correctAnswer": {
+          "en": "Unnecessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Unnecessary** (अनावश्यक) - 'necessary' में एक 'c' और दो 's' होता है।"
+        }
+      },
+      {
+        "id": 187,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Hypocrisy", "Hypocrasy", "Hipocrisy", "Hypocrissy"]
+        },
+        "correctAnswer": {
+          "en": "Hypocrisy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Hypocrisy** (पाखंड/दंभ)"
+        }
+      },
+      {
+        "id": 188,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Pneumonia", "Pnuemonia", "Pneumonea", "Nemonia"]
+        },
+        "correctAnswer": {
+          "en": "Pneumonia"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pneumonia** (निमोनिया) - इसमें 'P' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 189,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Souvenir", "Souveneir", "Souvenier", "Souvenirr"]
+        },
+        "correctAnswer": {
+          "en": "Souvenir"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Souvenir** (स्मृति चिन्ह)"
+        }
+      },
+      {
+        "id": 190,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Supercede", "Supersede", "Superseed", "Superceed"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 191,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ocurred", "Ocurred", "Occurred", "Occured"]
+        },
+        "correctAnswer": {
+          "en": "Occurred"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occurred** (हुआ) - इसमें डबल 'c' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 192,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disappoint", "Disapoint", "Dissapoint", "Disappointt"]
+        },
+        "correctAnswer": {
+          "en": "Disappoint"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disappoint** (निराश करना) - इसमें एक 's' और डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 193,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Irritate", "Iritate", "Irritatte", "Irritatet"]
+        },
+        "correctAnswer": {
+          "en": "Irritate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irritate** (चिढ़ाना) - इसमें डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 194,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Knowlege", "Knowledge", "Knowlledge", "Knowledg"]
+        },
+        "correctAnswer": {
+          "en": "Knowledge"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Knowledge** (ज्ञान) - 'd' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 195,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Apparent", "Apparant", "Aparent", "Apparentt"]
+        },
+        "correctAnswer": {
+          "en": "Apparent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Apparent** (स्पष्ट) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 196,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Receive", "Recieve", "Receeve", "Receiv"]
+        },
+        "correctAnswer": {
+          "en": "Receive"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receive** (प्राप्त करना) - 'c' के बाद 'ei' आता है।"
+        }
+      },
+      {
+        "id": 197,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Queue", "Queu", "Cueue", "Queaue"]
+        },
+        "correctAnswer": {
+          "en": "Queue"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Queue** (कतार) - अंतिम चार अक्षर 'ueue' का उच्चारण नहीं होता है।"
+        }
+      },
+      {
+        "id": 198,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Achieve", "Acheive", "Achive", "Achievve"]
+        },
+        "correctAnswer": {
+          "en": "Achieve"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Achieve** (हासिल करना) - 'i' before 'e' नियम का पालन करता है।"
+        }
+      },
+      {
+        "id": 199,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Consceince", "Conscience", "Consciouse", "Consience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा)"
+        }
+      },
+      {
+        "id": 200,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Forein", "Foriegn", "Foreign", "Foreigne"]
+        },
+        "correctAnswer": {
+          "en": "Foreign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Foreign** (विदेशी) - 'g' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 201,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Irrelavant", "Irrelevant", "Irrelevent", "Irrelivant"]
+        },
+        "correctAnswer": {
+          "en": "Irrelevant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irrelevant** (अप्रासंगिक) - 'a' **-va-** 'e' आता है।"
+        }
+      },
+      {
+        "id": 202,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perserverance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता) - अंत में **'ance'** आता है।"
+        }
+      },
+      {
+        "id": 203,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Atheist", "Atheistt", "Athiest", "Atheeist"]
+        },
+        "correctAnswer": {
+          "en": "Atheist"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Atheist** (नास्तिक)"
+        }
+      },
+      {
+        "id": 204,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Grammer", "Grammar", "Grammerr", "Grammarre"]
+        },
+        "correctAnswer": {
+          "en": "Grammar"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Grammar** (व्याकरण) - 'mar' के अंत में 'a' आता है।"
+        }
+      },
+      {
+        "id": 205,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Humourous", "Humourrus", "Humorous", "Humerous"]
+        },
+        "correctAnswer": {
+          "en": "Humorous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Humorous** (हास्यप्रद) - 'humor' से बना है, 'u' नहीं आता है।"
+        }
+      },
+      {
+        "id": 206,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irresistible", "Irresistable", "Irresisteble", "Iresistible"]
+        },
+        "correctAnswer": {
+          "en": "Irresistible"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irresistible** (अदम्य/अकाट्य) - इसका अंत **'ible'** से होता है।"
+        }
+      },
+      {
+        "id": 207,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Jewellery", "Jewelry", "Jewelerry", "Jwellery"]
+        },
+        "correctAnswer": {
+          "en": "Jewellery"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Jewellery** (आभूषण) - British English वर्तनी।"
+        }
+      },
+      {
+        "id": 208,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Priviledge", "Privellege", "Privilege", "Privillege"]
+        },
+        "correctAnswer": {
+          "en": "Privilege"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Privilege** (विशेषाधिकार) - ध्यान दें 'i' - 'i' - 'e' आता है।"
+        }
+      },
+      {
+        "id": 209,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Questionaire", "Questionnaire", "Questionnair", "Questionairre"]
+        },
+        "correctAnswer": {
+          "en": "Questionnaire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Questionnaire** (प्रश्नावली) - इसमें डबल 'n' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 210,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Vacuum", "Vaccum", "Vacuume", "Vaccumme"]
+        },
+        "correctAnswer": {
+          "en": "Vacuum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Vacuum** (निर्वात) - यह उन कुछ शब्दों में से एक है जिनमें **डबल 'u'** आता है।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_8",
+    "title": {
+      "en": "Spelling Practice Set 8"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T11:05:00.000Z",
+    "questions": [
+      {
+        "id": 211,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Eflorescence", "Efflorescence", "Efflourescence", "Efloressence"]
+        },
+        "correctAnswer": {
+          "en": "Efflorescence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Efflorescence** (फूलना/चूना पत्थर का जमाव) - इसमें डबल 'f' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 212,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Veternary", "Veterinary", "Vetterinary", "Vetterenary"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Veterinary** (पशु चिकित्सा संबंधी)"
+        }
+      },
+      {
+        "id": 213,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Bussiness", "Business", "Buisness", "Bussines"]
+        },
+        "correctAnswer": {
+          "en": "Business"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Business** (व्यापार)"
+        }
+      },
+      {
+        "id": 214,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Colleague", "Colleage", "Colleaguee", "Colleggue"]
+        },
+        "correctAnswer": {
+          "en": "Colleague"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Colleague** (सहकर्मी) - 'Col' के बाद 'league' आता है।"
+        }
+      },
+      {
+        "id": 215,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Brocchure", "Brochure", "Broachure", "Brochuere"]
+        },
+        "correctAnswer": {
+          "en": "Brochure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Brochure** (पुस्तिका)"
+        }
+      },
+      {
+        "id": 216,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Assassination", "Asassination", "Assasination", "Assassinnation"]
+        },
+        "correctAnswer": {
+          "en": "Assassination"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Assassination** (हत्या) - इसमें डबल 's' के बाद डबल 's' आता है ('ass' 'ass' 'nation')."
+        }
+      },
+      {
+        "id": 217,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Guaratee", "Guarantee", "Gaurantee", "Guarrante"]
+        },
+        "correctAnswer": {
+          "en": "Guarantee"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Guarantee** (गारंटी/जमानत)"
+        }
+      },
+      {
+        "id": 218,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liquefy", "Liquify", "Liquifie", "Liqueify"]
+        },
+        "correctAnswer": {
+          "en": "Liquefy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liquefy** (तरल करना) - इसका अंत **'efy'** से होता है, न कि 'ify' से।"
+        }
+      },
+      {
+        "id": 219,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Neccessary", "Necessary", "Necessarry", "Neceassary"]
+        },
+        "correctAnswer": {
+          "en": "Necessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Necessary** (आवश्यक) - एक 'c' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 220,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Occurance", "Occurence", "Occurrence", "Occurrance"]
+        },
+        "correctAnswer": {
+          "en": "Occurrence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Occurrence** (घटना) - इसमें डबल 'c' और डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 221,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ommission", "Omision", "Omission", "Omisssion"]
+        },
+        "correctAnswer": {
+          "en": "Omission"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Omission** (चूक/लोप) - इसमें एक 'm' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 222,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Parallel", "Paralel", "Parallell", "Paralell"]
+        },
+        "correctAnswer": {
+          "en": "Parallel"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parallel** (समानांतर) - डबल 'l' के बाद एक 'l' आता है।"
+        }
+      },
+      {
+        "id": 223,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perserverance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता) - अंत में **'ance'** आता है।"
+        }
+      },
+      {
+        "id": 224,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 225,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Vacuum", "Vaccum", "Vacuume", "Vaccumme"]
+        },
+        "correctAnswer": {
+          "en": "Vacuum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Vacuum** (निर्वात) - यह उन कुछ शब्दों में से एक है जिनमें **डबल 'u'** आता है।"
+        }
+      },
+      {
+        "id": 226,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Judgement", "Judgment", "Judgmant", "Judgemant"]
+        },
+        "correctAnswer": {
+          "en": "Judgment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Judgment** (निर्णय) - American English वर्तनी; 'e' नहीं आता है।"
+        }
+      },
+      {
+        "id": 227,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Embarrassment", "Embarrasment", "Embarrasmentt", "Embarassament"]
+        },
+        "correctAnswer": {
+          "en": "Embarrassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Embarrassment** (शर्मिंदगी) - इसमें डबल 'r' और डबल 's' आता है।"
+      }
+      },
+      {
+        "id": 228,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Millennium", "Milennium", "Millennum", "Milleniumm"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+      }
+      },
+      {
+        "id": 229,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Mischievous", "Mischevious", "Mischivious", "Mischievious"]
+        },
+        "correctAnswer": {
+          "en": "Mischievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Mischievous** (शरारती) - ध्यान दें: 'i'e आता है, और अंत में 'o' नहीं आता।"
+      }
+      },
+      {
+        "id": 230,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Sovereign", "Soveriegn", "Sovereignn", "Sovreign"]
+        },
+        "correctAnswer": {
+          "en": "Sovereign"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sovereign** (संप्रभु/शासक) - 'ei' पर ध्यान दें।"
+      }
+      },
+      {
+        "id": 231,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Achieve", "Acheive", "Achive", "Achievve"]
+        },
+        "correctAnswer": {
+          "en": "Achieve"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Achieve** (हासिल करना) - 'i' before 'e' नियम का पालन करता है।"
+      }
+      },
+      {
+        "id": 232,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irrelevant", "Irrelavant", "Irrelevent", "Irrelivant"]
+        },
+        "correctAnswer": {
+          "en": "Irrelevant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irrelevant** (अप्रासंगिक) - 'a' **-va-** 'e' आता है।"
+      }
+      },
+      {
+        "id": 233,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reciept", "Receipt", "Receit", "Recceipt"]
+        },
+        "correctAnswer": {
+          "en": "Receipt"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Receipt** (रसीद) - 'p' साइलेंट होता है।"
+      }
+      },
+      {
+        "id": 234,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": [
+          "Pronunciation",
+          "Pronounciation",
+          "Pronunsiation",
+          "Pronounsiation"
+        ],
+        "correctAnswer": {
+          "en": "Pronunciation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pronunciation** (उच्चारण) - 'pronun' में 'o' नहीं आता।"
+      }
+      },
+      {
+        "id": 235,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Acommodation", "Accommodation", "Accomodation", "Acommadation"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास) - इसमें डबल 'c' और डबल 'm' आता है।"
+      }
+      },
+      {
+        "id": 236,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Questionaire", "Questionnaire", "Questionnair", "Questionairre"]
+        },
+        "correctAnswer": {
+          "en": "Questionnaire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Questionnaire** (प्रश्नावली) - इसमें डबल 'n' और डबल 'r' आता है।"
+      }
+      },
+      {
+        "id": 237,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Emmission", "Emission", "Emision", "Emmisionn"]
+        },
+        "correctAnswer": {
+          "en": "Emission"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Emission** (उत्सर्जन) - इसमें डबल 's' और केवल एक 'm' आता है।"
+      }
+      },
+      {
+        "id": 238,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Restuarant", "Restaurante", "Restaurant", "Resturrant"]
+        },
+        "correctAnswer": {
+          "en": "Restaurant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Restaurant** (भोजनालय)"
+      }
+      },
+      {
+        "id": 239,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Independant", "Indipendent", "Independent", "Independdent"]
+        },
+        "correctAnswer": {
+          "en": "Independent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Independent** (स्वतंत्र) - इसका अंत **'dent'** से होता है।"
+      }
+      },
+      {
+        "id": 240,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Cieling", "Ceiling", "Ceilingg", "Cielingg"]
+        },
+        "correctAnswer": {
+          "en": "Ceiling"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Ceiling** (छत) - 'ei' आता है।"
+      }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_9",
+    "title": {
+      "en": "Spelling Practice Set 9"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T11:10:00.000Z",
+    "questions": [
+      {
+        "id": 241,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Mischievous", "Mischevious", "Mischivious", "Mischievious"]
+        },
+        "correctAnswer": {
+          "en": "Mischievous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Mischievous** (शरारती) - ध्यान दें: 'i'e आता है, और अंत में 'o' नहीं आता।"
+        }
+      },
+      {
+        "id": 242,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Apparant", "Apparent", "Aparent", "Apparentt"]
+        },
+        "correctAnswer": {
+          "en": "Apparent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Apparent** (स्पष्ट) - इसमें डबल 'p' आता है।"
+        }
+      },
+      {
+        "id": 243,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Perseverance", "Perseverence", "Perserverance", "Perseverense"]
+        },
+        "correctAnswer": {
+          "en": "Perseverance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Perseverance** (दृढ़ता) - अंत में **'ance'** आता है।"
+        }
+      },
+      {
+        "id": 244,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Millennium", "Milennium", "Millennum", "Milleniumm"]
+        },
+        "correctAnswer": {
+          "en": "Millennium"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Millennium** (सहस्राब्दी) - इसमें डबल 'l' और डबल 'n' आता है।"
+        }
+      },
+      {
+        "id": 245,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Maintenance", "Maintainence", "Maintenence", "Maintanence"]
+        },
+        "correctAnswer": {
+          "en": "Maintenance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Maintenance** (रखरखाव) - 'ten' आता है।"
+        }
+      },
+      {
+        "id": 246,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Acommodation", "Accommodation", "Accomodation", "Acommadation"]
+        },
+        "correctAnswer": {
+          "en": "Accommodation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Accommodation** (आवास) - इसमें डबल 'c' और डबल 'm' आता है।"
+        }
+      },
+      {
+        "id": 247,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Harrasment", "Harassment", "Harressment", "Harrassment"]
+        },
+        "correctAnswer": {
+          "en": "Harassment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Harassment** (उत्पीड़न) - इसमें केवल एक 'r' आता है, लेकिन डबल 's'।"
+        }
+      },
+      {
+        "id": 248,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irresistible", "Irresistable", "Irresisteble", "Iresistible"]
+        },
+        "correctAnswer": {
+          "en": "Irresistible"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irresistible** (अदम्य/अकाट्य) - इसका अंत **'ible'** से होता है।"
+        }
+      },
+      {
+        "id": 249,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Unneccesary", "Unnecessary", "Unnecesary", "Unneccessary"]
+        },
+        "correctAnswer": {
+          "en": "Unnecessary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Unnecessary** (अनावश्यक) - एक 'c' और दो 's' होता है।"
+        }
+      },
+      {
+        "id": 250,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Veternary", "Veterinary", "Vetterinary", "Vetterenary"]
+        },
+        "correctAnswer": {
+          "en": "Veterinary"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Veterinary** (पशु चिकित्सा संबंधी)"
+        }
+      },
+      {
+        "id": 251,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Eflorescence", "Efflorescence", "Efflourescence", "Efloressence"]
+        },
+        "correctAnswer": {
+          "en": "Efflorescence"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Efflorescence** (फूलना/चूना पत्थर का जमाव) - इसमें डबल 'f' और डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 252,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 253,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Humourous", "Humourrus", "Humorous", "Humerous"]
+        },
+        "correctAnswer": {
+          "en": "Humorous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Humorous** (हास्यप्रद) - 'humor' से बना है, 'u' नहीं आता है।"
+        }
+      },
+      {
+        "id": 254,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Disastrous", "Disasterous", "Disastorous", "Dissasterous"]
+        },
+        "correctAnswer": {
+          "en": "Disastrous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Disastrous** (विनाशकारी) - इसमें 'o' नहीं आता है।"
+        }
+      },
+      {
+        "id": 255,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Eminent", "Imminent", "Emminent", "Imminnent"]
+        },
+        "correctAnswer": {
+          "en": "Eminent"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Eminent** (प्रख्यात) - 'Imminent' (आसन्न) एक अलग शब्द है।"
+        }
+      },
+      {
+        "id": 256,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Siesure", "Seizure", "Seizuree", "Siezeur"]
+        },
+        "correctAnswer": {
+          "en": "Seizure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seizure** (दौरा/अधिकार) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 257,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Pneumonia", "Pnuemonia", "Pneumonea", "Nemonia"]
+        },
+        "correctAnswer": {
+          "en": "Pneumonia"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Pneumonia** (निमोनिया) - इसमें 'P' साइलेंट होता है।"
+        }
+      },
+      {
+        "id": 258,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Hypocrisy", "Hypocrasy", "Hipocrisy", "Hypocrissy"]
+        },
+        "correctAnswer": {
+          "en": "Hypocrisy"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Hypocrisy** (पाखंड/दंभ)"
+        }
+      },
+      {
+        "id": 259,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reccommend", "Recommend", "Recomend", "Recommed"]
+        },
+        "correctAnswer": {
+          "en": "Recommend"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Recommend** (सिफारिश करना)"
+        }
+      },
+      {
+        "id": 260,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Truely", "Truly", "Truelyy", "Truuly"]
+        },
+        "correctAnswer": {
+          "en": "Truly"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Truly** (वास्तव में) - 'true' से 'e' हट जाता है जब '-ly' जोड़ा जाता है।"
+        }
+      },
+      {
+        "id": 261,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Acquire", "Aquire", "Acquiree", "Acquair"]
+        },
+        "correctAnswer": {
+          "en": "Acquire"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Acquire** (हासिल करना)"
+        }
+      },
+      {
+        "id": 262,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Liaison", "Liaision", "Liason", "Liaissonn"]
+        },
+        "correctAnswer": {
+          "en": "Liaison"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Liaison** (संपर्क/तालमेल) - 'ai' और 'i' के स्थान पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 263,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Souvenir", "Souveneir", "Souvenier", "Souvenirr"]
+        },
+        "correctAnswer": {
+          "en": "Souvenir"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Souvenir** (स्मृति चिन्ह)"
+        }
+      },
+      {
+        "id": 264,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Consceince", "Conscience", "Consciouse", "Consience"]
+        },
+        "correctAnswer": {
+          "en": "Conscience"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Conscience** (अंतरात्मा)"
+        }
+      },
+      {
+        "id": 265,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Enviroment", "Environment", "Envirronment", "Envirnment"]
+        },
+        "correctAnswer": {
+          "en": "Environment"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Environment** (पर्यावरण) - 'r' के बाद 'o' आता है।"
+        }
+      },
+      {
+        "id": 266,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Irritate", "Iritate", "Irritatte", "Irritatet"]
+        },
+        "correctAnswer": {
+          "en": "Irritate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Irritate** (चिढ़ाना) - इसमें डबल 'r' आता है।"
+        }
+      },
+      {
+        "id": 267,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Queue", "Queu", "Cueue", "Queaue"]
+        },
+        "correctAnswer": {
+          "en": "Queue"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Queue** (कतार) - अंतिम चार अक्षर 'ueue' का उच्चारण नहीं होता है।"
+        }
+      },
+      {
+        "id": 268,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Handkercheif", "Handkerchif", "Handkerchief", "Handkerchieff"]
+        },
+        "correctAnswer": {
+          "en": "Handkerchief"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Handkerchief** (रूमाल) - 'chief' शब्द अंत में आता है।"
+        }
+      },
+      {
+        "id": 269,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Definate", "Definit", "Definite", "Deffinite"]
+        },
+        "correctAnswer": {
+          "en": "Definite"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Definite** (निश्चित) - इसका अंत **'ite'** से होता है।"
+        }
+      },
+      {
+        "id": 270,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seperate", "Separate", "Separaate", "Seperrate"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना) - 'a' **-pa-** 'a' पर ध्यान दें।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ssc_cgl_spelling_practice_10_new",
+    "title": {
+      "en": "Spelling Practice Set 10 (Fresh Questions)"
+    },
+    "category": "Spelling",
+    "createdAt": "2025-11-12T11:20:00.000Z",
+    "questions": [
+      {
+        "id": 271,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Exagerate", "Exaggerate", "Exageratte", "Exaggeratte"]
+        },
+        "correctAnswer": {
+          "en": "Exaggerate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Exaggerate** (बढ़ा-चढ़ाकर बोलना) - इसमें डबल 'g' आता है।"
+        }
+      },
+      {
+        "id": 272,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Gratuitous", "Gratuitious", "Gratuittous", "Gratucious"]
+        },
+        "correctAnswer": {
+          "en": "Gratuitous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Gratuitous** (अनावश्यक/मुफ़्त) - 'gratuitous' का अर्थ होता है जिसकी कोई आवश्यकता न हो।"
+        }
+      },
+      {
+        "id": 273,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Itinerant", "Itinerannt", "Itinnerrant", "Ittinerant"]
+        },
+        "correctAnswer": {
+          "en": "Itinerant"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Itinerant** (घुमक्कड़/भ्रमणशील)"
+        }
+      },
+      {
+        "id": 274,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Jurisdiction", "Jurasdiction", "Jurisdiccion", "Jurrisdiction"]
+        },
+        "correctAnswer": {
+          "en": "Jurisdiction"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Jurisdiction** (अधिकार क्षेत्र)"
+        }
+      },
+      {
+        "id": 275,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Leisure", "Leisiure", "Lieusure", "Leisuree"]
+        },
+        "correctAnswer": {
+          "en": "Leisure"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Leisure** (फुरसत/खाली समय) - 'i' before 'e' नियम का अपवाद: 'ei' आता है।"
+        }
+      },
+      {
+        "id": 276,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Manoeuvre", "Maneuvre", "Maneuver", "Manouevre"]
+        },
+        "correctAnswer": {
+          "en": "Manoeuvre"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Manoeuvre** (चालाकी/पैंतरेबाज़ी) - British English वर्तनी।"
+        }
+      },
+      {
+        "id": 277,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Miniscule", "Minisculee", "Minuscule", "Minuscull"]
+        },
+        "correctAnswer": {
+          "en": "Minuscule"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Minuscule** (बहुत छोटा/अत्यंत सूक्ष्म) - 'minus' के समान 'u' आता है।"
+        }
+      },
+      {
+        "id": 278,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Nuisance", "Nuisence", "Nusiance", "Nuissance"]
+        },
+        "correctAnswer": {
+          "en": "Nuisance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Nuisance** (परेशानी/बाधा)"
+        }
+      },
+      {
+        "id": 279,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Obligation", "Obbligation", "Obligationn", "Oblegation"]
+        },
+        "correctAnswer": {
+          "en": "Obligation"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Obligation** (दायित्व/कर्तव्य)"
+        }
+      },
+      {
+        "id": 280,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Ordinance", "Ordinence", "Ordenance", "Ordinnance"]
+        },
+        "correctAnswer": {
+          "en": "Ordinance"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Ordinance** (अध्यादेश/स्थानीय कानून)"
+        }
+      },
+      {
+        "id": 281,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Parliament", "Parlament", "Parliamant", "Parleament"]
+        },
+        "correctAnswer": {
+          "en": "Parliament"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Parliament** (संसद)"
+        }
+      },
+      {
+        "id": 282,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Permissible", "Permissable", "Permissiblee", "Permissibel"]
+        },
+        "correctAnswer": {
+          "en": "Permissible"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Permissible** (अनुमेय/जिसकी अनुमति हो) - अंत में **'ible'** आता है।"
+        }
+      },
+      {
+        "id": 283,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Possession", "Possesion", "Possessionn", "Possesionn"]
+        },
+        "correctAnswer": {
+          "en": "Possession"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Possession** (कब्ज़ा/अधिकार) - इसमें डबल 's' के बाद डबल 's' आता है।"
+        }
+      },
+      {
+        "id": 284,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Preccede", "Precede", "Presede", "Preseed"]
+        },
+        "correctAnswer": {
+          "en": "Precede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Precede** (पहले आना/अग्रणी होना)"
+        }
+      },
+      {
+        "id": 285,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Priviledge", "Privellege", "Privilege", "Privillege"]
+        },
+        "correctAnswer": {
+          "en": "Privilege"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Privilege** (विशेषाधिकार) - ध्यान दें 'i' - 'i' - 'e' आता है।"
+        }
+      },
+      {
+        "id": 286,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Reccede", "Recede", "Rescede", "Reccedde"]
+        },
+        "correctAnswer": {
+          "en": "Recede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Recede** (पीछे हटना/कम होना)"
+        }
+      },
+      {
+        "id": 287,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Referendum", "Referrendum", "Referendumme", "Referendumm"]
+        },
+        "correctAnswer": {
+          "en": "Referendum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Referendum** (जनमत संग्रह)"
+        }
+      },
+      {
+        "id": 288,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Sacriligious", "Sacrilegious", "Sacreligious", "Sacrilegous"]
+        },
+        "correctAnswer": {
+          "en": "Sacrilegious"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Sacrilegious** (अपवित्र/धर्मभ्रष्ट) - 'religious' से भ्रमित न हों।"
+        }
+      },
+      {
+        "id": 289,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Seize", "Sieze", "Siez", "Seisee"]
+        },
+        "correctAnswer": {
+          "en": "Seize"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Seize** (पकड़ना/जब्त करना) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 290,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Separate", "Seperate", "Separaate", "Seperrate"]
+        },
+        "correctAnswer": {
+          "en": "Separate"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Separate** (अलग करना) - 'a' **-pa-** 'a' पर ध्यान दें।"
+        }
+      },
+      {
+        "id": 291,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Souvenir", "Souveneir", "Souvenier", "Souvenirr"]
+        },
+        "correctAnswer": {
+          "en": "Souvenir"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Souvenir** (स्मृति चिन्ह)"
+        }
+      },
+      {
+        "id": 292,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Superceed", "Supersede", "Superseed", "Superscede"]
+        },
+        "correctAnswer": {
+          "en": "Supersede"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Supersede** (स्थान लेना) - इसका अंत **'sede'** से होता है।"
+        }
+      },
+      {
+        "id": 293,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Tarrif", "Tariff", "Tariff", "Tarriff"]
+        },
+        "correctAnswer": {
+          "en": "Tariff"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Tariff** (शुल्क/कर) - इसमें डबल 'f' आता है।"
+        }
+      },
+      {
+        "id": 294,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Unanimous", "Unanimous", "Unanimuss", "Unanimuss"]
+        },
+        "correctAnswer": {
+          "en": "Unanimous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Unanimous** (सर्वसम्मत)"
+        }
+      },
+      {
+        "id": 295,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Vacuum", "Vaccum", "Vacuume", "Vaccumme"]
+        },
+        "correctAnswer": {
+          "en": "Vacuum"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Vacuum** (निर्वात) - यह उन कुछ शब्दों में से एक है जिनमें **डबल 'u'** आता है।"
+        }
+      },
+      {
+        "id": 296,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Voluminous", "Voluminouse", "Volumminous", "Voluminouss"]
+        },
+        "correctAnswer": {
+          "en": "Voluminous"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Voluminous** (विशाल/बड़ा-भारी)"
+        }
+      },
+      {
+        "id": 297,
+        "question": {
+          "en": "Choose the correctly spelt word."
+        },
+        "options": {
+          "en": ["Wiered", "Weird", "Wirde", "Wierd"]
+        },
+        "correctAnswer": {
+          "en": "Weird"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Weird** (अजीब) - 'i' before 'e' नियम का अपवाद है।"
+        }
+      },
+      {
+        "id": 298,
+        "question": {
+          "en": "Find the correctly spelt word."
+        },
+        "options": {
+          "en": ["Truely", "Truly", "Truelyy", "Truuly"]
+        },
+        "correctAnswer": {
+          "en": "Truly"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Truly** (वास्तव में) - 'true' से 'e' हट जाता है जब '-ly' जोड़ा जाता है।"
+        }
+      },
+      {
+        "id": 299,
+        "question": {
+          "en": "Select the correct spelling."
+        },
+        "options": {
+          "en": ["Jewellery", "Jewelry", "Jewelerry", "Jwellery"]
+        },
+        "correctAnswer": {
+          "en": "Jewellery"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Jewellery** (आभूषण) - British English वर्तनी।"
+        }
+      },
+      {
+        "id": 300,
+        "question": {
+          "en": "Select the correctly spelt word."
+        },
+        "options": {
+          "en": ["Colleague", "Colleage", "Colleaguee", "Colleggue"]
+        },
+        "correctAnswer": {
+          "en": "Colleague"
+        },
+        "explanation": {
+          "en": "Correct Spelling: **Colleague** (सहकर्मी)"
+        }
+      }
+    ]
+  }
+]
