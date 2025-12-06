@@ -1,5 +1,59 @@
 [
   {
+    "id": "mock-test",
+    "mockTestTitle": {
+      "en": "Mock Test",
+      "hi": "",
+      "bn": ""
+    },
+    "instructions": {
+      "en": "",
+      "hi": "",
+      "bn": ""
+    },
+    "questions": [
+      {
+        "question": {
+          "en": "Which National Park in India is the only floating national park in the world?",
+          "hi": "भारत का कौन सा राष्ट्रीय उद्यान दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है?",
+          "bn": "ভারতের কোন জাতীয় উদ্যানটি বিশ্বের একমাত্র ভাসমান জাতীয় উদ্যান?"
+        },
+        "options": {
+          "en": [
+            "Keoladeo Ghana National Park",
+            "Sunderbans National Park",
+            "Keibul Lamjao National Park",
+            "Chilika Wildlife Sanctuary"
+          ],
+          "hi": [
+            "केवलादेव घाना राष्ट्रीय उद्यान",
+            "सुंदरबन राष्ट्रीय उद्यान",
+            "केइबुल लामजाओ राष्ट्रीय उद्यान",
+            "चिल्का वन्यजीव अभयारण्य"
+          ],
+          "bn": [
+            "কেওলাদেও ঘানা জাতীয় উদ্যান",
+            "সুন্দরবন জাতীয় উদ্যান",
+            "কেইবুল লামজাও জাতীয় উদ্যান",
+            "চিলকা বন্যপ্রাণী অভয়ারণ্য"
+          ]
+        },
+        "correctAnswer": {
+          "en": "Keibul Lamjao National Park",
+          "hi": "केइबुल लामजाओ राष्ट्रीय उद्यान",
+          "bn": "কেইবুল লামজাও জাতীয় উদ্যান"
+        },
+        "explanation": {
+          "en": "Keibul Lamjao National Park is located in Manipur on Loktak Lake, famous for 'phumdis' (floating masses of vegetation). It is the last natural habitat of the endangered Sangai (Brow-antlered deer).",
+          "hi": "केइबुल लामजाओ राष्ट्रीय उद्यान मणिपुर में लोकटक झील पर स्थित है, जो 'फुमडी' (तैरती हुई वनस्पति) के लिए प्रसिद्ध है। यह लुप्तप्राय संगाई (भौं-सींग वाला हिरण) का अंतिम प्राकृतिक आवास है।",
+          "bn": "কেইবুল লামজাও জাতীয় উদ্যান মণিপুরে লোকটাক হ্রদে অবস্থিত, যা 'ফুমিডিস' (ভাসমান উদ্ভিদের ভর) এর জন্য বিখ্যাত। এটি বিপন্ন সাঙ্গাই (ব্রো-অ্যান্টলার্ড ডিয়ার) এর শেষ প্রাকৃতিক বাসস্থান।"
+        }
+      }
+    ],
+    "createdAt": "2025-12-06T16:31:42.737Z",
+    "updatedAt": "2025-12-06T16:31:42.737Z"
+  },
+  {
     "id": "fgfgcfgh",
     "mockTestTitle": {
       "en": "fgfgcfgh"
