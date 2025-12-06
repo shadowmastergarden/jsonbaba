@@ -1,5 +1,59 @@
 [
   {
+    "id": "rrb-je-mock-test-2025",
+    "mockTestTitle": {
+      "en": "RRB JE Mock Test 2025",
+      "hi": "आरआरबी जेई मॉक टेस्ट 2025",
+      "bn": "আরআরবি জেই মক টেস্ট ২০২৫"
+    },
+    "instructions": {
+      "en": "Read all questions carefully before answering",
+      "hi": "उत्तर देने से पहले सभी प्रश्नों को ध्यान से पढ़ें",
+      "bn": "উত্তর দেওয়ার আগে সমস্ত প্রশ্ন সাবধানে পড়ুন"
+    },
+    "questions": [
+      {
+        "question": {
+          "en": "What is the capital of India?",
+          "hi": "भारत की राजधानी क्या है?",
+          "bn": "ভারতের রাজধানী কী?"
+        },
+        "options": {
+          "en": [
+            "Mumbai",
+            "Delhi",
+            "Kolkata",
+            "Chennai"
+          ],
+          "hi": [
+            "मुंबई",
+            "दिल्ली",
+            "कोलकाता",
+            "चेन्नई"
+          ],
+          "bn": [
+            "মুম্বাই",
+            "দিল্লি",
+            "কলকাতা",
+            "চেন্নাই"
+          ]
+        },
+        "correctAnswer": {
+          "en": "Delhi",
+          "hi": "दिल्ली",
+          "bn": "দিল্লি"
+        },
+        "explanation": {
+          "en": "New Delhi is the capital of India",
+          "hi": "नई दिल्ली भारत की राजधानी है",
+          "bn": "নতুন দিল্লি ভারতের রাজধানী"
+        }
+      }
+    ],
+    "createdAt": "2025-12-06T16:32:39.507Z",
+    "updatedAt": "2025-12-06T16:32:39.507Z"
+  },
+  {
     "id": "fgfgcfgh",
     "mockTestTitle": {
       "en": "fgfgcfgh"
