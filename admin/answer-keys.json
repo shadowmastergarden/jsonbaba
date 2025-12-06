@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "exmple-rrb-je-answer-key-2025",
+    "title": {
+      "en": "exMPLE RRB JE Answer Key 2025"
+    },
+    "introduction": {
+      "en": "Railway Recruitment Board has released..."
+    },
+    "importantDates": {
+      "Notification Date": "31 October 2025",
+      "Online Apply Start Date": "31 October 2025",
+      "Online Apply Last Date": "30 November 2025",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Before Exam",
+      "Admit Card": "",
+      "Answer Key": "Notify Later",
+      "Result Declared Date": "",
+      "NO": "SDFSDF"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.rrbapply.gov.in"
+    },
+    "url": "https://www.rrbapply.gov.in",
+    "customSections": [
+      {
+        "title": "Additional Information",
+        "items": {
+          "5454": "646546"
+        }
+      }
+    ],
+    "createdAt": "2025-12-06T16:23:54.194Z",
+    "updatedAt": "2025-12-06T16:23:54.194Z"
+  }
+]
