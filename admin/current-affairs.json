@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "2025-12-06",
+    "date": "2025-12-06",
+    "items": [
+      {
+        "topic": "India's Economic Growth",
+        "english": "India's GDP growth rate reached 7.2% in Q3 2025, making it the fastest-growing major economy.",
+        "hindi": "भारत की जीडीपी वृद्धि दर 2025 की तीसरी तिमाही में 7.2% तक पहुंच गई, जिससे यह सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था बन गई।",
+        "bengali": "ভারতের জিডিপি বৃদ্ধির হার ২০২৫ সালের তৃতীয় ত্রৈমাসিকে ৭.২% এ পৌঁছেছে, যা এটিকে দ্রুততম বর্ধনশীল প্রধান অর্থনীতিতে পরিণত করেছে।"
+      },
+      {
+        "topic": "Space Mission Success",
+        "english": "ISRO successfully launched Chandrayaan-4 mission to explore the lunar south pole.",
+        "hindi": "इसरो ने चंद्रमा के दक्षिणी ध्रुव का पता लगाने के लिए चंद्रयान-4 मिशन सफलतापूर्वक लॉन्च किया।",
+        "bengali": "ইসরো চন্দ্রের দক্ষিণ মেরু অন্বেষণের জন্য চন্দ্রযান-৪ মিশন সফলভাবে চালু করেছে।"
+      }
+    ],
+    "createdAt": "2025-12-06T16:37:22.044Z",
+    "updatedAt": "2025-12-06T16:37:22.044Z"
+  }
+]
