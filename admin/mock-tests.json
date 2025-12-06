@@ -1,0 +1,27 @@
+[
+  {
+    "id": "fgfgcfgh",
+    "mockTestTitle": {
+      "en": "fgfgcfgh"
+    },
+    "question": {
+      "en": "fghgfhfgh"
+    },
+    "options": {
+      "en": [
+        "fgjhgj",
+        "ghjgh",
+        "ghjgh",
+        "jghjgh"
+      ]
+    },
+    "correctAnswer": {
+      "en": "jghjgvjghk"
+    },
+    "explanation": {
+      "en": "gfjghj"
+    },
+    "createdAt": "2025-12-06T16:00:44.035Z",
+    "updatedAt": "2025-12-06T16:00:44.035Z"
+  }
+]
