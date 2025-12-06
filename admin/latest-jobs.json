@@ -2,7 +2,7 @@
   {
     "id": "example-rrb-junior-engineer-je-recruitment-2025",
     "title": {
-      "en": "example RRB Junior Engineer (JE) Recruitment 2025"
+      "en": "22222example RRB Junior Engineer (JE) Recruitment 2025"
     },
     "description": "Railway Recruitment Board (Ministry of Railway) ने जूनियर इंजीनियर (JE) के पद के लिए अधिसूचना जारी की है। कुल 2569 पद उपलब्ध हैं। आवेदन 31 अक्टूबर 2025 से 30 नवंबर 2025 तक ऑनलाइन भरे जा सकते हैं। (Advt.No. CEN 05/2025)",
     "totalPosts": "2569",
@@ -22,7 +22,8 @@
       "Last Date For Fee Payment": "02 December 2025",
       "Exam Date": "Notify Later",
       "Admit Card": "Before Exam",
-      "Result Date": "Notify Later"
+      "Result Date": "Notify Later",
+      "date of": "01/02"
     },
     "importantLinks": {
       "Apply": "https://www.rrbapply.gov.in/#/auth/home"
@@ -40,8 +41,15 @@
       "Pay Scale": "",
       "additionalInfo": "Candidates are advised to read the official notification completely before applying, paying attention to the Last Date, Age Limit, & Education Qualification."
     },
-    "customSections": [],
+    "customSections": [
+      {
+        "title": "Additional Information",
+        "items": {
+          "add": "21"
+        }
+      }
+    ],
     "createdAt": "2025-12-06T15:46:18.453Z",
-    "updatedAt": "2025-12-06T15:46:18.453Z"
+    "updatedAt": "2025-12-06T15:49:04.230Z"
   }
 ]
