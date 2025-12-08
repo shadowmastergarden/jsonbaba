@@ -1,5 +1,61 @@
 [
   {
+    "id": "itbp-deputy-judge-recruitment-2025",
+    "title": {
+      "en": "ITBP Deputy Judge Recruitment 2025"
+    },
+    "description": "Indo-Tibetan Border Police (ITBP) has announced the Deputy Judge Attorney General Recruitment 2025. The notification provides complete information on eligibility criteria, vacancy distribution, age limits, application fees, and the multi-stage selection process. Candidates with a law background and relevant professional experience are encouraged to review all requirements carefully before submitting their online application.",
+    "totalPosts": "7",
+    "educationalQualifications": "Bachelor’s Degree in Law (LLB) with 7 years of experience OR a Postgraduate Degree in Law with 5 years of experience.",
+    "ageLimit": "Maximum Age: 40 Years as on 31 December 2025. Age relaxation applicable as per ITBP rules.",
+    "applicationFee": "General / OBC / EWS: ₹400/-. SC / ST / ESM / All Females: ₹0 (Nil).",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "31 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Notify Soon",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://recruitment.itbpolice.nic.in/rect/index.php",
+      "Official Website": "https://itbpolice.nic.in"
+    },
+    "selectionProcess": [
+      "PST & PET Test",
+      "Written Examination",
+      "Document Verification",
+      "Personal Interview",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Deputy Judge Attorney General (Deputy Commandant)": "7"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates should read the official notification for detailed service conditions, physical standards, and exam pattern."
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "General": "5",
+          "EWS": "0",
+          "OBC": "1",
+          "SC": "0",
+          "ST": "1",
+          "Total": "7"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:58:56.380Z",
+    "updatedAt": "2025-12-08T13:58:56.380Z"
+  },
+  {
     "id": "bdl-management-trainee-recruitment-2025",
     "title": {
       "en": "BDL Management Trainee Recruitment 2025"
