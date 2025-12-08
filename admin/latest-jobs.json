@@ -1,5 +1,77 @@
 [
   {
+    "id": "oicl-administrative-officer-recruitment-2025",
+    "title": {
+      "en": "OICL Administrative Officer Recruitment 2025"
+    },
+    "description": "The Oriental Insurance Company Ltd. (OICL) has released the Administrative Officer (AO) Recruitment 2025 notification, offering opportunities for Generalist and Hindi Officer positions. The announcement includes key details such as exam dates, eligibility criteria, application fees, age requirements, selection stages, and emoluments. Candidates aiming for a career in the insurance sector should review the information carefully before applying online.",
+    "totalPosts": "300",
+    "educationalQualifications": "AO Generalist: Graduation in any discipline with 60% marks (55% for SC/ST). AO Hindi Officer: Postgraduate Degree in Hindi/English with 60% marks (55% for SC/ST).",
+    "ageLimit": "21–30 Years as on 30 November 2025. Candidates must be born between 01 December 1995 and 30 November 2004. Age relaxation applicable as per rules.",
+    "applicationFee": "General / OBC / EWS: ₹1000/-. SC / ST / PH: ₹250/-.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "03 December 2025 (06:30 PM)",
+      "Online Apply Last Date": "18 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Short Notice Out": "25 November 2025",
+      "Full Notification": "01 December 2025",
+      "Tier-I Exam Date": "10 January 2026 (Tentative)",
+      "Tier-II Exam Date": "28 February 2026 (Tentative)"
+    },
+    "importantLinks": {
+      "Apply": "https://ibpsreg.ibps.in/oiclnov25/index.php",
+      "Official Website": "https://orientalinsurance.org.in"
+    },
+    "selectionProcess": [
+      "Tier-I Written Exam",
+      "Tier-II Written Exam",
+      "Personal Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "AO Generalist": "285"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates are advised to refer to the official notification for detailed exam patterns, marking schemes, and service conditions."
+    },
+    "customSections": [
+      {
+        "title": "Emoluments & Benefits",
+        "items": {
+          "Basic Pay": "₹50,925 in the scale 50925-2500(14)-85925-2710(4)-96765",
+          "Total Emoluments": "Approx. ₹85,000 per month in metro cities",
+          "Other Benefits": "Pension (NPS), Gratuity, LTS, Medical Facilities, Group Accident Insurance",
+          "Accommodation": "Company/leased accommodation as per rules"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Administrative Officer (Generalist)": "285",
+          "Administrative Officer (Hindi Officer)": "15",
+          "Grand Total": "300"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "Generalist": "UR: 123, OBC: 68, SC: 42, ST: 24, EWS: 28, Total: 285",
+          "Hindi (Rajbhasha) Officers": "UR: 7, OBC: 4, SC: 2, ST: 1, EWS: 1, Total: 15"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:02:46.765Z",
+    "updatedAt": "2025-12-08T14:02:46.765Z"
+  },
+  {
     "id": "itbp-deputy-judge-recruitment-2025",
     "title": {
       "en": "ITBP Deputy Judge Recruitment 2025"
