@@ -1,5 +1,116 @@
 [
   {
+    "id": "sail-management-trainee-technical-recruitment-2025",
+    "title": {
+      "en": "SAIL Management Trainee (Technical) Recruitment 2025"
+    },
+    "description": "Steel Authority of India Limited (SAIL) has released the official notification for the recruitment of Management Trainees (Technical) for 2025. The announcement includes key details such as vacancy distribution, eligibility criteria, fee structure, selection stages, pay scale and important dates. Candidates possessing the required engineering qualifications can apply online before the closing date.",
+    "totalPosts": "124",
+    "educationalQualifications": "B.Tech / BE degree in the relevant engineering discipline with minimum 65% marks (55% for SC / ST / PH / SAIL Employees).",
+    "ageLimit": "18–28 Years as on 05 December 2025. Age relaxation is applicable as per SAIL rules.",
+    "applicationFee": "General / OBC / EWS: ₹1050, SC / ST / ESM: ₹300, PH / SAIL Employee: ₹300",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "15 November 2025",
+      "Online Apply Last Date": "15 December 2025",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Jan–Feb 2026",
+      "Admit Card": "",
+      "Result Date": "Notify Later",
+      "Notification Out": "12 November 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://sailcareers.com/sail2025mt/",
+      "Official Website": "https://sail.co.in"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Group Discussion & Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Management Trainee (Technical)": "124"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "12 November 2025",
+          "Online Apply Start Date": "15 November 2025",
+          "Online Apply Last Date": "15 December 2025 (11:59 PM) — Extended",
+          "Exam Date": "January–February 2026",
+          "Admit Card": "Before Exam"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Age Limit": "18–28 Years",
+          "Age as on": "05 December 2025",
+          "Born on or After": "05 December 1997",
+          "Age Relaxation": "As per SAIL rules"
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "Stage 1": "Written Exam",
+          "Stage 2": "Group Discussion (GD) & Interview",
+          "Stage 3": "Document Verification",
+          "Stage 4": "Medical Examination"
+        }
+      },
+      {
+        "title": "Pay Scale & Benefits",
+        "items": {
+          "Training Pay": "₹50,000 per month (Pay Scale ₹50,000–1,60,000)",
+          "After Training": "Designated as Assistant Manager (E-1) with Pay Scale ₹60,000–1,80,000",
+          "Allowances": "DA, cafeteria perks, PF, gratuity, HRA/quarters, medical for self & dependents",
+          "Approx CTC": "₹16–17 Lakhs per annum (excluding PRP & location allowances)"
+        }
+      },
+      {
+        "title": "Post & Qualification",
+        "items": {
+          "Management Trainee (Technical)": "B.Tech in relevant discipline with 65% marks (55% for SC/ST/PH/SAIL Employees)"
+        }
+      },
+      {
+        "title": "Discipline Wise Vacancies",
+        "items": {
+          "Chemical": "05",
+          "Civil": "14",
+          "Computer Science": "04",
+          "Electrical": "44",
+          "Instrumentation": "07",
+          "Mechanical": "30",
+          "Metallurgy": "20",
+          "Grand Total": "124"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "General": "35",
+          "EWS": "18",
+          "OBC": "31",
+          "SC": "22",
+          "ST": "18",
+          "Total": "124"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:16:00.954Z",
+    "updatedAt": "2025-12-08T14:16:00.954Z"
+  },
+  {
     "id": "kvs-nvs-teaching-and-non-teaching-recruitment-2025",
     "title": {
       "en": "KVS NVS Teaching and Non-Teaching Recruitment 2025"
