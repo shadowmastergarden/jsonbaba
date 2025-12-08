@@ -1,5 +1,64 @@
 [
   {
+    "id": "rites-assistant-manager-recruitment-2025",
+    "title": {
+      "en": "RITES Assistant Manager Recruitment 2025"
+    },
+    "description": "RITES has released the Assistant Manager Recruitment 2025, offering positions across various technical disciplines. The notification covers complete details including eligibility criteria, important dates, vacancy distribution, application fees, and the selection process. Interested candidates must review all instructions carefully before applying online.",
+    "totalPosts": "400",
+    "educationalQualifications": "B.E / B.Tech in relevant engineering fields or B.Pharma with a minimum of 2 years of professional experience.",
+    "ageLimit": "Maximum Age: 40 Years as on 25 December 2025. Age relaxation applies as per RITES recruitment guidelines.",
+    "applicationFee": "General / OBC: ₹600/-, SC / ST / EWS: ₹300/-, PH (Divyang): ₹300/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "26 November 2025",
+      "Online Apply Last Date": "25 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "11 January 2026",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "26 November 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://recruit.rites.com/frmRegistration.aspx",
+      "Official Website": "https://recruit.rites.com"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Assistant Manager": "400"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should thoroughly read the official notification to ensure eligibility and accuracy before submitting the online form."
+    },
+    "customSections": [
+      {
+        "title": "Additional Information",
+        "items": {
+          "Civil": "120",
+          "Electrical": "55",
+          "Mechanical": "150",
+          "Signal & Telecom": "10",
+          "Metallurgy": "26",
+          "Chemical": "11",
+          "Information Technology": "14",
+          "Food Technology": "12",
+          "Pharma": "2",
+          "Grand Total": "400"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:13:38.071Z",
+    "updatedAt": "2025-12-08T13:13:38.071Z"
+  },
+  {
     "id": "rrb-junior-engineer-je-recruitment-2025",
     "title": {
       "en": "RRB Junior Engineer (JE) Recruitment 2025"
