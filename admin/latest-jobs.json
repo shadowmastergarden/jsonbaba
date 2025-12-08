@@ -1,5 +1,83 @@
 [
   {
+    "id": "bdl-management-trainee-recruitment-2025",
+    "title": {
+      "en": "BDL Management Trainee Recruitment 2025"
+    },
+    "description": "Bharat Dynamics Limited has released the Management Trainee Recruitment 2025, offering opportunities across technical and non-technical disciplines. This notification highlights crucial details including eligibility, discipline-wise vacancies, age limits, application fees, pay structure, and the complete selection procedure. Candidates intending to join BDL as Management Trainees should carefully review the instructions and requirements before applying online.",
+    "totalPosts": "80",
+    "educationalQualifications": "MT Engineering: 1st Class B.E/B.Tech in relevant engineering disciplines. MT Finance: CA/ICWA or First Class MBA (Finance). MT Human Resources: 1st Class MBA or PG Degree/Diploma in HR/PMIR/Personnel Management/Industrial Relations/Social Sciences.",
+    "ageLimit": "MT Finance: Max 28 Years. Other MT Streams: Max 27 Years. Age as on 25 November 2025. Age relaxation applicable as per BDL rules.",
+    "applicationFee": "General / OBC / EWS: ₹500/-. SC / ST / PH / ESM / BDL Employees: ₹0 (Nil).",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "03 December 2025",
+      "Online Apply Last Date": "29 December 2025 (04:00 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "28 November 2025",
+      "CBT Exam Date": "11 January 2026 (Tentative)"
+    },
+    "importantLinks": {
+      "Apply": "https://online.cbexams.com/BDL_REG/landing.aspx",
+      "Official Website": "https://bdl-india.in"
+    },
+    "selectionProcess": [
+      "CBT Written Exam",
+      "Personal Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Electronics": "32"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates must refer to the official notification for complete eligibility, service conditions, and training details."
+    },
+    "customSections": [
+      {
+        "title": "Pay Scale & Benefits",
+        "items": {
+          "Basic Benefits": "DA and HRA as applicable; company accommodation at Bhanur Unit where HRA is not applicable.",
+          "Perks": "33% on Basic Pay and Performance Related Pay as per company policy.",
+          "Other Facilities": "PF, Gratuity, Medical facilities, Pension, and Post Superannuation Medical Benefits under Defined Contributory Scheme.",
+          "During Training": "Stipend combines minimum Basic Pay of Grade-II (₹40,000), DA at 51.8%, HRA, and 20% of Basic Pay as perks.",
+          "Note": "Benefits apply after absorption as Assistant Manager. No pay protection on joining as MT."
+        }
+      },
+      {
+        "title": "Stream Wise Qualifications",
+        "items": {
+          "MT (Engineering Discipline)": "1st Class B.E/B.Tech in Electronics, Mechanical, Electrical, CS, Metallurgy, Chemical, Civil or related fields",
+          "MT (Finance)": "CA / ICWA / 1st Class MBA (Finance)",
+          "MT (Human Resources)": "1st Class MBA or PG Degree/Diploma in HR, PM&IR, Personnel Management, Industrial Relations, Social Science, Social Welfare, Social Work"
+        }
+      },
+      {
+        "title": "Discipline Wise Vacancies",
+        "items": {
+          "Electronics": "32",
+          "Mechanical": "27",
+          "Chemical": "1",
+          "Civil": "2",
+          "Electrical": "6",
+          "Finance": "5",
+          "Computer Science": "4",
+          "Human Resources": "2",
+          "Metallurgy": "1",
+          "Grand Total": "80"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:57:50.449Z",
+    "updatedAt": "2025-12-08T13:57:50.449Z"
+  },
+  {
     "id": "cbse-group-a-b-c-posts-recruitment-2025",
     "title": {
       "en": "CBSE Group A, B & C Posts Recruitment 2025"
