@@ -1,5 +1,81 @@
 [
   {
+    "id": "cbse-group-a-b-c-posts-recruitment-2025",
+    "title": {
+      "en": "CBSE Group A, B & C Posts Recruitment 2025"
+    },
+    "description": "CBSE has released the recruitment notification for Group A, B, and C posts for the 2025–26 cycle. The announcement includes detailed information regarding eligibility criteria, post-wise qualifications, vacancy distribution, application fees, age limits, and the multi-stage selection process. Interested candidates should thoroughly review all guidelines before applying online for their respective posts.",
+    "totalPosts": "124",
+    "educationalQualifications": "Qualifications vary by post: Assistant Secretary requires a Bachelor's Degree; Assistant Professor & AD requires a Postgraduate Degree with minimum 55%; Accounts Officer requires Bachelor’s/PG Degree in relevant commerce/finance fields or MBA (Finance)/CA/ICWA; Superintendent requires a Bachelor's Degree with typing skills; JTO requires PG with Hindi/English; Junior Accountant & Junior Assistant require 12th with specified subjects and typing skills.",
+    "ageLimit": "Assistant Secretary: 18–35 Years, Assistant Professor: 18–30 Years, Accounts Officer: 18–35 Years, Superintendent: 18–30 Years, Jr Translation Officer: 18–30 Years, Junior Accountant: 18–27 Years, Junior Assistant: 18–27 Years. Age as on 22 December 2025. Age relaxation as per CBSE norms.",
+    "applicationFee": "Group A: Gen/OBC/EWS ₹1750. Group B & C: Gen/OBC/EWS ₹1050. SC/ST/ESM/PH/All Female: ₹250.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "22 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Available Soon",
+      "Admit Card": "Available Soon",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025",
+      "Fees Last Date": "22 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://examinationservices.nic.in/recsys2025/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFSuabJtfdyH7GsL2cij2dPKFqA5XsHH8yMmK+6SEPU/E",
+      "Official Website": "https://cbse.gov.in"
+    },
+    "selectionProcess": [
+      "Tier-1 Written Exam",
+      "Tier-2 Written Exam",
+      "Interview (For Group A Posts)",
+      "Typing Test (If Applicable)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Group A Total": "37"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should thoroughly review the official notification for detailed eligibility, exam pattern, and document requirements."
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualifications",
+        "items": {
+          "Assistant Secretary": "Bachelor’s Degree",
+          "Assistant Professor & Assistant Director (Academics)": "PG Degree with 55% marks",
+          "Assistant Professor & Assistant Director (Training)": "PG Degree with 55% marks",
+          "Assistant Professor & Assistant Director (Skill Education)": "PG Degree with 55% marks",
+          "Accounts Officer": "Bachelor’s/PG Degree in Commerce/Finance/Business Studies or MBA (Finance)/CA/ICWA",
+          "Superintendent": "Bachelor’s Degree, Computer Knowledge, Typing (Eng 35 WPM / Hindi 30 WPM)",
+          "Junior Translation Officer": "PG Degree with Hindi/English",
+          "Junior Accountant": "12th Pass with listed commerce/finance subjects + Typing",
+          "Junior Assistant": "12th Pass + Typing (Eng 35 WPM / Hindi 30 WPM)"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Assistant Secretary": "SC:1, ST:0, OBC:3, EWS:1, UR:3, Total:8",
+          "Assistant Professor & AD (Academics)": "SC:2, ST:1, OBC:2, EWS:1, UR:6, Total:12",
+          "Assistant Professor & AD (Training)": "SC:1, ST:0, OBC:2, EWS:0, UR:5, Total:8",
+          "Assistant Professor & AD (Skill Education)": "SC:1, ST:0, OBC:1, EWS:0, UR:5, Total:7",
+          "Accounts Officer": "SC:0, ST:0, OBC:0, EWS:0, UR:2, Total:2",
+          "Superintendent": "SC:4, ST:2, OBC:7, EWS:2, UR:12, Total:27",
+          "Junior Translation Officer": "SC:1, ST:1, OBC:2, EWS:0, UR:5, Total:9",
+          "Junior Accountant": "SC:3, ST:1, OBC:4, EWS:1, UR:7, Total:16",
+          "Junior Assistant": "SC:5, ST:3, OBC:10, EWS:3, UR:14, Total:35",
+          "Grand Total": "124"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:56:37.337Z",
+    "updatedAt": "2025-12-08T13:56:37.337Z"
+  },
+  {
     "id": "sbi-bank-so-recruitment-2026",
     "title": {
       "en": "SBI Bank SO Recruitment 2026"
