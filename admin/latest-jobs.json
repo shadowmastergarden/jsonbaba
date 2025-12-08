@@ -1,5 +1,280 @@
 [
   {
+    "id": "kvs-nvs-teaching-and-non-teaching-recruitment-2025",
+    "title": {
+      "en": "KVS NVS Teaching and Non-Teaching Recruitment 2025"
+    },
+    "description": "Kendriya Vidyalaya Sangathan (KVS) and Navodaya Vidyalaya Sangathan (NVS) have issued a combined recruitment notification for teaching and non-teaching posts for 2025. The announcement covers extensive vacancy lists across Group A, B and C posts, eligibility criteria, important dates, fee structures, age limits, and post-wise selection procedures. Candidates should carefully read the full notification and related corrigenda before applying.",
+    "totalPosts": "14967",
+    "educationalQualifications": "Qualifications vary by post. Ranges from 10th/12th with specified diplomas for non-teaching and PRT posts, to Bachelor’s, Postgraduate and professional qualifications with B.Ed/CTET/experience requirements for PGT/TGT/Group A positions. See 'Qualifications' section below for post-wise details.",
+    "ageLimit": "Age limits vary by post (see Age Limits section). Age as on 04 December 2025. Age relaxation as per rules.",
+    "applicationFee": "Varies by post and category (see Fee Structure section).",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "14 November 2025",
+      "Online Apply Last Date": "11 December 2025 (11:50 PM) — Extended",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Available Soon",
+      "Result Date": "Notify Later",
+      "Notification Out": "13 November 2025",
+      "Fees Last Date": "11 December 2025 (11:50 PM) — Extended",
+      "Tier-I Exam Date": "10-11 January 2026"
+    },
+    "importantLinks": {
+      "Apply": "https://kvs.gov.in/apply",
+      "Official Website": "https://kvs.gov.in"
+    },
+    "selectionProcess": [
+      "Tier-I Written Examination",
+      "Tier-II Written Examination",
+      "Interview / Skill Test (Post Wise)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "TotalPosts": "14967"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "13 November 2025",
+          "Online Apply Start Date": "14 November 2025",
+          "Online Apply Last Date": "11 December 2025 (11:50 PM) — Extended",
+          "Fees Last Date": "11 December 2025 (11:50 PM) — Extended",
+          "Tier-I Exam Date": "10-11 January 2026",
+          "Tier-I Admit Card": "Available Soon",
+          "Corrigendum / Revised Notices": "04 December 2025 (See official notices)"
+        }
+      },
+      {
+        "title": "Fee Structure (Post Groups)",
+        "items": {
+          "Assistant Commissioner / Principal": "Gen / OBC / EWS: ₹2800, SC / ST / PH / ESM: ₹500",
+          "PGT / TGT / PRT / AE / Finance Officer": "Gen / OBC / EWS: ₹2000, SC / ST / PH / ESM: ₹500",
+          "AO / Librarian / ASO / Jr Translator": "Gen / OBC / EWS: ₹2000, SC / ST / PH / ESM: ₹500",
+          "Sr Secretariat Assistant / Stenographer": "Gen / OBC / EWS: ₹1700, SC / ST / PH / ESM: ₹500",
+          "Jr Secretariat Assistant / Lab Attendant / MTS": "Gen / OBC / EWS: ₹1700, SC / ST / PH / ESM: ₹500"
+        }
+      },
+      {
+        "title": "Age Limits (as on 04 December 2025)",
+        "items": {
+          "Principal": "35-50 Years",
+          "Vice-Principal": "35-45 Years",
+          "Assistant Commissioner (NVS)": "Max. 45 Years",
+          "Assistant Commissioner (KVS)": "Max. 50 Years",
+          "Post Graduate Teachers (PGT)": "Max. 40 Years",
+          "Trained Graduate Teacher (TGT)": "Max. 35 Years",
+          "Primary Teachers (PRT)": "Max. 30 Years",
+          "Administrative Officer": "Max. 45 Years",
+          "Finance Officer": "Max. 35 Years",
+          "Assistant Engineer (AE)": "Max. 35 Years",
+          "Assistant Section Officer (ASO)": "Max. 35 Years",
+          "Junior Translator": "Max. 30 Years",
+          "Lab Attendant": "Max. 30 Years",
+          "Sr. Secretariat Assistant": "Max. 30 Years",
+          "Stenographer Grade-I": "Max. 30 Years",
+          "Stenographer Grade-II": "Max. 27 Years",
+          "Jr. Secretariat Assistant": "Max. 27 Years",
+          "Multi Tasking Staff (MTS)": "Max. 30 Years"
+        }
+      },
+      {
+        "title": "Selection Process (Post Wise / General)",
+        "items": {
+          "Tier-I Written Examination": "Applicable for most posts",
+          "Tier-II Written Examination": "Applicable for many posts (post-wise)",
+          "Interview / Skill Test": "Post-wise where applicable",
+          "Typing Test": "Where specified",
+          "Document Verification": "Final stage before appointment",
+          "Medical Examination": "As per rules"
+        }
+      },
+      {
+        "title": "Qualifications — Group A & Teaching (Summary)",
+        "items": {
+          "Assistant Commissioner (Group A)": "Master's Degree with 50% marks + B.Ed (50%); experience as Principal/eligible cadre; see notification for full criteria",
+          "Principal (Group A)": "Master's Degree with 50% marks and B.Ed with 50% marks; appropriate experience",
+          "Vice-Principal": "Master's Degree with 50% marks and B.Ed with 50% marks; working as PGT/lecturer or equivalent",
+          "PGT (All Subjects including Hindi/English/Physics/Chemistry/Maths/Biology/History/Geography/Economics/Commerce/Comp.Sc/Biotech/Physical Education/Modern Indian Languages)": "Master's Degree in relevant subject with 50% marks plus B.Ed (or specified integrated/teacher education qualification) OR as per subject-specific relaxation/requirements; CTET/other requirements where indicated",
+          "TGT (Subject-wise including Hindi/English/Sanskrit/Social Studies/Mathematics/Science/Physical Education/Art/Work Experience/Computer Science/Music/Library etc.)": "Bachelor’s degree in relevant subject/combination with 50% marks plus B.Ed OR Master’s with specified marks + B.Ed as applicable; CTET Paper-II pass where specified",
+          "PRT / Primary Teachers / Special Educator (PRT)": "12th with 50% marks + D.Ed / Diploma in Elementary Education / B.El.Ed OR equivalent; CTET Paper-I pass where specified",
+          "Administrative Officer (Non-Teaching)": "Bachelor’s Degree in any stream with 3 years experience (post dependent)",
+          "Finance Officer (FO)": "B.Com (50%) with 4 years experience OR Master's in Commerce (50%) with 4 years experience",
+          "Assistant Engineer (AE)": "B.E / B.Tech in Civil/Electrical (with 2 years experience where specified)",
+          "Assistant Section Officer (ASO)": "Bachelor’s Degree with 3 years experience",
+          "Junior Translator": "Master’s Degree in Hindi with English elective at degree level OR Master’s in English with Hindi elective; 2 years experience",
+          "Sr Secretariat Assistant / Jr Secretariat Assistant": "Graduation (Sr: with 3 years experience), Jr: 12th + typing (English 30 WPM OR Hindi 25 WPM)",
+          "Stenographer Grade I/II": "Bachelor’s Degree; shorthand and typing speed criteria as specified",
+          "Lab Attendant / MTS": "10th/12th with specific trade/diploma as applicable"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies — KVS (Selected Breakups)",
+        "items": {
+          "Assistant Commissioner (KVS)": "UR: 05, EWS: 0, OBC: 02, SC: 01, ST: 0, Total: 08",
+          "Principal (KVS)": "UR: 68, EWS: 0, OBC: 36, SC: 20, ST: 10, Total: 134",
+          "Vice-Principal (KVS)": "UR: 31, EWS: 0, OBC: 15, SC: 8, ST: 4, Total: 58",
+          "Librarian (KVS)": "UR: 61, EWS: 14, OBC: 39, SC: 22, ST: 11, Total: 147"
+        }
+      },
+      {
+        "title": "KVS Non-Teaching Vacancies (Selected)",
+        "items": {
+          "Administrative Officer (KVS)": "UR: 06, EWS: 01, OBC: 03, SC: 01, ST: 01, Total: 12",
+          "Finance Officer (KVS)": "UR: 01, EWS: 01, OBC: 02, SC: 01, ST: 00, Total: 05",
+          "Assistant Engineer (KVS)": "UR: 01, EWS: 01, OBC: 00, SC: 00, ST: 00, Total: 02",
+          "Assistant Section Officer (KVS)": "UR: 31, EWS: 07, OBC: 19, SC: 11, ST: 06, Total: 74",
+          "Junior Translator (KVS)": "UR: 05, EWS: 0, OBC: 02, SC: 01, ST: 0, Total: 08",
+          "Sr Secretariat Assistant (KVS)": "UR: 114, EWS: 28, OBC: 75, SC: 42, ST: 21, Total: 280",
+          "Jr Secretariat Assistant (KVS)": "UR: 277, EWS: 68, OBC: 184, SC: 108, ST: 77, Total: 714",
+          "Stenographer Grade-I (KVS)": "Total: 03",
+          "Stenographer Grade-II (KVS)": "UR: 19, EWS: 03, OBC: 20, SC: 09, ST: 06, Total: 57"
+        }
+      },
+      {
+        "title": "PRT Vacancies in KVS (Selected)",
+        "items": {
+          "Special Educator (PRT)": "UR: 202, EWS: 49, OBC: 133, SC: 74, ST: 36, Total: 494",
+          "PRT": "UR: 1089, EWS: 268, OBC: 724, SC: 402, ST: 201, Total: 2684",
+          "PRT (Music)": "UR: 78, EWS: 18, OBC: 49, SC: 29, ST: 13, Total: 187",
+          "PRT Totals (KVS)": "UR: 1369, EWS: 335, OBC: 906, SC: 505, ST: 250, Total: 3365"
+        }
+      },
+      {
+        "title": "PGT Vacancies in KVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 52, EWS: 12, OBC: 33, SC: 18, ST: 09, Total: 124",
+          "English": "UR: 68, EWS: 16, OBC: 44, SC: 24, ST: 12, Total: 164",
+          "Physics": "UR: 89, EWS: 21, OBC: 57, SC: 31, ST: 15, Total: 213",
+          "Chemistry": "UR: 84, EWS: 20, OBC: 55, SC: 30, ST: 15, Total: 204",
+          "Mathematics": "UR: 33, EWS: 08, OBC: 21, SC: 12, ST: 06, Total: 80",
+          "Biology": "UR: 53, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 127",
+          "History": "UR: 32, EWS: 07, OBC: 20, SC: 11, ST: 05, Total: 75",
+          "Geography": "UR: 32, EWS: 07, OBC: 19, SC: 10, ST: 05, Total: 73",
+          "Economics": "UR: 55, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 129",
+          "Commerce": "UR: 41, EWS: 09, OBC: 25, SC: 14, ST: 07, Total: 96",
+          "Computer Science": "UR: 73, EWS: 17, OBC: 47, SC: 26, ST: 13, Total: 176",
+          "Bio-Technology": "UR: 03, EWS: 00, OBC: 01, SC: 00, ST: 00, Total: 04",
+          "PGT Total (KVS)": "Total: 1465 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "TGT Vacancies in KVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 08, EWS: 01, OBC: 03, SC: 01, ST: 00, Total: 13",
+          "English": "UR: 129, EWS: 31, OBC: 84, SC: 47, ST: 23, Total: 314",
+          "Sanskrit": "UR: 217, EWS: 52, OBC: 142, SC: 79, ST: 39, Total: 529",
+          "Social Studies": "UR: 134, EWS: 32, OBC: 88, SC: 49, ST: 24, Total: 327",
+          "Mathematics": "UR: 170, EWS: 41, OBC: 111, SC: 61, ST: 30, Total: 413",
+          "Science": "UR: 74, EWS: 17, OBC: 47, SC: 26, ST: 13, Total: 177",
+          "Physical & Health Education": "UR: 61, EWS: 14, OBC: 38, SC: 21, ST: 10, Total: 144",
+          "Art Education": "UR: 55, EWS: 13, OBC: 36, SC: 20, ST: 10, Total: 134",
+          "Work Experience": "UR: 103, EWS: 25, OBC: 67, SC: 37, ST: 18, Total: 250",
+          "Special Educator (TGT)": "UR: 202, EWS: 49, OBC: 133, SC: 73, ST: 36, Total: 493",
+          "TGT Total (KVS)": "Total: 2794 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "KVS Totals Summary",
+        "items": {
+          "PGT Total": "1465",
+          "TGT Total": "2794",
+          "PRT Total": "3365",
+          "Non-Teaching Total (selected posts aggregated above)": "Varies by post (see sections)"
+        }
+      },
+      {
+        "title": "NVS Post Wise Vacancies (Selected Breakups)",
+        "items": {
+          "Assistant Commissioner (Academics)": "UR: 06, EWS: 01, OBC: 02, SC: 00, ST: 00, Total: 09",
+          "Principal (NVS)": "UR: 49, EWS: 0, OBC: 25, SC: 13, ST: 06, Total: 93"
+        }
+      },
+      {
+        "title": "NVS Non-Teaching Vacancies (Selected)",
+        "items": {
+          "Jr. Secretariat Assistant (HQ/RO Cadre)": "UR: 24, EWS: 04, OBC: 09, SC: 07, ST: 02, Total: 46",
+          "Jr. Secretariat Assistant (JNV Cadre)": "UR: 225, EWS: 55, OBC: 149, SC: 82, ST: 41, Total: 552",
+          "Lab Attendant (NVS)": "UR: 78, EWS: 16, OBC: 33, SC: 28, ST: 10, Total: 165",
+          "MTS (HQ/RO Cadre)": "UR: 11, EWS: 03, OBC: 05, SC: 04, ST: 01, Total: 24"
+        }
+      },
+      {
+        "title": "PGT Vacancies in NVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 53, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 127",
+          "English": "UR: 62, EWS: 14, OBC: 39, SC: 21, ST: 10, Total: 146",
+          "Physics": "UR: 78, EWS: 18, OBC: 50, SC: 27, ST: 13, Total: 186",
+          "Chemistry": "UR: 50, EWS: 12, OBC: 32, SC: 18, ST: 09, Total: 121",
+          "Mathematics": "UR: 69, EWS: 16, OBC: 45, SC: 25, ST: 12, Total: 167",
+          "Biology": "UR: 66, EWS: 16, OBC: 43, SC: 24, ST: 12, Total: 161",
+          "History": "UR: 46, EWS: 11, OBC: 29, SC: 16, ST: 08, Total: 110",
+          "Geography": "UR: 46, EWS: 10, OBC: 28, SC: 15, ST: 07, Total: 106",
+          "Economics": "UR: 62, EWS: 14, OBC: 39, SC: 22, ST: 11, Total: 148",
+          "Commerce": "UR: 19, EWS: 04, OBC: 11, SC: 06, ST: 03, Total: 43",
+          "Computer Science": "UR: 56, EWS: 13, OBC: 36, SC: 20, ST: 10, Total: 135",
+          "Physical Education": "UR: 27, EWS: 06, OBC: 17, SC: 09, ST: 04, Total: 63",
+          "PGT Total (NVS)": "Total: 1513 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "Modern Indian Languages (NVS) — Summary",
+        "items": {
+          "Assamese": "UR: 05, EWS: 00, OBC: 01, SC: 00, ST: 00, Total: 06",
+          "Garo": "UR: 01, Total: 01",
+          "Tamil": "UR: 01, Total: 01",
+          "Telugu": "UR: 01, Total: 01",
+          "Urdu": "UR: 01, Total: 01",
+          "Bangla": "UR: 04, Total: 05",
+          "Manipuri": "UR: 03, Total: 03",
+          "Modern Indian Languages Total": "16 UR vacancies, overall Total: 18"
+        }
+      },
+      {
+        "title": "TGT Vacancies in NVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 104, EWS: 25, OBC: 67, SC: 37, ST: 18, Total: 251",
+          "English": "UR: 115, EWS: 28, OBC: 75, SC: 42, ST: 21, Total: 281",
+          "Social Studies": "UR: 66, EWS: 15, OBC: 42, SC: 23, ST: 11, Total: 157",
+          "Mathematics": "UR: 116, EWS: 27, OBC: 75, SC: 41, ST: 20, Total: 279",
+          "Science": "UR: 86, EWS: 20, OBC: 56, SC: 31, ST: 15, Total: 208",
+          "Physical Education (Male)": "UR: 52, EWS: 12, OBC: 33, SC: 18, ST: 09, Total: 124",
+          "Physical Education (Female)": "UR: 54, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 128",
+          "Art": "UR: 61, EWS: 14, OBC: 38, SC: 21, ST: 10, Total: 144",
+          "Computer Science": "UR: 267, EWS: 65, OBC: 176, SC: 97, ST: 48, Total: 653",
+          "Special Educator": "UR: 202, EWS: 49, OBC: 133, SC: 74, ST: 37, Total: 495",
+          "TGT Total (NVS)": "Total: 2978 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "3rd Language Vacancies (NVS) — Selected Summary",
+        "items": {
+          "Assamese": "UR: 30, EWS: 06, OBC: 17, SC: 09, ST: 04, Total: 66",
+          "Bodo": "UR: 06, EWS: 01, OBC: 02, SC: 01, ST: 00, Total: 10",
+          "Garo": "UR: 05, Total: 08",
+          "Gujarati": "UR: 23, EWS: 05, OBC: 14, SC: 07, ST: 03, Total: 52",
+          "Kannada": "UR: 22, EWS: 04, OBC: 13, SC: 07, ST: 03, Total: 49",
+          "Malayalam": "UR: 12, EWS: 02, OBC: 07, SC: 04, ST: 02, Total: 27",
+          "Marathi": "UR: 13, EWS: 03, OBC: 08, SC: 04, ST: 02, Total: 30",
+          "Telugu": "UR: 25, EWS: 05, OBC: 15, SC: 08, ST: 04, Total: 57",
+          "Bangla": "UR: 19, EWS: 04, OBC: 11, SC: 06, ST: 03, Total: 43",
+          "Total 3rd Language Vacancies (aggregate shown)": "Total: 443 (across listed languages)"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:13:34.147Z",
+    "updatedAt": "2025-12-08T14:13:34.147Z"
+  },
+  {
     "id": "oicl-administrative-officer-recruitment-2025",
     "title": {
       "en": "OICL Administrative Officer Recruitment 2025"
