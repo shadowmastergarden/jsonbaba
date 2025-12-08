@@ -1,5 +1,69 @@
 [
   {
+    "id": "sbi-bank-so-recruitment-2026",
+    "title": {
+      "en": "SBI Bank SO Recruitment 2026"
+    },
+    "description": "State Bank of India has released the Specialist Officer (SO) Recruitment 2026, offering professional positions across wealth management and customer relationship roles. The notification outlines essential details such as eligibility criteria, vacancy distribution, age limits, application fees, and the selection stages. Candidates aiming for specialist banking roles should review all instructions thoroughly before submitting their online applications.",
+    "totalPosts": "996",
+    "educationalQualifications": "Graduation Degree required. VP Wealth (SRM): 6 Years Experience, AVP Wealth (RM): 3 Years Experience, Customer Relationship Executive: Graduation only.",
+    "ageLimit": "VP Wealth (SRM): 26–42 Years, AVP Wealth (RM): 23–35 Years, Customer Relationship Executive: 20–35 Years. Age as on 01 May 2025. Age relaxation applicable as per SBI rules.",
+    "applicationFee": "General / OBC / EWS: ₹750/-, SC / ST / PH (Divyang): ₹0/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "23 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://sbi.co.in/apply",
+      "Official Website": "https://sbi.co.in"
+    },
+    "selectionProcess": [
+      "Shortlisting",
+      "Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Vice President Wealth (SRM)": "506"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should read the official notification carefully to understand eligibility, job roles, and required experience."
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Vice President Wealth (Senior Relationship Manager)": "506",
+          "Assistant Vice President Wealth (Relationship Manager)": "206",
+          "Customer Relationship Executive": "284",
+          "Grand Total": "996"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "VP Wealth (SRM) Regular": "SC: 77, ST: 34, OBC: 119, EWS: 46, UR: 188, Total: 464",
+          "VP Wealth (SRM) Backlog": "SC: 15, ST: 10, OBC: 17, EWS: 0, UR: 0, Total: 42",
+          "AVP Wealth (RM) Regular": "SC: 33, ST: 15, OBC: 52, EWS: 20, UR: 82, Total: 202",
+          "AVP Wealth (RM) Backlog": "SC: 0, ST: 4, OBC: 0, EWS: 0, UR: 0, Total: 4",
+          "Customer Relationship Executive Regular": "SC: 47, ST: 21, OBC: 73, EWS: 28, UR: 115, Total: 284",
+          "Customer Relationship Executive Backlog": "No backlog vacancies"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:54:05.830Z",
+    "updatedAt": "2025-12-08T13:54:05.830Z"
+  },
+  {
     "id": "cbse-ctet-february-examination-2026",
     "title": {
       "en": "CBSE CTET February Examination 2026"
