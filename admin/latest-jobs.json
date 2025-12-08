@@ -1,5 +1,64 @@
 [
   {
+    "id": "cbse-ctet-february-examination-2026",
+    "title": {
+      "en": "CBSE CTET February Examination 2026"
+    },
+    "description": "CBSE has announced the CTET February 2026 examination, providing eligibility for teaching positions across primary and upper primary levels. This notification includes complete details related to exam dates, application schedule, fee structure, qualification requirements, and exam patterns. Candidates should carefully review all information before applying to ensure they meet the eligibility criteria.",
+    "totalPosts": "N/A",
+    "educationalQualifications": "Level-1: 12th with D.Ed / JBT / B.El.Ed / B.Ed. Level-2: Graduation with B.Ed / B.El.Ed.",
+    "ageLimit": "No specific age limit is prescribed for CTET as per CBSE guidelines.",
+    "applicationFee": "Single Paper: Gen/OBC (NCL) ₹1000, SC/ST/PH ₹500. Both Papers: Gen/OBC (NCL) ₹1200, SC/ST/PH ₹600.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "27 November 2025",
+      "Online Apply Last Date": "18 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Available Soon",
+      "Result Date": "Notify Later",
+      "Notification Out": "27 November 2025",
+      "Fees Last Date": "18 December 2025 (11:59 PM)",
+      "Written Exam Date": "08 February 2026"
+    },
+    "importantLinks": {
+      "Apply": "https://ctet.nic.in/",
+      "Official Website": "https://ctet.nic.in"
+    },
+    "selectionProcess": [
+      "Written Examination",
+      "Certificate Issuance (Based on Score)",
+      "Document Verification (If Required by Employer)"
+    ],
+    "vacancyDetails": {
+      "CTET": "Eligibility Test — No Vacancies"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates must verify their eligibility and exam pattern carefully before applying online."
+    },
+    "customSections": [
+      {
+        "title": "Additional Information",
+        "items": {
+          "Level-1 (Class 1–5)": "12th Passed with D.Ed / JBT / B.El.Ed / B.Ed",
+          "Level-2 (Class 6–8)": "Graduation with B.Ed / B.El.Ed",
+          "Child Development and Pedagogy": "30 Questions — 30 Marks",
+          "Language I": "30 Questions — 30 Marks",
+          "Language II": "30 Questions — 30 Marks",
+          "Mathematics": "30 Questions — 30 Marks",
+          "Environmental Studies (EVS)": "30 Questions — 30 Marks",
+          "Total": "150 Questions — 150 Marks — 2:30 Hours",
+          "Math & Science OR Social Studies": "60 Questions — 60 Marks"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:24:55.393Z",
+    "updatedAt": "2025-12-08T13:24:55.393Z"
+  },
+  {
     "id": "rites-assistant-manager-recruitment-2025",
     "title": {
       "en": "RITES Assistant Manager Recruitment 2025"
