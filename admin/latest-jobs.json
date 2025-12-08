@@ -1,12 +1,12 @@
 [
   {
-    "id": "example-rrb-junior-engineer-je-recruitment-2025",
+    "id": "456456railway-rrb-junior-engineer-je-recruitment-2025",
     "title": {
-      "en": "22222example RRB Junior Engineer (JE) Recruitment 2025"
+      "en": "456456Railway RRB Junior Engineer (JE) Recruitment 2025"
     },
     "description": "Railway Recruitment Board (Ministry of Railway) ने जूनियर इंजीनियर (JE) के पद के लिए अधिसूचना जारी की है। कुल 2569 पद उपलब्ध हैं। आवेदन 31 अक्टूबर 2025 से 30 नवंबर 2025 तक ऑनलाइन भरे जा सकते हैं। (Advt.No. CEN 05/2025)",
-    "totalPosts": "2569",
-    "educationalQualifications": "Candidates must possess Engineering Diploma / Degree. Specific qualifications for JE (IT) and Chemical & Metallurgical Assistant will also be eligible.",
+    "totalPosts": "25698",
+    "educationalQualifications": "Candidates must possess Engineering Di87ploma / Degree. Specific qualifications for JE (IT) and Chemical & Metallurgical Assistant will also be eligible.",
     "ageLimit": "Minimum Age: 18 Years and Maximum Age: 33 Years as on 01 January 2026. Age relaxation is applicable as per RRB regulations.",
     "applicationFee": "General / OBC / EWS: ₹ 500/-, SC / ST / EBC / All Category female: ₹ 250/-. (Refund: ₹ 400/- for Gen/OBC and ₹ 250/- for Others after appearing in CBT 1)",
     "paymentMode": [
@@ -22,11 +22,10 @@
       "Last Date For Fee Payment": "02 December 2025",
       "Exam Date": "Notify Later",
       "Admit Card": "Before Exam",
-      "Result Date": "Notify Later",
-      "date of": "01/02"
+      "Result Date": "Notify Later"
     },
     "importantLinks": {
-      "Apply": "https://www.rrbapply.gov.in/#/auth/home"
+      "Apply": "https://shadowjobs.in/admit-card/rrb-je-admit-card-2025"
     },
     "selectionProcess": [
       "CBT 1",
@@ -41,15 +40,8 @@
       "Pay Scale": "",
       "additionalInfo": "Candidates are advised to read the official notification completely before applying, paying attention to the Last Date, Age Limit, & Education Qualification."
     },
-    "customSections": [
-      {
-        "title": "Additional Information",
-        "items": {
-          "add": "21"
-        }
-      }
-    ],
-    "createdAt": "2025-12-06T15:46:18.453Z",
-    "updatedAt": "2025-12-06T15:49:04.230Z"
+    "customSections": [],
+    "createdAt": "2025-12-06T18:19:27.630Z",
+    "updatedAt": "2025-12-06T18:19:27.630Z"
   }
 ]
