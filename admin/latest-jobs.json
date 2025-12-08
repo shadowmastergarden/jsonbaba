@@ -1,100 +1,910 @@
 [
   {
-    "id": "456456railway-rrb-junior-engineer-je-recruitment-2025",
+    "id": "sail-management-trainee-technical-recruitment-2025",
     "title": {
-      "en": "456456Railway RRB Junior Engineer (JE) Recruitment 2025"
+      "en": "SAIL Management Trainee (Technical) Recruitment 2025"
     },
-    "description": "Railway Recruitment Board (Ministry of Railway) ने जूनियर इंजीनियर (JE) के पद के लिए अधिसूचना जारी की है। कुल 2569 पद उपलब्ध हैं। आवेदन 31 अक्टूबर 2025 से 30 नवंबर 2025 तक ऑनलाइन भरे जा सकते हैं। (Advt.No. CEN 05/2025)",
-    "totalPosts": "25698",
-    "educationalQualifications": "Candidates must possess Engineering Di87ploma / Degree. Specific qualifications for JE (IT) and Chemical & Metallurgical Assistant will also be eligible.",
-    "ageLimit": "Minimum Age: 18 Years and Maximum Age: 33 Years as on 01 January 2026. Age relaxation is applicable as per RRB regulations.",
-    "applicationFee": "General / OBC / EWS: ₹ 500/-, SC / ST / EBC / All Category female: ₹ 250/-. (Refund: ₹ 400/- for Gen/OBC and ₹ 250/- for Others after appearing in CBT 1)",
+    "description": "Steel Authority of India Limited (SAIL) has released the official notification for the recruitment of Management Trainees (Technical) for 2025. The announcement includes key details such as vacancy distribution, eligibility criteria, fee structure, selection stages, pay scale and important dates. Candidates possessing the required engineering qualifications can apply online before the closing date.",
+    "totalPosts": "124",
+    "educationalQualifications": "B.Tech / BE degree in the relevant engineering discipline with minimum 65% marks (55% for SC / ST / PH / SAIL Employees).",
+    "ageLimit": "18–28 Years as on 05 December 2025. Age relaxation is applicable as per SAIL rules.",
+    "applicationFee": "General / OBC / EWS: ₹1050, SC / ST / ESM: ₹300, PH / SAIL Employee: ₹300",
     "paymentMode": [
-      "Debit Card",
-      "Credit Card",
-      "Internet Banking",
-      "IMPS",
-      "Cash Card / Mobile Wallet"
+      "Online Mode"
     ],
     "importantDates": {
-      "Online Apply Start Date": "31 October 2025",
-      "Online Apply Last Date": "30 November 2025",
-      "Last Date For Fee Payment": "02 December 2025",
-      "Exam Date": "Notify Later",
-      "Admit Card": "Before Exam",
-      "Result Date": "Notify Later"
+      "Online Apply Start Date": "15 November 2025",
+      "Online Apply Last Date": "15 December 2025",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Jan–Feb 2026",
+      "Admit Card": "",
+      "Result Date": "Notify Later",
+      "Notification Out": "12 November 2025"
     },
     "importantLinks": {
-      "Apply": "https://shadowjobs.in/admit-card/rrb-je-admit-card-2025"
+      "Apply": "https://sailcareers.com/sail2025mt/",
+      "Official Website": "https://sail.co.in"
     },
     "selectionProcess": [
-      "CBT 1",
-      "CBT 2",
+      "Written Exam",
+      "Group Discussion & Interview",
       "Document Verification",
       "Medical Examination"
     ],
     "vacancyDetails": {
-      "Junior Engineer JE": "2569"
+      "Management Trainee (Technical)": "124"
     },
     "additionalDetails": {
       "Pay Scale": "",
-      "additionalInfo": "Candidates are advised to read the official notification completely before applying, paying attention to the Last Date, Age Limit, & Education Qualification."
+      "additionalInfo": ""
     },
-    "customSections": [],
-    "createdAt": "2025-12-06T18:19:27.630Z",
-    "updatedAt": "2025-12-06T18:19:27.630Z"
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "12 November 2025",
+          "Online Apply Start Date": "15 November 2025",
+          "Online Apply Last Date": "15 December 2025 (11:59 PM) — Extended",
+          "Exam Date": "January–February 2026",
+          "Admit Card": "Before Exam"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Age Limit": "18–28 Years",
+          "Age as on": "05 December 2025",
+          "Born on or After": "05 December 1997",
+          "Age Relaxation": "As per SAIL rules"
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "Stage 1": "Written Exam",
+          "Stage 2": "Group Discussion (GD) & Interview",
+          "Stage 3": "Document Verification",
+          "Stage 4": "Medical Examination"
+        }
+      },
+      {
+        "title": "Pay Scale & Benefits",
+        "items": {
+          "Training Pay": "₹50,000 per month (Pay Scale ₹50,000–1,60,000)",
+          "After Training": "Designated as Assistant Manager (E-1) with Pay Scale ₹60,000–1,80,000",
+          "Allowances": "DA, cafeteria perks, PF, gratuity, HRA/quarters, medical for self & dependents",
+          "Approx CTC": "₹16–17 Lakhs per annum (excluding PRP & location allowances)"
+        }
+      },
+      {
+        "title": "Post & Qualification",
+        "items": {
+          "Management Trainee (Technical)": "B.Tech in relevant discipline with 65% marks (55% for SC/ST/PH/SAIL Employees)"
+        }
+      },
+      {
+        "title": "Discipline Wise Vacancies",
+        "items": {
+          "Chemical": "05",
+          "Civil": "14",
+          "Computer Science": "04",
+          "Electrical": "44",
+          "Instrumentation": "07",
+          "Mechanical": "30",
+          "Metallurgy": "20",
+          "Grand Total": "124"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "General": "35",
+          "EWS": "18",
+          "OBC": "31",
+          "SC": "22",
+          "ST": "18",
+          "Total": "124"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:16:00.954Z",
+    "updatedAt": "2025-12-08T14:16:00.954Z"
   },
   {
-    "id": "example-rrb-junior-engineer-je-recruitment-2025",
+    "id": "kvs-nvs-teaching-and-non-teaching-recruitment-2025",
     "title": {
-      "en": "22222example RRB Junior Engineer (JE) Recruitment 2025"
+      "en": "KVS NVS Teaching and Non-Teaching Recruitment 2025"
     },
-    "description": "Railway Recruitment Board (Ministry of Railway) ने जूनियर इंजीनियर (JE) के पद के लिए अधिसूचना जारी की है। कुल 2569 पद उपलब्ध हैं। आवेदन 31 अक्टूबर 2025 से 30 नवंबर 2025 तक ऑनलाइन भरे जा सकते हैं। (Advt.No. CEN 05/2025)",
-    "totalPosts": "2569",
-    "educationalQualifications": "Candidates must possess Engineering Diploma / Degree. Specific qualifications for JE (IT) and Chemical & Metallurgical Assistant will also be eligible.",
-    "ageLimit": "Minimum Age: 18 Years and Maximum Age: 33 Years as on 01 January 2026. Age relaxation is applicable as per RRB regulations.",
-    "applicationFee": "General / OBC / EWS: ₹ 500/-, SC / ST / EBC / All Category female: ₹ 250/-. (Refund: ₹ 400/- for Gen/OBC and ₹ 250/- for Others after appearing in CBT 1)",
+    "description": "Kendriya Vidyalaya Sangathan (KVS) and Navodaya Vidyalaya Sangathan (NVS) have issued a combined recruitment notification for teaching and non-teaching posts for 2025. The announcement covers extensive vacancy lists across Group A, B and C posts, eligibility criteria, important dates, fee structures, age limits, and post-wise selection procedures. Candidates should carefully read the full notification and related corrigenda before applying.",
+    "totalPosts": "14967",
+    "educationalQualifications": "Qualifications vary by post. Ranges from 10th/12th with specified diplomas for non-teaching and PRT posts, to Bachelor’s, Postgraduate and professional qualifications with B.Ed/CTET/experience requirements for PGT/TGT/Group A positions. See 'Qualifications' section below for post-wise details.",
+    "ageLimit": "Age limits vary by post (see Age Limits section). Age as on 04 December 2025. Age relaxation as per rules.",
+    "applicationFee": "Varies by post and category (see Fee Structure section).",
     "paymentMode": [
-      "Debit Card",
-      "Credit Card",
-      "Internet Banking",
-      "IMPS",
-      "Cash Card / Mobile Wallet"
+      "Online Mode"
     ],
     "importantDates": {
-      "Online Apply Start Date": "31 October 2025",
-      "Online Apply Last Date": "30 November 2025",
-      "Last Date For Fee Payment": "02 December 2025",
-      "Exam Date": "Notify Later",
-      "Admit Card": "Before Exam",
+      "Online Apply Start Date": "14 November 2025",
+      "Online Apply Last Date": "11 December 2025 (11:50 PM) — Extended",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Available Soon",
       "Result Date": "Notify Later",
-      "date of": "01/02"
+      "Notification Out": "13 November 2025",
+      "Fees Last Date": "11 December 2025 (11:50 PM) — Extended",
+      "Tier-I Exam Date": "10-11 January 2026"
     },
     "importantLinks": {
-      "Apply": "https://www.rrbapply.gov.in/#/auth/home"
+      "Apply": "https://examinationservices.nic.in/recsys2025/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFbEsl0hvvhEEwgxfU0IzC28jtU4yhpqb3pomlo4g+VC8",
+      "Official Website": "https://kvs.gov.in"
     },
     "selectionProcess": [
-      "CBT 1",
-      "CBT 2",
+      "Tier-I Written Examination",
+      "Tier-II Written Examination",
+      "Interview / Skill Test (Post Wise)",
       "Document Verification",
       "Medical Examination"
     ],
     "vacancyDetails": {
-      "Junior Engineer JE": "2569"
+      "TotalPosts": "14967"
     },
     "additionalDetails": {
       "Pay Scale": "",
-      "additionalInfo": "Candidates are advised to read the official notification completely before applying, paying attention to the Last Date, Age Limit, & Education Qualification."
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "13 November 2025",
+          "Online Apply Start Date": "14 November 2025",
+          "Online Apply Last Date": "11 December 2025 (11:50 PM) — Extended",
+          "Fees Last Date": "11 December 2025 (11:50 PM) — Extended",
+          "Tier-I Exam Date": "10-11 January 2026",
+          "Tier-I Admit Card": "Available Soon",
+          "Corrigendum / Revised Notices": "04 December 2025 (See official notices)"
+        }
+      },
+      {
+        "title": "Fee Structure (Post Groups)",
+        "items": {
+          "Assistant Commissioner / Principal": "Gen / OBC / EWS: ₹2800, SC / ST / PH / ESM: ₹500",
+          "PGT / TGT / PRT / AE / Finance Officer": "Gen / OBC / EWS: ₹2000, SC / ST / PH / ESM: ₹500",
+          "AO / Librarian / ASO / Jr Translator": "Gen / OBC / EWS: ₹2000, SC / ST / PH / ESM: ₹500",
+          "Sr Secretariat Assistant / Stenographer": "Gen / OBC / EWS: ₹1700, SC / ST / PH / ESM: ₹500",
+          "Jr Secretariat Assistant / Lab Attendant / MTS": "Gen / OBC / EWS: ₹1700, SC / ST / PH / ESM: ₹500"
+        }
+      },
+      {
+        "title": "Age Limits (as on 04 December 2025)",
+        "items": {
+          "Principal": "35-50 Years",
+          "Vice-Principal": "35-45 Years",
+          "Assistant Commissioner (NVS)": "Max. 45 Years",
+          "Assistant Commissioner (KVS)": "Max. 50 Years",
+          "Post Graduate Teachers (PGT)": "Max. 40 Years",
+          "Trained Graduate Teacher (TGT)": "Max. 35 Years",
+          "Primary Teachers (PRT)": "Max. 30 Years",
+          "Administrative Officer": "Max. 45 Years",
+          "Finance Officer": "Max. 35 Years",
+          "Assistant Engineer (AE)": "Max. 35 Years",
+          "Assistant Section Officer (ASO)": "Max. 35 Years",
+          "Junior Translator": "Max. 30 Years",
+          "Lab Attendant": "Max. 30 Years",
+          "Sr. Secretariat Assistant": "Max. 30 Years",
+          "Stenographer Grade-I": "Max. 30 Years",
+          "Stenographer Grade-II": "Max. 27 Years",
+          "Jr. Secretariat Assistant": "Max. 27 Years",
+          "Multi Tasking Staff (MTS)": "Max. 30 Years"
+        }
+      },
+      {
+        "title": "Selection Process (Post Wise / General)",
+        "items": {
+          "Tier-I Written Examination": "Applicable for most posts",
+          "Tier-II Written Examination": "Applicable for many posts (post-wise)",
+          "Interview / Skill Test": "Post-wise where applicable",
+          "Typing Test": "Where specified",
+          "Document Verification": "Final stage before appointment",
+          "Medical Examination": "As per rules"
+        }
+      },
+      {
+        "title": "Qualifications — Group A & Teaching (Summary)",
+        "items": {
+          "Assistant Commissioner (Group A)": "Master's Degree with 50% marks + B.Ed (50%); experience as Principal/eligible cadre; see notification for full criteria",
+          "Principal (Group A)": "Master's Degree with 50% marks and B.Ed with 50% marks; appropriate experience",
+          "Vice-Principal": "Master's Degree with 50% marks and B.Ed with 50% marks; working as PGT/lecturer or equivalent",
+          "PGT (All Subjects including Hindi/English/Physics/Chemistry/Maths/Biology/History/Geography/Economics/Commerce/Comp.Sc/Biotech/Physical Education/Modern Indian Languages)": "Master's Degree in relevant subject with 50% marks plus B.Ed (or specified integrated/teacher education qualification) OR as per subject-specific relaxation/requirements; CTET/other requirements where indicated",
+          "TGT (Subject-wise including Hindi/English/Sanskrit/Social Studies/Mathematics/Science/Physical Education/Art/Work Experience/Computer Science/Music/Library etc.)": "Bachelor’s degree in relevant subject/combination with 50% marks plus B.Ed OR Master’s with specified marks + B.Ed as applicable; CTET Paper-II pass where specified",
+          "PRT / Primary Teachers / Special Educator (PRT)": "12th with 50% marks + D.Ed / Diploma in Elementary Education / B.El.Ed OR equivalent; CTET Paper-I pass where specified",
+          "Administrative Officer (Non-Teaching)": "Bachelor’s Degree in any stream with 3 years experience (post dependent)",
+          "Finance Officer (FO)": "B.Com (50%) with 4 years experience OR Master's in Commerce (50%) with 4 years experience",
+          "Assistant Engineer (AE)": "B.E / B.Tech in Civil/Electrical (with 2 years experience where specified)",
+          "Assistant Section Officer (ASO)": "Bachelor’s Degree with 3 years experience",
+          "Junior Translator": "Master’s Degree in Hindi with English elective at degree level OR Master’s in English with Hindi elective; 2 years experience",
+          "Sr Secretariat Assistant / Jr Secretariat Assistant": "Graduation (Sr: with 3 years experience), Jr: 12th + typing (English 30 WPM OR Hindi 25 WPM)",
+          "Stenographer Grade I/II": "Bachelor’s Degree; shorthand and typing speed criteria as specified",
+          "Lab Attendant / MTS": "10th/12th with specific trade/diploma as applicable"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies — KVS (Selected Breakups)",
+        "items": {
+          "Assistant Commissioner (KVS)": "UR: 05, EWS: 0, OBC: 02, SC: 01, ST: 0, Total: 08",
+          "Principal (KVS)": "UR: 68, EWS: 0, OBC: 36, SC: 20, ST: 10, Total: 134",
+          "Vice-Principal (KVS)": "UR: 31, EWS: 0, OBC: 15, SC: 8, ST: 4, Total: 58",
+          "Librarian (KVS)": "UR: 61, EWS: 14, OBC: 39, SC: 22, ST: 11, Total: 147"
+        }
+      },
+      {
+        "title": "KVS Non-Teaching Vacancies (Selected)",
+        "items": {
+          "Administrative Officer (KVS)": "UR: 06, EWS: 01, OBC: 03, SC: 01, ST: 01, Total: 12",
+          "Finance Officer (KVS)": "UR: 01, EWS: 01, OBC: 02, SC: 01, ST: 00, Total: 05",
+          "Assistant Engineer (KVS)": "UR: 01, EWS: 01, OBC: 00, SC: 00, ST: 00, Total: 02",
+          "Assistant Section Officer (KVS)": "UR: 31, EWS: 07, OBC: 19, SC: 11, ST: 06, Total: 74",
+          "Junior Translator (KVS)": "UR: 05, EWS: 0, OBC: 02, SC: 01, ST: 0, Total: 08",
+          "Sr Secretariat Assistant (KVS)": "UR: 114, EWS: 28, OBC: 75, SC: 42, ST: 21, Total: 280",
+          "Jr Secretariat Assistant (KVS)": "UR: 277, EWS: 68, OBC: 184, SC: 108, ST: 77, Total: 714",
+          "Stenographer Grade-I (KVS)": "Total: 03",
+          "Stenographer Grade-II (KVS)": "UR: 19, EWS: 03, OBC: 20, SC: 09, ST: 06, Total: 57"
+        }
+      },
+      {
+        "title": "PRT Vacancies in KVS (Selected)",
+        "items": {
+          "Special Educator (PRT)": "UR: 202, EWS: 49, OBC: 133, SC: 74, ST: 36, Total: 494",
+          "PRT": "UR: 1089, EWS: 268, OBC: 724, SC: 402, ST: 201, Total: 2684",
+          "PRT (Music)": "UR: 78, EWS: 18, OBC: 49, SC: 29, ST: 13, Total: 187",
+          "PRT Totals (KVS)": "UR: 1369, EWS: 335, OBC: 906, SC: 505, ST: 250, Total: 3365"
+        }
+      },
+      {
+        "title": "PGT Vacancies in KVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 52, EWS: 12, OBC: 33, SC: 18, ST: 09, Total: 124",
+          "English": "UR: 68, EWS: 16, OBC: 44, SC: 24, ST: 12, Total: 164",
+          "Physics": "UR: 89, EWS: 21, OBC: 57, SC: 31, ST: 15, Total: 213",
+          "Chemistry": "UR: 84, EWS: 20, OBC: 55, SC: 30, ST: 15, Total: 204",
+          "Mathematics": "UR: 33, EWS: 08, OBC: 21, SC: 12, ST: 06, Total: 80",
+          "Biology": "UR: 53, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 127",
+          "History": "UR: 32, EWS: 07, OBC: 20, SC: 11, ST: 05, Total: 75",
+          "Geography": "UR: 32, EWS: 07, OBC: 19, SC: 10, ST: 05, Total: 73",
+          "Economics": "UR: 55, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 129",
+          "Commerce": "UR: 41, EWS: 09, OBC: 25, SC: 14, ST: 07, Total: 96",
+          "Computer Science": "UR: 73, EWS: 17, OBC: 47, SC: 26, ST: 13, Total: 176",
+          "Bio-Technology": "UR: 03, EWS: 00, OBC: 01, SC: 00, ST: 00, Total: 04",
+          "PGT Total (KVS)": "Total: 1465 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "TGT Vacancies in KVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 08, EWS: 01, OBC: 03, SC: 01, ST: 00, Total: 13",
+          "English": "UR: 129, EWS: 31, OBC: 84, SC: 47, ST: 23, Total: 314",
+          "Sanskrit": "UR: 217, EWS: 52, OBC: 142, SC: 79, ST: 39, Total: 529",
+          "Social Studies": "UR: 134, EWS: 32, OBC: 88, SC: 49, ST: 24, Total: 327",
+          "Mathematics": "UR: 170, EWS: 41, OBC: 111, SC: 61, ST: 30, Total: 413",
+          "Science": "UR: 74, EWS: 17, OBC: 47, SC: 26, ST: 13, Total: 177",
+          "Physical & Health Education": "UR: 61, EWS: 14, OBC: 38, SC: 21, ST: 10, Total: 144",
+          "Art Education": "UR: 55, EWS: 13, OBC: 36, SC: 20, ST: 10, Total: 134",
+          "Work Experience": "UR: 103, EWS: 25, OBC: 67, SC: 37, ST: 18, Total: 250",
+          "Special Educator (TGT)": "UR: 202, EWS: 49, OBC: 133, SC: 73, ST: 36, Total: 493",
+          "TGT Total (KVS)": "Total: 2794 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "KVS Totals Summary",
+        "items": {
+          "PGT Total": "1465",
+          "TGT Total": "2794",
+          "PRT Total": "3365",
+          "Non-Teaching Total (selected posts aggregated above)": "Varies by post (see sections)"
+        }
+      },
+      {
+        "title": "NVS Post Wise Vacancies (Selected Breakups)",
+        "items": {
+          "Assistant Commissioner (Academics)": "UR: 06, EWS: 01, OBC: 02, SC: 00, ST: 00, Total: 09",
+          "Principal (NVS)": "UR: 49, EWS: 0, OBC: 25, SC: 13, ST: 06, Total: 93"
+        }
+      },
+      {
+        "title": "NVS Non-Teaching Vacancies (Selected)",
+        "items": {
+          "Jr. Secretariat Assistant (HQ/RO Cadre)": "UR: 24, EWS: 04, OBC: 09, SC: 07, ST: 02, Total: 46",
+          "Jr. Secretariat Assistant (JNV Cadre)": "UR: 225, EWS: 55, OBC: 149, SC: 82, ST: 41, Total: 552",
+          "Lab Attendant (NVS)": "UR: 78, EWS: 16, OBC: 33, SC: 28, ST: 10, Total: 165",
+          "MTS (HQ/RO Cadre)": "UR: 11, EWS: 03, OBC: 05, SC: 04, ST: 01, Total: 24"
+        }
+      },
+      {
+        "title": "PGT Vacancies in NVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 53, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 127",
+          "English": "UR: 62, EWS: 14, OBC: 39, SC: 21, ST: 10, Total: 146",
+          "Physics": "UR: 78, EWS: 18, OBC: 50, SC: 27, ST: 13, Total: 186",
+          "Chemistry": "UR: 50, EWS: 12, OBC: 32, SC: 18, ST: 09, Total: 121",
+          "Mathematics": "UR: 69, EWS: 16, OBC: 45, SC: 25, ST: 12, Total: 167",
+          "Biology": "UR: 66, EWS: 16, OBC: 43, SC: 24, ST: 12, Total: 161",
+          "History": "UR: 46, EWS: 11, OBC: 29, SC: 16, ST: 08, Total: 110",
+          "Geography": "UR: 46, EWS: 10, OBC: 28, SC: 15, ST: 07, Total: 106",
+          "Economics": "UR: 62, EWS: 14, OBC: 39, SC: 22, ST: 11, Total: 148",
+          "Commerce": "UR: 19, EWS: 04, OBC: 11, SC: 06, ST: 03, Total: 43",
+          "Computer Science": "UR: 56, EWS: 13, OBC: 36, SC: 20, ST: 10, Total: 135",
+          "Physical Education": "UR: 27, EWS: 06, OBC: 17, SC: 09, ST: 04, Total: 63",
+          "PGT Total (NVS)": "Total: 1513 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "Modern Indian Languages (NVS) — Summary",
+        "items": {
+          "Assamese": "UR: 05, EWS: 00, OBC: 01, SC: 00, ST: 00, Total: 06",
+          "Garo": "UR: 01, Total: 01",
+          "Tamil": "UR: 01, Total: 01",
+          "Telugu": "UR: 01, Total: 01",
+          "Urdu": "UR: 01, Total: 01",
+          "Bangla": "UR: 04, Total: 05",
+          "Manipuri": "UR: 03, Total: 03",
+          "Modern Indian Languages Total": "16 UR vacancies, overall Total: 18"
+        }
+      },
+      {
+        "title": "TGT Vacancies in NVS (Subject-wise Summary)",
+        "items": {
+          "Hindi": "UR: 104, EWS: 25, OBC: 67, SC: 37, ST: 18, Total: 251",
+          "English": "UR: 115, EWS: 28, OBC: 75, SC: 42, ST: 21, Total: 281",
+          "Social Studies": "UR: 66, EWS: 15, OBC: 42, SC: 23, ST: 11, Total: 157",
+          "Mathematics": "UR: 116, EWS: 27, OBC: 75, SC: 41, ST: 20, Total: 279",
+          "Science": "UR: 86, EWS: 20, OBC: 56, SC: 31, ST: 15, Total: 208",
+          "Physical Education (Male)": "UR: 52, EWS: 12, OBC: 33, SC: 18, ST: 09, Total: 124",
+          "Physical Education (Female)": "UR: 54, EWS: 12, OBC: 34, SC: 19, ST: 09, Total: 128",
+          "Art": "UR: 61, EWS: 14, OBC: 38, SC: 21, ST: 10, Total: 144",
+          "Computer Science": "UR: 267, EWS: 65, OBC: 176, SC: 97, ST: 48, Total: 653",
+          "Special Educator": "UR: 202, EWS: 49, OBC: 133, SC: 74, ST: 37, Total: 495",
+          "TGT Total (NVS)": "Total: 2978 (subject-wise aggregate)"
+        }
+      },
+      {
+        "title": "3rd Language Vacancies (NVS) — Selected Summary",
+        "items": {
+          "Assamese": "UR: 30, EWS: 06, OBC: 17, SC: 09, ST: 04, Total: 66",
+          "Bodo": "UR: 06, EWS: 01, OBC: 02, SC: 01, ST: 00, Total: 10",
+          "Garo": "UR: 05, Total: 08",
+          "Gujarati": "UR: 23, EWS: 05, OBC: 14, SC: 07, ST: 03, Total: 52",
+          "Kannada": "UR: 22, EWS: 04, OBC: 13, SC: 07, ST: 03, Total: 49",
+          "Malayalam": "UR: 12, EWS: 02, OBC: 07, SC: 04, ST: 02, Total: 27",
+          "Marathi": "UR: 13, EWS: 03, OBC: 08, SC: 04, ST: 02, Total: 30",
+          "Telugu": "UR: 25, EWS: 05, OBC: 15, SC: 08, ST: 04, Total: 57",
+          "Bangla": "UR: 19, EWS: 04, OBC: 11, SC: 06, ST: 03, Total: 43",
+          "Total 3rd Language Vacancies (aggregate shown)": "Total: 443 (across listed languages)"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:13:34.147Z",
+    "updatedAt": "2025-12-08T14:13:59.798Z"
+  },
+  {
+    "id": "oicl-administrative-officer-recruitment-2025",
+    "title": {
+      "en": "OICL Administrative Officer Recruitment 2025"
+    },
+    "description": "The Oriental Insurance Company Ltd. (OICL) has released the Administrative Officer (AO) Recruitment 2025 notification, offering opportunities for Generalist and Hindi Officer positions. The announcement includes key details such as exam dates, eligibility criteria, application fees, age requirements, selection stages, and emoluments. Candidates aiming for a career in the insurance sector should review the information carefully before applying online.",
+    "totalPosts": "300",
+    "educationalQualifications": "AO Generalist: Graduation in any discipline with 60% marks (55% for SC/ST). AO Hindi Officer: Postgraduate Degree in Hindi/English with 60% marks (55% for SC/ST).",
+    "ageLimit": "21–30 Years as on 30 November 2025. Candidates must be born between 01 December 1995 and 30 November 2004. Age relaxation applicable as per rules.",
+    "applicationFee": "General / OBC / EWS: ₹1000/-. SC / ST / PH: ₹250/-.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "03 December 2025 (06:30 PM)",
+      "Online Apply Last Date": "18 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Short Notice Out": "25 November 2025",
+      "Full Notification": "01 December 2025",
+      "Tier-I Exam Date": "10 January 2026 (Tentative)",
+      "Tier-II Exam Date": "28 February 2026 (Tentative)"
+    },
+    "importantLinks": {
+      "Apply": "https://ibpsreg.ibps.in/oiclnov25/index.php",
+      "Official Website": "https://orientalinsurance.org.in"
+    },
+    "selectionProcess": [
+      "Tier-I Written Exam",
+      "Tier-II Written Exam",
+      "Personal Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "AO Generalist": "285"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates are advised to refer to the official notification for detailed exam patterns, marking schemes, and service conditions."
+    },
+    "customSections": [
+      {
+        "title": "Emoluments & Benefits",
+        "items": {
+          "Basic Pay": "₹50,925 in the scale 50925-2500(14)-85925-2710(4)-96765",
+          "Total Emoluments": "Approx. ₹85,000 per month in metro cities",
+          "Other Benefits": "Pension (NPS), Gratuity, LTS, Medical Facilities, Group Accident Insurance",
+          "Accommodation": "Company/leased accommodation as per rules"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Administrative Officer (Generalist)": "285",
+          "Administrative Officer (Hindi Officer)": "15",
+          "Grand Total": "300"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "Generalist": "UR: 123, OBC: 68, SC: 42, ST: 24, EWS: 28, Total: 285",
+          "Hindi (Rajbhasha) Officers": "UR: 7, OBC: 4, SC: 2, ST: 1, EWS: 1, Total: 15"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T14:02:46.765Z",
+    "updatedAt": "2025-12-08T14:02:46.765Z"
+  },
+  {
+    "id": "itbp-deputy-judge-recruitment-2025",
+    "title": {
+      "en": "ITBP Deputy Judge Recruitment 2025"
+    },
+    "description": "Indo-Tibetan Border Police (ITBP) has announced the Deputy Judge Attorney General Recruitment 2025. The notification provides complete information on eligibility criteria, vacancy distribution, age limits, application fees, and the multi-stage selection process. Candidates with a law background and relevant professional experience are encouraged to review all requirements carefully before submitting their online application.",
+    "totalPosts": "7",
+    "educationalQualifications": "Bachelor’s Degree in Law (LLB) with 7 years of experience OR a Postgraduate Degree in Law with 5 years of experience.",
+    "ageLimit": "Maximum Age: 40 Years as on 31 December 2025. Age relaxation applicable as per ITBP rules.",
+    "applicationFee": "General / OBC / EWS: ₹400/-. SC / ST / ESM / All Females: ₹0 (Nil).",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "31 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Notify Soon",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://recruitment.itbpolice.nic.in/rect/index.php",
+      "Official Website": "https://itbpolice.nic.in"
+    },
+    "selectionProcess": [
+      "PST & PET Test",
+      "Written Examination",
+      "Document Verification",
+      "Personal Interview",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Deputy Judge Attorney General (Deputy Commandant)": "7"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates should read the official notification for detailed service conditions, physical standards, and exam pattern."
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "General": "5",
+          "EWS": "0",
+          "OBC": "1",
+          "SC": "0",
+          "ST": "1",
+          "Total": "7"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:58:56.380Z",
+    "updatedAt": "2025-12-08T13:58:56.380Z"
+  },
+  {
+    "id": "bdl-management-trainee-recruitment-2025",
+    "title": {
+      "en": "BDL Management Trainee Recruitment 2025"
+    },
+    "description": "Bharat Dynamics Limited has released the Management Trainee Recruitment 2025, offering opportunities across technical and non-technical disciplines. This notification highlights crucial details including eligibility, discipline-wise vacancies, age limits, application fees, pay structure, and the complete selection procedure. Candidates intending to join BDL as Management Trainees should carefully review the instructions and requirements before applying online.",
+    "totalPosts": "80",
+    "educationalQualifications": "MT Engineering: 1st Class B.E/B.Tech in relevant engineering disciplines. MT Finance: CA/ICWA or First Class MBA (Finance). MT Human Resources: 1st Class MBA or PG Degree/Diploma in HR/PMIR/Personnel Management/Industrial Relations/Social Sciences.",
+    "ageLimit": "MT Finance: Max 28 Years. Other MT Streams: Max 27 Years. Age as on 25 November 2025. Age relaxation applicable as per BDL rules.",
+    "applicationFee": "General / OBC / EWS: ₹500/-. SC / ST / PH / ESM / BDL Employees: ₹0 (Nil).",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "03 December 2025",
+      "Online Apply Last Date": "29 December 2025 (04:00 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "28 November 2025",
+      "CBT Exam Date": "11 January 2026 (Tentative)"
+    },
+    "importantLinks": {
+      "Apply": "https://online.cbexams.com/BDL_REG/landing.aspx",
+      "Official Website": "https://bdl-india.in"
+    },
+    "selectionProcess": [
+      "CBT Written Exam",
+      "Personal Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Electronics": "32"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates must refer to the official notification for complete eligibility, service conditions, and training details."
+    },
+    "customSections": [
+      {
+        "title": "Pay Scale & Benefits",
+        "items": {
+          "Basic Benefits": "DA and HRA as applicable; company accommodation at Bhanur Unit where HRA is not applicable.",
+          "Perks": "33% on Basic Pay and Performance Related Pay as per company policy.",
+          "Other Facilities": "PF, Gratuity, Medical facilities, Pension, and Post Superannuation Medical Benefits under Defined Contributory Scheme.",
+          "During Training": "Stipend combines minimum Basic Pay of Grade-II (₹40,000), DA at 51.8%, HRA, and 20% of Basic Pay as perks.",
+          "Note": "Benefits apply after absorption as Assistant Manager. No pay protection on joining as MT."
+        }
+      },
+      {
+        "title": "Stream Wise Qualifications",
+        "items": {
+          "MT (Engineering Discipline)": "1st Class B.E/B.Tech in Electronics, Mechanical, Electrical, CS, Metallurgy, Chemical, Civil or related fields",
+          "MT (Finance)": "CA / ICWA / 1st Class MBA (Finance)",
+          "MT (Human Resources)": "1st Class MBA or PG Degree/Diploma in HR, PM&IR, Personnel Management, Industrial Relations, Social Science, Social Welfare, Social Work"
+        }
+      },
+      {
+        "title": "Discipline Wise Vacancies",
+        "items": {
+          "Electronics": "32",
+          "Mechanical": "27",
+          "Chemical": "1",
+          "Civil": "2",
+          "Electrical": "6",
+          "Finance": "5",
+          "Computer Science": "4",
+          "Human Resources": "2",
+          "Metallurgy": "1",
+          "Grand Total": "80"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:57:50.449Z",
+    "updatedAt": "2025-12-08T13:57:50.449Z"
+  },
+  {
+    "id": "cbse-group-a-b-c-posts-recruitment-2025",
+    "title": {
+      "en": "CBSE Group A, B & C Posts Recruitment 2025"
+    },
+    "description": "CBSE has released the recruitment notification for Group A, B, and C posts for the 2025–26 cycle. The announcement includes detailed information regarding eligibility criteria, post-wise qualifications, vacancy distribution, application fees, age limits, and the multi-stage selection process. Interested candidates should thoroughly review all guidelines before applying online for their respective posts.",
+    "totalPosts": "124",
+    "educationalQualifications": "Qualifications vary by post: Assistant Secretary requires a Bachelor's Degree; Assistant Professor & AD requires a Postgraduate Degree with minimum 55%; Accounts Officer requires Bachelor’s/PG Degree in relevant commerce/finance fields or MBA (Finance)/CA/ICWA; Superintendent requires a Bachelor's Degree with typing skills; JTO requires PG with Hindi/English; Junior Accountant & Junior Assistant require 12th with specified subjects and typing skills.",
+    "ageLimit": "Assistant Secretary: 18–35 Years, Assistant Professor: 18–30 Years, Accounts Officer: 18–35 Years, Superintendent: 18–30 Years, Jr Translation Officer: 18–30 Years, Junior Accountant: 18–27 Years, Junior Assistant: 18–27 Years. Age as on 22 December 2025. Age relaxation as per CBSE norms.",
+    "applicationFee": "Group A: Gen/OBC/EWS ₹1750. Group B & C: Gen/OBC/EWS ₹1050. SC/ST/ESM/PH/All Female: ₹250.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "22 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "Available Soon",
+      "Admit Card": "Available Soon",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025",
+      "Fees Last Date": "22 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://examinationservices.nic.in/recsys2025/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFSuabJtfdyH7GsL2cij2dPKFqA5XsHH8yMmK+6SEPU/E",
+      "Official Website": "https://cbse.gov.in"
+    },
+    "selectionProcess": [
+      "Tier-1 Written Exam",
+      "Tier-2 Written Exam",
+      "Interview (For Group A Posts)",
+      "Typing Test (If Applicable)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Group A Total": "37"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should thoroughly review the official notification for detailed eligibility, exam pattern, and document requirements."
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualifications",
+        "items": {
+          "Assistant Secretary": "Bachelor’s Degree",
+          "Assistant Professor & Assistant Director (Academics)": "PG Degree with 55% marks",
+          "Assistant Professor & Assistant Director (Training)": "PG Degree with 55% marks",
+          "Assistant Professor & Assistant Director (Skill Education)": "PG Degree with 55% marks",
+          "Accounts Officer": "Bachelor’s/PG Degree in Commerce/Finance/Business Studies or MBA (Finance)/CA/ICWA",
+          "Superintendent": "Bachelor’s Degree, Computer Knowledge, Typing (Eng 35 WPM / Hindi 30 WPM)",
+          "Junior Translation Officer": "PG Degree with Hindi/English",
+          "Junior Accountant": "12th Pass with listed commerce/finance subjects + Typing",
+          "Junior Assistant": "12th Pass + Typing (Eng 35 WPM / Hindi 30 WPM)"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Assistant Secretary": "SC:1, ST:0, OBC:3, EWS:1, UR:3, Total:8",
+          "Assistant Professor & AD (Academics)": "SC:2, ST:1, OBC:2, EWS:1, UR:6, Total:12",
+          "Assistant Professor & AD (Training)": "SC:1, ST:0, OBC:2, EWS:0, UR:5, Total:8",
+          "Assistant Professor & AD (Skill Education)": "SC:1, ST:0, OBC:1, EWS:0, UR:5, Total:7",
+          "Accounts Officer": "SC:0, ST:0, OBC:0, EWS:0, UR:2, Total:2",
+          "Superintendent": "SC:4, ST:2, OBC:7, EWS:2, UR:12, Total:27",
+          "Junior Translation Officer": "SC:1, ST:1, OBC:2, EWS:0, UR:5, Total:9",
+          "Junior Accountant": "SC:3, ST:1, OBC:4, EWS:1, UR:7, Total:16",
+          "Junior Assistant": "SC:5, ST:3, OBC:10, EWS:3, UR:14, Total:35",
+          "Grand Total": "124"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:56:37.337Z",
+    "updatedAt": "2025-12-08T13:56:37.337Z"
+  },
+  {
+    "id": "sbi-bank-so-recruitment-2026",
+    "title": {
+      "en": "SBI Bank SO Recruitment 2026"
+    },
+    "description": "State Bank of India has released the Specialist Officer (SO) Recruitment 2026, offering professional positions across wealth management and customer relationship roles. The notification outlines essential details such as eligibility criteria, vacancy distribution, age limits, application fees, and the selection stages. Candidates aiming for specialist banking roles should review all instructions thoroughly before submitting their online applications.",
+    "totalPosts": "996",
+    "educationalQualifications": "Graduation Degree required. VP Wealth (SRM): 6 Years Experience, AVP Wealth (RM): 3 Years Experience, Customer Relationship Executive: Graduation only.",
+    "ageLimit": "VP Wealth (SRM): 26–42 Years, AVP Wealth (RM): 23–35 Years, Customer Relationship Executive: 20–35 Years. Age as on 01 May 2025. Age relaxation applicable as per SBI rules.",
+    "applicationFee": "General / OBC / EWS: ₹750/-, SC / ST / PH (Divyang): ₹0/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02 December 2025",
+      "Online Apply Last Date": "23 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "02 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://recruitment.sbi.bank.in/crpd-sco-2025-26-17/apply",
+      "Official Website": "https://sbi.co.in"
+    },
+    "selectionProcess": [
+      "Shortlisting",
+      "Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Vice President Wealth (SRM)": "506"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should read the official notification carefully to understand eligibility, job roles, and required experience."
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Vice President Wealth (Senior Relationship Manager)": "506",
+          "Assistant Vice President Wealth (Relationship Manager)": "206",
+          "Customer Relationship Executive": "284",
+          "Grand Total": "996"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "VP Wealth (SRM) Regular": "SC: 77, ST: 34, OBC: 119, EWS: 46, UR: 188, Total: 464",
+          "VP Wealth (SRM) Backlog": "SC: 15, ST: 10, OBC: 17, EWS: 0, UR: 0, Total: 42",
+          "AVP Wealth (RM) Regular": "SC: 33, ST: 15, OBC: 52, EWS: 20, UR: 82, Total: 202",
+          "AVP Wealth (RM) Backlog": "SC: 0, ST: 4, OBC: 0, EWS: 0, UR: 0, Total: 4",
+          "Customer Relationship Executive Regular": "SC: 47, ST: 21, OBC: 73, EWS: 28, UR: 115, Total: 284",
+          "Customer Relationship Executive Backlog": "No backlog vacancies"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:54:05.830Z",
+    "updatedAt": "2025-12-08T13:54:51.848Z"
+  },
+  {
+    "id": "cbse-ctet-february-examination-2026",
+    "title": {
+      "en": "CBSE CTET February Examination 2026"
+    },
+    "description": "CBSE has announced the CTET February 2026 examination, providing eligibility for teaching positions across primary and upper primary levels. This notification includes complete details related to exam dates, application schedule, fee structure, qualification requirements, and exam patterns. Candidates should carefully review all information before applying to ensure they meet the eligibility criteria.",
+    "totalPosts": "N/A",
+    "educationalQualifications": "Level-1: 12th with D.Ed / JBT / B.El.Ed / B.Ed. Level-2: Graduation with B.Ed / B.El.Ed.",
+    "ageLimit": "No specific age limit is prescribed for CTET as per CBSE guidelines.",
+    "applicationFee": "Single Paper: Gen/OBC (NCL) ₹1000, SC/ST/PH ₹500. Both Papers: Gen/OBC (NCL) ₹1200, SC/ST/PH ₹600.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "27 November 2025",
+      "Online Apply Last Date": "18 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "",
+      "Admit Card": "Available Soon",
+      "Result Date": "Notify Later",
+      "Notification Out": "27 November 2025",
+      "Fees Last Date": "18 December 2025 (11:59 PM)",
+      "Written Exam Date": "08 February 2026"
+    },
+    "importantLinks": {
+      "Apply": "https://ctet.nic.in/",
+      "Official Website": "https://ctet.nic.in"
+    },
+    "selectionProcess": [
+      "Written Examination",
+      "Certificate Issuance (Based on Score)",
+      "Document Verification (If Required by Employer)"
+    ],
+    "vacancyDetails": {
+      "CTET": "Eligibility Test — No Vacancies"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Candidates must verify their eligibility and exam pattern carefully before applying online."
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Level-1 (Class 1–5)": "12th Passed with D.Ed / JBT / B.El.Ed / B.Ed",
+          "Level-2 (Class 6–8)": "Graduation with B.Ed / B.El.Ed"
+        }
+      },
+      {
+        "title": "Level-I (PRT) Exam Pattern",
+        "items": {
+          "Child Development and Pedagogy": "30 Questions — 30 Marks",
+          "Language I": "30 Questions — 30 Marks",
+          "Language II": "30 Questions — 30 Marks",
+          "Mathematics": "30 Questions — 30 Marks",
+          "Environmental Studies (EVS)": "30 Questions — 30 Marks",
+          "Total": "150 Questions — 150 Marks — 2:30 Hours"
+        }
+      },
+      {
+        "title": "Level-II (TGT) Exam Pattern",
+        "items": {
+          "Child Development and Pedagogy": "30 Questions — 30 Marks",
+          "Language I": "30 Questions — 30 Marks",
+          "Language II": "30 Questions — 30 Marks",
+          "Math & Science OR Social Studies": "60 Questions — 60 Marks",
+          "Total": "150 Questions — 150 Marks — 2:30 Hours"
+        }
+      }
+    ],
+    "createdAt": "2025-12-08T13:50:48.584Z",
+    "updatedAt": "2025-12-08T13:50:48.584Z"
+  },
+  {
+    "id": "rites-assistant-manager-recruitment-2025",
+    "title": {
+      "en": "RITES Assistant Manager Recruitment 2025"
+    },
+    "description": "RITES has released the Assistant Manager Recruitment 2025, offering positions across various technical disciplines. The notification covers complete details including eligibility criteria, important dates, vacancy distribution, application fees, and the selection process. Interested candidates must review all instructions carefully before applying online.",
+    "totalPosts": "400",
+    "educationalQualifications": "B.E / B.Tech in relevant engineering fields or B.Pharma with a minimum of 2 years of professional experience.",
+    "ageLimit": "Maximum Age: 40 Years as on 25 December 2025. Age relaxation applies as per RITES recruitment guidelines.",
+    "applicationFee": "General / OBC: ₹600/-, SC / ST / EWS: ₹300/-, PH (Divyang): ₹300/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "26 November 2025",
+      "Online Apply Last Date": "25 December 2025 (11:59 PM)",
+      "Last Date For Fee Payment": "",
+      "Exam Date": "11 January 2026",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later",
+      "Notification Out": "26 November 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://recruit.rites.com/frmRegistration.aspx",
+      "Official Website": "https://recruit.rites.com"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Assistant Manager": "400"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should thoroughly read the official notification to ensure eligibility and accuracy before submitting the online form."
     },
     "customSections": [
       {
         "title": "Additional Information",
         "items": {
-          "add": "21"
+          "Civil": "120",
+          "Electrical": "55",
+          "Mechanical": "150",
+          "Signal & Telecom": "10",
+          "Metallurgy": "26",
+          "Chemical": "11",
+          "Information Technology": "14",
+          "Food Technology": "12",
+          "Pharma": "2",
+          "Grand Total": "400"
         }
       }
     ],
-    "createdAt": "2025-12-06T15:46:18.453Z",
-    "updatedAt": "2025-12-06T15:49:04.230Z"
+    "createdAt": "2025-12-08T13:13:38.071Z",
+    "updatedAt": "2025-12-08T13:13:38.071Z"
+  },
+  {
+    "id": "rrb-junior-engineer-je-recruitment-2025",
+    "title": {
+      "en": "RRB Junior Engineer (JE) Recruitment 2025"
+    },
+    "description": "The Railway Recruitment Board has announced the 2025 recruitment for Junior Engineer, Depot Material Superintendent, and Chemical & Metallurgical Assistant positions. The notification covers updated vacancies, application timelines, eligibility rules, exam stages, and other essential details. Candidates across India can apply online and should review all instructions carefully before submitting their forms.",
+    "totalPosts": "2585",
+    "educationalQualifications": "Diploma or Degree in the relevant engineering discipline. Candidates should refer to the official advertisement for stream-wise qualification requirements.",
+    "ageLimit": "Age requirement is 18 to 33 years as of 01 January 2026. Additional age relaxation will be provided according to RRB recruitment rules.",
+    "applicationFee": "General / OBC / EWS: ₹500/-, SC / ST / EBC / ESM / All Female / Minorities / Third Gender: ₹250/-. A refund of ₹400 (Gen/OBC) and ₹250 (others) will be credited after appearing in CBT Stage-I.",
+    "paymentMode": [
+      "Debit Card",
+      "Credit Card",
+      "Internet Banking",
+      "Online Payment"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "31 October 2025",
+      "Online Apply Last Date": "10 December 2025 (11:59 PM) – Extended",
+      "Last Date For Fee Payment": "12 December 2025 – Extended",
+      "Exam Date": "To Be Announced",
+      "Admit Card": "Before Exam",
+      "Result Date": "Notify Later"
+    },
+    "importantLinks": {
+      "Apply": "https://www.rrbapply.gov.in/#/auth/landing"
+    },
+    "selectionProcess": [
+      "CBT Stage-I",
+      "CBT Stage-II",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Junior Engineer / DMS / CMA": "2585 (Increased)"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": "Applicants should read the complete notification for accurate details on eligibility, important dates, age criteria, examination structure, and other key instructions."
+    },
+    "customSections": [],
+    "createdAt": "2025-12-08T09:31:30.778Z",
+    "updatedAt": "2025-12-08T09:31:30.778Z"
   }
 ]
