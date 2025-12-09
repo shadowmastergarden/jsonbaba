@@ -1,5 +1,163 @@
 [
   {
+    "id": "ssc-gd-constable-recruitment-2026",
+    "title": {
+      "en": "SSC GD Constable Recruitment 2026"
+    },
+    "description": "The Staff Selection Commission (SSC) has released the notification for the General Duty (GD) Constable recruitment for 2026. This nationwide recruitment drive covers multiple central armed police forces and includes detailed information on vacancies, eligibility criteria, age limits, fee structure, exam dates, selection procedure, exam pattern and syllabus. Candidates who have passed Class 10 and meet the physical and medical standards can apply online before the last date.",
+    "totalPosts": "25487",
+    "educationalQualifications": "Candidates must have passed Class 10 (Matriculation) from a recognized board.",
+    "ageLimit": "18–23 Years as on 01 January 2026. Age relaxation is applicable as per SSC rules.",
+    "applicationFee": "General / OBC / EWS: ₹100, SC / ST / ESM: ₹0, All Females: ₹0",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "01 December 2025",
+      "Online Apply Start Date": "01 December 2025",
+      "Online Apply Last Date": "31 December 2025",
+      "Fees Last Date": "01 January 2026",
+      "Correction Date": "08–10 January 2026",
+      "Exam Date": "Feb–Apr 2026"
+    },
+    "importantLinks": {
+      "Apply": "https://ssc.gov.in/login",
+      "Official Website": "https://ssc.gov.in"
+    },
+    "selectionProcess": [
+      "CBT Written Exam",
+      "PET & PST Test",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Constable GD": "25487"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "01 December 2025",
+          "Online Apply Start Date": "01 December 2025",
+          "Online Apply Last Date": "31 December 2025 (11:00 PM)",
+          "Fees Last Date": "01 January 2026 (11:00 PM)",
+          "Correction Date": "08–10 January 2026",
+          "Exam Date": "February–April 2026 (Tentative)",
+          "Admit Card": "Before Examination"
+        }
+      },
+      {
+        "title": "Correction Charges",
+        "items": {
+          "First Time Correction": "₹200",
+          "Second Time Correction": "₹500"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Age Limit": "18–23 Years",
+          "Age as on": "01 January 2026",
+          "Born Between": "02 January 2003 to 01 January 2008",
+          "Age Relaxation": "As per SSC rules"
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "Stage 1": "CBT Written Examination",
+          "Stage 2": "PET & PST Test",
+          "Stage 3": "Document Verification",
+          "Stage 4": "Medical Examination"
+        }
+      },
+      {
+        "title": "Post & Qualification",
+        "items": {
+          "Constable (General Duty)": "10th Class Passed",
+          "Total Posts": "25487"
+        }
+      },
+      {
+        "title": "Vacancy Details — Male Candidates",
+        "items": {
+          "BSF": "SC: 78, ST: 58, OBC: 113, EWS: 53, UR: 222, Total: 524",
+          "CISF": "SC: 1918, ST: 1391, OBC: 2958, EWS: 1321, UR: 5547, Total: 13135",
+          "CRPF": "SC: 870, ST: 32, OBC: 1343, EWS: 598, UR: 2523, Total: 5366",
+          "SSB": "SC: 257, ST: 167, OBC: 412, EWS: 176, UR: 752, Total: 1764",
+          "ITBP": "SC: 146, ST: 139, OBC: 219, EWS: 109, UR: 486, Total: 1099",
+          "AR (Assam Rifles)": "SC: 161, ST: 302, OBC: 278, EWS: 157, UR: 658, Total: 1556",
+          "SSF": "SC: 03, ST: 02, OBC: 06, EWS: 02, UR: 10, Total: 23",
+          "Grand Total": "SC: 3433, ST: 2091, OBC: 5329, EWS: 2416, UR: 10198, Total: 23467"
+        }
+      },
+      {
+        "title": "Vacancy Details — Female Candidates",
+        "items": {
+          "BSF": "SC: 11, ST: 07, OBC: 20, EWS: 05, UR: 49, Total: 92",
+          "CISF": "SC: 205, ST: 152, OBC: 326, EWS: 150, UR: 627, Total: 1460",
+          "CRPF": "SC: 15, ST: 08, OBC: 27, EWS: 08, UR: 66, Total: 124",
+          "SSB": "SC: 00, ST: 00, OBC: 00, EWS: 00, UR: 00, Total: 00",
+          "ITBP": "SC: 24, ST: 25, OBC: 38, EWS: 16, UR: 91, Total: 194",
+          "AR": "SC: 14, ST: 30, OBC: 25, EWS: 10, UR: 71, Total: 150",
+          "SSF": "SC: 00, ST: 00, OBC: 00, EWS: 00, UR: 00, Total: 00",
+          "Grand Total": "SC: 269, ST: 222, OBC: 436, EWS: 189, UR: 904, Total: 2020"
+        }
+      },
+      {
+        "title": "Written Exam Pattern",
+        "items": {
+          "Exam Mode": "Online CBT",
+          "Negative Marking": "1/4th",
+          "Total Questions": "80",
+          "Total Marks": "160",
+          "Duration": "1 Hour",
+          "Subject Breakup": "20 Questions each from Reasoning, GK, Mathematics, English/Hindi — 40 Marks each"
+        }
+      },
+      {
+        "title": "Physical Eligibility Details",
+        "items": {
+          "Male Height (Others)": "170 CM",
+          "Male Height (ST)": "162 CM",
+          "Female Height (Others)": "157 CM",
+          "Female Height (ST)": "150 CM",
+          "Male Chest (Others)": "80–85 CM",
+          "Male Chest (ST)": "76–81 CM",
+          "Race (Male)": "5 KM in 24 Minutes",
+          "Race (Female)": "1.6 KM in 8.30 Minutes",
+          "Race (Ladakh Male)": "1.6 KM in 7 Minutes",
+          "Race (Ladakh Female)": "800 Meter in 5 Minutes"
+        }
+      },
+      {
+        "title": "Online Exam Syllabus — Summary",
+        "items": {
+          "General Intelligence & Reasoning": "Includes non-verbal reasoning, analogies, series, coding-decoding, visual memory, spatial orientation etc.",
+          "General Knowledge & General Awareness": "Covers current affairs, India & neighboring countries, history, polity, geography, economy, culture and scientific research.",
+          "Elementary Mathematics": "Includes Number Systems, Percentages, Ratio & Proportion, Profit & Loss, Averages, Time & Work, Mensuration etc.",
+          "English / Hindi": "Basic comprehension and language understanding."
+        }
+      },
+      {
+        "title": "Related Links",
+        "items": {
+          "Fill Online Form": "01 December 2025",
+          "State / Category & Force Wise Vacancies": "08 December 2025",
+          "Full Notification": "01 December 2025",
+          "Get Exam Syllabus": "01 December 2025",
+          "Official Website": "01 December 2025"
+        }
+      }
+    ],
+    "createdAt": "2025-12-09T17:16:37.922Z",
+    "updatedAt": "2025-12-09T17:16:37.922Z"
+  },
+  {
     "id": "sail-management-trainee-technical-recruitment-2025",
     "title": {
       "en": "SAIL Management Trainee (Technical) Recruitment 2025"
