@@ -1,5 +1,97 @@
 [
   {
+    "id": "delhi-satyawati-college-non-teaching-recruitment-2025",
+    "title": {
+      "en": "Delhi Satyawati College Non-Teaching Recruitment 2025"
+    },
+    "description": "Satyawati College (University of Delhi) has announced the recruitment of multiple non-teaching positions for 2025. The notification outlines essential information including eligibility criteria, application fees, age limits, important dates, selection procedures, and post-wise qualifications. Candidates applying must ensure they meet the required skill standards, especially for posts demanding typing or stenography proficiency. The recruitment aims to strengthen the administrative and support framework of the college.",
+    "totalPosts": "18",
+    "educationalQualifications": "Varies by post — see qualification section.",
+    "ageLimit": "Senior Assistant & Sr. Personal Assistant: Max 35 years; All Other Posts: Max 32 years as on 22/12/2025",
+    "applicationFee": "General ₹1000, OBC/EWS/Female ₹800, SC/ST/PH ₹600",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "27 November 2025",
+      "Start Date": "27 November 2025",
+      "Last Date": "22 December 2025"
+    },
+    "importantLinks": {
+      "Apply": "https://satyawati.du.ac.in",
+      "Official Website": "https://satyawati.du.ac.in"
+    },
+    "selectionProcess": [
+      "Written Examination",
+      "Typing Test (If Required)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Senior Personal Assistant": "01"
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "27 November 2025",
+          "Application Start": "27 November 2025",
+          "Last Date to Apply": "22 December 2025 (11:59 PM)"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Senior Personal Assistant": "Maximum 35 Years",
+          "Senior Assistant": "Maximum 35 Years",
+          "All Other Posts": "Maximum 32 Years",
+          "Age as on": "22 December 2025",
+          "Age Relaxation": "As per recruitment rules"
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "Stage 1": "Written Examination",
+          "Stage 2": "Typing Test (If Applicable)",
+          "Stage 3": "Document Verification",
+          "Stage 4": "Medical Examination"
+        }
+      },
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Senior Personal Assistant": "Bachelor’s Degree with stenography skills (120 wpm dictation, 50 min English / 60 min Hindi transcription) and 3 years experience.",
+          "Senior Assistant": "Bachelor’s Degree with 3 years experience.",
+          "Assistant": "Bachelor’s Degree with typing speed of 35 wpm (English) or 30 wpm (Hindi) and 2 years experience.",
+          "Junior Assistant": "Bachelor’s Degree with typing speed of 35 wpm (English) or 30 wpm (Hindi).",
+          "Semi Professional Assistant": "Postgraduate degree in Library Science or Information Science.",
+          "Library Assistant": "Bachelor’s Degree in Library & Information Science.",
+          "Library Attendant": "12th Passed with Certificate Course in Library Science."
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Senior Personal Assistant": "01",
+          "Senior Assistant": "01",
+          "Assistant": "01",
+          "Junior Assistant": "05",
+          "Semi Professional Assistant": "01",
+          "Library Assistant": "01",
+          "Library Attendant": "08",
+          "Grand Total": "18"
+        }
+      }
+    ],
+    "createdAt": "2025-12-09T17:25:01.528Z",
+    "updatedAt": "2025-12-09T17:25:01.528Z"
+  },
+  {
     "id": "nta-niftee-admission-2026",
     "title": {
       "en": "NTA NIFTEE Admission 2026"
