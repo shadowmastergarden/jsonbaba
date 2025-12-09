@@ -1,5 +1,103 @@
 [
   {
+    "id": "nta-niftee-admission-2026",
+    "title": {
+      "en": "NTA NIFTEE Admission 2026"
+    },
+    "description": "The National Testing Agency (NTA) has released the official information bulletin for NIFTEE 2026, covering admission to undergraduate and postgraduate programmes in design and fashion technology. The notification outlines exam dates, eligibility criteria, fee structure, exam pattern, syllabus outline, evaluation methods, and selection stages. Candidates applying for B.Des, B.F.Tech, M.Des, MFM, and M.F.Tech programmes must follow the prescribed schedule and guidelines.",
+    "totalPosts": "Not Applicable (Entrance Examination)",
+    "educationalQualifications": "Varies by programme — see qualification section below.",
+    "ageLimit": "For B.Des and B.F.Tech: Maximum 24 years as on 01 August 2026. No age limit for M.Des, M.F.M, and M.F.Tech.",
+    "applicationFee": "Single Programme: Gen/OBC/EWS ₹2000, SC/ST/PH ₹500. Two Programmes: Gen/OBC/EWS ₹3000, SC/ST/PH ₹750.",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "08 December 2025",
+      "Apply Start": "08 December 2025",
+      "Last Date (No Late Fee)": "06 January 2026",
+      "Last Date (Late Fee)": "10 January 2026",
+      "Correction Window": "12–14 January 2026",
+      "Written Exam": "08 February 2026"
+    },
+    "importantLinks": {
+      "Apply": "https://nift.ac.in/admissions",
+      "Official Website": "https://nift.ac.in"
+    },
+    "selectionProcess": [
+      "GAT Exam",
+      "CAT Exam",
+      "Situation Test (for B.Des)",
+      "Personal Interview (PG Programmes)",
+      "Document Verification"
+    ],
+    "vacancyDetails": {
+      "ProgrammeBasedExam": "No post-based vacancies; admission through entrance scoring."
+    },
+    "additionalDetails": {
+      "Pay Scale": "",
+      "additionalInfo": ""
+    },
+    "customSections": [
+      {
+        "title": "Important Dates",
+        "items": {
+          "Notification Out": "08 December 2025",
+          "Online Apply Start": "08 December 2025",
+          "Last Date (No Late Fee)": "06 January 2026 (11:59 PM)",
+          "Last Date (₹5000 Late Fee)": "10 January 2026 (11:59 PM)",
+          "Correction Window": "12–14 January 2026",
+          "Written Exam Date": "08 February 2026",
+          "Apply Date (B.Des - Artisan)": "08 December 2025 to 28 February 2026",
+          "Skill Test & Interview (B.Des - Artisan)": "April 2026",
+          "Final Result (B.Des - Artisan)": "April 2026"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "B.Des & B.F.Tech": "Maximum 24 Years",
+          "PG Programmes (M.Des, MFM, M.F.Tech)": "No Age Limit",
+          "Age as on": "01 August 2026",
+          "Age Relaxation": "As per rules"
+        }
+      },
+      {
+        "title": "Exam Structure Overview",
+        "items": {
+          "UG (B.Des)": "GAT + CAT + Situation Test (Weightage: GAT 30%, CAT 50%, Situation Test 20%)",
+          "UG (B.F.Tech)": "Only GAT",
+          "PG (M.Des)": "GAT + CAT + Personal Interview",
+          "PG (M.F.M)": "GAT + Personal Interview",
+          "PG (M.F.Tech)": "GAT + Personal Interview",
+          "Marking Scheme": "1 mark for correct answer; −0.25 for incorrect; 0 for unattempted"
+        }
+      },
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Bachelor of Design (B.Des)": "12th Passed OR NIOS OR 3–4 Year Diploma OR Equivalent.",
+          "Bachelor of Fashion Technology (B.F.Tech)": "12th Passed with Mathematics OR 3–4 Year Engineering Diploma.",
+          "Master of Design (M.Des)": "Bachelor’s Degree in any stream OR 3-year Diploma from NIFT/NID.",
+          "Master of Fashion Management (M.F.M)": "Bachelor’s Degree in any stream OR 3-year Diploma from NIFT/NID.",
+          "Master of Fashion Technology (M.F.Tech)": "B.F.Tech from NIFT OR B.E/B.Tech Degree.",
+          "B.Des (Artisan Category)": "12th / NIOS / 3–4 Year Diploma + Valid Artisan Card."
+        }
+      },
+      {
+        "title": "Fees Structure",
+        "items": {
+          "Single Programme (Gen/OBC/EWS)": "₹2000",
+          "Single Programme (SC/ST/PH)": "₹500",
+          "Two Programmes (Gen/OBC/EWS)": "₹3000",
+          "Two Programmes (SC/ST/PH)": "₹750"
+        }
+      }
+    ],
+    "createdAt": "2025-12-09T17:21:46.895Z",
+    "updatedAt": "2025-12-09T17:21:46.895Z"
+  },
+  {
     "id": "ssc-gd-constable-recruitment-2026",
     "title": {
       "en": "SSC GD Constable Recruitment 2026"
