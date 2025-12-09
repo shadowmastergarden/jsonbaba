@@ -1,320 +1,318 @@
 [
-  {
-    "id": "oicl-500-assistant-posts-mains-exam-result",
-    "title": {
-      "en": "OICL 500 Assistant Posts Mains Exam Result"
+    {
+        "id": "ibps-po-mt-xv-interview-admit-card-2025",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "IBPS PO / MT XV Interview Admit Card 2025",
+        "introduction": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer / Management Trainee (PO / MT) के पद के लिए Interview Admit Card जारी कर दिया है। कुल 5208 पद उपलब्ध हैं। किसी भी स्ट्रीम में Bachelor की Degree आवश्यक है।",
+        "importantDates": {
+            "Notification Out": "30/06/2025",
+            "Starting Date": "01/07/2025",
+            "Last Date": "28/07/2025 11:59 PM (Extended)",
+            "Correction Date": "31 July To 01 Aug 2025",
+            "Prelims Exam Date": "17, 23, 24 August 2025",
+            "Prelims Admit Card Out": "14/08/2025",
+            "Prelims Exam Result Out": "26/09/2025",
+            "Mains Exam Date": "12/10/2025",
+            "Mains Admit Card": "01/10/2025",
+            "Mains Exam Result": "01/12/2025",
+            "Interview Date": "December 2025",
+            "Interview Admit Card": "09/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.ibps.in/"
+        }
     },
-    "introduction": {
-      "en": "Oriental Insurance Company Limited (OICL) ने Assistant (Level-III) के 500 पदों के लिए Mains Exam Result जारी कर दिया है। Bachelor's Degree और Local Language का ज्ञान आवश्यक है। Mains Exam Date: 28/10/2025, Result: 09/12/2025।"
+    {
+        "id": "rrb-group-d-vacancy-exam-city-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "RRB Group D Vacancy Exam City/ Admit Card",
+        "introduction": "Railway Recruitment Board (Ministry of Railway) ने Group D विभिन्न पदों के लिए Exam City जारी की है। कुल 32438 पद उपलब्ध हैं। 10th या ITI Passed होना आवश्यक है। Exam Date: 27 Nov 2025 To 16 Jan 2026।",
+        "importantDates": {
+            "Short Notice Out": "23/12/2024",
+            "Full Notification Out": "21/01/2025",
+            "Form Starting Date": "23/01/2025",
+            "Last Date": "01/03/2025 11:59 PM (Extended)",
+            "Fees Last Date": "03/03/2025",
+            "Correction Date": "04-13 March 2025",
+            "New Exam Date": "27 Nov 2025 To 16 Jan 2026",
+            "Exam City": "10 Days Before Exam Date",
+            "Admit Card": "04 Days Before Exam Date"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.rrbapply.gov.in/"
+        }
     },
-    "importantDates": {},
-    "importantLinks": {
-      "Official Website": "https://www.orientalinsurance.org.in/"
+    {
+        "id": "dfccil-642-mts-executive-cbt-ii-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "DFCCIL 642 MTS, Executive CBT-II Admit Card",
+        "introduction": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL) ने Multi Tasking Staff (MTS), Executive और Junior Manager के पदों के लिए CBT Stage-II Admit Card जारी कर दिया है। कुल 642 पद उपलब्ध हैं। CBT Stage-II Exam Date: 13-14 December 2025।",
+        "importantDates": {
+            "Notification Out": "13/01/2025",
+            "Starting Date": "18/01/2025",
+            "Last Date": "22/03/2025 11:45 PM (Extended)",
+            "Correction Date": "31 March To 04 April 2025",
+            "CBT Stage-I Exam Date": "10-11 July 2025",
+            "CBT Stage-I Admit Card": "06/07/2025",
+            "CBT Stage-I Answer Key": "18/07/2025 03:00 PM",
+            "CBT Stage-I Exam Result": "29/10/2025",
+            "CBT Stage-II Exam Date": "13-14 December 2025",
+            "CBT Stage-II Exam City": "26/11/2025",
+            "CBT Stage-II Admit Card": "09/12/2025",
+            "Physical (PET) Test Date": "Jan / Feb 2026"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.dfccil.com/"
+        }
     },
-    "url": "https://www.orientalinsurance.org.in/",
-    "customSections": [],
-    "createdAt": "2025-12-09T17:54:45.563Z",
-    "updatedAt": "2025-12-09T17:54:45.563Z"
-  },
-  {
-    "id": "oicl-500-assistant-posts-mains-exam-result",
-    "title": {
-      "en": "OICL 500 Assistant Posts Mains Exam Result"
+    {
+        "id": "hpsc-asst-prof-skt-home-sci-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "HPSC Asst. Prof. (SKT, Home Sci.) Admit Card",
+        "introduction": "Haryana Public Service Commission (HPSC) ने Assistant Professor (Sanskrit, Home Science) के पदों के लिए Admit Card जारी कर दिया है। कुल 2424 पद विभिन्न विषयों में उपलब्ध हैं। PG Degree (55% Marks) और NET/SLET/SET या Ph.D. आवश्यक है।",
+        "importantDates": {
+            "Starting Date": "07/08/2024",
+            "Last Date": "02/09/2024 05:00 PM Ext.",
+            "Form Re-Open Date": "01/03/2025",
+            "Re-Open Last Date": "15/03/2025 05:00 PM",
+            "Screening Exam Date": "27 April To 29 June 2025",
+            "Subjective Exam Date": "25 April To 31 August 2025",
+            "SKT Exam Date (Home Science, Sanskrit)": "14/12/2025",
+            "Admit Card (Home Science, Sanskrit)": "09/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.hpsc.gov.in/"
+        }
     },
-    "introduction": {
-      "en": "Oriental Insurance Company Limited (OICL) ने Assistant (Level-III) के 500 पदों के लिए Mains Exam Result जारी कर दिया है। Bachelor's Degree और Local Language का ज्ञान आवश्यक है। Mains Exam Date: 28/10/2025, Result: 09/12/2025।"
+    {
+        "id": "csir-ugc-net-december-2025-exam-city",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "CSIR UGC NET December 2025 Exam City",
+        "introduction": "Council of Scientific and Industrial Research (CSIR) ने UGC NET December 2025 के लिए Exam City जारी की है। यह परीक्षा Junior Research Fellowship (JRF) और Assistant Professor पदों के लिए है। Exam Date: 18/12/2025। विषय: Chemical Science, Atmospheric, Earth, Ocean & Planetary Science, Life Science, Mathematical Science, Physical Science।",
+        "importantDates": {
+            "Notification Out": "25/09/2025",
+            "Starting Date": "25/09/2025",
+            "Last Date": "27/10/2025 11:50 PM (Extended)",
+            "Fees Last Date": "28/10/2025 11:50 PM (Extended)",
+            "Correction Date": "30 Oct To 01 Nov 2025",
+            "Exam Date": "18/12/2025",
+            "Exam City Out": "08/12/2025",
+            "Admit Card": "Available Soon"
+        },
+        "importantLinks": {
+            "Official Website": "https://csirnet.nta.nic.in/"
+        }
     },
-    "importantDates": {
-      "Notification Out": "30/06/2025",
-      "Starting Date": "01/07/2025",
-      "Last Date": "28/07/2025 11:59 PM (Extended)",
-      "Correction Date": "31 July To 01 Aug 2025",
-      "Prelims Exam Date": "17, 23, 24 August 2025",
-      "Prelims Admit Card Out": "14/08/2025",
-      "Prelims Exam Result Out": "26/09/2025",
-      "Mains Exam Date": "12/10/2025",
-      "Mains Admit Card": "01/10/2025",
-      "Mains Exam Result": "01/12/2025",
-      "Interview Date": "December 2025",
-      "Interview Admit Card": "09/12/2025"
+    {
+        "id": "hppsc-hpas-30-vacancy-interview-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "HPPSC HPAS 30 Vacancy Interview Admit Card",
+        "introduction": "Himachal Pradesh Public Service Commission (HPPSC) ने H.P. Administrative Services (HPAS) के 30 पदों के लिए Interview Admit Card जारी कर दिया है। पद: H.P. Administrative Services, Block Development Officer, Tehsildar Class-I, Assistant Commissioner State Taxes & Excise। Interview Date: 22-30 December 2025।",
+        "importantDates": {
+            "Notification Out": "13/04/2025",
+            "Starting Date": "13/04/2025",
+            "Last Date": "10/05/2025 11:59 PM",
+            "Prelims Exam Date": "29/06/2025",
+            "Prelims Admit Card": "20/06/2025",
+            "Prelims Exam Result": "21/07/2025",
+            "Mains Exam Date": "25 Sept To 01 Oct 2025",
+            "Mains Admit Card": "16/09/2025",
+            "Mains Exam Result": "03/12/2025",
+            "Interview Date": "22-30 December 2025",
+            "Interview Admit Card": "08/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "http://www.hppsc.hp.gov.in/"
+        }
     },
-    "importantLinks": {
-      "Official Website": "https://www.orientalinsurance.org.in/"
+    {
+        "id": "delhi-dda-1732-various-posts-exam-city-2025",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "Delhi DDA 1732 Various Posts Exam City 2025",
+        "introduction": "Delhi Development Authority (DDA) ने 1732 विभिन्न पदों के लिए Exam City जारी की है। पद: Patwari, Junior Engineer, Naib Tehsildar, MTS, JSA, Stenographer, Assistant Security Officer, Deputy Director, और अन्य। Exam Date: 16 December 2025 To 03 January 2026।",
+        "importantDates": {
+            "Short Notice Out": "12/09/2025",
+            "Full Notification": "26/09/2025",
+            "Starting Date": "06/10/2025",
+            "Last Date": "05/11/2025 06:00 PM",
+            "Fees Last Date": "07/11/2025 06:00 PM (Extended)",
+            "Exam Date": "16 December 2025 To 03 January 2026",
+            "Exam City Out": "08/12/2025",
+            "Admit Card": "Available Soon"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.dda.org.in/"
+        }
     },
-    "url": "https://www.orientalinsurance.org.in/",
-    "customSections": [],
-    "createdAt": "2025-12-09T17:54:15.336Z",
-    "updatedAt": "2025-12-09T17:54:15.336Z"
-  },
-  {
-    "title": "IBPS PO / MT XV Interview Admit Card 2025",
-    "introduction": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer / Management Trainee (PO / MT) के पद के लिए Interview Admit Card जारी कर दिया है। कुल 5208 पद उपलब्ध हैं। किसी भी स्ट्रीम में Bachelor की Degree आवश्यक है।",
-    "importantDates": {
-      "Notification Out": "30/06/2025",
-      "Starting Date": "01/07/2025",
-      "Last Date": "28/07/2025 11:59 PM (Extended)",
-      "Correction Date": "31 July To 01 Aug 2025",
-      "Prelims Exam Date": "17, 23, 24 August 2025",
-      "Prelims Admit Card Out": "14/08/2025",
-      "Prelims Exam Result Out": "26/09/2025",
-      "Mains Exam Date": "12/10/2025",
-      "Mains Admit Card": "01/10/2025",
-      "Mains Exam Result": "01/12/2025",
-      "Interview Date": "December 2025",
-      "Interview Admit Card": "09/12/2025"
+    {
+        "id": "patna-high-court-mazdoor-skill-test-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "Patna High Court Mazdoor Skill Test Admit Card",
+        "introduction": "Patna High Court ने Mazdoor (Group C) के 171 पदों के लिए Cycling Test Admit Card जारी कर दिया है। 8th Class Passed, Cycling का ज्ञान और Life Skills में Proficiency आवश्यक है। Cycling Test Date: 10-12 December 2025।",
+        "importantDates": {
+            "Notification Out": "17/02/2025",
+            "Starting Date": "17/02/2025",
+            "Last Date": "18/03/2025 11:59 PM",
+            "Fees Last Date": "20/03/2025",
+            "Exam Date": "22/06/2025",
+            "Admit Card": "16/06/2025",
+            "Answer Key": "21/07/2025",
+            "Final Answer Key": "13/08/2025",
+            "Exam Result Out": "20/11/2025",
+            "Cycling Test Date": "10-12 December 2025",
+            "Cycling Test Admit Card": "08/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://patnahighcourt.gov.in/"
+        }
     },
-    "importantLinks": {
-      "Official Website": "https://www.ibps.in/"
+    {
+        "id": "ssc-cpo-sub-inspector-tier-i-admit-card-2025",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "SSC CPO Sub-Inspector Tier-I Admit Card 2025",
+        "introduction": "Staff Selection Commission (SSC) ने Central Police Organization (CPO) Sub-Inspector के 3073 पदों के लिए Tier-I Admit Card जारी करने की तैयारी में है। पद: Sub-Inspector (CAPF / Delhi Police)। Bachelor Degree आवश्यक है। Tier-I Exam Date: 09-12 December 2025।",
+        "importantDates": {
+            "Notification Out": "26/09/2025",
+            "Starting Date": "26/09/2025",
+            "Last Date": "16/10/2025 11:00 PM",
+            "Fees Last Date": "17/10/2025 11 PM",
+            "Correction Date": "03-05 Nov 2025",
+            "Slot Selection Form Date": "17-21 Nov 2025",
+            "Slot Selection Form Re-Open Last Date": "04/12/2025 11:00 AM",
+            "Tier-I Exam Date": "09-12 December 2025",
+            "Tier-I Exam City Out": "10 Days Before Exam Date",
+            "Admit Card": "03-04 Days Before Exam Date"
+        },
+        "importantLinks": {
+            "Official Website": "https://ssc.nic.in/"
+        }
+    },
+    {
+        "id": "bel-340-probationary-engineer-exam-city",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "BEL 340 Probationary Engineer Exam City",
+        "introduction": "Bharat Electronics Limited (BEL) ने Probationary Engineer के 340 पदों के लिए Exam City जारी की है। Discipline: Electronics, Mechanical, Computer Science, Electrical। B.E / B.Tech / B.Sc Engineering Graduate आवश्यक है। Exam Date: 20/12/2025।",
+        "importantDates": {
+            "Notification Out": "23/10/2025",
+            "Starting Date": "24/10/2025",
+            "Last Date": "14/11/2025 11:59 PM",
+            "Exam Date": "20/12/2025",
+            "Exam City": "06/12/2025",
+            "Admit Card": "13/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://bel-india.in/"
+        }
+    },
+    {
+        "id": "delhi-ccrh-90-group-a-b-c-posts-exam-city",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "Delhi CCRH 90 Group A, B, C Posts Exam City",
+        "introduction": "Central Council for Research in Homoeopathy (CCRH), Delhi ने 90 Group A, B, C पदों के लिए Exam City Slip जारी की है। पद: Research Officer (Homoeopathy, Endocrinology, Pathology), Junior Librarian, Pharmacist, X-Ray Technician, LDC, Driver, Staff Nurse, MLT, JMLT, Junior Stenographer आदि। CBT Exam Date: 15-18 December 2025।",
+        "importantDates": {
+            "Notification Out": "05/11/2025",
+            "Starting Date": "05/11/2025",
+            "Last Date": "29/11/2025 11:59 PM (Extended)",
+            "CBT Exam Date": "15-18 December 2025",
+            "Exam City Slip Out": "06/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://ccrhindia.nic.in/"
+        }
+    },
+    {
+        "id": "kolkata-police-3734-constable-pre-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "Kolkata Police 3734 Constable Pre Admit Card",
+        "introduction": "West Bengal Police Recruitment Board (WBPRB) ने Kolkata Police Constable और Lady Constable के 3734 पदों के लिए Prelims Admit Card जारी कर दिया है। 10th Class Passed और Bengali Language का ज्ञान आवश्यक है। Prelims Exam Date: 21/12/2025।",
+        "importantDates": {
+            "Starting Date": "01/03/2024",
+            "Last Date": "29/03/2024 11:59 PM",
+            "Correction Date": "01-07 April 2024",
+            "Prelims New Exam Date": "21/12/2025",
+            "Prelims Admit Card": "06/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://wbpolice.gov.in/"
+        }
+    },
+    {
+        "id": "rpsc-574-assistant-professor-exam-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "RPSC 574 Assistant Professor Exam Admit Card",
+        "introduction": "Rajasthan Public Service Commission (RPSC) ने Assistant Professor के 574 पदों के लिए Exam Admit Card जारी कर दिया है। विभिन्न विषय जैसे Fine Arts, Economics, English, Geography, Hindi, History, Home Science, Mathematics, Music, Sanskrit, Physics, Chemistry, Botany, Zoology आदि। PG Degree (55% Marks) और NET/SLET/SET या Ph.D. आवश्यक है। Exam Date: 07-20 December 2025।",
+        "importantDates": {
+            "Notification Out": "18/09/2025",
+            "Starting Date": "20/09/2025",
+            "Last Date": "19/10/2025 11:59 PM",
+            "Correction Date": "Upto 29/10/2025",
+            "Exam Date": "07-20 December 2025",
+            "Exam City": "30/11/2025",
+            "Admit Card": "04/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://rpsc.rajasthan.gov.in/"
+        }
+    },
+    {
+        "id": "rajasthan-police-constable-pet-pst-admit-card",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "Rajasthan Police Constable PET/PST Admit Card",
+        "introduction": "Rajasthan Police ने Constable (GD, Band, Telecom, Driver) के लगभग 7689 पदों के लिए PET/PST Admit Card जारी कर दिया है। 12th Passed और Rajasthan CET (12th Level) Exam Passed होना आवश्यक है। PET & PST Start: From 08/12/2025।",
+        "importantDates": {
+            "Short Notice Out": "07/02/2025",
+            "Full Notification": "09/04/2025",
+            "Starting Date": "28/04/2025",
+            "Last Date": "25/05/2025 11:59 PM (Extended)",
+            "Correction Date": "26 May to 04 June 2025 (Extended)",
+            "Exam Date": "13-14 September 2025",
+            "Exam City Out": "09/09/2025",
+            "Admit Card": "11/09/2025",
+            "Answer Key": "17/09/2025",
+            "Exam Result": "14/11/2025",
+            "PET & PST Start": "From 08/12/2025",
+            "PET & PST Admit Card": "04/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://police.rajasthan.gov.in/"
+        }
+    },
+    {
+        "id": "ssc-chte-2025-vacancy-paper-ii-exam-city",
+        "createdAt": "2025-12-09T18:04:00.000Z",
+        "updatedAt": "2025-12-09T18:04:00.000Z",
+        "title": "SSC CHTE 2025 Vacancy Paper-II Exam City",
+        "introduction": "Staff Selection Commission (SSC) ने Combined Hindi Translators Examination (CHTE) 2025 के Paper-II के लिए Exam City जारी की है। पद: Junior Translation Officer, Junior Hindi Translator, Senior Hindi Translator, Junior Translator, Sub-Inspector (Hindi Translator)। Post Graduation Degree with Hindi/English आवश्यक है। Paper-II Exam Date: 14/12/2025।",
+        "importantDates": {
+            "Notification Out": "05/06/2025",
+            "Starting Date": "05/06/2025",
+            "Last Date": "26/06/2025 11:00 PM",
+            "Fees Last Date": "27/06/2025",
+            "Correction Date": "01-02 July 2025",
+            "Paper-I Exam Date": "12/08/2025",
+            "Admit Card": "02-03 Days Before Exam",
+            "Paper-I Answer Key": "04/09/2025",
+            "Paper-I Exam Result": "04/11/2025",
+            "Paper-II Exam Date": "14/12/2025",
+            "Paper-II Exam City": "04/12/2025",
+            "Paper-II Admit Card": "02-03 Days Before Exam"
+        },
+        "importantLinks": {
+            "Official Website": "https://ssc.nic.in/"
+        }
     }
-  },
-  {
-    "title": "RRB Group D Vacancy Exam City/ Admit Card",
-    "introduction": "Railway Recruitment Board (Ministry of Railway) ने Group D विभिन्न पदों के लिए Exam City जारी की है। कुल 32438 पद उपलब्ध हैं। 10th या ITI Passed होना आवश्यक है। Exam Date: 27 Nov 2025 To 16 Jan 2026।",
-    "importantDates": {
-      "Short Notice Out": "23/12/2024",
-      "Full Notification Out": "21/01/2025",
-      "Form Starting Date": "23/01/2025",
-      "Last Date": "01/03/2025 11:59 PM (Extended)",
-      "Fees Last Date": "03/03/2025",
-      "Correction Date": "04-13 March 2025",
-      "New Exam Date": "27 Nov 2025 To 16 Jan 2026",
-      "Exam City": "10 Days Before Exam Date",
-      "Admit Card": "04 Days Before Exam Date"
-    },
-    "importantLinks": {
-      "Official Website": "https://www.rrbapply.gov.in/"
-    }
-  },
-  {
-    "title": "DFCCIL 642 MTS, Executive CBT-II Admit Card",
-    "introduction": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL) ने Multi Tasking Staff (MTS), Executive और Junior Manager के पदों के लिए CBT Stage-II Admit Card जारी कर दिया है। कुल 642 पद उपलब्ध हैं। CBT Stage-II Exam Date: 13-14 December 2025।",
-    "importantDates": {
-      "Notification Out": "13/01/2025",
-      "Starting Date": "18/01/2025",
-      "Last Date": "22/03/2025 11:45 PM (Extended)",
-      "Correction Date": "31 March To 04 April 2025",
-      "CBT Stage-I Exam Date": "10-11 July 2025",
-      "CBT Stage-I Admit Card": "06/07/2025",
-      "CBT Stage-I Answer Key": "18/07/2025 03:00 PM",
-      "CBT Stage-I Exam Result": "29/10/2025",
-      "CBT Stage-II Exam Date": "13-14 December 2025",
-      "CBT Stage-II Exam City": "26/11/2025",
-      "CBT Stage-II Admit Card": "09/12/2025",
-      "Physical (PET) Test Date": "Jan / Feb 2026"
-    },
-    "importantLinks": {
-      "Official Website": "https://www.dfccil.com/"
-    }
-  },
-  {
-    "title": "HPSC Asst. Prof. (SKT, Home Sci.) Admit Card",
-    "introduction": "Haryana Public Service Commission (HPSC) ने Assistant Professor (Sanskrit, Home Science) के पदों के लिए Admit Card जारी कर दिया है। कुल 2424 पद विभिन्न विषयों में उपलब्ध हैं। PG Degree (55% Marks) और NET/SLET/SET या Ph.D. आवश्यक है।",
-    "importantDates": {
-      "Starting Date": "07/08/2024",
-      "Last Date": "02/09/2024 05:00 PM Ext.",
-      "Form Re-Open Date": "01/03/2025",
-      "Re-Open Last Date": "15/03/2025 05:00 PM",
-      "Screening Exam Date": "27 April To 29 June 2025",
-      "Subjective Exam Date": "25 April To 31 August 2025",
-      "SKT Exam Date (Home Science, Sanskrit)": "14/12/2025",
-      "Admit Card (Home Science, Sanskrit)": "09/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://www.hpsc.gov.in/"
-    }
-  },
-  {
-    "title": "CSIR UGC NET December 2025 Exam City",
-    "introduction": "Council of Scientific and Industrial Research (CSIR) ने UGC NET December 2025 के लिए Exam City जारी की है। यह परीक्षा Junior Research Fellowship (JRF) और Assistant Professor पदों के लिए है। Exam Date: 18/12/2025। विषय: Chemical Science, Atmospheric, Earth, Ocean & Planetary Science, Life Science, Mathematical Science, Physical Science।",
-    "importantDates": {
-      "Notification Out": "25/09/2025",
-      "Starting Date": "25/09/2025",
-      "Last Date": "27/10/2025 11:50 PM (Extended)",
-      "Fees Last Date": "28/10/2025 11:50 PM (Extended)",
-      "Correction Date": "30 Oct To 01 Nov 2025",
-      "Exam Date": "18/12/2025",
-      "Exam City Out": "08/12/2025",
-      "Admit Card": "Available Soon"
-    },
-    "importantLinks": {
-      "Official Website": "https://csirnet.nta.nic.in/"
-    }
-  },
-  {
-    "title": "HPPSC HPAS 30 Vacancy Interview Admit Card",
-    "introduction": "Himachal Pradesh Public Service Commission (HPPSC) ने H.P. Administrative Services (HPAS) के 30 पदों के लिए Interview Admit Card जारी कर दिया है। पद: H.P. Administrative Services, Block Development Officer, Tehsildar Class-I, Assistant Commissioner State Taxes & Excise। Interview Date: 22-30 December 2025।",
-    "importantDates": {
-      "Notification Out": "13/04/2025",
-      "Starting Date": "13/04/2025",
-      "Last Date": "10/05/2025 11:59 PM",
-      "Prelims Exam Date": "29/06/2025",
-      "Prelims Admit Card": "20/06/2025",
-      "Prelims Exam Result": "21/07/2025",
-      "Mains Exam Date": "25 Sept To 01 Oct 2025",
-      "Mains Admit Card": "16/09/2025",
-      "Mains Exam Result": "03/12/2025",
-      "Interview Date": "22-30 December 2025",
-      "Interview Admit Card": "08/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "http://www.hppsc.hp.gov.in/"
-    }
-  },
-  {
-    "title": "Delhi DDA 1732 Various Posts Exam City 2025",
-    "introduction": "Delhi Development Authority (DDA) ने 1732 विभिन्न पदों के लिए Exam City जारी की है। पद: Patwari, Junior Engineer, Naib Tehsildar, MTS, JSA, Stenographer, Assistant Security Officer, Deputy Director, और अन्य। Exam Date: 16 December 2025 To 03 January 2026।",
-    "importantDates": {
-      "Short Notice Out": "12/09/2025",
-      "Full Notification": "26/09/2025",
-      "Starting Date": "06/10/2025",
-      "Last Date": "05/11/2025 06:00 PM",
-      "Fees Last Date": "07/11/2025 06:00 PM (Extended)",
-      "Exam Date": "16 December 2025 To 03 January 2026",
-      "Exam City Out": "08/12/2025",
-      "Admit Card": "Available Soon"
-    },
-    "importantLinks": {
-      "Official Website": "https://www.dda.org.in/"
-    }
-  },
-  {
-    "title": "Patna High Court Mazdoor Skill Test Admit Card",
-    "introduction": "Patna High Court ने Mazdoor (Group C) के 171 पदों के लिए Cycling Test Admit Card जारी कर दिया है। 8th Class Passed, Cycling का ज्ञान और Life Skills में Proficiency आवश्यक है। Cycling Test Date: 10-12 December 2025।",
-    "importantDates": {
-      "Notification Out": "17/02/2025",
-      "Starting Date": "17/02/2025",
-      "Last Date": "18/03/2025 11:59 PM",
-      "Fees Last Date": "20/03/2025",
-      "Exam Date": "22/06/2025",
-      "Admit Card": "16/06/2025",
-      "Answer Key": "21/07/2025",
-      "Final Answer Key": "13/08/2025",
-      "Exam Result Out": "20/11/2025",
-      "Cycling Test Date": "10-12 December 2025",
-      "Cycling Test Admit Card": "08/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://patnahighcourt.gov.in/"
-    }
-  },
-  {
-    "title": "SSC CPO Sub-Inspector Tier-I Admit Card 2025",
-    "introduction": "Staff Selection Commission (SSC) ने Central Police Organization (CPO) Sub-Inspector के 3073 पदों के लिए Tier-I Admit Card जारी करने की तैयारी में है। पद: Sub-Inspector (CAPF / Delhi Police)। Bachelor Degree आवश्यक है। Tier-I Exam Date: 09-12 December 2025।",
-    "importantDates": {
-      "Notification Out": "26/09/2025",
-      "Starting Date": "26/09/2025",
-      "Last Date": "16/10/2025 11:00 PM",
-      "Fees Last Date": "17/10/2025 11 PM",
-      "Correction Date": "03-05 Nov 2025",
-      "Slot Selection Form Date": "17-21 Nov 2025",
-      "Slot Selection Form Re-Open Last Date": "04/12/2025 11:00 AM",
-      "Tier-I Exam Date": "09-12 December 2025",
-      "Tier-I Exam City Out": "10 Days Before Exam Date",
-      "Admit Card": "03-04 Days Before Exam Date"
-    },
-    "importantLinks": {
-      "Official Website": "https://ssc.nic.in/"
-    }
-  },
-  {
-    "title": "BEL 340 Probationary Engineer Exam City",
-    "introduction": "Bharat Electronics Limited (BEL) ने Probationary Engineer के 340 पदों के लिए Exam City जारी की है। Discipline: Electronics, Mechanical, Computer Science, Electrical। B.E / B.Tech / B.Sc Engineering Graduate आवश्यक है। Exam Date: 20/12/2025।",
-    "importantDates": {
-      "Notification Out": "23/10/2025",
-      "Starting Date": "24/10/2025",
-      "Last Date": "14/11/2025 11:59 PM",
-      "Exam Date": "20/12/2025",
-      "Exam City": "06/12/2025",
-      "Admit Card": "13/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://bel-india.in/"
-    }
-  },
-  {
-    "title": "Delhi CCRH 90 Group A, B, C Posts Exam City",
-    "introduction": "Central Council for Research in Homoeopathy (CCRH), Delhi ने 90 Group A, B, C पदों के लिए Exam City Slip जारी की है। पद: Research Officer (Homoeopathy, Endocrinology, Pathology), Junior Librarian, Pharmacist, X-Ray Technician, LDC, Driver, Staff Nurse, MLT, JMLT, Junior Stenographer आदि। CBT Exam Date: 15-18 December 2025।",
-    "importantDates": {
-      "Notification Out": "05/11/2025",
-      "Starting Date": "05/11/2025",
-      "Last Date": "29/11/2025 11:59 PM (Extended)",
-      "CBT Exam Date": "15-18 December 2025",
-      "Exam City Slip Out": "06/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://ccrhindia.nic.in/"
-    }
-  },
-  {
-    "title": "Kolkata Police 3734 Constable Pre Admit Card",
-    "introduction": "West Bengal Police Recruitment Board (WBPRB) ने Kolkata Police Constable और Lady Constable के 3734 पदों के लिए Prelims Admit Card जारी कर दिया है। 10th Class Passed और Bengali Language का ज्ञान आवश्यक है। Prelims Exam Date: 21/12/2025।",
-    "importantDates": {
-      "Starting Date": "01/03/2024",
-      "Last Date": "29/03/2024 11:59 PM",
-      "Correction Date": "01-07 April 2024",
-      "Prelims New Exam Date": "21/12/2025",
-      "Prelims Admit Card": "06/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://wbpolice.gov.in/"
-    }
-  },
-  {
-    "title": "RPSC 574 Assistant Professor Exam Admit Card",
-    "introduction": "Rajasthan Public Service Commission (RPSC) ने Assistant Professor के 574 पदों के लिए Exam Admit Card जारी कर दिया है। विभिन्न विषय जैसे Fine Arts, Economics, English, Geography, Hindi, History, Home Science, Mathematics, Music, Sanskrit, Physics, Chemistry, Botany, Zoology आदि। PG Degree (55% Marks) और NET/SLET/SET या Ph.D. आवश्यक है। Exam Date: 07-20 December 2025।",
-    "importantDates": {
-      "Notification Out": "18/09/2025",
-      "Starting Date": "20/09/2025",
-      "Last Date": "19/10/2025 11:59 PM",
-      "Correction Date": "Upto 29/10/2025",
-      "Exam Date": "07-20 December 2025",
-      "Exam City": "30/11/2025",
-      "Admit Card": "04/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://rpsc.rajasthan.gov.in/"
-    }
-  },
-  {
-    "title": "Rajasthan Police Constable PET/PST Admit Card",
-    "introduction": "Rajasthan Police ने Constable (GD, Band, Telecom, Driver) के लगभग 7689 पदों के लिए PET/PST Admit Card जारी कर दिया है। 12th Passed और Rajasthan CET (12th Level) Exam Passed होना आवश्यक है। PET & PST Start: From 08/12/2025।",
-    "importantDates": {
-      "Short Notice Out": "07/02/2025",
-      "Full Notification": "09/04/2025",
-      "Starting Date": "28/04/2025",
-      "Last Date": "25/05/2025 11:59 PM (Extended)",
-      "Correction Date": "26 May to 04 June 2025 (Extended)",
-      "Exam Date": "13-14 September 2025",
-      "Exam City Out": "09/09/2025",
-      "Admit Card": "11/09/2025",
-      "Answer Key": "17/09/2025",
-      "Exam Result": "14/11/2025",
-      "PET & PST Start": "From 08/12/2025",
-      "PET & PST Admit Card": "04/12/2025"
-    },
-    "importantLinks": {
-      "Official Website": "https://police.rajasthan.gov.in/"
-    }
-  },
-  {
-    "title": "SSC CHTE 2025 Vacancy Paper-II Exam City",
-    "introduction": "Staff Selection Commission (SSC) ने Combined Hindi Translators Examination (CHTE) 2025 के Paper-II के लिए Exam City जारी की है। पद: Junior Translation Officer, Junior Hindi Translator, Senior Hindi Translator, Junior Translator, Sub-Inspector (Hindi Translator)। Post Graduation Degree with Hindi/English आवश्यक है। Paper-II Exam Date: 14/12/2025।",
-    "importantDates": {
-      "Notification Out": "05/06/2025",
-      "Starting Date": "05/06/2025",
-      "Last Date": "26/06/2025 11:00 PM",
-      "Fees Last Date": "27/06/2025",
-      "Correction Date": "01-02 July 2025",
-      "Paper-I Exam Date": "12/08/2025",
-      "Admit Card": "02-03 Days Before Exam",
-      "Paper-I Answer Key": "04/09/2025",
-      "Paper-I Exam Result": "04/11/2025",
-      "Paper-II Exam Date": "14/12/2025",
-      "Paper-II Exam City": "04/12/2025",
-      "Paper-II Admit Card": "02-03 Days Before Exam"
-    },
-    "importantLinks": {
-      "Official Website": "https://ssc.nic.in/"
-    }
-  }
 ]
