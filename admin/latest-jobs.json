@@ -1,5 +1,377 @@
 [
     {
+        "id": "lucknow-dr-rmlims-non-teaching-recruitment-2025",
+        "createdAt": "2025-12-10T06:15:00.000Z",
+        "updatedAt": "2025-12-10T06:15:00.000Z",
+        "title": "Lucknow DR RMLIMS Non Teaching Recruitment 2025",
+        "description": "Dr. Ram Manohar Lohia Institute of Medical Sciences (DR RMLIMS), Lucknow has announced recruitment for 129 Non-Teaching positions in Ministerial and Paramedical categories. This recruitment is for various posts including administrative and support staff positions. Candidates will be selected through a comprehensive process including Prelims Written Exam, Mains Written Exam, and Skill Test where applicable. The institute offers excellent career opportunities for eligible candidates in one of Uttar Pradesh's premier medical institutions.",
+        "totalPosts": "129",
+        "educationalQualifications": "Varies by post - refer to official notification for post-wise qualification details.",
+        "ageLimit": "18-40 Years as on Last Date",
+        "applicationFee": "Gen/OBC/EWS: Rs. 1180/-; SC/ST: Rs. 708/-; PH: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Lucknow, Uttar Pradesh",
+                    "Institute": "Dr. Ram Manohar Lohia Institute of Medical Sciences",
+                    "Job Type": "Non-Teaching (Ministerial & Paramedical)"
+                }
+            },
+            {
+                "title": "Post Wise Distribution",
+                "items": {
+                    "Non Teaching (Ministerial)": "96 Posts",
+                    "Non Teaching (Paramedical)": "33 Posts",
+                    "Total Vacancies": "129 Posts"
+                }
+            },
+            {
+                "title": "Exam Pattern",
+                "items": {
+                    "Prelims Exam": "Preliminary Written Examination",
+                    "Mains Exam": "Main Written Examination",
+                    "Skill Test": "For applicable posts only",
+                    "Note": "Refer to detailed notification for post-wise exam requirements"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "21/10/2025",
+            "Starting Date": "08/12/2025",
+            "Last Date": "07/01/2026 11:55 PM",
+            "Exam Date": "Available Soon",
+            "Admit Card": "Available Soon"
+        },
+        "selectionProcess": [
+            "Prelims Written Exam",
+            "Mains Written Exam",
+            "Skill Test (If Applicable)",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "129"
+        },
+        "importantLinks": {
+            "Apply": "https://rmlims.in/",
+            "Official Website": "https://rmlims.in/"
+        },
+        "additionalDetails": {
+            "Department": "Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow",
+            "Recruitment Year": "2025",
+            "Pay Scale": "As per UP Government Norms"
+        }
+    },
+    {
+        "id": "lucknow-dr-rmlims-nursing-officer-recruitment-2025",
+        "createdAt": "2025-12-10T06:15:00.000Z",
+        "updatedAt": "2025-12-10T06:15:00.000Z",
+        "title": "Lucknow DR RMLIMS Nursing Officer Recruitment 2025",
+        "description": "Dr. Ram Manohar Lohia Institute of Medical Sciences (DR RMLIMS), Lucknow is recruiting 442 Nursing Officers. Candidates with B.Sc. Nursing or GNM with 2 years of experience are eligible to apply. This is a significant recruitment drive offering excellent career opportunities in one of the premier medical institutions of Uttar Pradesh. The selection process includes Prelims and Mains Written Examinations followed by Document Verification and Medical Examination. Category-wise reservations are applicable as per government norms.",
+        "totalPosts": "442",
+        "educationalQualifications": "B.Sc. Nursing OR GNM with 2 Years Experience",
+        "ageLimit": "18-40 Years as on Last Date",
+        "applicationFee": "Gen/OBC/EWS: Rs. 1180/-; SC/ST: Rs. 708/-; PH: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Lucknow, Uttar Pradesh",
+                    "Institute": "Dr. Ram Manohar Lohia Institute of Medical Sciences",
+                    "Post Name": "Nursing Officer",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "General (Gen)": "169",
+                    "EWS": "42",
+                    "OBC": "114",
+                    "SC": "88",
+                    "ST": "09",
+                    "Total Posts": "422"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Option 1": "B.Sc. Nursing from recognized university",
+                    "Option 2": "GNM (General Nursing & Midwifery) with minimum 2 years experience",
+                    "Note": "Candidates must be registered with State/Indian Nursing Council"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "21/10/2025",
+            "Starting Date": "08/12/2025",
+            "Last Date": "07/01/2026 11:55 PM",
+            "Exam Date": "Available Soon",
+            "Admit Card": "Available Soon"
+        },
+        "selectionProcess": [
+            "Prelims Written Exam",
+            "Mains Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "442"
+        },
+        "importantLinks": {
+            "Apply": "https://rmlims.in/",
+            "Official Website": "https://rmlims.in/"
+        },
+        "additionalDetails": {
+            "Department": "Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow",
+            "Recruitment Year": "2025",
+            "Pay Scale": "As per UP Government Norms for Nursing Cadre"
+        }
+    },
+    {
+        "id": "rrc-nr-sports-quota-recruitment-2025",
+        "createdAt": "2025-12-10T06:15:00.000Z",
+        "updatedAt": "2025-12-10T06:15:00.000Z",
+        "title": "RRC NR Sports Quota Recruitment 2025",
+        "description": "Railway Recruitment Cell (RRC) Northern Railway has announced recruitment for 38 Group D positions under Sports Quota. This is a special recruitment drive for sports persons who have represented their state or country in recognized sports events. Candidates must have completed 10th class and possess valid Sports Game Certificates. The selection will be based on Document Verification, Sports Trial/Fitness Test, and Medical Examination. Application fees are refundable after appearing in trials, making this an attractive opportunity for sports enthusiasts seeking railway employment.",
+        "totalPosts": "38",
+        "educationalQualifications": "10th Class Passed + Sports Game Certificate",
+        "ageLimit": "18-25 Years as on 01/01/2026",
+        "applicationFee": "Gen/OBC: Rs. 500/-; SC/ST/ESM/EBC/Minorities/Female: Rs. 250/- (Refundable after appearing in trials)",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Northern Railway Zone",
+                    "Department": "Railway Recruitment Cell (RRC) Northern Railway",
+                    "Post Level": "Level-1 (Group D)",
+                    "Recruitment Type": "Sports Quota"
+                }
+            },
+            {
+                "title": "Fee Refund Policy",
+                "items": {
+                    "General/OBC": "Rs. 400/- will be refunded after appearing in trials",
+                    "SC/ST/EBC/Minorities/Female": "Full Rs. 250/- will be refunded after appearing in trials",
+                    "Condition": "Must appear in Sports Trials",
+                    "Note": "Fees will be refunded directly to bank account"
+                }
+            },
+            {
+                "title": "Eligibility Criteria",
+                "items": {
+                    "Educational": "10th Class Passed",
+                    "Sports Certificate": "Valid Sports Game Certificate from recognized authority",
+                    "Sports Level": "State/National/International level participation required",
+                    "Medical Fitness": "Candidates must be medically fit for railway service"
+                }
+            },
+            {
+                "title": "Sports Trial Schedule",
+                "items": {
+                    "Trial Date": "February 2026 (Tentative)",
+                    "Venue": "Will be intimated via admit card",
+                    "Type": "Physical Fitness Test & Sports specific trials"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "02/12/2025",
+            "Starting Date": "08/12/2025",
+            "Last Date": "07/01/2026 11:59 PM",
+            "Sports Trial Date": "February 2026 (Tentative)"
+        },
+        "selectionProcess": [
+            "Document Verification",
+            "Sports Trial / Fitness Test",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "38"
+        },
+        "importantLinks": {
+            "Apply": "https://rrcnr.org/",
+            "Official Website": "https://rrcnr.org/"
+        },
+        "additionalDetails": {
+            "Department": "Railway Recruitment Cell, Northern Railway",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "Level-1 as per 7th Pay Commission"
+        }
+    },
+    {
+        "id": "haryana-health-medical-officer-recruitment-2025",
+        "createdAt": "2025-12-10T06:15:00.000Z",
+        "updatedAt": "2025-12-10T06:15:00.000Z",
+        "title": "Haryana Health Medical Officer Recruitment 2025",
+        "description": "Haryana Health Department has announced a mega recruitment drive for 450 Medical Officer (Group-A, HCMS-I) positions. This is an excellent opportunity for MBBS graduates to join Haryana Civil Medical Services. The recruitment is open to candidates from all states, with special fee concessions for SC, BC, EWS, ESM categories and female candidates. The selection process includes Written Examination, Document Verification, and Medical Examination. Category-wise reservations are applicable as per Haryana Government norms, ensuring fair representation across all sections.",
+        "totalPosts": "450",
+        "educationalQualifications": "M.B.B.S. Degree from any Recognized University with valid registration",
+        "ageLimit": "22-35 Years as on 07/01/2026",
+        "applicationFee": "Gen/Other State: Rs. 1000/-; SC/BC/EWS/ESM/Female: Rs. 250/-; PH: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Haryana (Statewide)",
+                    "Department": "Haryana Health Department",
+                    "Post Name": "Medical Officer Group-A (HCMS-I)",
+                    "Service": "Haryana Civil Medical Services",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "General (Gen)": "238",
+                    "EWS (Economically Weaker Section)": "45",
+                    "BC-A (Backward Class A)": "50",
+                    "BC-B (Backward Class B)": "27",
+                    "OSC (Other Scheduled Castes)": "45",
+                    "DSC (Deprived Scheduled Castes)": "45",
+                    "Total Posts": "450"
+                }
+            },
+            {
+                "title": "Application Fee Details",
+                "items": {
+                    "General Category": "Rs. 1000/-",
+                    "Other State Candidates": "Rs. 1000/-",
+                    "SC/BC/EWS/ESM": "Rs. 250/-",
+                    "All Category Female": "Rs. 250/-",
+                    "PH (Divyang)": "No Fees",
+                    "Payment Mode": "Online Only"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational Qualification": "M.B.B.S. Degree",
+                    "University": "From any Recognized University",
+                    "Registration": "Valid registration with State/Medical Council of India mandatory",
+                    "Note": "Candidates completing internship should have completion certificate"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "05/12/2025",
+            "Starting Date": "08/12/2025",
+            "Last Date": "07/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "450"
+        },
+        "importantLinks": {
+            "Apply": "https://hryhealthdept.gov.in/",
+            "Official Website": "https://hryhealthdept.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Health Department, Government of Haryana",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "Group-A as per Haryana Government Norms"
+        }
+    },
+    {
+        "id": "delhi-maitreyi-college-assistant-professor-recruitment-2025",
+        "createdAt": "2025-12-10T06:15:00.000Z",
+        "updatedAt": "2025-12-10T06:15:00.000Z",
+        "title": "Delhi Maitreyi College Assistant Professor Recruitment 2025",
+        "description": "Maitreyi College, University of Delhi has announced recruitment for 26 Assistant Professor positions across various departments. This is a prestigious opportunity to join one of Delhi University's prominent colleges. Candidates must have a Postgraduate degree in the relevant subject with 55% marks and should be Ph.D or NET qualified. The selection will be conducted through shortlisting based on qualifications followed by interview. Female candidates and SC/ST/PH candidates are exempted from application fees, promoting inclusive recruitment.",
+        "totalPosts": "26",
+        "educationalQualifications": "PG in Related Subject (55% Marks) + Ph.D / NET Qualified",
+        "ageLimit": "As Per UGC/University Rules",
+        "applicationFee": "Gen/OBC/EWS: Rs. 500/-; SC/ST/PH/Female: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "New Delhi",
+                    "College": "Maitreyi College",
+                    "University": "University of Delhi",
+                    "Post Name": "Assistant Professor",
+                    "Job Type": "Permanent/Contractual as per UGC norms"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational Qualification": "Postgraduate Degree in Related Subject",
+                    "Minimum Marks": "55% (50% for SC/ST/OBC/PH candidates)",
+                    "Essential": "Ph.D qualified OR NET/SLET/SET qualified",
+                    "Additional Preference": "Teaching/Research experience will be given weightage",
+                    "Registration": "Must be eligible as per UGC norms"
+                }
+            },
+            {
+                "title": "Application Fee Exemption",
+                "items": {
+                    "General/OBC/EWS": "Rs. 500/-",
+                    "SC/ST Category": "No Fees",
+                    "PH (Divyang)": "No Fees",
+                    "All Female Candidates": "No Fees",
+                    "Note": "Fee exemption promotes gender equality and social inclusion"
+                }
+            },
+            {
+                "title": "Department Wise Posts",
+                "items": {
+                    "Total Posts": "26",
+                    "Note": "Subject/Department wise distribution available in official notification",
+                    "Selection": "Based on shortlisting and personal interview"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "06/12/2025",
+            "Starting Date": "06/12/2025",
+            "Last Date": "22/12/2025 11:59 PM"
+        },
+        "selectionProcess": [
+            "Shortlisting",
+            "Interview",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "26"
+        },
+        "importantLinks": {
+            "Apply": "https://maitreyicollege.in/",
+            "Official Website": "https://maitreyicollege.in/"
+        },
+        "additionalDetails": {
+            "Department": "Maitreyi College, University of Delhi",
+            "Recruitment Year": "2025",
+            "Pay Scale": "As per UGC 7th Pay Commission & Delhi University norms"
+        }
+    },
+    {
         "id": "up-anganwadi-bharti-recruitment-2025",
         "createdAt": "2025-12-09T18:10:00.000Z",
         "updatedAt": "2025-12-10T06:01:00.000Z",
@@ -149,7 +521,7 @@
             "Medical Examination"
         ],
         "vacancyDetails": {
-            "Anganwadi Worker/Helper": "30000+"
+            "Total Posts": "30000+"
         },
         "importantLinks": {
             "Apply": "https://balvikasup.gov.in/",
@@ -219,7 +591,7 @@
             "Document Verification"
         ],
         "vacancyDetails": {
-            "ITI Trade Apprentice": "550"
+            "Total Posts": "550"
         },
         "importantLinks": {
             "Apply": "https://pardarsy.railnet.gov.in/apprentice-2025",
@@ -294,7 +666,7 @@
             "Medical Examination"
         ],
         "vacancyDetails": {
-            "Apprentice": "144"
+            "Total Posts": "144"
         },
         "importantLinks": {
             "Apply": "https://www.apprenticeship india.gov.in/",
@@ -368,7 +740,7 @@
             "Medical Examination"
         ],
         "vacancyDetails": {
-            "Special Police Officer (SPO)": "82"
+            "Total Posts": "82"
         },
         "importantLinks": {
             "Download Form": "https://sarkari.network/wp-content/uploads/Haryana-Police-SPO-Recruitment-2025-Application-Form.pdf",
@@ -438,7 +810,7 @@
             "Medical Examination"
         ],
         "vacancyDetails": {
-            "Fireman-cum-Driver (Class-3)": "138"
+            "Total Posts": "138"
         },
         "importantLinks": {
             "Apply": "https://ojas.gujarat.gov.in/Home.aspx",
