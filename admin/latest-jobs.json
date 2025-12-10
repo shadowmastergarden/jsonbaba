@@ -1,4 +1,455 @@
 [
+    {
+        "id": "up-anganwadi-bharti-recruitment-2025",
+        "createdAt": "2025-12-09T18:10:00.000Z",
+        "updatedAt": "2025-12-10T06:01:00.000Z",
+        "title": "UP Anganwadi Bharti Recruitment 2025",
+        "description": "The Uttar Pradesh Anganwadi Recruitment 2025 has been announced by the Bal Vikas Seva Evam Pustahar Vibhag. This recruitment aims to fill thousands of Anganwadi Worker and Helper positions across multiple districts in the state. The selection is based solely on merit, making it an excellent opportunity for eligible female candidates who meet the educational and residential requirements. District-wise application dates and vacancies have been released, allowing applicants to apply according to their respective district timelines.",
+        "totalPosts": "30000+",
+        "educationalQualifications": "12th Pass; Only female candidates are eligible and must be residents of the same village they apply from.",
+        "ageLimit": "18-35 Years as on 01 July 2025",
+        "applicationFee": "No Fees for all categories",
+        "paymentMode": [
+            "Not Applicable"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Uttar Pradesh",
+                    "Monthly Pay": "Rs. 4500/-",
+                    "Job Basis": "Temporary"
+                }
+            },
+            {
+                "title": "Eligibility Criteria",
+                "items": {
+                    "Education": "12th Passed",
+                    "Gender": "Only Females Eligible",
+                    "Residence": "Must be resident of the same village where applying",
+                    "Additional": "District-wise merit list will be prepared"
+                }
+            },
+            {
+                "title": "District Wise Vacancy Details",
+                "items": {
+                    "Raebareli (Helper)": "1034",
+                    "Amethi (Helper)": "1027",
+                    "Meerut (Worker)": "84",
+                    "Meerut (Helper)": "456",
+                    "Ayodhya (Worker)": "12",
+                    "Ayodhya (Helper)": "936",
+                    "Kanpur Dehat (Worker)": "08",
+                    "Kanpur Dehat (Helper)": "508",
+                    "Firozabad (Helper)": "964",
+                    "Mathura (Worker)": "98",
+                    "Sultanpur (Helper)": "809",
+                    "Sultanpur (Worker)": "07",
+                    "Kasganj (Helper)": "972",
+                    "Hamirpur (Helper)": "381",
+                    "Unnao (Helper)": "1312",
+                    "Sant Kabir Nagar (Helper)": "773",
+                    "Prayagraj (Helper)": "1081",
+                    "Barabanki (Worker)": "22",
+                    "Barabanki (Helper)": "716",
+                    "Etawah (Worker)": "08",
+                    "Hathras (Helper)": "680",
+                    "Lucknow (Helper)": "1106",
+                    "Shravasti (Helper)": "399",
+                    "Kaushambi (Helper)": "739",
+                    "Siddhartha Nagar (Worker)": "13",
+                    "Siddhartha Nagar (Helper)": "1191",
+                    "Bareilly (Worker)": "09",
+                    "Bareilly (Helper)": "705",
+                    "Jalaun (Helper)": "401",
+                    "Muzaffarnagar (Helper)": "489",
+                    "Basti (Helper)": "899",
+                    "Basti (Worker)": "16",
+                    "Farrukhabad (Helper)": "592",
+                    "Farrukhabad (Worker)": "11",
+                    "Chitrakoot (Helper)": "542",
+                    "Chitrakoot (Worker)": "08",
+                    "Hardoi (Helper)": "1180",
+                    "Ballia (Helper)": "1365",
+                    "Moradabad (Helper)": "1020",
+                    "Fatehpur (Helper)": "598",
+                    "Kannauj (Helper)": "444",
+                    "Kushinagar (Helper)": "1339",
+                    "Banda (Helper)": "447",
+                    "Sonbhadra (Worker)": "22",
+                    "Shahjahanpur (Helper)": "640",
+                    "Bahraich (Helper)": "1316",
+                    "Kanpur Nagar (Helper)": "801",
+                    "Saharanpur (Helper)": "984",
+                    "Mainpuri (Helper)": "380",
+                    "Mau (Helper)": "1044",
+                    "Mau (Worker)": "21",
+                    "Jaunpur (Helper)": "1231",
+                    "Bulandshahar (Helper)": "766",
+                    "Bulandshahar (Worker)": "91",
+                    "Varanasi (Helper)": "1218",
+                    "Sonbhadra (Helper)": "1188",
+                    "Maharajganj (Helper)": "1036",
+                    "Rampur (Helper)": "967",
+                    "Agra (Helper)": "1019",
+                    "Agra (Worker)": "09",
+                    "Mirzapur (Helper)": "944",
+                    "Sambhal (Worker)": "491",
+                    "Sambhal (Helper)": "491",
+                    "Ambedkar Nagar (Worker)": "22",
+                    "Ambedkar Nagar (Helper)": "849",
+                    "Chandauli (Worker)": "10",
+                    "Chandauli (Helper)": "528",
+                    "Gonda (Worker)": "14",
+                    "Gonda (Helper)": "725",
+                    "Lalitpur (Worker)": "22",
+                    "Lalitpur (Helper)": "262",
+                    "Pratapgarh (Worker)": "15",
+                    "Pratapgarh (Helper)": "1274",
+                    "Hapur (Worker)": "43",
+                    "Hapur (Helper)": "290",
+                    "Auraiya (Worker)": "10",
+                    "Auraiya (Helper)": "728",
+                    "Deoria (Worker)": "04",
+                    "Deoria (Helper)": "802",
+                    "Baghpat (Worker)": "61",
+                    "Baghpat (Helper)": "553",
+                    "Sitapur (Worker)": "38",
+                    "Sitapur (Helper)": "1408",
+                    "Lakhimpur Kheri (Worker)": "12",
+                    "Lakhimpur Kheri (Helper)": "1407",
+                    "Ghaziabad (Worker)": "74",
+                    "Ghaziabad (Helper)": "411",
+                    "Etah (Worker)": "542",
+                    "Etah (Helper)": "642",
+                    "Mahoba (Worker)": "06",
+                    "Mahoba (Helper)": "285",
+                    "Gautam Buddha Nagar (Worker)": "54",
+                    "Gautam Buddha Nagar (Helper)": "240",
+                    "Shamli (Helper)": "241",
+                    "Bijnor (Helper)": "1016",
+                    "Amroha (Worker)": "12",
+                    "Aligarh (Helper)": "907",
+                    "Pilibhit (Helper)": "453",
+                    "Jhansi (Helper)": "532",
+                    "Gorakhpur (Helper)": "1256",
+                    "Bhadohi (Helper)": "369",
+                    "Azamgarh (Helper)": "1554"
+                }
+            }
+        ],
+        "importantDates": {
+            "Start Date": "District Wise",
+            "Last Date": "District Wise 11:59 PM"
+        },
+        "selectionProcess": [
+            "Merit List",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Anganwadi Worker/Helper": "30000+"
+        },
+        "importantLinks": {
+            "Apply": "https://balvikasup.gov.in/",
+            "Official Website": "https://balvikasup.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Bal Vikas Seva Evam Pustahar Vibhag, Uttar Pradesh",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Merit Based"
+        }
+    },
+    {
+        "id": "kapurthala-rcf-550-apprentice-recruitment-2025",
+        "createdAt": "2025-12-09T18:10:00.000Z",
+        "updatedAt": "2025-12-10T06:01:00.000Z",
+        "title": "Kapurthala RCF 550 Apprentice Recruitment 2025",
+        "description": "Rail Coach Factory (RCF) Kapurthala has announced recruitment for 550 ITI Trade Apprentice positions under the Apprenticeship Act 1961. The recruitment covers various technical trades including Fitter, Welder, Electrician, Machinist, and other specialized trades. Candidates who have completed their ITI in the relevant trade can apply online. The selection will be made purely on merit basis considering ITI marks. This is an excellent opportunity for technical candidates to gain practical training at one of India's premier rail manufacturing units.",
+        "totalPosts": "550",
+        "educationalQualifications": "10th Pass + ITI in Related Trade from recognized institute.",
+        "ageLimit": "15-24 Years as on 07 January 2026",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/PH/Female Candidates: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Kapurthala, Punjab",
+                    "Job Type": "Apprentice Training",
+                    "Duration": "One Year",
+                    "Stipend": "As per Apprenticeship Act"
+                }
+            },
+            {
+                "title": "Trade Wise Vacancies",
+                "items": {
+                    "Fitter": "150",
+                    "Welder (G&E)": "180",
+                    "Machinist": "20",
+                    "Painter (General)": "30",
+                    "Carpenter": "30",
+                    "Electrician": "70",
+                    "AC & Ref Mechanic": "30",
+                    "Mechanic (Motor Vehicle)": "20",
+                    "Electronic Mechanic": "20",
+                    "Total Posts": "550"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational": "10th Class Passed",
+                    "Technical": "ITI in Related Trade from Recognized Institute",
+                    "Selection Criteria": "Merit based on ITI Marks"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "09/12/2025",
+            "Starting Date": "09/12/2025",
+            "Last Date": "07/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "Merit List Based on ITI Marks",
+            "Document Verification"
+        ],
+        "vacancyDetails": {
+            "ITI Trade Apprentice": "550"
+        },
+        "importantLinks": {
+            "Apply": "https://pardarsy.railnet.gov.in/apprentice-2025",
+            "Official Website": "https://rcf.indianrailways.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Rail Coach Factory, Kapurthala",
+            "Recruitment Year": "2025",
+            "Stipend": "As per Apprenticeship Act"
+        }
+    },
+    {
+        "id": "chandigarh-air-force-apprentice-recruitment-2025",
+        "createdAt": "2025-12-09T18:10:00.000Z",
+        "updatedAt": "2025-12-10T06:01:00.000Z",
+        "title": "Chandigarh Air Force Apprentice Recruitment 2025",
+        "description": "Indian Air Force Base Chandigarh has announced recruitment for 144 Apprentice positions under the Apprenticeship Act. This recruitment offers technical training opportunities in various trades for ITI qualified candidates. The selection process includes written examination, interview, document verification, and medical examination. Selected candidates will receive comprehensive training and a stipend during the apprenticeship period. The training course is scheduled to commence from 09 February 2026.",
+        "totalPosts": "144",
+        "educationalQualifications": "10th Passed + ITI in Related Trade with minimum 40% marks.",
+        "ageLimit": "17-35 Years as on 09 February 2026",
+        "applicationFee": "No Fees for All Candidates",
+        "paymentMode": [
+            "Not Applicable"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Chandigarh",
+                    "Job Type": "Apprentice Training",
+                    "Course Start Date": "09/02/2026",
+                    "Stipend": "As per Government Norms"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational": "10th Passed",
+                    "Technical": "ITI in Related Trade",
+                    "Minimum Marks in ITI": "40%",
+                    "Additional Requirement": "Medical Fitness Certificate Required"
+                }
+            },
+            {
+                "title": "Complete Timeline",
+                "items": {
+                    "Written Exam": "18/01/2026",
+                    "Interview": "19/01/2026",
+                    "Medical & DV": "19/01/2026",
+                    "Result Declaration": "23/01/2026",
+                    "Joining Instructions (Online)": "03/02/2026",
+                    "Training Commencement": "09/02/2026"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "07/12/2025",
+            "Starting Date": "07/12/2025",
+            "Last Date": "30/12/2025 11:59 PM",
+            "Exam Date": "18/01/2026",
+            "Interview Date": "19/01/2026",
+            "Medical DV Date": "19/01/2026",
+            "Merit List / Result Out": "23/01/2026",
+            "Dispatch of Joining Instructions": "03/02/2026",
+            "Course Start": "From 09/02/2026"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Interview",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Apprentice": "144"
+        },
+        "importantLinks": {
+            "Apply": "https://www.apprenticeship india.gov.in/",
+            "Official Website": "https://indianairforce.nic.in/"
+        },
+        "additionalDetails": {
+            "Department": "Indian Air Force, Chandigarh",
+            "Recruitment Year": "2025-26",
+            "Stipend": "As per Government Norms"
+        }
+    },
+    {
+        "id": "faridabad-police-82-spo-recruitment-2025",
+        "createdAt": "2025-12-09T18:10:00.000Z",
+        "updatedAt": "2025-12-10T06:01:00.000Z",
+        "title": "Faridabad Police 82 SPO Recruitment 2025",
+        "description": "Faridabad Police Department, Haryana is recruiting 82 Special Police Officers (SPO) through offline mode. This is a walk-in recruitment exclusively for Ex-Servicemen or employees who have served in HISF Battalion. Eligible candidates need to personally visit the District Inspector Office at Sector 21-C, Faridabad between 04 December 2025 to 15 December 2025 during office hours (9 AM to 5 PM) with all required documents. The selection will be based on interview, document verification, and medical examination.",
+        "totalPosts": "82",
+        "educationalQualifications": "Ex-Serviceman or HISF Battalion Employee (as per notification requirements).",
+        "ageLimit": "25-50 Years",
+        "applicationFee": "No Fees for All",
+        "paymentMode": [
+            "Offline Application - Walk-in"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Offline (Walk-in)",
+                    "Job Location": "Faridabad, Haryana",
+                    "Job Type": "Special Police Officer",
+                    "Job Basis": "Contractual",
+                    "Walk-in Timing": "09:00 AM to 05:00 PM"
+                }
+            },
+            {
+                "title": "How to Apply",
+                "items": {
+                    "Mode": "Walk-in with Documents",
+                    "Venue": "District Inspector Office, Sector 21-C, Faridabad",
+                    "Period": "04/12/2025 to 15/12/2025",
+                    "Timing": "09:00 AM to 05:00 PM"
+                }
+            },
+            {
+                "title": "Documents Required",
+                "items": {
+                    "Photographs": "4 Passport Size Photos",
+                    "Educational Certificates": "Original + Photocopy",
+                    "Service Documents": "Retirement/Discharge Certificate",
+                    "Medical Certificate": "Medical Fitness Certificate (issued at retirement)",
+                    "Identity Proof": "Aadhaar Card / Other Valid ID"
+                }
+            },
+            {
+                "title": "Eligibility Criteria",
+                "items": {
+                    "Primary Requirement": "Ex-Serviceman",
+                    "Alternative Requirement": "HISF Battalion Employee",
+                    "Note": "Candidates must bring all original documents for verification"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "04/12/2025 09:00 AM",
+            "Last Date": "15/12/2025 05:00 PM"
+        },
+        "selectionProcess": [
+            "Interview",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Special Police Officer (SPO)": "82"
+        },
+        "importantLinks": {
+            "Download Form": "https://sarkari.network/wp-content/uploads/Haryana-Police-SPO-Recruitment-2025-Application-Form.pdf",
+            "Official Website": "https://faridabadpolice.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Faridabad Police, Haryana",
+            "Recruitment Year": "2025",
+            "Selection Mode": "Walk-in Interview"
+        }
+    },
+    {
+        "id": "gsssb-fireman-cum-driver-recruitment-2025",
+        "createdAt": "2025-12-09T18:10:00.000Z",
+        "updatedAt": "2025-12-10T06:01:00.000Z",
+        "title": "GSSSB Fireman-cum-Driver Recruitment 2025",
+        "description": "Gujarat Subordinate Service Selection Board (GSSSB) has announced recruitment for 138 Fireman-cum-Driver (Class-3) positions. This recruitment is for candidates who have completed 10th class and possess professional qualification in firefighting along with HMV driving license. The comprehensive selection process includes written examination, physical efficiency test (PET), physical standard test (PST), driving test, document verification, and medical examination. Female candidates from all categories are exempted from application fees.",
+        "totalPosts": "138",
+        "educationalQualifications": "10th Passed + 6 Months Fireman Course / Driver-cum-Pump Operator Course + HMV Driving License.",
+        "ageLimit": "18-33 Years as on 23 December 2025",
+        "applicationFee": "General: Rs. 500/-; SC/ST/ESM/PH/Female (All Categories): Rs. 400/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Gujarat",
+                    "Job Type": "Fireman-cum-Driver (Class-3)",
+                    "Job Basis": "Permanent",
+                    "Pay Scale": "As per Gujarat Government Norms"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational": "10th Class Passed",
+                    "Professional Course": "6 Months Fireman's Course OR Driver-cum-Pump Operator Course",
+                    "License Requirement": "HMV (Heavy Motor Vehicle) Driving License Mandatory",
+                    "Physical Standards": "As per Gujarat Government norms for Fireman posts"
+                }
+            },
+            {
+                "title": "Application Fee Details",
+                "items": {
+                    "General Category": "Rs. 500/-",
+                    "Reserved Categories (SC/ST/ESM/PH)": "Rs. 400/-",
+                    "All Female Candidates": "Rs. 400/-",
+                    "Payment Mode": "Online Only",
+                    "Fees Last Date": "26/12/2025"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "04/12/2025",
+            "Starting Date": "09/12/2025",
+            "Last Date": "23/12/2025 11:59 PM",
+            "Fees Last Date": "26/12/2025"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "PET & PST Test",
+            "Driving Test",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Fireman-cum-Driver (Class-3)": "138"
+        },
+        "importantLinks": {
+            "Apply": "https://ojas.gujarat.gov.in/Home.aspx",
+            "Official Website": "https://gsssb.gujarat.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Gujarat Subordinate Service Selection Board",
+            "Recruitment Year": "2025",
+            "Pay Scale": "As per Gujarat Government Norms"
+        }
+    },
   {
     "id": "delhi-satyawati-college-non-teaching-recruitment-2025",
     "title": {
