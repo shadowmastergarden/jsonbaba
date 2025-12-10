@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "date": "2025-12-10",
+        "current_affairs": [
+            {
+                "topic": "Finance: SEBI Launches PaRRVA Platform to Combat Misleading Investment Claims",
+                "english": "The Securities and Exchange Board of India (SEBI) has introduced the PaRRVA platform, a new digital tool designed to verify investment claims and prevent misleading content from financial influencers. This initiative aims to protect retail investors from fraudulent investment advice and unverified claims circulating on social media.",
+                "hindi": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) ने PaRRVA प्लेटफॉर्म की शुरुआत की है, जो निवेश दावों को सत्यापित करने और वित्तीय प्रभावकों की भ्रामक सामग्री को रोकने के लिए एक नया डिजिटल उपकरण है। यह पहल खुदरा निवेशकों को धोखाधड़ी वाली निवेश सलाह और सोशल मीडिया पर फैल रहे असत्यापित दावों से बचाने के उद्देश्य से शुरू की गई है।",
+                "bengali": "ভারতীয় সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড (সেবি) PaRRVA প্ল্যাটফর্ম চালু করেছে, যা একটি নতুন ডিজিটাল টুল যা বিনিয়োগের দাবি যাচাই করতে এবং আর্থিক প্রভাবশালীদের বিভ্রান্তিকর বিষয়বস্তু প্রতিরোধ করতে ডিজাইন করা হয়েছে। এই উদ্যোগের লক্ষ্য খুচরা বিনিয়োগকারীদের প্রতারণামূলক বিনিয়োগ পরামর্শ এবং সোশ্যাল মিডিয়ায় প্রচারিত অযাচাইকৃত দাবি থেকে রক্ষা করা।"
+            },
+            {
+                "topic": "Technology: Adani Group to Build 2500 Crore AI Data Centre in Telangana",
+                "english": "The Adani Group has announced plans to establish a massive AI-powered green data centre in Telangana with an investment of 2500 crore rupees. This state-of-the-art facility will focus on sustainable technology and is expected to boost the state's digital infrastructure significantly.",
+                "hindi": "अडानी समूह ने तेलंगाना में 2500 करोड़ रुपये के निवेश के साथ एक विशाल एआई-संचालित हरित डेटा सेंटर स्थापित करने की योजना की घोषणा की है। यह अत्याधुनिक सुविधा टिकाऊ प्रौद्योगिकी पर केंद्रित होगी और राज्य के डिजिटल बुनियादी ढांचे को महत्वपूर्ण रूप से बढ़ावा देने की उम्मीद है।",
+                "bengali": "আদানি গ্রুপ তেলেঙ্গানায় ২৫০০ করোড় রুপি বিনিয়োগে একটি বিশাল এআই-চালিত সবুজ ডেটা সেন্টার স্থাপনের পরিকল্পনা ঘোষণা করেছে। এই অত্যাধুনিক সুবিধা টেকসই প্রযুক্তির উপর ফোকাস করবে এবং রাজ্যের ডিজিটাল অবকাঠামোতে উল্লেখযোগ্য বৃদ্ধি আশা করা হচ্ছে।"
+            },
+            {
+                "topic": "Defence: Indian Navy Launches Operation Sagar Bandhu to Support Sri Lanka",
+                "english": "The Indian Navy has deployed four additional warships to Sri Lanka under Operation Sagar Bandhu as part of humanitarian assistance and disaster relief efforts. This operation demonstrates India's commitment to regional cooperation and its role as a first responder in the Indian Ocean region.",
+                "hindi": "भारतीय नौसेना ने मानवीय सहायता और आपदा राहत प्रयासों के तहत ऑपरेशन सागर बंधु के अंतर्गत श्रीलंका में चार अतिरिक्त युद्धपोतों को तैनात किया है। यह अभियान क्षेत्रीय सहयोग के प्रति भारत की प्रतिबद्धता और हिंद महासागर क्षेत्र में प्रथम प्रतिक्रियाकर्ता के रूप में इसकी भूमिका को प्रदर्शित करता है।",
+                "bengali": "ভারতীয় নৌবাহিনী মানবিক সহায়তা এবং দুর্যোগ ত্রাণ প্রচেষ্টার অংশ হিসাবে অপারেশন সাগর বন্ধুর অধীনে শ্রীলঙ্কায় চারটি অতিরিক্ত যুদ্ধজাহাজ মোতায়েন করেছে। এই অভিযান আঞ্চলিক সহযোগিতার প্রতি ভারতের প্রতিশ্রুতি এবং ভারত মহাসাগর অঞ্চলে প্রথম সাড়াদানকারী হিসাবে এর ভূমিকা প্রদর্শন করে।"
+            },
+            {
+                "topic": "Awards: Raveena Tandon Receives PETA India's Highest Annual Award",
+                "english": "Bollywood actress Raveena Tandon has been honored with PETA India's top annual recognition for her outstanding contribution to animal welfare and rights. The award acknowledges her consistent efforts in promoting compassion towards animals and raising awareness about their protection.",
+                "hindi": "बॉलीवुड अभिनेत्री रवीना टंडन को पशु कल्याण और अधिकारों में उनके उत्कृष्ट योगदान के लिए पेटा इंडिया के शीर्ष वार्षिक सम्मान से सम्मानित किया गया है। यह पुरस्कार जानवरों के प्रति करुणा को बढ़ावा देने और उनकी सुरक्षा के बारे में जागरूकता बढ़ाने में उनके निरंतर प्रयासों को मान्यता देता है।",
+                "bengali": "বলিউড অভিনেত্রী রবীনা ট্যান্ডনকে পশু কল্যাণ এবং অধিকারে তাঁর অসাধারণ অবদানের জন্য পেটা ইন্ডিয়ার সর্বোচ্চ বার্ষিক স্বীকৃতি প্রদান করা হয়েছে। এই পুরস্কার পশুদের প্রতি সহানুভূতি প্রচার এবং তাদের সুরক্ষা সম্পর্কে সচেতনতা বৃদ্ধিতে তাঁর ধারাবাহিক প্রচেষ্টাকে স্বীকৃতি দেয়।"
+            },
+            {
+                "topic": "Infrastructure: NHAI's Raajmarg Infra InvIT Gets SEBI Approval for IPO",
+                "english": "The National Highways Authority of India's (NHAI) infrastructure investment trust, Raajmarg Infra InvIT, has received preliminary approval from SEBI to launch its public listing. This move will enable retail investors to participate in India's highway infrastructure development through a transparent investment vehicle.",
+                "hindi": "राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) के बुनियादी ढांचा निवेश ट्रस्ट, राजमार्ग इन्फ्रा InvIT को सेबी से अपनी सार्वजनिक लिस्टिंग शुरू करने के लिए प्रारंभिक मंजूरी मिल गई है। यह कदम खुदरा निवेशकों को एक पारदर्शी निवेश माध्यम के जरिए भारत के राजमार्ग बुनियादी ढांचे के विकास में भाग लेने में सक्षम बनाएगा।",
+                "bengali": "জাতীয় মহাসড়ক কর্তৃপক্ষের (এনএইচএআই) অবকাঠামো বিনিয়োগ ট্রাস্ট, রাজমার্গ ইনফ্রা InvIT তার পাবলিক লিস্টিং চালু করার জন্য সেবির কাছ থেকে প্রাথমিক অনুমোদন পেয়েছে। এই পদক্ষেপ খুচরা বিনিয়োগকারীদের একটি স্বচ্ছ বিনিয়োগ মাধ্যমের মাধ্যমে ভারতের মহাসড়ক অবকাঠামো উন্নয়নে অংশগ্রহণ করতে সক্ষম করবে।"
+            },
+            {
+                "topic": "Chess: 3-Year-Old Indian Becomes Youngest FIDE-Rated Chess Player",
+                "english": "A three-year-old Indian child has created history by becoming the youngest chess player ever to earn an official FIDE rating. This remarkable achievement showcases the early development of chess talent in India and sets a new benchmark in the global chess community.",
+                "hindi": "एक तीन वर्षीय भारतीय बच्चे ने आधिकारिक FIDE रेटिंग अर्जित करने वाले सबसे कम उम्र के शतरंज खिलाड़ी बनकर इतिहास रच दिया है। यह उल्लेखनीय उपलब्धि भारत में शतरंज प्रतिभा के प्रारंभिक विकास को प्रदर्शित करती है और वैश्विक शतरंज समुदाय में एक नया मानदंड स्थापित करती है।",
+                "bengali": "একজন তিন বছর বয়সী ভারতীয় শিশু আনুষ্ঠানিক FIDE রেটিং অর্জনকারী সর্বকনিষ্ঠ দাবা খেলোয়াড় হয়ে ইতিহাস সৃষ্টি করেছে। এই অসাধারণ সাফল্য ভারতে দাবা প্রতিভার প্রাথমিক বিকাশ প্রদর্শন করে এবং বিশ্বব্যাপী দাবা সম্প্রদায়ে একটি নতুন মানদণ্ড স্থাপন করে।"
+            },
+            {
+                "topic": "Achievement: Maharashtra Sets Guinness Record for Solar Pump Installation",
+                "english": "Maharashtra has achieved a Guinness World Record for the largest-scale installation of solar pumps in the agricultural sector. This initiative represents a major step towards sustainable farming practices and demonstrates the state's commitment to renewable energy adoption in rural areas.",
+                "hindi": "महाराष्ट्र ने कृषि क्षेत्र में सौर पंपों की सबसे बड़े पैमाने की स्थापना के लिए गिनीज विश्व रिकॉर्ड हासिल किया है। यह पहल टिकाऊ कृषि प्रथाओं की दिशा में एक महत्वपूर्ण कदम है और ग्रामीण क्षेत्रों में नवीकरणीय ऊर्जा अपनाने के प्रति राज्य की प्रतिबद्धता को प्रदर्शित करती है।",
+                "bengali": "মহারাষ্ট্র কৃষি ক্ষেত্রে সৌর পাম্পের বৃহত্তম মাপের ইনস্টলেশনের জন্য গিনেস ওয়ার্ল্ড রেকর্ড অর্জন করেছে। এই উদ্যোগ টেকসই কৃষি অনুশীলনের দিকে একটি বড় পদক্ষেপ এবং গ্রামীণ এলাকায় নবায়নযোগ্য শক্তি গ্রহণের প্রতি রাজ্যের প্রতিশ্রুতি প্রদর্শন করে।"
+            },
+            {
+                "topic": "Healthcare: India Prepares for Second WHO Traditional Medicine Summit",
+                "english": "India has commenced preparations to host the second WHO Global Summit on Traditional Medicine. This prestigious event will bring together experts, policymakers, and practitioners from around the world to discuss the integration of traditional medicine systems with modern healthcare.",
+                "hindi": "भारत ने पारंपरिक चिकित्सा पर दूसरे विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) वैश्विक शिखर सम्मेलन की मेजबानी की तैयारी शुरू कर दी है। यह प्रतिष्ठित कार्यक्रम दुनिया भर के विशेषज्ञों, नीति निर्माताओं और चिकित्सकों को पारंपरिक चिकित्सा प्रणालियों को आधुनिक स्वास्थ्य सेवा के साथ एकीकृत करने पर चर्चा करने के लिए एक साथ लाएगा।",
+                "bengali": "ভারত ঐতিহ্যবাহী চিকিৎসার উপর দ্বিতীয় বিশ্ব স্বাস্থ্য সংস্থার (WHO) বৈশ্বিক শিখর সম্মেলনের আয়োজনের প্রস্তুতি শুরু করেছে। এই মর্যাদাপূর্ণ অনুষ্ঠান বিশ্বজুড়ে বিশেষজ্ঞ, নীতিনির্ধারক এবং অনুশীলনকারীদের একত্রিত করবে ঐতিহ্যবাহী চিকিৎসা ব্যবস্থার আধুনিক স্বাস্থ্যসেবার সাথে একীকরণ নিয়ে আলোচনা করতে।"
+            },
+            {
+                "topic": "Animal Welfare: Anant Ambani Honored by Humane Society International",
+                "english": "Anant Ambani has been recognized as the youngest recipient of the Humane Society International's prestigious animal welfare award. The honor acknowledges his dedicated efforts towards animal conservation, rescue, and rehabilitation through his Vantara wildlife rescue initiative.",
+                "hindi": "अनंत अंबानी को ह्यूमेन सोसाइटी इंटरनेशनल के प्रतिष्ठित पशु कल्याण पुरस्कार का सबसे कम उम्र का प्राप्तकर्ता मान्यता मिली है। यह सम्मान उनके वंतारा वन्यजीव बचाव पहल के माध्यम से पशु संरक्षण, बचाव और पुनर्वास के लिए उनके समर्पित प्रयासों को स्वीकार करता है।",
+                "bengali": "অনন্ত আম্বানি হিউম্যান সোসাইটি ইন্টারন্যাশনালের মর্যাদাপূর্ণ পশু কল্যাণ পুরস্কারের সর্বকনিষ্ঠ প্রাপক হিসাবে স্বীকৃত হয়েছেন। এই সম্মান তাঁর বন্তারা বন্যপ্রাণী উদ্ধার উদ্যোগের মাধ্যমে পশু সংরক্ষণ, উদ্ধার এবং পুনর্বাসনের জন্য তাঁর নিবেদিত প্রচেষ্টাকে স্বীকৃতি দেয়।"
+            },
+            {
+                "topic": "Heritage: Gyan Bharatam Mission Launched to Preserve Ancient Manuscripts",
+                "english": "The Government of India has launched the Gyan Bharatam Mission, an ambitious initiative aimed at digitally preserving India's vast manuscript heritage. This project will use advanced technology to catalog, digitize, and make accessible thousands of ancient manuscripts, ensuring their preservation for future generations.",
+                "hindi": "भारत सरकार ने ज्ञान भारतम मिशन की शुरुआत की है, जो भारत की विशाल पांडुलिपि विरासत को डिजिटल रूप से संरक्षित करने का एक महत्वाकांक्षी पहल है। यह परियोजना हजारों प्राचीन पांडुलिपियों को सूचीबद्ध करने, डिजिटलीकरण करने और सुलभ बनाने के लिए उन्नत तकनीक का उपयोग करेगी, जिससे आने वाली पीढ़ियों के लिए उनका संरक्षण सुनिश्चित होगा।",
+                "bengali": "ভারত সরকার জ্ঞান ভারতম মিশন চালু করেছে, যা ভারতের বিশাল পাণ্ডুলিপি ঐতিহ্যকে ডিজিটালভাবে সংরক্ষণের লক্ষ্যে একটি উচ্চাভিলাষী উদ্যোগ। এই প্রকল্প হাজার হাজার প্রাচীন পাণ্ডুলিপি তালিকাভুক্ত, ডিজিটাইজ এবং অ্যাক্সেসযোগ্য করতে উন্নত প্রযুক্তি ব্যবহার করবে, ভবিষ্যৎ প্রজন্মের জন্য তাদের সংরক্ষণ নিশ্চিত করবে।"
+            }
+        ]
+    }
+]

@@ -1,28 +1,300 @@
 [
-  {
-    "id": "rrb-je-exam-card-2025",
-    "title": {
-      "en": "RRB JE exam Card 2025"
+    {
+        "id": "bshs-5006-anm-vacancy-exam-date-notice",
+        "createdAt": "2025-12-10T12:05:00.000Z",
+        "updatedAt": "2025-12-10T12:05:00.000Z",
+        "title": "BSHS 5006 ANM Vacancy Exam Date Notice",
+        "description": "Bihar State Health Society (BSHS) ने Auxiliary Nurse Midwife (ANM) के 5006 पदों के लिए परीक्षा की तिथि जारी कर दी है। यह भर्ती महिला उम्मीदवारों के लिए स्वास्थ्य विभाग में एक सुनहरा अवसर है जिसमें ANM Diploma धारक उम्मीदवार आवेदन कर सकते हैं।",
+        "importantDates": {
+            "Notification Out": "12/08/2025",
+            "Starting Date": "14/08/2025",
+            "Last Date": "28/08/2025 06:00 PM",
+            "Exam Date": "17-19 December 2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://shs.bihar.gov.in/"
+        }
     },
-    "introduction": {
-      "en": "Railway Recruitment Board (Ministry of Railway) ने Junior Engineer (JE) के पद के लिए Admit Card जारी कर दिया है। कुल 2569 पद उपलब्ध हैं। Admit Card 31 October 2025 से 30 November 2025 तक Download किया जा सकता है।"
+    {
+        "id": "bshs-220-ophthalmic-assistant-exam-date",
+        "createdAt": "2025-12-10T12:03:00.000Z",
+        "updatedAt": "2025-12-10T12:03:00.000Z",
+        "title": "BSHS 220 Ophthalmic Assistant Exam Date",
+        "description": "Bihar State Health Society द्वारा Ophthalmic Assistant के 220 पदों की परीक्षा तिथि की घोषणा की गई है। नेत्र चिकित्सा विभाग में कार्य करने का यह बेहतरीन मौका है जिसमें Optometry या Ophthalmic Assistant में Diploma धारक आवेदन कर सकते हैं।",
+        "importantDates": {
+            "Starting Date": "14/08/2025",
+            "Last Date": "28/08/2025 06:00 PM",
+            "Exam Date": "20/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://shs.bihar.gov.in/"
+        }
     },
-    "importantDates": {
-      "Notification Date": "31 October 2025",
-      "Online Apply Start Date": "31 October 2025",
-      "Online Apply Last Date": "30 November 2025",
-      "Last Date For Fee Payment": "02 December 2025",
-      "Exam Date": "Before Exam",
-      "Admit Card": "Notify Later",
-      "Answer Key": "Notify Later",
-      "Result Declared Date": "Notify Later"
+    {
+        "id": "jalandhar-nit-non-teaching-posts-exam-date",
+        "createdAt": "2025-12-10T11:06:00.000Z",
+        "updatedAt": "2025-12-10T11:06:00.000Z",
+        "title": "Jalandhar NIT Non-Teaching Posts Exam Date",
+        "description": "National Institute of Technology (NIT) Jalandhar ने विभिन्न Non-Teaching पदों जैसे Technical Assistant, Junior Engineer, Superintendent, Stenographer और Junior Assistant के लिए परीक्षा की तिथि निर्धारित कर दी है।",
+        "importantDates": {
+            "Notification Out": "26/08/2025",
+            "Starting Date": "28/08/2025",
+            "Last Date": "27/09/2025 11:59 PM",
+            "Exam Date": "29-31 January 2026 (Tentative)"
+        },
+        "importantLinks": {
+            "Official Website": "https://nitj.ac.in/template/index.html?id=0?category=news"
+        }
     },
-    "importantLinks": {
-      "Official Website": "https://www.rrbapply.gov.in/auth/home"
+    {
+        "id": "patna-high-court-stenographer-exam-date",
+        "createdAt": "2025-12-08T15:14:00.000Z",
+        "updatedAt": "2025-12-08T15:14:00.000Z",
+        "title": "Patna High Court Stenographer Exam Date",
+        "description": "Patna High Court ने Stenographer के 111 पदों की भर्ती परीक्षा की तिथि घोषित कर दी है। न्यायिक सेवा में Stenographer बनने का यह बेहतरीन अवसर है जिसमें Shorthand और Typing कौशल आवश्यक है।",
+        "importantDates": {
+            "Starting Date": "21/08/2025",
+            "Last Date": "19/09/2025 11:59 PM",
+            "Fees Last Date": "21/09/2025",
+            "Exam Date": "22/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://patnahighcourt.gov.in/notices/recruitments"
+        }
     },
-    "url": "https://www.rrbapply.gov.in/auth/home",
-    "customSections": [],
-    "createdAt": "2025-12-06T16:37:08.495Z",
-    "updatedAt": "2025-12-06T16:37:08.495Z"
-  }
+    {
+        "id": "rrb-paramedical-staff-application-status-notice",
+        "createdAt": "2025-12-08T12:36:00.000Z",
+        "updatedAt": "2025-12-08T12:36:00.000Z",
+        "title": "RRB Paramedical Staff Application Status Notice",
+        "description": "Railway Recruitment Board द्वारा Paramedical Staff भर्ती CEN 03/2025 के आवेदनों की स्थिति जारी की गई है। इसमें Nursing Superintendent, Pharmacist, Radiographer, Lab Assistant और अन्य पदों के लिए भर्ती होगी।",
+        "importantDates": {
+            "Starting Date": "09/08/2025",
+            "Last Date": "18/09/2025 11:59 PM (Extended)",
+            "Fees Last Date": "20/09/2025 (Extended)",
+            "Correction Date": "21-30 Sept 2025 (Extended)",
+            "Application Status Out": "09/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+        }
+    },
+    {
+        "id": "rrb-technician-6238-posts-application-status",
+        "createdAt": "2025-12-08T06:20:00.000Z",
+        "updatedAt": "2025-12-08T06:20:00.000Z",
+        "title": "RRB Technician 6238 Posts Application Status",
+        "description": "Railway Recruitment Board ने Technician Grade-I और Grade-III के 6238 पदों के लिए CEN 02/2025 आवेदन स्थिति प्रकाशित की है। तकनीकी क्षेत्र में रेलवे में करियर बनाने वाले ITI और Diploma धारकों के लिए यह सुनहरा अवसर है।",
+        "importantDates": {
+            "Starting Date": "28/06/2025",
+            "Last Date": "07/08/2025 11:59 PM (Extended)",
+            "Fees Last Date": "09/08/2025",
+            "Correction Date": "10-19 August 2025",
+            "Application Status Out": "08/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+        }
+    },
+    {
+        "id": "up-police-4543-sub-inspector-exam-date",
+        "createdAt": "2025-12-03T12:38:00.000Z",
+        "updatedAt": "2025-12-03T12:38:00.000Z",
+        "title": "UP Police 4543 Sub Inspector Exam Date",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board ने Sub Inspector (SI) के 4543 पदों की परीक्षा तिथि की घोषणा की है। पुलिस विभाग में अधिकारी बनने का यह सुनहरा अवसर है जिसमें Graduate उम्मीदवार आवेदन कर सकते हैं।",
+        "importantDates": {
+            "Notification Out": "12/08/2025",
+            "Starting Date": "12/08/2025",
+            "Last Date": "11/09/2025 11:59 PM",
+            "Fees Last Date": "15/09/2025 06:00 AM (Extended)",
+            "Correction Date": "12-15 Sept 2025",
+            "Exam Date": "14-15 March 2026",
+            "Admit Card": "Before Exam Date"
+        },
+        "importantLinks": {
+            "Official Website": "http://uppbpb.gov.in/"
+        }
+    },
+    {
+        "id": "bpsc-35-assistant-town-planner-exam-date",
+        "createdAt": "2025-12-03T11:28:00.000Z",
+        "updatedAt": "2025-12-03T11:28:00.000Z",
+        "title": "BPSC 35 Assistant Town Planner Exam Date",
+        "description": "Bihar Public Service Commission (BPSC) ने Assistant Town Planner के 35 पदों की परीक्षा तिथि निर्धारित की है। शहरी नियोजन में Post Graduate Degree रखने वाले उम्मीदवारों के लिए यह अच्छा अवसर है।",
+        "importantDates": {
+            "Notification Out": "23/08/2025",
+            "Starting Date": "28/08/2025",
+            "Last Date": "22/09/2025 11:59 PM",
+            "Exam Date": "30/01/2026 (Tentative)"
+        },
+        "importantLinks": {
+            "Official Website": "https://bpsc.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "bpsc-7279-special-school-teacher-exam-date",
+        "createdAt": "2025-12-02T09:28:00.000Z",
+        "updatedAt": "2025-12-02T09:28:00.000Z",
+        "title": "BPSC 7279 Special School Teacher Exam Date",
+        "description": "Bihar Public Service Commission द्वारा Special School Teacher के 7279 पदों की परीक्षा तिथि घोषित की गई है। विशेष शिक्षा में D.El.Ed या B.Ed योग्यता रखने वाले उम्मीदवारों के लिए यह महत्वपूर्ण भर्ती है।",
+        "importantDates": {
+            "Notification Out": "19/06/2025",
+            "Starting Date": "02/07/2025",
+            "Last Date": "28/07/2025 11:59 PM",
+            "Exam Date": "29/01/2026 (Tentative)",
+            "Admit Card": "Available Soon"
+        },
+        "importantLinks": {
+            "Official Website": "https://bpsc.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "nta-cmat-2026-online-exam-date-notice",
+        "createdAt": "2025-12-04T13:00:00.000Z",
+        "updatedAt": "2025-12-04T13:00:00.000Z",
+        "title": "NTA CMAT 2026 Online Exam Date Notice",
+        "description": "National Testing Agency (NTA) ने Common Management Admission Test (CMAT) 2026 की ऑनलाइन परीक्षा की तिथि जारी कर दी है। MBA करने के इच्छुक Graduate छात्रों के लिए यह प्रवेश परीक्षा महत्वपूर्ण है।",
+        "importantDates": {
+            "Notification Out": "17/10/2025",
+            "Starting Date": "17/10/2025",
+            "Last Date": "24/11/2025 11:50 PM (Extended)",
+            "Fees Last Date": "25/11/2025 11:50 PM (Extended)",
+            "Correction Date": "26-28 Nov 2025 (Revised)",
+            "Written Exam Date": "25/01/2026",
+            "Exam Admit Card": "Available Soon"
+        },
+        "importantLinks": {
+            "Official Website": "https://cmat.nta.nic.in/"
+        }
+    },
+    {
+        "id": "ssc-gd-constable-state-wise-vacancies-2026",
+        "createdAt": "2025-12-08T12:31:00.000Z",
+        "updatedAt": "2025-12-08T12:31:00.000Z",
+        "title": "SSC GD Constable State Wise Vacancies 2026",
+        "description": "Staff Selection Commission (SSC) ने GD Constable भर्ती 2026 की राज्यवार रिक्तियों का विवरण जारी किया है। CISF, BSF, CRPF, SSB, ITBP, Rifleman और Assam Rifles में GD Constable पद के लिए यह विस्तृत जानकारी उपलब्ध है।",
+        "importantDates": {
+            "Vacancy Details": "08/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://ssc.nic.in/"
+        }
+    },
+    {
+        "id": "kvs-nvs-revised-vacancies-notice-2025",
+        "createdAt": "2025-12-10T09:21:00.000Z",
+        "updatedAt": "2025-12-10T09:21:00.000Z",
+        "title": "KVS & NVS Revised Vacancies Notice 2025",
+        "description": "Kendriya Vidyalaya Sangathan (KVS) और Navodaya Vidyalaya Samiti (NVS) ने TGT, PGT, PRT और Non-Teaching पदों की संशोधित रिक्तियों की सूचना जारी की है। शिक्षा क्षेत्र में करियर बनाने का यह सुनहरा मौका है।",
+        "importantDates": {
+            "Notice Date": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://kvsangathan.nic.in/"
+        }
+    },
+    {
+        "id": "aiims-cre-group-b-c-posts-application-status",
+        "createdAt": "2025-12-09T07:10:00.000Z",
+        "updatedAt": "2025-12-09T07:10:00.000Z",
+        "title": "AIIMS CRE Group B, C Posts Application Status",
+        "description": "All India Institute of Medical Sciences (AIIMS) ने Common Recruitment Examination (CRE) 2026 के Group B और C पदों के आवेदन स्थिति की जानकारी जारी की है। चिकित्सा संस्थानों में विभिन्न पदों के लिए उम्मीदवार अपनी स्थिति देख सकते हैं।",
+        "importantDates": {
+            "Application Status": "09/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://aiims.edu/"
+        }
+    },
+    {
+        "id": "rrb-cen-07-24-jr-translator-skill-test-date",
+        "createdAt": "2025-12-08T05:18:00.000Z",
+        "updatedAt": "2025-12-08T05:18:00.000Z",
+        "title": "RRB CEN 07/24 (Jr Translator) Skill Test Date",
+        "description": "Railway Recruitment Board ने CEN 07/2024 के अंतर्गत Junior Translator पद की Skill Test तिथि की घोषणा की है। हिंदी और अंग्रेजी भाषा कौशल में निपुण Graduate उम्मीदवारों के लिए यह परीक्षा आयोजित होगी।",
+        "importantDates": {
+            "Skill Test Date": "To be announced"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/railwayboard/"
+        }
+    },
+    {
+        "id": "bhel-515-artisan-vacancy-re-exam-date",
+        "createdAt": "2025-12-06T12:10:00.000Z",
+        "updatedAt": "2025-12-06T12:10:00.000Z",
+        "title": "BHEL 515 Artisan Vacancy Re-Exam Date",
+        "description": "Bharat Heavy Electricals Limited (BHEL) ने Artisan के 515 पदों की पुनः परीक्षा की तिथि जारी की है। ITI या समकक्ष योग्यता रखने वाले तकनीकी कारीगरों के लिए यह महत्वपूर्ण अपडेट है।",
+        "importantDates": {
+            "Re-Exam Date": "To be announced"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.bhel.com/"
+        }
+    },
+    {
+        "id": "hssc-cet-group-c-result-grievance-portal",
+        "createdAt": "2025-12-06T05:17:00.000Z",
+        "updatedAt": "2025-12-06T05:17:00.000Z",
+        "title": "HSSC CET (Group C) Result Grievance Portal",
+        "description": "Haryana Staff Selection Commission (HSSC) ने Common Entrance Test (CET) Group C के परिणाम के लिए Grievance Portal खोल दिया है। परीक्षार्थी अपने अंकों या परिणाम से संबंधित शिकायत ऑनलाइन दर्ज करा सकते हैं।",
+        "importantDates": {
+            "Grievance Portal Open": "06/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://hssc.gov.in/"
+        }
+    },
+    {
+        "id": "rrb-01-2025-alp-vacancy-application-status",
+        "createdAt": "2025-12-05T05:57:00.000Z",
+        "updatedAt": "2025-12-05T05:57:00.000Z",
+        "title": "RRB 01/2025 ALP Vacancy Application Status",
+        "description": "Railway Recruitment Board ने CEN 01/2025 के Assistant Loco Pilot (ALP) भर्ती के आवेदनों की स्थिति प्रकाशित की है। ITI या Diploma in Mechanical/Electrical Engineering करने वाले युवा अपने आवेदन की जानकारी प्राप्त कर सकते हैं।",
+        "importantDates": {
+            "Application Status": "05/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/railwayboard/"
+        }
+    },
+    {
+        "id": "psssb-various-posts-revised-exam-date-2025",
+        "createdAt": "2025-12-02T08:25:00.000Z",
+        "updatedAt": "2025-12-02T08:25:00.000Z",
+        "title": "PSSSB Various Posts Revised Exam Date 2025",
+        "description": "Punjab Subordinate Services Selection Board (PSSSB) ने 2025-26 की विभिन्न पदों की संशोधित परीक्षा तिथि की घोषणा की है। पंजाब सरकार की विभिन्न सेवाओं जैसे Clerk, Stenographer और अन्य पदों में भर्ती का मौका है।",
+        "importantDates": {
+            "Revised Exam Date": "To be announced"
+        },
+        "importantLinks": {
+            "Official Website": "https://sssb.punjab.gov.in/"
+        }
+    },
+    {
+        "id": "bpsc-33-district-sports-officer-dso-exam-date",
+        "createdAt": "2025-12-01T21:27:00.000Z",
+        "updatedAt": "2025-12-01T21:27:00.000Z",
+        "title": "BPSC 33 District Sports Officer (DSO) Exam Date",
+        "description": "Bihar Public Service Commission ने District Sports Officer (DSO) के 33 पदों की परीक्षा तिथि जारी की है। खेल प्रशासन में Post Graduate Degree in Physical Education रखने वाले उम्मीदवारों के लिए यह परीक्षा आयोजित होगी।",
+        "importantDates": {
+            "Exam Date": "To be announced"
+        },
+        "importantLinks": {
+            "Official Website": "https://bpsc.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "psssb-01-25-naib-tehsildar-new-exam-date",
+        "createdAt": "2025-12-01T10:35:00.000Z",
+        "updatedAt": "2025-12-01T10:35:00.000Z",
+        "title": "PSSSB 01/25 Naib Tehsildar New Exam Date",
+        "description": "Punjab Subordinate Services Selection Board (PSSSB) ने Naib Tehsildar पदों की नई परीक्षा तिथि जारी की है। राजस्व विभाग में Graduate degree धारक उम्मीदवारों के लिए यह महत्वपूर्ण पद है।",
+        "importantDates": {
+            "New Exam Date": "To be announced"
+        },
+        "importantLinks": {
+            "Official Website": "https://sssb.punjab.gov.in/"
+        }
+    }
 ]
