@@ -1,5 +1,821 @@
 [
     {
+        "id": "hprca-530-patwari-recruitment-2025",
+        "createdAt": "2025-12-10T06:45:00.000Z",
+        "updatedAt": "2025-12-10T06:45:00.000Z",
+        "title": "HPRCA 530 Patwari Recruitment 2025",
+        "description": "Himachal Pradesh Recruitment and Career Advancement (HPRCA) has announced recruitment for 530 Patwari (Job-Trainee) positions. This is a significant opportunity for 12th pass candidates to join Himachal Pradesh government services. The selection will be conducted through Computer Based Test (CBT) Written Examination followed by Document Verification and Medical Examination. All candidates need to pay Rs. 800/- as application fees with an additional Rs. 100/- for corrections if needed. Applications will be accepted online from 12 December 2025 till 16 January 2026, providing sufficient time for interested candidates to apply. The recruitment offers excellent career prospects in revenue administration.",
+        "totalPosts": "530",
+        "educationalQualifications": "12th Class Passed from recognized board",
+        "ageLimit": "18-45 Years as on 01/01/2025",
+        "applicationFee": "Rs. 800/- for all candidates; Correction Fees: Rs. 100/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Himachal Pradesh (Statewide)",
+                    "Department": "Himachal Pradesh Recruitment and Career Advancement (HPRCA)",
+                    "Post Name": "Patwari (Job-Trainee)",
+                    "Job Type": "Permanent after training"
+                }
+            },
+            {
+                "title": "Application Fee Details",
+                "items": {
+                    "Application Fee": "Rs. 800/- (applicable for all categories)",
+                    "Correction Fee": "Rs. 100/- (if correction needed)",
+                    "Payment Mode": "Online only",
+                    "Note": "No fee concession for any category"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "06/12/2025",
+            "Starting Date": "12/12/2025",
+            "Last Date": "16/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "CBT Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "530"
+        },
+        "importantLinks": {
+            "Apply": "https://hprca.hp.gov.in/homepage",
+            "Official Website": "https://hprca.hp.gov.in/homepage"
+        },
+        "additionalDetails": {
+            "Department": "Himachal Pradesh Recruitment and Career Advancement",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per HP Government Norms for Patwari"
+        }
+    },
+    {
+        "id": "hprca-312-assistant-staff-nurse-recruitment-2025",
+        "createdAt": "2025-12-10T06:45:00.000Z",
+        "updatedAt": "2025-12-10T06:45:00.000Z",
+        "title": "HPRCA 312 Assistant Staff Nurse Recruitment 2025",
+        "description": "Himachal Pradesh Recruitment and Career Advancement (HPRCA) has announced recruitment for 312 Assistant Staff Nurse positions. Candidates with GNM (General Nursing & Midwifery) or B.Sc Nursing with 50% marks are eligible to apply. This is a great opportunity to join Himachal Pradesh Health Department as a nursing professional. The selection process includes Computer Based Test (CBT) Written Exam, Document Verification, and Medical Examination. Application fees of Rs. 800/- is applicable for all candidates with no category-wise concessions. Online applications will be accepted from 12 December 2025 to 16 January 2026.",
+        "totalPosts": "312",
+        "educationalQualifications": "GNM / B.Sc Nursing with 50% Marks",
+        "ageLimit": "21-32 Years as on 01/01/2025",
+        "applicationFee": "Rs. 800/- for all candidates; Correction Fees: Rs. 100/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Himachal Pradesh (Statewide)",
+                    "Department": "Himachal Pradesh Recruitment and Career Advancement (HPRCA)",
+                    "Post Name": "Assistant Staff Nurse",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Option 1": "GNM (General Nursing & Midwifery) with 50% marks",
+                    "Option 2": "B.Sc Nursing with 50% marks",
+                    "Additional": "Valid registration with State/Indian Nursing Council mandatory"
+                }
+            },
+            {
+                "title": "Application Fee Details",
+                "items": {
+                    "Application Fee": "Rs. 800/- (applicable for all categories)",
+                    "Correction Fee": "Rs. 100/- (if correction needed)",
+                    "Payment Mode": "Online only",
+                    "Note": "No fee concession for any category"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "06/12/2025",
+            "Starting Date": "12/12/2025",
+            "Last Date": "16/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "CBT Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "312"
+        },
+        "importantLinks": {
+            "Apply": "https://hprca.hp.gov.in/homepage",
+            "Official Website": "https://hprca.hp.gov.in/homepage"
+        },
+        "additionalDetails": {
+            "Department": "Himachal Pradesh Recruitment and Career Advancement / HP Health Department",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per HP Government Norms for nursing cadre"
+        }
+    },
+    {
+        "id": "bombay-high-court-recruitment-2025-26",
+        "createdAt": "2025-12-10T06:45:00.000Z",
+        "updatedAt": "2025-12-10T06:45:00.000Z",
+        "title": "Bombay High Court Recruitment 2025",
+        "description": "Bombay High Court has announced a massive recruitment drive for 2,504 positions across Clerk, Peon/Hamal/Farash, Staff Car Driver, Stenographer (Lower Grade), and Stenographer (Higher Grade) posts. This recruitment covers High Court Bombay, Bench at Nagpur, and Bench at Aurangabad with attractive pay scales ranging from Rs. 16,600/- to Rs. 77,500/- plus allowances. The selection process includes Written Examination, Post-wise Skill Tests, Personal Interview, Document Verification, and Medical Examination. Application fees of Rs. 1000/- is uniform for all categories and must be paid through SBI Collect portal only. Applications will be accepted from 15 December 2025 (11 AM) to 05 January 2026 (5 PM).",
+        "totalPosts": "2504",
+        "educationalQualifications": "Varies by post - 7th to Graduation with specific skills like typing, computer, Marathi knowledge, driving license",
+        "ageLimit": "Driver/Steno: 21-38 Years; Clerk/Peon: 18-38 Years as on 05/01/2026",
+        "applicationFee": "Rs. 1000/- for all candidates (Payment via SBI Collect only)",
+        "paymentMode": [
+            "SBI Collect"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Mumbai, Nagpur, Aurangabad (Maharashtra)",
+                    "Department": "Bombay High Court",
+                    "Application Start": "15/12/2025 at 11:00 AM",
+                    "Payment Mode": "SBI Collect Portal Only"
+                }
+            },
+            {
+                "title": "Post Wise Vacancies",
+                "items": {
+                    "Clerk": "1382 (Select: 1279, Wait List: 321)",
+                    "Peon/Hamal/Farash": "887 (Select: 851, Wait List: 213)",
+                    "Staff Car Driver": "37 (Select: 37, Wait List: 10)",
+                    "Stenographer (Lower Grade)": "56 (Select: 54, Wait List: 14)",
+                    "Stenographer (Higher Grade)": "19 (Select: 19, Wait List: 4)",
+                    "Grand Total": "2381+ (including wait list)"
+                }
+            },
+            {
+                "title": "Pay Scale Details",
+                "items": {
+                    "Clerk": "S-10: Rs. 29,200 – 92,300/- + Allowances",
+                    "Peon/Hamal": "S-10: Rs. 16,600 – 52,400/- + Allowances",
+                    "Staff Car Driver": "S-10: Rs. 29,200 – 92,300/- + Allowances",
+                    "Steno (Lower Grade)": "S-18: Rs. 49,100 – 55,800/- + Allowances",
+                    "Steno (Higher Grade)": "S-20: Rs. 56,100 – 77,500/- + Allowances"
+                }
+            },
+            {
+                "title": "Post Wise Qualification",
+                "items": {
+                    "Clerk": "Graduation + English Typing (40 WPM) + Computer Certificate",
+                    "Peon": "7th Class + Knowledge of Marathi Language",
+                    "Staff Car Driver": "10th + LMV Driving License + 3 Years Experience + Marathi & Hindi knowledge",
+                    "Steno (Lower)": "Graduation + 80 wpm Shorthand + 40 wpm Typing + Computer Course",
+                    "Steno (Higher)": "Graduation + 100 wpm Shorthand + 40 wpm Typing + Computer Course"
+                }
+            },
+            {
+                "title": "Establishment Wise Distribution",
+                "items": {
+                    "High Court, Bombay": "1429 posts across all categories",
+                    "Bench at Nagpur": "291 posts across all categories",
+                    "Bench at Aurangabad": "560 posts across all categories",
+                    "Note": "Additional wait list candidates for each establishment"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "08/12/2025",
+            "Starting Date": "15/12/2025 11:00 AM",
+            "Last Date": "05/01/2026 05:00 PM",
+            "Exam Date": "Available Soon",
+            "Admit Card": "Available Soon"
+        },
+        "selectionProcess": [
+            "Written Examination",
+            "Skill Test (Post Wise)",
+            "Personal Interview",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "2504"
+        },
+        "importantLinks": {
+            "Apply": "https://bombayhighcourt.nic.in/recruitment.php",
+            "Official Website": "https://bombayhighcourt.nic.in/recruitment.php"
+        },
+        "additionalDetails": {
+            "Department": "Bombay High Court, Maharashtra",
+            "Recruitment Year": "2025-26",
+            "Recruitment Type": "Direct Recruitment with Select List and Wait List"
+        }
+    },
+    {
+        "id": "assam-police-1715-constable-recruitment-2025-26",
+        "createdAt": "2025-12-10T06:45:00.000Z",
+        "updatedAt": "2025-12-10T06:45:00.000Z",
+        "title": "Assam Police 1715 Constable Recruitment 2025",
+        "description": "State Level Police Recruitment Board (SLPRB), Assam has announced recruitment for 1,715 Constable positions including 1,052 Constable (Unarmed Branch-UB) and 663 Constable (Armed Branch-AB). This is a completely FREE recruitment with no application fees for any category. The recruitment is exclusively for Assam residents only. Constable (UB) requires 12th class while Constable (AB) requires 10th class qualification. The selection includes Physical Efficiency Test (40-60 marks), Medical Examination, Physical Standard Test (qualifying), Written Test (50 marks - 100 MCQs with no negative marking), and Oral/Viva-Voce (5 marks). Selected candidates will receive pay scale of Rs. 14,000-70,000/- with Grade Pay Rs. 5,600/- plus allowances. Applications will be accepted from 16 December 2025 to 16 January 2026.",
+        "totalPosts": "1715",
+        "educationalQualifications": "Constable (UB): 12th Class; Constable (AB): 10th Class; Only Assam residents eligible",
+        "ageLimit": "18-25 Years as on 01/01/2026 (Born between 01/01/2001 to 01/01/2008)",
+        "applicationFee": "No Fees for all candidates (Completely FREE)",
+        "paymentMode": [
+            "No payment required"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Assam (Statewide)",
+                    "Department": "State Level Police Recruitment Board (SLPRB), Assam",
+                    "Application Fee": "NO FEES (Completely Free for all)",
+                    "Eligibility": "Only residents of Assam are eligible to apply"
+                }
+            },
+            {
+                "title": "Post Wise Distribution",
+                "items": {
+                    "Constable (Unarmed Branch - UB)": "1052 posts (Requires 12th Pass)",
+                    "Constable (Armed Branch - AB)": "663 posts (Requires 10th Pass)",
+                    "Total Posts": "1715",
+                    "Residential Requirement": "Only Assam residents eligible"
+                }
+            },
+            {
+                "title": "Pay Scale",
+                "items": {
+                    "Basic Pay": "Rs. 14,000 - 70,000/-",
+                    "Grade Pay": "Rs. 5,600/-",
+                    "Additional": "Other allowances as admissible under rules"
+                }
+            },
+            {
+                "title": "Written Exam Pattern",
+                "items": {
+                    "Total Questions": "100 (MCQ, Objective Type)",
+                    "Total Marks": "50 (Each correct = 0.5 marks)",
+                    "Negative Marking": "NO negative marking",
+                    "Question Level": "Class IX and X Standard",
+                    "Exam Mode": "OMR Based",
+                    "Subjects": "Elementary Arithmetic, General English, Logical Reasoning, Assam History/Geography/Polity/Economy, GK & Current Affairs",
+                    "Languages": "Assamese, Bodo, Bengali, English"
+                }
+            },
+            {
+                "title": "Physical Efficiency Test (PET)",
+                "items": {
+                    "Constable (UB) Male": "40 marks",
+                    "Constable (UB) Female": "40 marks",
+                    "Constable (AB) Female": "40 marks",
+                    "Constable (AB) Male": "60 marks",
+                    "Note": "Physical tests include running, long jump, etc."
+                }
+            },
+            {
+                "title": "Selection Stages",
+                "items": {
+                    "Stage 1": "Physical Efficiency Test (40-60 marks based on post)",
+                    "Stage 2": "Medical Examination for mental and bodily health",
+                    "Stage 3": "Physical Standard Test (Height, Chest - Qualifying only)",
+                    "Stage 4": "Written Test (50 marks)",
+                    "Stage 5": "Oral/Viva-Voce (5 marks)"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "05/12/2025",
+            "Starting Date": "16/12/2025",
+            "Last Date": "16/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "Physical Efficiency Test (PET)",
+            "Medical Examination",
+            "Physical Standard Test (PST)",
+            "Written Test",
+            "Oral / Viva-Voce"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "1715"
+        },
+        "importantLinks": {
+            "Apply": "https://slprbassam.in/",
+            "Official Website": "https://slprbassam.in/"
+        },
+        "additionalDetails": {
+            "Department": "State Level Police Recruitment Board, Assam",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "Rs. 14,000-70,000/- with Grade Pay Rs. 5,600/-",
+            "Special Note": "Only Assam residents eligible & No application fees"
+        }
+    },
+    {
+        "id": "delhi-police-737-driver-recruitment-2025",
+        "createdAt": "2025-12-10T06:45:00.000Z",
+        "updatedAt": "2025-12-10T06:45:00.000Z",
+        "title": "Delhi Police 737 Driver Recruitment 2025",
+        "description": "Staff Selection Commission (SSC) on behalf of Delhi Police has announced recruitment for 737 Constable (Driver) Male positions. Candidates must be 12th pass with HMV (Heavy Motor Vehicle) Driving License and knowledge of vehicle maintenance. The recruitment includes regular posts (654) and Ex-Servicemen quota (83) with comprehensive category-wise reservations. The online application period has ended, but candidates must select their exam date and city slots between 05 December to 10 December 2025. The Computer Based Test (CBT) is scheduled for 16-17 December 2025. Selected candidates will undergo driving tests to assess their practical driving and vehicle maintenance skills. Application fees were Rs. 100/- for General/OBC/EWS with exemption for SC/ST/ESM categories. Form correction charges are Rs. 200/- for first time and Rs. 500/- for second time.",
+        "totalPosts": "737",
+        "educationalQualifications": "12th Class Passed + HMV Driving License + Knowledge of Vehicle Maintenance",
+        "ageLimit": "21-30 Years as on 01/07/2025 (Born between 02/07/1995 to 01/07/2004)",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/ESM: Nil; Correction: 1st time Rs. 200/-, 2nd time Rs. 500/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Delhi",
+                    "Conducting Body": "Staff Selection Commission (SSC)",
+                    "Department": "Delhi Police",
+                    "Post Name": "Constable (Driver) - Male only",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "Open Merit": "654 posts (UR: 316, EWS: 66, OBC: 153, SC: 72, ST: 47)",
+                    "Ex-Servicemen (ESM)": "83 posts (UR: 35, EWS: 07, OBC: 17, SC: 15, ST: 09)",
+                    "Total Posts": "737"
+                }
+            },
+            {
+                "title": "Detailed Category Distribution",
+                "items": {
+                    "UR (Unreserved)": "351",
+                    "EWS": "73",
+                    "OBC": "170",
+                    "SC": "87",
+                    "ST": "56",
+                    "Grand Total": "737"
+                }
+            },
+            {
+                "title": "Slot Selection Schedule",
+                "items": {
+                    "Current Process": "Exam Date & City Selection (Slot Selection)",
+                    "Slot Selection Start": "05/12/2025",
+                    "Slot Selection End": "10/12/2025 11:00 PM (TODAY)",
+                    "CBT Exam Dates": "16-17 December 2025",
+                    "Note": "Candidates must select exam date and city slots online immediately"
+                }
+            },
+            {
+                "title": "Important Requirements",
+                "items": {
+                    "Educational": "12th Class Passed",
+                    "Driving License": "HMV (Heavy Motor Vehicle) Driving License mandatory",
+                    "Additional Skill": "Knowledge of Maintenance of Vehicles required",
+                    "Age Calculation": "As on 01/07/2025",
+                    "Birth Date Range": "Between 02/07/1995 to 01/07/2004"
+                }
+            },
+            {
+                "title": "Correction Details",
+                "items": {
+                    "Correction Date": "31 Oct to 02 Nov 2025 (Revised)",
+                    "First Time Correction": "Rs. 200/-",
+                    "Second Time Correction": "Rs. 500/-",
+                    "Note": "Correction period already over"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "24/09/2025",
+            "Application Start": "24/09/2025",
+            "Application Last Date": "15/10/2025 11:00 PM",
+            "Fees Last Date": "16/10/2025 11:00 PM",
+            "Correction Date": "31 Oct to 02 Nov 2025",
+            "Slot Selection Start": "05/12/2025",
+            "Slot Selection Last Date": "10/12/2025 11:00 PM",
+            "CBT Exam": "16-17 December 2025",
+            "Admit Card": "Available Soon"
+        },
+        "selectionProcess": [
+            "CBT Written Exam",
+            "PET & PMT Test",
+            "Driving Test",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "737"
+        },
+        "importantLinks": {
+            "Slot Selection": "https://ssc.gov.in/login",
+            "Apply/Registration": "https://ssc.gov.in/",
+            "Official Website": "https://ssc.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Delhi Police (via Staff Selection Commission)",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per Delhi Police / 7th Pay Commission norms",
+            "Special Note": "HMV Driving License and vehicle maintenance knowledge mandatory"
+        }
+    },
+    {
+        "id": "jkssb-600-accounts-assistant-recruitment-2025",
+        "createdAt": "2025-12-10T06:30:00.000Z",
+        "updatedAt": "2025-12-10T06:30:00.000Z",
+        "title": "JKSSB 600 Accounts Assistant Recruitment 2025",
+        "description": "Jammu & Kashmir Services Selection Board (JKSSB) has announced recruitment for 600 Accounts Assistant positions. This is a major recruitment drive for graduate candidates across various categories including reserved categories. The selection will be based on Written Examination followed by Document Verification and Medical Examination. Candidates from general category need to pay Rs. 600/- while reserved category candidates have reduced fees. Applications are being accepted online till 06 January 2026, providing ample time for interested candidates to apply.",
+        "totalPosts": "600",
+        "educationalQualifications": "Graduation in any Stream from a recognized university",
+        "ageLimit": "18-40 Years as on 01/01/2025",
+        "applicationFee": "Unreserved: Rs. 600/-; SC/ST/EWS/PH: Rs. 500/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Jammu & Kashmir",
+                    "Board": "Jammu & Kashmir Services Selection Board",
+                    "Post Name": "Accounts Assistant",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "OM (Open Merit)": "240",
+                    "EWS": "60",
+                    "OBC": "48",
+                    "SC": "48",
+                    "ST-1": "60",
+                    "ST-2": "60",
+                    "RBA": "60",
+                    "ALC/IB": "24",
+                    "Total": "600"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Educational": "Graduation in any Stream",
+                    "University": "From any recognized University",
+                    "Note": "Final year candidates can also apply"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "24/11/2025",
+            "Starting Date": "08/12/2025",
+            "Last Date": "06/01/2026 11:59 PM"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "600"
+        },
+        "importantLinks": {
+            "Apply": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
+            "Official Website": "https://jkssb.nic.in/"
+        },
+        "additionalDetails": {
+            "Department": "Jammu & Kashmir Services Selection Board",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per J&K Government Norms"
+        }
+    },
+    {
+        "id": "gurugram-nise-executive-assistant-recruitment-2025",
+        "createdAt": "2025-12-10T06:30:00.000Z",
+        "updatedAt": "2025-12-10T06:30:00.000Z",
+        "title": "Gurugram NISE Executive Assistant Recruitment 2025",
+        "description": "National Institute of Solar Energy (NISE), Gurugram has announced recruitment for 05 Executive Assistant-I (Scientific Support Staff) positions. Candidates with Degree/Diploma in Engineering or B.Sc with basic computer knowledge are eligible. This is a prestigious opportunity to work with a premier national institute dedicated to solar energy research and development. The recruitment is specifically for scientific support staff, and female candidates along with SC/ST/PH categories are exempted from application fees, promoting inclusive participation.",
+        "totalPosts": "05",
+        "educationalQualifications": "Degree/Diploma in Engineering OR B.Sc with Basic Computer Knowledge",
+        "ageLimit": "Maximum 35 Years as on 04/01/2026",
+        "applicationFee": "Gen/OBC/EWS: Rs. 1000/-; SC/ST/PH/Female: Nil",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Gurugram, Haryana",
+                    "Institute": "National Institute of Solar Energy (NISE)",
+                    "Post Name": "Executive Assistant-I (Scientific Support Staff)",
+                    "Job Type": "Contractual/Permanent"
+                }
+            },
+            {
+                "title": "Qualification Details",
+                "items": {
+                    "Option 1": "Degree in Engineering (any discipline)",
+                    "Option 2": "Diploma in Engineering (any discipline)",
+                    "Option 3": "B.Sc (any stream) with Basic Computer Knowledge",
+                    "Additional Requirement": "Working knowledge of MS Office and computers mandatory"
+                }
+            },
+            {
+                "title": "Application Fee Exemption",
+                "items": {
+                    "General/OBC/EWS": "Rs. 1000/-",
+                    "SC/ST Category": "No Fees",
+                    "PH (Divyang)": "No Fees",
+                    "All Female Candidates": "No Fees",
+                    "Note": "Promoting gender equality and social inclusion"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "06/12/2025",
+            "Starting Date": "06/12/2025",
+            "Last Date": "04/01/2026 05:00 PM"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "05"
+        },
+        "importantLinks": {
+            "Apply": "https://nise.onlineapplication.org.in/#/",
+            "Official Website": "https://nise.res.in/"
+        },
+        "additionalDetails": {
+            "Department": "National Institute of Solar Energy, Gurugram",
+            "Recruitment Year": "2025-26",
+            "Ministry": "Ministry of New and Renewable Energy"
+        }
+    },
+    {
+        "id": "csir-ngri-mts-recruitment-2025",
+        "createdAt": "2025-12-10T06:30:00.000Z",
+        "updatedAt": "2025-12-10T06:30:00.000Z",
+        "title": "CSIR-NGRI Multi-Tasking Staff Recruitment 2025",
+        "description": "Council of Scientific & Industrial Research - National Geophysical Research Institute (CSIR-NGRI), Hyderabad has announced recruitment for 12 Multi-Tasking Staff (MTS) positions. This recruitment is for 10th pass candidates who will be selected through Trade Test, Written Examination, Document Verification, and Medical Examination. The application fee is to be paid through SBI Collect portal. SC/ST candidates, all female candidates, PH, and ESM categories are exempted from fees. Written exam will be OMR based with negative marking of 1/3rd for wrong answers.",
+        "totalPosts": "12",
+        "educationalQualifications": "10th Class Passed from recognized board",
+        "ageLimit": "18-25 Years as on 05/01/2026",
+        "applicationFee": "Gen/OBC/EWS: Rs. 500/-; SC/ST/Female/PH/ESM: Nil (Payment via SBI Collect)",
+        "paymentMode": [
+            "Online Mode via SBI Collect"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Hyderabad, Telangana",
+                    "Institute": "CSIR-NGRI (National Geophysical Research Institute)",
+                    "Post Name": "Multi-Tasking Staff (MTS)",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "General": "06",
+                    "EWS": "01",
+                    "OBC": "04",
+                    "SC": "01",
+                    "ST": "00",
+                    "Total Posts": "12"
+                }
+            },
+            {
+                "title": "Exam Pattern",
+                "items": {
+                    "Exam Mode": "OMR (MCQs)",
+                    "Negative Marking": "1/3rd marks for each wrong answer",
+                    "Note": "Candidates should be careful while marking answers"
+                }
+            },
+            {
+                "title": "Payment Details",
+                "items": {
+                    "Payment Portal": "SBI Collect only",
+                    "Portal Link": "https://onlinesbi.sbi.bank.in/sbicollect/icollecthome.htm?corpID=20666",
+                    "Note": "Application fee must be paid through SBI Collect portal only"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "06/12/2025",
+            "Starting Date": "06/12/2025",
+            "Last Date": "05/01/2026 06:00 PM"
+        },
+        "selectionProcess": [
+            "Trade Test",
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "12"
+        },
+        "importantLinks": {
+            "Apply": "https://rectt.ngri.res.in/Ngri_MTS_6_2025/index.jsp",
+            "SBI Collect": "https://onlinesbi.sbi.bank.in/sbicollect/icollecthome.htm?corpID=20666",
+            "Official Website": "https://www.ngri.res.in/"
+        },
+        "additionalDetails": {
+            "Department": "CSIR - National Geophysical Research Institute",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per CSIR norms"
+        }
+    },
+    {
+        "id": "psssb-group-c-recruitment-2025",
+        "createdAt": "2025-12-10T06:30:00.000Z",
+        "updatedAt": "2025-12-10T06:30:00.000Z",
+        "title": "PSSSB Group C Recruitment 2025",
+        "description": "Punjab Subordinate Services Selection Board (PSSSB) has announced Advertisement No. 13/2025 for recruitment of 159 Group-C positions including Hostel Superintendent cum PTI, Storekeeper, Librarian, Junior Technician (Civil & Electrical), and Autoclave/Machine Operator. The posts offer attractive salaries ranging from Rs. 19,900/- to Rs. 29,200/-. Candidates must have passed Class 10th with Punjabi subject. Different posts require specific qualifications like ITI, Diploma, Certificate in Physical Education, or Library Science degree with relevant experience. Application fees vary by category with special concessions for reserved categories.",
+        "totalPosts": "159",
+        "educationalQualifications": "Varies by post - 10th + ITI/Diploma/Certificate/Graduation with experience; Punjabi in 10th mandatory",
+        "ageLimit": "18-37 Years as on 01/01/2025",
+        "applicationFee": "Gen/FF/Sports: Rs. 1000/-; EWS/SC/BC: Rs. 250/-; Ex-Servicemen: Rs. 200/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Punjab (Statewide)",
+                    "Board": "Punjab Subordinate Services Selection Board",
+                    "Advertisement No": "13/2025",
+                    "Group": "Group-C Posts",
+                    "Fees Last Date": "30/12/2025"
+                }
+            },
+            {
+                "title": "Post Wise Vacancies",
+                "items": {
+                    "Hostel Superintendent cum P.T.I": "68",
+                    "Librarian": "03",
+                    "Storekeeper": "Information in notification",
+                    "Junior Technician (Civil)": "21",
+                    "Junior Technician (Electrical)": "Information in notification",
+                    "Autoclave Operator / Machine Operator": "Information in notification",
+                    "Total Posts": "159"
+                }
+            },
+            {
+                "title": "Post Wise Salary",
+                "items": {
+                    "Storekeeper": "Rs. 19,900/-",
+                    "Librarian": "Rs. 29,200/-",
+                    "Junior Technician (Civil)": "Rs. 19,900/-",
+                    "Junior Technician (Electrical)": "Rs. 19,900/-",
+                    "Hostel Superintendent cum P.T.I": "Rs. 29,200/-",
+                    "Autoclave Operator / Machine Operator": "Rs. 25,500/-"
+                }
+            },
+            {
+                "title": "Post Wise Qualification",
+                "items": {
+                    "Hostel Superintendent cum PTI": "10th + C.P.Ed + 2 Years Experience",
+                    "Storekeeper": "10th + ITI (Engineering Trade) + 1 Year Experience",
+                    "Librarian": "Graduate in Library & Information Science + 1 Year Experience",
+                    "Autoclave/Machine Operator": "10th + ITI (Mechanical Trade)",
+                    "JT Civil": "National Trade Certificate (Civil Draftsman) OR Diploma Civil (50%)",
+                    "JT Electrical": "National Trade Certificate (Electrician) OR Diploma Electrical (50%)",
+                    "Mandatory": "10th with Punjabi Subject required for all posts"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "28/11/2025",
+            "Starting Date": "05/12/2025",
+            "Last Date": "27/12/2025 05:00 PM",
+            "Fees Last Date": "30/12/2025"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "159"
+        },
+        "importantLinks": {
+            "Apply": "http://97.74.80.25:8081/2513/",
+            "Official Website": "https://sssb.punjab.gov.in"
+        },
+        "additionalDetails": {
+            "Department": "Punjab Subordinate Services Selection Board",
+            "Recruitment Year": "2025",
+            "Advertisement No": "13/2025"
+        }
+    },
+    {
+        "id": "delhi-police-7565-constable-recruitment-2025",
+        "createdAt": "2025-12-10T06:30:00.000Z",
+        "updatedAt": "2025-12-10T06:30:00.000Z",
+        "title": "Delhi Police 7565 Constable Recruitment 2025",
+        "description": "Staff Selection Commission (SSC) on behalf of Delhi Police has announced a mega recruitment drive for 7,565 Constable (Executive) positions including both Male (5,069) and Female (2,496) posts. The recruitment includes regular posts, Ex-Servicemen quota, and ESM-Commando categories with comprehensive category-wise reservations. The application period has been extended and candidates are now required to select their exam date and city slots between 05 December to 30 December 2025. The Computer Based Test (CBT) is scheduled from 18 December 2025 to 06 January 2026. Male candidates must possess LMV Driving License. Female candidates and reserved category candidates are exempted from application fees.",
+        "totalPosts": "7565",
+        "educationalQualifications": "12th Class Passed; Male candidates must possess LMV Driving License as on date of PET & PMT",
+        "ageLimit": "18-25 Years as on 01/07/2025 (Born between 02/07/2000 to 01/07/2007)",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/ESM/Female: Nil; Form Correction: 1st time Rs. 200/-, 2nd time Rs. 500/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Delhi",
+                    "Conducting Body": "Staff Selection Commission (SSC)",
+                    "Department": "Delhi Police",
+                    "Post Name": "Constable (Executive) - Male & Female",
+                    "Job Type": "Permanent"
+                }
+            },
+            {
+                "title": "Category Wise Vacancies",
+                "items": {
+                    "Constable (Exe.) Male - Regular": "4408",
+                    "Constable (Exe.) Male - ESM": "285",
+                    "Constable (Exe.) Male - ESM Commando": "376",
+                    "Constable (Exe.) Female": "2496",
+                    "Total Posts": "7565"
+                }
+            },
+            {
+                "title": "Detailed Category Wise Distribution",
+                "items": {
+                    "UR (Unreserved)": "3174",
+                    "EWS": "756",
+                    "OBC": "1608",
+                    "SC": "1386",
+                    "ST": "641",
+                    "Grand Total": "7565"
+                }
+            },
+            {
+                "title": "Slot Selection Schedule",
+                "items": {
+                    "Current Process": "Exam Date & City Selection (Slot Selection)",
+                    "Slot Selection Start": "05/12/2025",
+                    "Slot Selection End": "30/12/2025 11:00 PM",
+                    "CBT Exam Dates": "18 Dec 2025 to 06 Jan 2026",
+                    "Note": "Candidates must select exam date and city slots online"
+                }
+            },
+            {
+                "title": "Important Requirements",
+                "items": {
+                    "For Male Candidates": "LMV (Light Motor Vehicle) Driving License mandatory as on PET & PMT date",
+                    "For Female Candidates": "No driving license required",
+                    "Age Calculation": "As on 01/07/2025",
+                    "Birth Date Range": "Between 02/07/2000 to 01/07/2007"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "22/09/2025",
+            "Application Start": "22/09/2025",
+            "Application Last Date": "31/10/2025 11:00 PM (Extended)",
+            "Correction Date": "07-09 November 2025",
+            "Slot Selection Start": "05/12/2025",
+            "Slot Selection Last Date": "30/12/2025 11:00 PM",
+            "CBT Exam": "18 Dec 2025 to 06 Jan 2026",
+            "Admit Card": "Available Soon"
+        },
+        "selectionProcess": [
+            "CBT Written Exam",
+            "PET & PMT Test",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "7565"
+        },
+        "importantLinks": {
+            "Slot Selection": "https://ssc.gov.in/login",
+            "Apply/Registration": "https://ssc.gov.in/",
+            "Official Website": "https://ssc.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Delhi Police (via Staff Selection Commission)",
+            "Recruitment Year": "2025-26",
+            "Pay Scale": "As per Delhi Police / 7th Pay Commission norms"
+        }
+    },
+    {
         "id": "lucknow-dr-rmlims-non-teaching-recruitment-2025",
         "createdAt": "2025-12-10T06:15:00.000Z",
         "updatedAt": "2025-12-10T06:15:00.000Z",
