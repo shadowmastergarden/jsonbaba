@@ -1,6 +1,8 @@
 [
     {
         "date": "2025-12-10",
+        "id": "ca-2025-12-10",  
+    "slug": "2025-12-10",
         "current_affairs": [
             {
                 "topic": "Finance: SEBI Launches PaRRVA Platform to Combat Misleading Investment Claims",
