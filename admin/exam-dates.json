@@ -1,5 +1,57 @@
 [
     {
+        "id": "rrb-368-section-controller-app-status-notice",
+        "createdAt": "2025-12-12T07:15:00.000Z",
+        "updatedAt": "2025-12-12T07:15:00.000Z",
+        "title": "RRB 368 Section Controller App. Status Notice",
+        "description": "Railway Recruitment Board (RRB) ने Section Controller के 368 पदों के लिए CEN 04/2025 की आवेदन स्थिति जारी कर दी है। रेलवे सिग्नलिंग और नियंत्रण विभाग में Any Bachelor Degree धारक उम्मीदवार इस पद के लिए आवेदन कर सकते हैं। Application Status Out: 12 December 2025।",
+        "importantDates": {
+            "Short Notice Out": "22/08/2025",
+            "Full Notification": "14/09/2025",
+            "Starting Date": "15/09/2025",
+            "Last Date": "14/10/2025 11:59 PM",
+            "Fees Last Date": "16/10/2025",
+            "Correction Date": "17-26 Oct 2025",
+            "Application Status Out": "12/12/2025",
+            "Exam Date": "Available Soon"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/railwayboard/"
+        }
+    },
+    {
+        "id": "kvs-nvs-revised-vacancies-notice-2025",
+        "createdAt": "2025-12-12T07:15:00.000Z",
+        "updatedAt": "2025-12-12T07:15:00.000Z",
+        "title": "KVS & NVS Revised Vacancies Notice 2025",
+        "description": "Kendriya Vidyalaya Sangathan (KVS) और Navodaya Vidyalaya Samiti (NVS) ने TGT, PGT, PRT और Non-Teaching पदों की संशोधित रिक्तियों (Revised Vacancies) की सूचना जारी की है। Teaching और Non-Teaching दोनों श्रेणियों में यह महत्वपूर्ण अपडेट शिक्षा क्षेत्र में job seekers के लिए है। Notice Date: 10 December 2025।",
+        "importantDates": {
+            "Notice Date": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://kvsangathan.nic.in/"
+        }
+    },
+    {
+        "id": "aiims-cre-group-b-c-posts-application-status",
+        "createdAt": "2025-12-12T07:15:00.000Z",
+        "updatedAt": "2025-12-12T07:15:00.000Z",
+        "title": "AIIMS CRE Group B, C Posts Application Status",
+        "description": "All India Institute of Medical Sciences (AIIMS) ने Common Recruitment Examination (CRE) 2026 के Group B और C पदों (1300+ Tentative) के आवेदनों की स्थिति प्रकाशित की है। चिकित्सा संस्थानों में विभिन्न तकनीकी और प्रशासनिक पदों के लिए उम्मीदवार अपनी application status देख सकते हैं। Exam Date: 22-24 December 2025।",
+        "importantDates": {
+            "Notification Out": "14/11/2025",
+            "Starting Date": "14/11/2025",
+            "Last Date": "02/12/2025 05:00 PM",
+            "Fees & Complete Form Last Date": "04/12/2025 05:00 PM",
+            "Application Status Out": "08/12/2025",
+            "Exam Date": "22-24 December 2025",
+            "Admit Card": "03 Days Before Exam"
+        },
+        "importantLinks": {
+            "Official Website": "https://aiims.edu/"
+        }
+    },
+    {
         "id": "bshs-5006-anm-vacancy-exam-date-notice",
         "createdAt": "2025-12-10T12:05:00.000Z",
         "updatedAt": "2025-12-10T12:05:00.000Z",

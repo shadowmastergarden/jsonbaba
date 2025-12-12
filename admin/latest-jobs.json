@@ -1,5 +1,467 @@
 [
     {
+        "id": "dsssb-mts-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "DSSSB MTS Recruitment 2025",
+        "description": "Delhi Subordinate Services Selection Board (DSSSB) ने Multi Tasking Staff (MTS) के 714 पदों के लिए भर्ती निकाली है। 10th Pass उम्मीद वार इस भर्ती के लिए आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 15 जनवरी 2026 है।",
+        "qualification": "10th Pass from recognized board",
+        "ageLimit": "18-27 Years as on 15 January 2026",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/PH/Women: Free",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Delhi",
+                    "Notification Date": "11 December 2025",
+                    "Form Start Date": "17 December 2025",
+                    "Salary": "As per DSSSB norms",
+                    "Gender": "Male / Female",
+                    "Post Name": "Multi Tasking Staff (MTS)"
+                }
+            }
+        ],
+        "importantDates": {
+            "Notification Out": "11/12/2025",
+            "Starting Date": "17/12/2025",
+            "Last Date": "15/01/2026",
+            "Fee Payment Last Date": "15/01/2026",
+            "Exam Date": "Will be notified",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "714"
+        },
+        "importantLinks": {
+            "Official Website": "https://dsssb.delhi.gov.in/",
+            "Official Notification": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_no_07_2025_mts_1.pdf",
+            "Apply Online": "Will be active on 17/12/2025"
+        },
+        "additionalDetails": {
+            "Department": "Delhi Subordinate Services Selection Board",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Written Exam Based"
+        }
+    },
+    {
+        "id": "up-home-guard-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "UP Home Guard Recruitment 2025",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Home Guard के 41,424 पदों के लिए भर्ती निकाली है। 10th Pass उम्मीदवार जो सरकारी/अर्ध-सरकारी/सार्वजनिक क्षेत्र में कार्यरत नहीं हैं, आवेदन कर सकते हैं। अंतिम तिथि 17 दिसंबर 2025 है।",
+        "qualification": "10th Pass from recognized board; Not employed in government/semi-government/public sector",
+        "ageLimit": "18-30 Years as on 01 July 2025",
+        "applicationFee": "Gen/EWS/OBC: Rs. 400/-; SC/ST: Rs. 300/-",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Uttar Pradesh",
+                    "Post Type": "Home Guard",
+                    "Gender": "Male / Female",
+                    "Language Skills": "Hindi & English preferred"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "18/11/2025",
+            "Last Date": "17/12/2025 11:59 PM",
+            "Fee Payment Last Date": "17/12/2025",
+            "Exam Date": "Will be notified",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Examination",
+            "Merit List",
+            "PET Exam",
+            "PST Exam",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "41424"
+        },
+        "importantLinks": {
+            "Apply Online": "https://www.upprpb.in/#/auth/landing",
+            "Official Notification": "https://uppbpb.gov.in/FilesUploaded/Notice/Homeguard-Vigyapti-Annexure040580ca-3efd-4a45-b5c1-b90fee424333.pdf",
+            "Official Website": "https://uppbpb.gov.in/Home/Index"
+        },
+        "additionalDetails": {
+            "Department": "UP Police Recruitment and Promotion Board",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Written Exam + Physical Test"
+        }
+    },
+    {
+        "id": "upsc-nda-na-i-recruitment-2026",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "UPSC NDA / NA-I Recruitment 2026",
+        "description": "Union Public Service Commission (UPSC) ने National Defence Academy (NDA) और Naval Academy (NA-I) के लिए भर्ती निकाली है। 12th Pass (Physics और Mathematics के साथ) उम्मीदवार आवेदन कर सकते हैं। Exam Date: 12 April 2026। अंतिम तिथि 30 दिसंबर 2025 है।",
+        "qualification": "12th Pass with Physics and Mathematics from recognized board",
+        "ageLimit": "Between 02/07/2007 to 01/07/2010",
+        "applicationFee": "Gen/OBC: Rs. 100/-; SC/ST/All Female: Free",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Academy": "National Defence Academy / Naval Academy",
+                    "Exam Date": "12/04/2026",
+                    "Gender": "Male / Female",
+                    "Course Type": "Service Entry"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "10/12/2025",
+            "Last Date": "30/12/2025 11:59 PM",
+            "Fee Payment Last Date": "30/12/2025",
+            "Exam Date": "12/04/2026",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Interview",
+            "Medical Examination",
+            "Physical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "As per UPSC notification"
+        },
+        "importantLinks": {
+            "Apply Online": "https://upsconline.nic.in/login",
+            "Official Notification": "http://sarkariresult.com.cm/wp-content/uploads/2025/12/english_notification-1.pdf",
+            "Official Website": "https://upsc.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Union Public Service Commission",
+            "Recruitment Year": "2026",
+            "Mode of Selection": "Written + SSB Interview"
+        }
+    },
+    {
+        "id": "upsc-cds-i-recruitment-2026",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "UPSC CDS-I Recruitment 2026",
+        "description": "Union Public Service Commission (UPSC) ने Combined Defence Service (CDS-I) Examination 2026 के लिए भर्ती निकाली है। Graduation Pass उम्मीदवार Indian Military Academy, Indian Naval Academy, Air Force Academy और Officers Training Academy के लिए आवेदन कर सकते हैं। Exam Date: 12 April 2026। अंतिम तिथि 30 दिसंबर 2025 है।",
+        "qualification": "Bachelor's Degree in any subject / Engineering from recognized university",
+        "ageLimit": "20-24 Years (varies by academy as per UPSC rules)",
+        "applicationFee": "Gen/OBC/EWS: Rs. 200/-; SC/ST/All Female: Free",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Exam Name": "Combined Defence Service Examination",
+                    "Exam Date": "12/04/2026",
+                    "Gender": "Male / Female",
+                    "Academies": "IMA, INA, AFA, OTA"
+                }
+            },
+            {
+                "title": "Age Requirement by Academy",
+                "items": {
+                    "IMA (Indian Military Academy)": "02/01/2003 to 01/01/2008",
+                    "INA (Indian Naval Academy)": "02/01/2003 to 01/01/2008",
+                    "AFA (Air Force Academy)": "02/01/2003 to 01/01/2008",
+                    "OTA (Officers Training Academy - Men)": "02/01/2002 to 01/01/2008",
+                    "OTA (Officers Training Academy - Women)": "02/01/2002 to 01/01/2008"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "10/12/2025",
+            "Last Date": "30/12/2025 11:59 PM",
+            "Fee Payment Last Date": "30/12/2025",
+            "Exam Date": "12/04/2026",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Interview",
+            "Medical Examination",
+            "Physical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "As per UPSC notification"
+        },
+        "importantLinks": {
+            "Apply Online": "https://upsconline.nic.in/login",
+            "Official Notification": "https://upsc.gov.in/sites/default/files/Notif-CDSE-I-2026-Engl-101225.pdf",
+            "Official Website": "https://upsc.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Union Public Service Commission",
+            "Recruitment Year": "2026",
+            "Mode of Selection": "Written + SSB Interview"
+        }
+    },
+    {
+        "id": "rcf-kapurthala-apprentice-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "RCF Kapurthala Apprentice Recruitment 2025",
+        "description": "Rail Coach Factory (RCF) Kapurthala ने Apprentice के 550 पदों के लिए भर्ती निकाली है। 10th Pass + ITI Certificate धारक उम्मीदवार आवेदन कर सकते हैं। Selection मेरिट लिस्ट के आधार पर होगी। अंतिम तिथि 07 जनवरी 2026 है।",
+        "qualification": "10th Pass + ITI Certificate in relevant trade",
+        "ageLimit": "15-24 Years as on 07 January 2026",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/PH/Female: Free",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Kapurthala, Punjab",
+                    "Post Type": "Apprentice",
+                    "Stipend": "As per Apprenticeship Act",
+                    "Duration": "1 Year",
+                    "Gender": "Male / Female"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "09/12/2025",
+            "Last Date": "07/01/2026 11:59 PM",
+            "Fee Payment Last Date": "07/01/2026",
+            "Merit List": "Will be notified"
+        },
+        "selectionProcess": [
+            "Merit List Based on ITI Marks",
+            "Document Verification"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "550"
+        },
+        "importantLinks": {
+            "Apply Online": "https://pardarsy.railnet.gov.in/apprentice-2025/",
+            "Official Notification": "https://rcf.indianrailways.gov.in/uploads/files/act-app/act-app-notification-2025.pdf",
+            "Official Website": "http://www.rcf.indianrailways.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "Rail Coach Factory, Kapurthala",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Merit Based"
+        }
+    },
+    {
+        "id": "up-police-assistant-operator-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "UP Police Assistant Operator Recruitment 2025",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Assistant Operator के पदों के लिए भर्ती निकाली है। 12th Pass with Physics and Mathematics उम्मीदवार आवेदन कर सकते हैं। Selection Written Exam, PST और PET के आधार पर होगा। अंतिम तिथि 02 जनवरी 2026 है।",
+        "qualification": "12th Pass with Physics and Mathematics as main subjects",
+        "ageLimit": "18-22 Years as on 01 July 2025",
+        "applicationFee": "Gen/OBC/EWS: Rs. 500/-; SC/ST: Rs. 400/-",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Job Location": "Uttar Pradesh",
+                    "Post Name": "Assistant Operator",
+                    "Department": "UP Police",
+                    "Gender": "Male / Female"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "03/12/2025",
+            "Last Date": "02/01/2026 11:59 PM",
+            "Fee Payment Last Date": "02/01/2026",
+            "Correction Last Date": "05/01/2026",
+            "Exam Date": "Will be notified",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "PST and PET Test",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "As per notification"
+        },
+        "importantLinks": {
+            "Apply Online": "https://www.upprpb.in/#/auth/landing",
+            "Official Notification": "http://sarkariresult.com.cm/wp-content/uploads/2025/12/download.pdf",
+            "Syllabus & Exam Pattern": "http://sarkariresult.com.cm/wp-content/uploads/2025/12/download-24-25_merged.pdf",
+            "Official Website": "http://uppbpb.gov.in/"
+        },
+        "additionalDetails": {
+            "Department": "UP Police Recruitment and Promotion Board",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Written + Physical Test"
+        }
+    },
+    {
+        "id": "railway-rrc-nr-apprentice-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "Railway RRC NR Apprentice Recruitment 2025",
+        "description": "Railway Recruitment Cell Northern Railway (RRC NR) ने Apprentice के 4116 पदों के लिए भर्ती निकाली है। 10th Pass (50% marks) + ITI Certificate धारक उम्मीदवार आवेदन कर सकते हैं। Selection मेरिट लिस्ट के आधार पर होगी। अंतिम तिथि 24 दिसंबर 2025 है।",
+        "qualification": "10th Pass with 50% marks + ITI Certificate in relevant trade",
+        "ageLimit": "15-24 Years as on 24 December 2025",
+        "applicationFee": "Gen/OBC/EWS: Rs. 100/-; SC/ST/PH/Female: Free",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Railway Zone": "Northern Railway",
+                    "Post Type": "Act Apprentice",
+                    "Stipend": "As per Apprenticeship Act",
+                    "Duration": "1 Year",
+                    "Gender": "Male / Female"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "25/11/2025",
+            "Last Date": "24/12/2025 11:59 PM",
+            "Fee Payment Last Date": "24/12/2025",
+            "Merit List": "Will be notified"
+        },
+        "selectionProcess": [
+            "Merit List Based on ITI Marks",
+            "Document Verification"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "4116"
+        },
+        "importantLinks": {
+            "Apply Online": "https://appr.rrcnr.net.in/",
+            "Official Notification": "https://rrcnr.org/rrcnr_pdf/Act_Apprentice_2025_18112025.pdf",
+            "Official Website": "https://rrcnr.org/"
+        },
+        "additionalDetails": {
+            "Department": "Railway Recruitment Cell, Northern Railway",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Merit Based"
+        }
+    },
+    {
+        "id": "nainital-bank-clerk-csa-po-so-recruitment-2025",
+        "createdAt": "2025-12-12T06:00:00.000Z",
+        "updatedAt": "2025-12-12T06:00:00.000Z",
+        "title": "Nainital Bank Clerk CSA, PO & SO Recruitment 2025",
+        "description": "Nainital Bank ने Clerk (Customer Service Associate), Probationary Officer और Specialist Officer के विभिन्न पदों के लिए भर्ती निकाली है। Graduation/Post Graduation (50% marks) उम्मीदवार आवेदन कर सकते हैं। Exam Date: 18 January 2026। अंतिम तिथि 01 जनवरी 2026 है।",
+        "qualification": "Graduation/Post Graduation with minimum 50% marks in any recognized stream; Computer skills and Hindi & English knowledge preferred",
+        "ageLimit": "CSA/PO/IT Officer: 21-32 Years; Manager IT/Risk: 25-35 Years; CA/Manager-Law: 25-40 Years (as on 30 November 2025)",
+        "applicationFee": "CSA Clerk: Rs. 1000/-; PO/SO: Rs. 1500/- (for all candidates)",
+        "paymentMode": [
+            "Debit Card",
+            "Credit Card",
+            "Internet Banking",
+            "IMPS",
+            "Mobile Wallet"
+        ],
+        "customSections": [
+            {
+                "title": "Form Details",
+                "items": {
+                    "Form Mode": "Online",
+                    "Bank Name": "Nainital Bank",
+                    "Exam Date": "18/01/2026",
+                    "Posts": "Clerk CSA, PO, SO",
+                    "Language": "Hindi & English knowledge preferred"
+                }
+            },
+            {
+                "title": "Post Wise Qualification",
+                "items": {
+                    "CSA (Customer Service Associate)": "Graduation/Post Graduation 50% marks",
+                    "Probationary Officer": "Graduation/Post Graduation 50% marks",
+                    "IT Officer": "Graduate degree/MBA/Master Degree in IT",
+                    "Manager IT (Grade-II)": "Full time Graduate/Master in IT/Computer Science",
+                    "CA": "Chartered Accountant qualification",
+                    "Manager-Law (Grade-II)": "LLB Degree"
+                }
+            }
+        ],
+        "importantDates": {
+            "Starting Date": "12/12/2025",
+            "Last Date": "01/01/2026 11:59 PM",
+            "Fee Payment Last Date": "02/01/2026",
+            "Exam Date": "18/01/2026",
+            "Admit Card": "Before Exam"
+        },
+        "selectionProcess": [
+            "Written Exam",
+            "Interview",
+            "Document Verification"
+        ],
+        "vacancyDetails": {
+            "Total Posts": "As per notification"
+        },
+        "importantLinks": {
+            "Official Notification": "https://www.nainitalbank.bank.in/pdf/Notification%202025.pdf",
+            "Official Website": "https://www.nainitalbank.bank.in/english/recruitment.aspx",
+            "Apply Online": "Will be active soon"
+        },
+        "additionalDetails": {
+            "Department": "Nainital Bank",
+            "Recruitment Year": "2025",
+            "Mode of Selection": "Written Exam + Interview"
+        }
+    },
+    {
         "id": "hprca-530-patwari-recruitment-2025",
         "createdAt": "2025-12-10T06:45:00.000Z",
         "updatedAt": "2025-12-10T06:45:00.000Z",

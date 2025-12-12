@@ -1,4 +1,139 @@
 [
+    {
+        "id": "iob-bank-400-lbo-vacancy-lpt-test-result",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "IOB Bank 400 LBO Vacancy LPT Test Result",
+        "description": "Indian Overseas Bank (IOB) ने Local Bank Officer (LBO) in JMGS-I के 400 पदों के लिए Local Language Proficiency Test (LPT) का Result जारी कर दिया है। यह भर्ती विभिन्न states (Tamil Nadu, Odisha, Maharashtra, Gujarat, West Bengal, Punjab) में है। LPT Date: 03-04 December 2025, Result: 11 December 2025। Interview Date: 08-15 December 2025।",
+        "importantDates": {
+            "Notification Out": "09/05/2025",
+            "Starting Date": "12/05/2025",
+            "Last Date": "31/05/2025 11:59 PM",
+            "Exam Date": "12/07/2025",
+            "Exam Result": "18/10/2025",
+            "LPT Date": "03-04 Dec 2025",
+            "LPT Admit Card": "27/11/2025",
+            "LPT Test Result Out": "11/12/2025",
+            "Interview Date": "08-15 Dec 2025"
+        },
+        "importantLinks": {
+            "Get LPT Result": "https://www.iob.bank.in/upload/CEDocuments/iobAnnexure-LPT-Passed-11122025.pdf",
+            "Official Website": "https://www.iob.in/Careers"
+        }
+    },
+    {
+        "id": "psssb-08-24-warder-matron-pet-pmt-result",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "PSSSB 08/24 Warder, Matron PET/PMT Result",
+        "description": "Punjab Subordinate Services Selection Board (PSSSB) ने Warder और Matron पदों के लिए Physical Efficiency Test (PET) और Physical Measurement Test (PMT) का Result जारी कर दिया है। 12th Pass और 10th with Punjabi आवश्यक है। PET/PMT Date: 11-13 November 2025, Result: 11 December 2025।",
+        "importantDates": {
+            "Starting Date": "29/07/2024",
+            "Last Date": "20/08/2024 05:00 PM",
+            "Exam Date": "27/10/2024",
+            "Exam Result": "08/12/2024",
+            "PET/PMT Date": "11-13 Nov 2025",
+            "PET/PMT Admit Card": "10/11/2025",
+            "PET/PMT Result Out": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get PET/PMT Result (Warder)": "https://sarkari.network/wp-content/uploads/Result-of-Warder-08-of-2024-for-Website.pdf",
+            "Get PET/PMT Result (Matron)": "https://sarkari.network/wp-content/uploads/Result-of-Matron-08-of-2024-for-Website.pdf",
+            "Official Website": "https://sssb.punjab.gov.in/"
+        }
+    },
+    {
+        "id": "btsc-11389-staff-nurse-vacancy-exam-result",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "BTSC 11389 Staff Nurse Vacancy Exam Result",
+        "description": "Bihar Technical Service Commission (BTSC) ने Staff Nurse के 11389 पदों के लिए Exam Result जारी कर दिया है। B.Sc Nursing या GNM आवश्यक है। Exam Date: 30-31 July & 01, 03 August 2025, Result: 11 December 2025।",
+        "importantDates": {
+            "Notification Out": "25/04/2025",
+            "Starting Date": "25/04/2025",
+            "Last Date": "23/05/2025 11:59 PM",
+            "Exam Date": "30-31 July & 01, 03 August 2025",
+            "Exam Admit Card": "23/07/2025",
+            "Answer Key Released": "08/08/2025",
+            "Exam Result Declared": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get Result/Score Card": "https://cdn3.digialm.com/EForms/configuredHtml/1631/93756/login.html",
+            "Official Website": "https://btsc.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "bihar-deled-admission-1st-merit-list-2025",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "Bihar DELEd Admission 1st Merit List 2025",
+        "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (DELEd) 2025-27 batch के लिए 1st Merit List जारी कर दी है। यह 2 year BTC course है। 12th Pass (50% Marks, SC/ST/PH: 45% Marks) आवश्यक है। Exam Date: 26 August 2025, Result: 26 November 2025, 1st Merit List: 11 December 2025।",
+        "importantDates": {
+            "Notification Out": "11/01/2025",
+            "Starting Date": "11/01/2025",
+            "Last Date": "05/02/2025 11:59 PM (Extended)",
+            "Exam Date": "26/08/2025",
+            "Admit Card": "21/08/2025",
+            "Answer Key": "11/10/2025",
+            "Exam Result": "26/11/2025",
+            "1st Merit List": "11/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://biharboardonline.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "ibps-specialist-officer-xv-mains-result-2025",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "IBPS Specialist Officer XV Mains Result 2025",
+        "description": "Institute of Banking Personnel Selection (IBPS) ने Specialist Officer (SO) XV की Mains Exam का Result जारी कर दिया है। कुल 1007 पदों के लिए भर्ती। पद: IT Officer, Agricultural Field Officer, Rajbhasha Adhikari, Law Officer, HR/Personnel Officer, Marketing Officer। Mains Result: 10 December 2025।",
+        "importantDates": {
+            "Mains Result Out": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.ibps.in/"
+        }
+    },
+    {
+        "id": "ibps-po-mt-xv-vacancy-mains-score-card",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "IBPS PO / MT XV Vacancy Mains Score Card",
+        "description": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer (PO) / Management Trainee (MT) XV की Mains Exam का Score Card जारी कर दिया है। Graduation Degree आवश्यक है। Mains Score Card: 10 December 2025।",
+        "importantDates": {
+            "Mains Score Card": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.ibps.in/"
+        }
+    },
+    {
+        "id": "up-police-930-computer-operator-exam-result",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "UP Police 930 Computer Operator Exam Result",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Computer Operator के 930 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
+        "importantDates": {
+            "Exam Result Out": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://uppbpb.gov.in/"
+        }
+    },
+    {
+        "id": "up-police-921-si-asi-vacancy-exam-result",
+        "createdAt": "2025-12-12T07:10:00.000Z",
+        "updatedAt": "2025-12-12T07:10:00.000Z",
+        "title": "UP Police 921 SI, ASI Vacancy Exam Result",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Sub-Inspector (SI) और Assistant Sub-Inspector (ASI) के 921 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
+        "importantDates": {
+            "Exam Result Out": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://uppbpb.gov.in/"
+        }
+    },
   {
     "title": "OICL 500 Assistant Posts Mains Exam Result",
     "description": "Oriental Insurance Company Limited (OICL) ने Assistant (Level-III) के 500 पदों के लिए Mains Exam Result जारी कर दिया है। Bachelor's Degree और Local Language का ज्ञान आवश्यक है। Mains Exam Date: 28/10/2025, Result: 09/12/2025।",

@@ -1,5 +1,172 @@
 [
     {
+        "id": "hprca-01-2025-tgt-medical-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "HPRCA 01/2025 TGT (Medical) Admit Card",
+        "description": "Himachal Pradesh Subordinate Services Selection Board (HPRCA) ने Trained Graduate Teacher (TGT) Medical के 169 पदों के लिए Admit Card जारी कर दिया है। Exam Date: 15-17 December 2025। Graduate with Medical Stream, B.El.Ed/B.Ed और HPTET Qualified होना आवश्यक है।",
+        "importantDates": {
+            "Starting Date": "30/05/2025",
+            "Last Date": "03/07/2025 11:59 PM",
+            "Form Re-Open Date": "01/09/2025",
+            "Re-Open Last Date": "15/09/2025 11:59 PM",
+            "TGT (Medical) Exam Date": "15-17 December 2025",
+            "TGT (Medical) Admit Card": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get Admit Card": "https://cdn3.tcsion.com/EForms/configuredHtml/33096/96583/login.html",
+            "Official Website": "https://hprca.hp.gov.in/"
+        }
+    },
+    {
+        "id": "uppsc-7466-lt-assistant-teacher-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "UPPSC 7466 LT Assistant Teacher Admit Card",
+        "description": "Uttar Pradesh Public Service Commission (UPPSC) ने Licensed Teacher (LT) / Assistant Teacher के 7466 पदों (Male: 4860, Female: 2525) के लिए Admit Card जारी कर दिया है। Graduation in Related Stream, B.Ed और UPTET Exam Qualified होना आवश्यक है। Home Science और Commerce का exam 21 December 2025 को होगा।",
+        "importantDates": {
+            "Short Notice Out": "15/07/2025",
+            "Full Notification": "28/07/2025",
+            "Form Starting Date": "28/07/2025",
+            "Last Date": "28/08/2025 11:59 PM",
+            "Correction Date": "Upto 04/09/2025",
+            "Exam Date (Maths, Hindi)": "06/12/2025",
+            "Exam Date (Science, Sanskrit)": "07/12/2025",
+            "Exam Date (Home Sci., Commerce)": "21/12/2025",
+            "Exam Date (Social Science, Biology)": "17/01/2026",
+            "Exam Date (English, Physical Education)": "18/01/2026",
+            "Exam Date (Arts, Agriculture/Horticulture)": "24/01/2026",
+            "Exam Date (Urdu/Music)": "25/01/2026",
+            "Admit Card (Maths, Hindi, Science, Sanskrit)": "26/11/2025",
+            "Admit Card (Home Sci., Commerce)": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get Admit Card (Home Sci., Commerce)": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
+            "Get Answer Key (Hindi, Maths)": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
+            "Fill Online Form": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
+            "Official Website": "https://uppsc.up.nic.in/"
+        }
+    },
+    {
+        "id": "bshs-5006-anm-vacancy-exam-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "BSHS 5006 ANM Vacancy Exam Admit Card",
+        "description": "Bihar State Health Society (BSHS) ने Auxiliary Nurse Midwife (ANM) के 5006 पदों के लिए Admit Card जारी कर दिया है। Exam Date: 17-19 December 2025। Diploma in Auxiliary Nurse Midwife (ANM) और Bihar Nurses Registration Council में Registered होना आवश्यक है।",
+        "importantDates": {
+            "Notification Out": "12/08/2025",
+            "Starting Date": "14/08/2025",
+            "Last Date": "28/08/2025 06:00 PM",
+            "Exam Date": "17-19 December 2025",
+            "Exam Date Notice": "10/12/2025",
+            "Admit Card": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get Admit Card": "https://cdn3.digialm.com//EForms/configuredHtml/1631/94951/login.html",
+            "Fill Online Form": "https://cdn3.digialm.com//EForms/configuredHtml/1631/94951//Index.html",
+            "Official Website": "https://shs.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "bshs-220-ophthalmic-assistant-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "BSHS 220 Ophthalmic Assistant Admit Card",
+        "description": "Bihar State Health Society (BSHS) ने Ophthalmic Assistant के 220 पदों के लिए Admit Card जारी कर दिया है। Exam Date: 20 December 2025। 12th Passed with Biology/Mathematics और 02 Years Diploma in Optometry/Ophthalmic Assistant या recognized Government Hospital में 02 years training होना आवश्यक है।",
+        "importantDates": {
+            "Starting Date": "14/08/2025",
+            "Last Date": "28/08/2025 06:00 PM",
+            "Exam Date": "20/12/2025",
+            "Exam Date Notice": "10/12/2025",
+            "Admit Card": "11/12/2025"
+        },
+        "importantLinks": {
+            "Get Admit Card": "https://cdn3.digialm.com//EForms/configuredHtml/1631/95383/login.html",
+            "Fill Online Form": "https://cdn3.digialm.com/EForms/configuredHtml/1631/95383/Registration.html",
+            "Official Website": "https://shs.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "emrs-7267-teaching-non-teaching-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "EMRS 7267 Teaching, Non-Teaching Admit Card",
+        "description": "Eklavya Model Residential Schools (EMRS) ने Principal, PGT Teacher, TGT Teacher, Accountant, Female Staff Nurse, Hostel Warden, Jr. Secretariat Assistant और Lab Attendant के कुल 7267 पदों के लिए Tier-I Admit Card जारी कर दिया है। Exam Date: 13, 14, 21 December 2025 (post wise)।",
+        "importantDates": {
+            "Notification Out": "19/09/2025",
+            "Starting Date": "19/09/2025",
+            "Last Date": "28/10/2025 11:50 PM (Extended)",
+            "Tier-I Exam Date (Principal, Accountant)": "13/12/2025",
+            "Tier-I Exam Date (PGT, TGT Teacher)": "14/12/2025",
+            "Tier-I Exam Date (Hostel Warden, Staff Nurse, Lab Attendant, JSA)": "21/12/2025",
+            "City Intimation Release Date": "15 Days Before Exam Date",
+            "Admit Card Release Date": "02 Days Before Exam Date"
+        },
+        "importantLinks": {
+            "Official Website": "https://ncst.tribal.gov.in/"
+        }
+    },
+    {
+        "id": "rrb-3445-ntpc-12th-level-cbt-ii-exam-city",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "RRB 3445 NTPC (12th Level) CBT-II Exam City",
+        "description": "Railway Recruitment Board (RRB) ने Non-Technical Popular Categories (NTPC) 12th Level के 3445 पदों के लिए CBT Stage-II Exam City जारी की है। पद: Commercial Cum Ticket Clerk, Train Clerk, Accounts Clerk Cum Typist, Junior Clerk Cum Typist। CBT-II Exam Date: 20 December 2025।",
+        "importantDates": {
+            "Starting Date": "21/09/2024",
+            "Last Date": "27/10/2024 11:59 PM Ext.",
+            "Fees Last Date": "29/10/2024",
+            "Correction Date": "30 Oct To 06 Nov 2024",
+            "CBT-I Exam Date": "07-08, 11-14, 18-22, 28-29 August & 01-04, 08-09 Sept 2025",
+            "CBT-I Answer Key Release": "15/09/2025 04 PM",
+            "CBT-I Exam Result Declared": "21/11/2025",
+            "CBT Stage-II Exam Date": "20/12/2025",
+            "CBT-II Exam City": "10 Days Before Exam Date",
+            "CBT-II Admit Card": "04 Days Before Exam Date"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.rrbapply.gov.in/"
+        }
+    },
+    {
+        "id": "mpesb-subedar-steno-asi-ministerial-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "MPESB Subedar (Steno), ASI (Mini.) Admit Card",
+        "description": "Madhya Pradesh Employees Selection Board (MPESB) ने Police में Assistant Sub-Inspector (Ministerial) के 400 पद और Subedar (Stenographer) के 100 पद के लिए Admit Card जारी कर दिया है। Exam Date: 17-18 December 2025। 12th Passed, CPCT Certificate और Computer Course आवश्यक है।",
+        "importantDates": {
+            "Notification Date": "20/09/2025",
+            "Starting Date": "03/10/2025",
+            "Last Date": "17/10/2025 11:59 PM",
+            "Correction Last Date": "22/10/2025",
+            "Exam Date": "17-18 December 2025",
+            "Exam Admit Card": "10/12/2025"
+        },
+        "importantLinks": {
+            "Get Admit Card": "https://esb.mp.gov.in/tacs/tac_2025/ASI_Subedar_Steno_TAC25/default_tac.htm",
+            "Official Website": "https://esb.mp.gov.in/"
+        }
+    },
+    {
+        "id": "upsssc-assistant-store-keeper-typing-admit-card",
+        "createdAt": "2025-12-12T06:20:00.000Z",
+        "updatedAt": "2025-12-12T06:20:00.000Z",
+        "title": "UPSSSC Asst. Store Keeper Typing Admit Card",
+        "description": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) ने Assistant Store Keeper के 199 पद और Assistant Grade III के 01 पद के लिए Typing Test Admit Card जारी कर दिया है। Typing Test Date: 18 December 2025। 12th Passed, Typing (English: 30 wpm/Hindi: 25 wpm) और UPSSSC PET 2023 Qualified होना आवश्यक है।",
+        "importantDates": {
+            "Starting Date": "15/02/2024",
+            "Last Date": "06/03/2024 11:59 PM",
+            "Written Exam Date": "13/04/2025",
+            "Exam Result Out": "29/10/2025",
+            "Typing Test Date": "18/12/2025",
+            "Typing Admit Card": "10/12/2025"
+        },
+        "importantLinks": {
+            "Get Typing Admit Card": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=INTRIM",
+            "Official Website": "https://upsssc.gov.in/"
+        }
+    },
+    {
         "id": "ibps-po-mt-xv-interview-admit-card-2025",
         "createdAt": "2025-12-09T18:04:00.000Z",
         "updatedAt": "2025-12-09T18:04:00.000Z",
