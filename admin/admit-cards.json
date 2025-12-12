@@ -14,7 +14,7 @@
             "TGT (Medical) Admit Card": "11/12/2025"
         },
         "importantLinks": {
-            "Get Admit Card": "https://hprca.hp.gov.in/",
+            "Get Admit Card": "https://cdn3.tcsion.com/EForms/configuredHtml/33096/96583/login.html",
             "Official Website": "https://hprca.hp.gov.in/"
         }
     },
@@ -143,7 +143,7 @@
             "Exam Admit Card": "10/12/2025"
         },
         "importantLinks": {
-            "Get Admit Card": "https://esb.mp.gov.in/",
+            "Get Admit Card": "https://esb.mp.gov.in/tacs/tac_2025/ASI_Subedar_Steno_TAC25/default_tac.htm",
             "Official Website": "https://esb.mp.gov.in/"
         }
     },
@@ -162,7 +162,7 @@
             "Typing Admit Card": "10/12/2025"
         },
         "importantLinks": {
-            "Get Admit Card": "https://upsssc.gov.in/",
+            "Get Typing Admit Card": "https://upsssc.gov.in/upssscadmitcard/admitCard.aspx?ID=INTRIM",
             "Official Website": "https://upsssc.gov.in/"
         }
     },
