@@ -1,69 +1,341 @@
 [
-    {
-        "date": "2025-12-10",
-        "id": "ca-2025-12-10",  
-    "slug": "2025-12-10",
-        "current_affairs": [
-            {
-                "topic": "Finance: SEBI Launches PaRRVA Platform to Combat Misleading Investment Claims",
-                "english": "The Securities and Exchange Board of India (SEBI) has introduced the PaRRVA platform, a new digital tool designed to verify investment claims and prevent misleading content from financial influencers. This initiative aims to protect retail investors from fraudulent investment advice and unverified claims circulating on social media.",
-                "hindi": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) ने PaRRVA प्लेटफॉर्म की शुरुआत की है, जो निवेश दावों को सत्यापित करने और वित्तीय प्रभावकों की भ्रामक सामग्री को रोकने के लिए एक नया डिजिटल उपकरण है। यह पहल खुदरा निवेशकों को धोखाधड़ी वाली निवेश सलाह और सोशल मीडिया पर फैल रहे असत्यापित दावों से बचाने के उद्देश्य से शुरू की गई है।",
-                "bengali": "ভারতীয় সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড (সেবি) PaRRVA প্ল্যাটফর্ম চালু করেছে, যা একটি নতুন ডিজিটাল টুল যা বিনিয়োগের দাবি যাচাই করতে এবং আর্থিক প্রভাবশালীদের বিভ্রান্তিকর বিষয়বস্তু প্রতিরোধ করতে ডিজাইন করা হয়েছে। এই উদ্যোগের লক্ষ্য খুচরা বিনিয়োগকারীদের প্রতারণামূলক বিনিয়োগ পরামর্শ এবং সোশ্যাল মিডিয়ায় প্রচারিত অযাচাইকৃত দাবি থেকে রক্ষা করা।"
-            },
-            {
-                "topic": "Technology: Adani Group to Build 2500 Crore AI Data Centre in Telangana",
-                "english": "The Adani Group has announced plans to establish a massive AI-powered green data centre in Telangana with an investment of 2500 crore rupees. This state-of-the-art facility will focus on sustainable technology and is expected to boost the state's digital infrastructure significantly.",
-                "hindi": "अडानी समूह ने तेलंगाना में 2500 करोड़ रुपये के निवेश के साथ एक विशाल एआई-संचालित हरित डेटा सेंटर स्थापित करने की योजना की घोषणा की है। यह अत्याधुनिक सुविधा टिकाऊ प्रौद्योगिकी पर केंद्रित होगी और राज्य के डिजिटल बुनियादी ढांचे को महत्वपूर्ण रूप से बढ़ावा देने की उम्मीद है।",
-                "bengali": "আদানি গ্রুপ তেলেঙ্গানায় ২৫০০ করোড় রুপি বিনিয়োগে একটি বিশাল এআই-চালিত সবুজ ডেটা সেন্টার স্থাপনের পরিকল্পনা ঘোষণা করেছে। এই অত্যাধুনিক সুবিধা টেকসই প্রযুক্তির উপর ফোকাস করবে এবং রাজ্যের ডিজিটাল অবকাঠামোতে উল্লেখযোগ্য বৃদ্ধি আশা করা হচ্ছে।"
-            },
-            {
-                "topic": "Defence: Indian Navy Launches Operation Sagar Bandhu to Support Sri Lanka",
-                "english": "The Indian Navy has deployed four additional warships to Sri Lanka under Operation Sagar Bandhu as part of humanitarian assistance and disaster relief efforts. This operation demonstrates India's commitment to regional cooperation and its role as a first responder in the Indian Ocean region.",
-                "hindi": "भारतीय नौसेना ने मानवीय सहायता और आपदा राहत प्रयासों के तहत ऑपरेशन सागर बंधु के अंतर्गत श्रीलंका में चार अतिरिक्त युद्धपोतों को तैनात किया है। यह अभियान क्षेत्रीय सहयोग के प्रति भारत की प्रतिबद्धता और हिंद महासागर क्षेत्र में प्रथम प्रतिक्रियाकर्ता के रूप में इसकी भूमिका को प्रदर्शित करता है।",
-                "bengali": "ভারতীয় নৌবাহিনী মানবিক সহায়তা এবং দুর্যোগ ত্রাণ প্রচেষ্টার অংশ হিসাবে অপারেশন সাগর বন্ধুর অধীনে শ্রীলঙ্কায় চারটি অতিরিক্ত যুদ্ধজাহাজ মোতায়েন করেছে। এই অভিযান আঞ্চলিক সহযোগিতার প্রতি ভারতের প্রতিশ্রুতি এবং ভারত মহাসাগর অঞ্চলে প্রথম সাড়াদানকারী হিসাবে এর ভূমিকা প্রদর্শন করে।"
-            },
-            {
-                "topic": "Awards: Raveena Tandon Receives PETA India's Highest Annual Award",
-                "english": "Bollywood actress Raveena Tandon has been honored with PETA India's top annual recognition for her outstanding contribution to animal welfare and rights. The award acknowledges her consistent efforts in promoting compassion towards animals and raising awareness about their protection.",
-                "hindi": "बॉलीवुड अभिनेत्री रवीना टंडन को पशु कल्याण और अधिकारों में उनके उत्कृष्ट योगदान के लिए पेटा इंडिया के शीर्ष वार्षिक सम्मान से सम्मानित किया गया है। यह पुरस्कार जानवरों के प्रति करुणा को बढ़ावा देने और उनकी सुरक्षा के बारे में जागरूकता बढ़ाने में उनके निरंतर प्रयासों को मान्यता देता है।",
-                "bengali": "বলিউড অভিনেত্রী রবীনা ট্যান্ডনকে পশু কল্যাণ এবং অধিকারে তাঁর অসাধারণ অবদানের জন্য পেটা ইন্ডিয়ার সর্বোচ্চ বার্ষিক স্বীকৃতি প্রদান করা হয়েছে। এই পুরস্কার পশুদের প্রতি সহানুভূতি প্রচার এবং তাদের সুরক্ষা সম্পর্কে সচেতনতা বৃদ্ধিতে তাঁর ধারাবাহিক প্রচেষ্টাকে স্বীকৃতি দেয়।"
-            },
-            {
-                "topic": "Infrastructure: NHAI's Raajmarg Infra InvIT Gets SEBI Approval for IPO",
-                "english": "The National Highways Authority of India's (NHAI) infrastructure investment trust, Raajmarg Infra InvIT, has received preliminary approval from SEBI to launch its public listing. This move will enable retail investors to participate in India's highway infrastructure development through a transparent investment vehicle.",
-                "hindi": "राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) के बुनियादी ढांचा निवेश ट्रस्ट, राजमार्ग इन्फ्रा InvIT को सेबी से अपनी सार्वजनिक लिस्टिंग शुरू करने के लिए प्रारंभिक मंजूरी मिल गई है। यह कदम खुदरा निवेशकों को एक पारदर्शी निवेश माध्यम के जरिए भारत के राजमार्ग बुनियादी ढांचे के विकास में भाग लेने में सक्षम बनाएगा।",
-                "bengali": "জাতীয় মহাসড়ক কর্তৃপক্ষের (এনএইচএআই) অবকাঠামো বিনিয়োগ ট্রাস্ট, রাজমার্গ ইনফ্রা InvIT তার পাবলিক লিস্টিং চালু করার জন্য সেবির কাছ থেকে প্রাথমিক অনুমোদন পেয়েছে। এই পদক্ষেপ খুচরা বিনিয়োগকারীদের একটি স্বচ্ছ বিনিয়োগ মাধ্যমের মাধ্যমে ভারতের মহাসড়ক অবকাঠামো উন্নয়নে অংশগ্রহণ করতে সক্ষম করবে।"
-            },
-            {
-                "topic": "Chess: 3-Year-Old Indian Becomes Youngest FIDE-Rated Chess Player",
-                "english": "A three-year-old Indian child has created history by becoming the youngest chess player ever to earn an official FIDE rating. This remarkable achievement showcases the early development of chess talent in India and sets a new benchmark in the global chess community.",
-                "hindi": "एक तीन वर्षीय भारतीय बच्चे ने आधिकारिक FIDE रेटिंग अर्जित करने वाले सबसे कम उम्र के शतरंज खिलाड़ी बनकर इतिहास रच दिया है। यह उल्लेखनीय उपलब्धि भारत में शतरंज प्रतिभा के प्रारंभिक विकास को प्रदर्शित करती है और वैश्विक शतरंज समुदाय में एक नया मानदंड स्थापित करती है।",
-                "bengali": "একজন তিন বছর বয়সী ভারতীয় শিশু আনুষ্ঠানিক FIDE রেটিং অর্জনকারী সর্বকনিষ্ঠ দাবা খেলোয়াড় হয়ে ইতিহাস সৃষ্টি করেছে। এই অসাধারণ সাফল্য ভারতে দাবা প্রতিভার প্রাথমিক বিকাশ প্রদর্শন করে এবং বিশ্বব্যাপী দাবা সম্প্রদায়ে একটি নতুন মানদণ্ড স্থাপন করে।"
-            },
-            {
-                "topic": "Achievement: Maharashtra Sets Guinness Record for Solar Pump Installation",
-                "english": "Maharashtra has achieved a Guinness World Record for the largest-scale installation of solar pumps in the agricultural sector. This initiative represents a major step towards sustainable farming practices and demonstrates the state's commitment to renewable energy adoption in rural areas.",
-                "hindi": "महाराष्ट्र ने कृषि क्षेत्र में सौर पंपों की सबसे बड़े पैमाने की स्थापना के लिए गिनीज विश्व रिकॉर्ड हासिल किया है। यह पहल टिकाऊ कृषि प्रथाओं की दिशा में एक महत्वपूर्ण कदम है और ग्रामीण क्षेत्रों में नवीकरणीय ऊर्जा अपनाने के प्रति राज्य की प्रतिबद्धता को प्रदर्शित करती है।",
-                "bengali": "মহারাষ্ট্র কৃষি ক্ষেত্রে সৌর পাম্পের বৃহত্তম মাপের ইনস্টলেশনের জন্য গিনেস ওয়ার্ল্ড রেকর্ড অর্জন করেছে। এই উদ্যোগ টেকসই কৃষি অনুশীলনের দিকে একটি বড় পদক্ষেপ এবং গ্রামীণ এলাকায় নবায়নযোগ্য শক্তি গ্রহণের প্রতি রাজ্যের প্রতিশ্রুতি প্রদর্শন করে।"
-            },
-            {
-                "topic": "Healthcare: India Prepares for Second WHO Traditional Medicine Summit",
-                "english": "India has commenced preparations to host the second WHO Global Summit on Traditional Medicine. This prestigious event will bring together experts, policymakers, and practitioners from around the world to discuss the integration of traditional medicine systems with modern healthcare.",
-                "hindi": "भारत ने पारंपरिक चिकित्सा पर दूसरे विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) वैश्विक शिखर सम्मेलन की मेजबानी की तैयारी शुरू कर दी है। यह प्रतिष्ठित कार्यक्रम दुनिया भर के विशेषज्ञों, नीति निर्माताओं और चिकित्सकों को पारंपरिक चिकित्सा प्रणालियों को आधुनिक स्वास्थ्य सेवा के साथ एकीकृत करने पर चर्चा करने के लिए एक साथ लाएगा।",
-                "bengali": "ভারত ঐতিহ্যবাহী চিকিৎসার উপর দ্বিতীয় বিশ্ব স্বাস্থ্য সংস্থার (WHO) বৈশ্বিক শিখর সম্মেলনের আয়োজনের প্রস্তুতি শুরু করেছে। এই মর্যাদাপূর্ণ অনুষ্ঠান বিশ্বজুড়ে বিশেষজ্ঞ, নীতিনির্ধারক এবং অনুশীলনকারীদের একত্রিত করবে ঐতিহ্যবাহী চিকিৎসা ব্যবস্থার আধুনিক স্বাস্থ্যসেবার সাথে একীকরণ নিয়ে আলোচনা করতে।"
-            },
-            {
-                "topic": "Animal Welfare: Anant Ambani Honored by Humane Society International",
-                "english": "Anant Ambani has been recognized as the youngest recipient of the Humane Society International's prestigious animal welfare award. The honor acknowledges his dedicated efforts towards animal conservation, rescue, and rehabilitation through his Vantara wildlife rescue initiative.",
-                "hindi": "अनंत अंबानी को ह्यूमेन सोसाइटी इंटरनेशनल के प्रतिष्ठित पशु कल्याण पुरस्कार का सबसे कम उम्र का प्राप्तकर्ता मान्यता मिली है। यह सम्मान उनके वंतारा वन्यजीव बचाव पहल के माध्यम से पशु संरक्षण, बचाव और पुनर्वास के लिए उनके समर्पित प्रयासों को स्वीकार करता है।",
-                "bengali": "অনন্ত আম্বানি হিউম্যান সোসাইটি ইন্টারন্যাশনালের মর্যাদাপূর্ণ পশু কল্যাণ পুরস্কারের সর্বকনিষ্ঠ প্রাপক হিসাবে স্বীকৃত হয়েছেন। এই সম্মান তাঁর বন্তারা বন্যপ্রাণী উদ্ধার উদ্যোগের মাধ্যমে পশু সংরক্ষণ, উদ্ধার এবং পুনর্বাসনের জন্য তাঁর নিবেদিত প্রচেষ্টাকে স্বীকৃতি দেয়।"
-            },
-            {
-                "topic": "Heritage: Gyan Bharatam Mission Launched to Preserve Ancient Manuscripts",
-                "english": "The Government of India has launched the Gyan Bharatam Mission, an ambitious initiative aimed at digitally preserving India's vast manuscript heritage. This project will use advanced technology to catalog, digitize, and make accessible thousands of ancient manuscripts, ensuring their preservation for future generations.",
-                "hindi": "भारत सरकार ने ज्ञान भारतम मिशन की शुरुआत की है, जो भारत की विशाल पांडुलिपि विरासत को डिजिटल रूप से संरक्षित करने का एक महत्वाकांक्षी पहल है। यह परियोजना हजारों प्राचीन पांडुलिपियों को सूचीबद्ध करने, डिजिटलीकरण करने और सुलभ बनाने के लिए उन्नत तकनीक का उपयोग करेगी, जिससे आने वाली पीढ़ियों के लिए उनका संरक्षण सुनिश्चित होगा।",
-                "bengali": "ভারত সরকার জ্ঞান ভারতম মিশন চালু করেছে, যা ভারতের বিশাল পাণ্ডুলিপি ঐতিহ্যকে ডিজিটালভাবে সংরক্ষণের লক্ষ্যে একটি উচ্চাভিলাষী উদ্যোগ। এই প্রকল্প হাজার হাজার প্রাচীন পাণ্ডুলিপি তালিকাভুক্ত, ডিজিটাইজ এবং অ্যাক্সেসযোগ্য করতে উন্নত প্রযুক্তি ব্যবহার করবে, ভবিষ্যৎ প্রজন্মের জন্য তাদের সংরক্ষণ নিশ্চিত করবে।"
-            }
-        ]
-    }
+  {
+    "id": "2025-12-11",
+    "slug": "2025-12-11",
+    "date": "2025-12-11",
+    "current_affairs": [
+      {
+        "topic": "Healthcare: US FDA Approves First AI-Based Liver Disease Detection System",
+        "english": "The **United States Food and Drug Administration (FDA)** has granted approval for the world's **first artificial intelligence-powered diagnostic system** specifically developed to accelerate the detection and diagnosis of **liver diseases**. This breakthrough technology is expected to **significantly reduce diagnosis time** and improve patient outcomes through **early detection**.",
+        "hindi": "संयुक्त राज्य खाद्य एवं औषधि प्रशासन ने विशेष रूप से यकृत रोगों के पता लगाने और निदान को तेज करने के लिए विकसित की गई दुनिया की पहली कृत्रिम बुद्धिमत्ता-संचालित निदान प्रणाली को मंजूरी दी है। इस अभूतपूर्व तकनीक से निदान समय में उल्लेखनीय कमी आने और प्रारंभिक पता लगाने के माध्यम से रोगी परिणामों में सुधार की उम्मीद है।",
+        "bengali": "মার্কিন যুক্তরাষ্ট্রের খাদ্য ও ওষুধ প্রশাসন বিশেষভাবে লিভারের রোগ সনাক্তকরণ এবং নির্ণয় ত্বরান্বিত করার জন্য বিকশিত বিশ্বের প্রথম কৃত্রিম বুদ্ধিমত্তা-চালিত ডায়াগনস্টিক সিস্টেমকে অনুমোদন দিয়েছে। এই যুগান্তকারী প্রযুক্তি নির্ণয়ের সময় উল্লেখযোগ্যভাবে হ্রাস করবে এবং প্রাথমিক সনাক্তকরণের মাধ্যমে রোগীর ফলাফল উন্নত করবে বলে আশা করা হচ্ছে।"
+      },
+      {
+        "topic": "Politics: Andrej Babiš Sworn In as Czech Republic's Prime Minister",
+        "english": "**Andrej Babiš** has officially been sworn in as the **new Prime Minister of the Czech Republic**, marking a significant political transition in the Central European nation. The oath-taking ceremony was conducted in accordance with constitutional protocols, and Babiš is expected to implement his party's **reform agenda**.",
+        "hindi": "एंड्रेज बाबिस ने आधिकारिक तौर पर चेक गणराज्य के नए प्रधान मंत्री के रूप में शपथ ली है, जो मध्य यूरोपीय राष्ट्र में एक महत्वपूर्ण राजनीतिक परिवर्तन को दर्शाता है। शपथ ग्रहण समारोह संवैधानिक प्रोटोकॉल के अनुसार आयोजित किया गया था, और बाबिस से अपनी पार्टी के सुधार एजेंडे को लागू करने की उम्मीद है।",
+        "bengali": "আন্দ্রেজ বাবিশ আনুষ্ঠানিকভাবে চেক প্রজাতন্ত্রের নতুন প্রধানমন্ত্রী হিসেবে শপথ গ্রহণ করেছেন, যা মধ্য ইউরোপীয় দেশে একটি উল্লেখযোগ্য রাজনৈতিক পরিবর্তন চিহ্নিত করে। শপথ অনুষ্ঠানটি সাংবিধানিক প্রোটোকল অনুসারে পরিচালিত হয়েছিল এবং বাবিশ তার দলের সংস্কার এজেন্ডা বাস্তবায়ন করবেন বলে প্রত্যাশিত।"
+      },
+      {
+        "topic": "Sports: TIME Magazine Honors A'ja Wilson as 2025 Athlete of the Year",
+        "english": "**TIME Magazine** has recognized basketball superstar **A'ja Wilson** with the prestigious **2025 Athlete of the Year** title. This honor celebrates her exceptional performance, leadership on the court, and significant contributions to **women's basketball** both domestically and internationally.",
+        "hindi": "TIME पत्रिका ने बास्केटबॉल सुपरस्टार ए'जा विल्सन को प्रतिष्ठित 2025 एथलीट ऑफ द ईयर खिताब से सम्मानित किया है। यह सम्मान उनके असाधारण प्रदर्शन, कोर्ट पर नेतृत्व, और घरेलू और अंतरराष्ट्रीय स्तर पर महिला बास्केटबॉल में महत्वपूर्ण योगदान का जश्न मनाता है।",
+        "bengali": "TIME ম্যাগাজিন বাস্কেটবল সুপারস্টার এ'জা উইলসনকে মর্যাদাপূর্ণ ২০২৫ অ্যাথলিট অফ দ্য ইয়ার শিরোনামে স্বীকৃতি দিয়েছে। এই সম্মান তার অসাধারণ পারফরম্যান্স, কোর্টে নেতৃত্ব এবং দেশীয় ও আন্তর্জাতিক উভয় ক্ষেত্রে নারী বাস্কেটবলে উল্লেখযোগ্য অবদান উদযাপন করে।"
+      },
+      {
+        "topic": "Sports: Thailand Inaugurates 33rd Southeast Asian Games",
+        "english": "**Thailand** has officially opened the **33rd edition of the Southeast Asian Games** with a grand ceremony that showcased the nation's rich cultural heritage and sporting spirit. Athletes from across Southeast Asia have gathered to compete in various sporting disciplines, promoting **regional unity** and **athletic excellence**.",
+        "hindi": "थाईलैंड ने 33वें दक्षिण पूर्व एशियाई खेलों को एक भव्य समारोह के साथ आधिकारिक तौर पर खोला है जो देश की समृद्ध सांस्कृतिक विरासत और खेल भावना को प्रदर्शित करता है। दक्षिण पूर्व एशिया भर के एथलीट विभिन्न खेल विषयों में प्रतिस्पर्धा करने के लिए एकत्र हुए हैं, जो क्षेत्रीय एकता और एथलेटिक उत्कृष्टता को बढ़ावा देते हैं।",
+        "bengali": "থাইল্যান্ড আনুষ্ঠানিকভাবে ৩৩তম দক্ষিণ-পূর্ব এশিয়ান গেমসের উদ্বোধন করেছে একটি জাঁকজমকপূর্ণ অনুষ্ঠানের মাধ্যমে যা দেশের সমৃদ্ধ সাংস্কৃতিক ঐতিহ্য এবং ক্রীড়া চেতনা প্রদর্শন করেছে। দক্ষিণ-পূর্ব এশিয়া জুড়ে ক্রীড়াবিদরা বিভিন্ন ক্রীড়া শাখায় প্রতিযোগিতা করতে একত্রিত হয়েছেন, আঞ্চলিক ঐক্য এবং ক্রীড়া উৎকর্ষতা প্রচার করছেন।"
+      },
+      {
+        "topic": "Technology: India Post Opens Kerala's First Gen-Z Focused Post Office",
+        "english": "**India Post** has launched an innovative **Gen-Z oriented post office extension** in **Kerala**, featuring modern digital services and youth-friendly amenities. This initiative represents a strategic effort to attract **younger generations** to postal services by integrating contemporary technology and customer-centric designs.",
+        "hindi": "इंडिया पोस्ट ने केरल में आधुनिक डिजिटल सेवाओं और युवा-अनुकूल सुविधाओं वाला एक नवीन जेन-जेड उन्मुख डाकघर विस्तार लॉन्च किया है। यह पहल समकालीन तकनीक और ग्राहक-केंद्रित डिजाइनों को एकीकृत करके युवा पीढ़ियों को डाक सेवाओं की ओर आकर्षित करने का एक रणनीतिक प्रयास है।",
+        "bengali": "ইন্ডিয়া পোস্ট কেরলে একটি উদ্ভাবনী জেন-জেড ভিত্তিক ডাকঘর সম্প্রসারণ চালু করেছে, যাতে আধুনিক ডিজিটাল সেবা এবং যুব-বান্ধব সুবিধা রয়েছে। এই উদ্যোগ সমসাময়িক প্রযুক্তি এবং গ্রাহক-কেন্দ্রিক ডিজাইন সংযুক্ত করে পোস্টাল সেবায় তরুণ প্রজন্মকে আকৃষ্ট করার একটি কৌশলগত প্রচেষ্টা প্রতিনিধিত্ব করে।"
+      },
+      {
+        "topic": "Entertainment: Leonardo DiCaprio Named TIME's 2025 Entertainer of the Year",
+        "english": "Acclaimed actor **Leonardo DiCaprio** has been honored by **TIME Magazine** as the **Entertainer of the Year for 2025**. The recognition acknowledges his outstanding performances, **environmental advocacy**, and lasting impact on the global entertainment industry throughout his illustrious career.",
+        "hindi": "प्रशंसित अभिनेता लियोनार्डो डिकैप्रियो को TIME पत्रिका द्वारा 2025 के एंटरटेनर ऑफ द ईयर के रूप में सम्मानित किया गया है। यह मान्यता उनके उत्कृष्ट प्रदर्शन, पर्यावरणीय वकालत, और उनके शानदार करियर के दौरान वैश्विक मनोरंजन उद्योग पर स्थायी प्रभाव को स्वीकार करती है।",
+        "bengali": "প্রশংসিত অভিনেতা লিওনার্দো ডিক্যাপ্রিওকে TIME ম্যাগাজিন ২০২৫ সালের এন্টারটেইনার অফ দ্য ইয়ার হিসেবে সম্মানিত করেছে। এই স্বীকৃতি তার অসাধারণ পারফরম্যান্স, পরিবেশগত ওকালতি এবং তার কৃতিত্বপূর্ণ ক্যারিয়ার জুড়ে বিশ্বব্যাপী বিনোদন শিল্পে দীর্ঘস্থায়ী প্রভাবকে স্বীকার করে।"
+      },
+      {
+        "topic": "Technology: IIT Madras and India AI Mission to Host Global AI Summit in Chennai",
+        "english": "The **Indian Institute of Technology (IIT) Madras**, in collaboration with the **India AI Mission**, will organize a prestigious **Global Artificial Intelligence Conclave** in **Chennai**. This event aims to bring together leading AI researchers, industry experts, and policymakers to discuss the future of **AI development** and its applications in India.",
+        "hindi": "भारतीय प्रौद्योगिकी संस्थान मद्रास, भारत एआई मिशन के सहयोग से, चेन्नई में एक प्रतिष्ठित वैश्विक कृत्रिम बुद्धिमत्ता सम्मेलन का आयोजन करेगा। इस कार्यक्रम का उद्देश्य प्रमुख एआई शोधकर्ताओं, उद्योग विशेषज्ञों और नीति निर्माताओं को भारत में एआई विकास के भविष्य और इसके अनुप्रयोगों पर चर्चा करने के लिए एक साथ लाना है।",
+        "bengali": "ভারতীয় প্রযুক্তি সংস্থান মাদ্রাজ, ইন্ডিয়া এআই মিশনের সহযোগিতায়, চেন্নাইতে একটি মর্যাদাপূর্ণ গ্লোবাল আর্টিফিশিয়াল ইন্টেলিজেন্স কনক্লেভ আয়োজন করবে। এই অনুষ্ঠানের লক্ষ্য শীর্ষস্থানীয় এআই গবেষক, শিল্প বিশেষজ্ঞ এবং নীতিনির্ধারকদের একত্রিত করা ভারতে এআই উন্নয়নের ভবিষ্যৎ এবং এর প্রয়োগ সম্পর্কে আলোচনা করতে।"
+      },
+      {
+        "topic": "Culture: UNESCO Recognizes Deepavali as Intangible Cultural Heritage",
+        "english": "The **United Nations Educational, Scientific and Cultural Organization (UNESCO)** has officially inscribed **Deepavali (Diwali)** on its prestigious list of **Intangible Cultural Heritage of Humanity**. This recognition significantly enhances **India's cultural presence** on the global stage and acknowledges the festival's universal values of **light, unity, and renewal**.",
+        "hindi": "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन ने आधिकारिक तौर पर दीपावली को मानवता की अमूर्त सांस्कृतिक विरासत की अपनी प्रतिष्ठित सूची में अंकित किया है। यह मान्यता वैश्विक मंच पर भारत की सांस्कृतिक उपस्थिति को काफी बढ़ाती है और प्रकाश, एकता और नवीनीकरण के त्योहार के सार्वभौमिक मूल्यों को स्वीकार करती है।",
+        "bengali": "জাতিসংঘ শিক্ষা, বিজ্ঞান ও সাংস্কৃতিক সংস্থা আনুষ্ঠানিকভাবে দীপাবলিকে মানবতার অধরা সাংস্কৃতিক ঐতিহ্যের তার মর্যাদাপূর্ণ তালিকায় অন্তর্ভুক্ত করেছে। এই স্বীকৃতি বিশ্ব মঞ্চে ভারতের সাংস্কৃতিক উপস্থিতি উল্লেখযোগ্যভাবে বৃদ্ধি করে এবং আলো, ঐক্য ও নবায়নের উৎসবের সার্বজনীন মূল্যবোধকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Defence: India to Deploy Indigenous Air Defence System for Delhi's Security",
+        "english": "**India** is set to install an advanced **indigenously-developed Integrated Air Defence Weapon System** to strengthen the aerial security of the national capital, **Delhi**. This cutting-edge defense system represents a major milestone in India's **self-reliance initiative** in defense technology and will provide comprehensive protection against **aerial threats**.",
+        "hindi": "भारत राष्ट्रीय राजधानी दिल्ली की हवाई सुरक्षा को मजबूत करने के लिए एक उन्नत स्वदेशी रूप से विकसित एकीकृत वायु रक्षा हथियार प्रणाली स्थापित करने के लिए तैयार है। यह अत्याधुनिक रक्षा प्रणाली रक्षा प्रौद्योगिकी में भारत की आत्मनिर्भरता पहल में एक प्रमुख मील का पत्थर है और हवाई खतरों के खिलाफ व्यापक सुरक्षा प्रदान करेगी।",
+        "bengali": "ভারত জাতীয় রাজধানী দিল্লির আকাশ নিরাপত্তা শক্তিশালী করতে একটি উন্নত স্বদেশীয়ভাবে-উন্নত সমন্বিত বায়ু প্রতিরক্ষা অস্ত্র ব্যবস্থা স্থাপন করতে চলেছে। এই অত্যাধুনিক প্রতিরক্ষা ব্যবস্থা প্রতিরক্ষা প্রযুক্তিতে ভারতের আত্মনির্ভরতা উদ্যোগের একটি প্রধান মাইলফলক প্রতিনিধিত্ব করে এবং বায়বীয় হুমকির বিরুদ্ধে ব্যাপক সুরক্ষা প্রদান করবে।"
+      },
+      {
+        "topic": "International: Lithuania Declares Emergency Over Belarus Balloon Incidents",
+        "english": "**Lithuania** has officially declared a **state of emergency** in response to multiple unauthorized **balloon incursions from Belarus** entering its airspace. This development has raised significant **security concerns** and prompted the government to implement enhanced **border surveillance** and protective measures.",
+        "hindi": "लिथुआनिया ने बेलारूस से अपने हवाई क्षेत्र में प्रवेश करने वाले कई अनधिकृत गुब्बारा घुसपैठ के जवाब में आधिकारिक तौर पर आपातकाल की स्थिति घोषित की है। इस विकास ने महत्वपूर्ण सुरक्षा चिंताओं को बढ़ाया है और सरकार को बढ़ी हुई सीमा निगरानी और सुरक्षात्मक उपाय लागू करने के लिए प्रेरित किया है।",
+        "bengali": "লিথুয়ানিয়া আনুষ্ঠানিকভাবে জরুরি অবস্থা ঘোষণা করেছে বেলারুশ থেকে তার আকাশসীমায় প্রবেশকারী একাধিক অননুমোদিত বেলুন অনুপ্রবেশের প্রতিক্রিয়ায়। এই ঘটনা উল্লেখযোগ্য নিরাপত্তা উদ্বেগ বৃদ্ধি করেছে এবং সরকারকে উন্নত সীমান্ত নজরদারি এবং সুরক্ষা ব্যবস্থা প্রয়োগ করতে প্ররোচিত করেছে।"
+      }
+    ],
+    "createdAt": "2025-12-12T05:51:59.225Z",
+    "updatedAt": "2025-12-12T05:51:59.225Z"
+  },
+  {
+    "id": "2025-12-09",
+    "slug": "2025-12-09",
+    "date": "2025-12-09",
+    "current_affairs": [
+      {
+        "topic": "Environment: India Achieves 50% Non-Fossil Power Capacity Ahead of Schedule",
+        "english": "**India** reached a historic milestone by achieving **50% non-fossil power capacity**, meeting this target **five years ahead** of the **2030 deadline** set under the **Paris Agreement**. The country now has **205 GW of non-fossil energy**, including **82 GW solar, 47 GW wind, and 47 GW hydro**, driving India towards its **net-zero 2070 target**.",
+        "hindi": "**भारत** ने **पेरिस समझौते** के तहत निर्धारित **2030 की समय सीमा से पांच साल पहले** **50% गैर-जीवाश्म ऊर्जा क्षमता** हासिल करके एक ऐतिहासिक मील का पत्थर हासिल किया। देश के पास अब **205 GW गैर-जीवाश्म ऊर्जा** है, जिसमें **82 GW सौर, 47 GW पवन, और 47 GW जलविद्युत** शामिल है, जो भारत को अपने **नेट-जीरो 2070 लक्ष्य** की ओर ले जा रहा है।",
+        "bengali": "**ভারত** **প্যারিস চুক্তির** অধীনে নির্ধারিত **২০৩০ সময়সীমার পাঁচ বছর আগে** **৫০% অ-জীবাশ্ম বিদ্যুৎ ক্ষমতা** অর্জন করে একটি ঐতিহাসিক মাইলফলক অর্জন করেছে। দেশে এখন **২০৫ GW অ-জীবাশ্ম শক্তি** রয়েছে, যার মধ্যে **৮২ GW সৌর, ৪৭ GW বায়ু এবং ৪৭ GW জলবিদ্যুৎ** রয়েছে, যা ভারতকে **নেট-জিরো ২০৭০ লক্ষ্যের** দিকে চালিত করছে।"
+      },
+      {
+        "topic": "Achievement: Maharashtra Sets Guinness Record with 45,911 Solar Pumps in 30 Days",
+        "english": "**Maharashtra** created a **Guinness World Record** by installing **45,911 off-grid solar agricultural pumps** in just **30 days**. This remarkable achievement was accomplished under the **PM-KUSUM scheme** and state's **Magel Tyala Saur Krushi Pump Yojana**, highlighting Maharashtra's leadership in **renewable energy-driven farming**.",
+        "hindi": "**महाराष्ट्र** ने केवल **30 दिनों** में **45,911 ऑफ-ग्रिड सौर कृषि पंप** स्थापित करके **गिनीज वर्ल्ड रिकॉर्ड** बनाया। यह उल्लेखनीय उपलब्धि **PM-KUSUM योजना** और राज्य की **मागेल त्याला सौर कृषि पंप योजना** के तहत हासिल की गई, जो **नवीकरणीय ऊर्जा-संचालित कृषि** में महाराष्ट्र के नेतृत्व को उजागर करती है।",
+        "bengali": "**মহারাষ্ট্র** মাত্র **৩০ দিনে** **৪৫,৯১১ অফ-গ্রিড সৌর কৃষি পাম্প** স্থাপন করে **গিনেস ওয়ার্ল্ড রেকর্ড** তৈরি করেছে। এই অসাধারণ সাফল্য **PM-KUSUM স্কিম** এবং রাজ্যের **মাগেল ত্যালা সৌর কৃষি পাম্প যোজনা** এর অধীনে অর্জিত হয়েছে, যা **নবায়নযোগ্য শক্তি-চালিত কৃষিতে** মহারাষ্ট্রের নেতৃত্বকে তুলে ধরে।"
+      },
+      {
+        "topic": "Technology: Tata Electronics and Intel Partner for Semiconductor Manufacturing",
+        "english": "**Tata Electronics** and **Intel** signed a **Memorandum of Understanding (MoU)** to advance **semiconductor manufacturing and packaging in India**. The collaboration focuses on **chip fabrication in Dholera, Gujarat** and **advanced packaging in Guwahati, Assam**, as part of the **India Semiconductor Mission** to strengthen the nation's **semiconductor and AI ecosystem**.",
+        "hindi": "**टाटा इलेक्ट्रॉनिक्स** और **Intel** ने **भारत में अर्धचालक निर्माण और पैकेजिंग** को आगे बढ़ाने के लिए एक **समझौता ज्ञापन (MoU)** पर हस्ताक्षर किए। यह सहयोग **गुजरात के धोलेरा में चिप निर्माण** और **असम के गुवाहाटी में उन्नत पैकेजिंग** पर केंद्रित है, जो **भारत सेमीकंडक्टर मिशन** के तहत राष्ट्र के **सेमीकंडक्टर और AI इकोसिस्टम** को मजबूत करने के लिए है।",
+        "bengali": "**টাটা ইলেকট্রনিক্স** এবং **ইন্টেল** **ভারতে সেমিকন্ডাক্টর উৎপাদন এবং প্যাকেজিং** এগিয়ে নিতে একটি **সমঝোতা স্মারক (MoU)** স্বাক্ষর করেছে। সহযোগিতা **গুজরাটের ধোলেরায় চিপ তৈরি** এবং **আসামের গুয়াহাটিতে উন্নত প্যাকেজিং** এর উপর দৃষ্টি নিবদ্ধ করে, যা **ইন্ডিয়া সেমিকন্ডাক্টর মিশনের** অংশ হিসাবে দেশের **সেমিকন্ডাক্টর এবং AI ইকোসিস্টেম** শক্তিশালী করার জন্য।"
+      },
+      {
+        "topic": "International: Australia Bans Social Media for Under-16s",
+        "english": "**Australia** implemented a groundbreaking law prohibiting individuals **under 16 years** from using social media platforms like **TikTok and Instagram**. This measure sparked global debates regarding **youth protection versus free expression** and digital rights, making Australia the first country to enforce such strict age restrictions.",
+        "hindi": "**ऑस्ट्रेलिया** ने **16 वर्ष से कम** उम्र के व्यक्तियों को **टिकटॉक और इंस्टाग्राम** जैसे सोशल मीडिया प्लेटफॉर्म का उपयोग करने से प्रतिबंधित करने वाला एक अभूतपूर्व कानून लागू किया। इस उपाय ने **युवा संरक्षण बनाम अभिव्यक्ति की स्वतंत्रता** और डिजिटल अधिकारों के बारे में वैश्विक बहस को जन्म दिया, जिससे ऑस्ट्रेलिया ऐसे सख्त आयु प्रतिबंध लागू करने वाला पहला देश बन गया।",
+        "bengali": "**অস্ট্রেলিয়া** **১৬ বছরের কম** বয়সী ব্যক্তিদের **টিকটক এবং ইনস্টাগ্রামের** মতো সোশ্যাল মিডিয়া প্ল্যাটফর্ম ব্যবহার নিষিদ্ধ করে একটি যুগান্তকারী আইন প্রয়োগ করেছে। এই পদক্ষেপ **যুবক সুরক্ষা বনাম মুক্ত মতপ্রকাশ** এবং ডিজিটাল অধিকার সম্পর্কে বিশ্বব্যাপী বিতর্ক সৃষ্টি করেছে, যা অস্ট্রেলিয়াকে এই ধরনের কঠোর বয়স সীমাবদ্ধতা প্রয়োগকারী প্রথম দেশ করেছে।"
+      },
+      {
+        "topic": "Politics: Congress MP Introduces Anti-Defection Law Amendment Bill",
+        "english": "**Congress MP Manish Tewari** introduced a **Private Member's Bill** in the Lok Sabha for the **third time** (after 2010 and 2021) to amend the **10th Schedule (Anti-Defection Law)**. The bill aims to allow MPs to **vote independently on non-confidence and money bills**, curbing **\"whip tyranny\"** and promoting informed law-making.",
+        "hindi": "**कांग्रेस सांसद मनीष तिवारी** ने **10वीं अनुसूची (दल-बदल विरोधी कानून)** में संशोधन के लिए लोकसभा में **तीसरी बार** (2010 और 2021 के बाद) **प्राइवेट मेम्बर बिल** पेश किया। विधेयक का उद्देश्य सांसदों को **अविश्वास और धन विधेयकों पर स्वतंत्र रूप से मतदान** करने की अनुमति देना है, **\"व्हिप तानाशाही\"** को रोकना और सूचित कानून बनाने को बढ़ावा देना है।",
+        "bengali": "**কংগ্রেস সাংসদ মনীষ তিওয়ারি** **১০ম তফসিল (দলত্যাগ বিরোধী আইন)** সংশোধনের জন্য লোকসভায় **তৃতীয়বার** (২০১০ এবং ২০২১ এর পরে) **প্রাইভেট মেম্বার বিল** উত্থাপন করেছেন। বিলের লক্ষ্য সাংসদদের **অনাস্থা এবং অর্থ বিলের উপর স্বাধীনভাবে ভোট** দেওয়ার অনুমতি দেওয়া, **\"হুইপ স্বৈরাচার\"** দমন করা এবং অবহিত আইন প্রণয়নকে উৎসাহিত করা।"
+      },
+      {
+        "topic": "Science: Indian Astronomers Discover Ancient Spiral Galaxy 'Alaknanda'",
+        "english": "Indian astronomers from **NCRA-TIFR, Pune** discovered a massive ancient spiral galaxy named **'Alaknanda'**, located **12 billion light-years away**, using **James Webb Space Telescope (JWST)** data. This discovery provides crucial insights into galaxy formation in the **early universe**.",
+        "hindi": "**NCRA-TIFR, पुणे** के भारतीय खगोलविदों ने **जेम्स वेब स्पेस टेलीस्कोप (JWST)** डेटा का उपयोग करके **12 अरब प्रकाश वर्ष दूर** स्थित **'अलकनंदा'** नामक एक विशाल प्राचीन सर्पिल आकाशगंगा की खोज की। यह खोज **प्रारंभिक ब्रह्मांड** में आकाशगंगा निर्माण के बारे में महत्वपूर्ण अंतर्दृष्टि प्रदान करती है।",
+        "bengali": "**NCRA-TIFR, পুনের** ভারতীয় জ্যোতির্বিজ্ঞানীরা **জেমস ওয়েব স্পেস টেলিস্কোপ (JWST)** ডেটা ব্যবহার করে **১২ বিলিয়ন আলোকবর্ষ দূরে** অবস্থিত **'অলকানন্দা'** নামে একটি বিশাল প্রাচীন সর্পিল গ্যালাক্সি আবিষ্কার করেছেন। এই আবিষ্কার **প্রাথমিক মহাবিশ্বে** গ্যালাক্সি গঠন সম্পর্কে গুরুত্বপূর্ণ অন্তর্দৃষ্টি প্রদান করে।"
+      },
+      {
+        "topic": "International: Thailand-Cambodia Border Ceasefire After Deadly Clashes",
+        "english": "Following deadly border clashes where **Thai airstrikes killed nine Cambodian civilians**, a **Malaysian-brokered ceasefire** took effect between **Thailand and Cambodia**. The conflict forced **over 100,000 Cambodian villagers** and **400,000 Thai residents** to evacuate. Cambodia also **withdrew from the Southeast Asian Games** in Thailand citing safety concerns.",
+        "hindi": "घातक सीमा संघर्ष के बाद जिसमें **थाई हवाई हमलों में नौ कंबोडियाई नागरिकों की मौत** हो गई, **थाईलैंड और कंबोडिया** के बीच **मलेशिया-मध्यस्थ युद्धविराम** प्रभावी हुआ। संघर्ष ने **1 लाख से अधिक कंबोडियाई ग्रामीणों** और **4 लाख थाई निवासियों** को निकालने के लिए मजबूर किया। कंबोडिया ने सुरक्षा चिंताओं का हवाला देते हुए थाईलैंड में **दक्षिण पूर्व एशियाई खेलों से भी वापसी** ले ली।",
+        "bengali": "মারাত্মক সীমান্ত সংঘর্ষের পরে যেখানে **থাই বিমান হামলায় নয়জন কম্বোডিয়ান বেসামরিক লোক নিহত** হয়েছে, **থাইল্যান্ড এবং কম্বোডিয়ার** মধ্যে **মালয়েশিয়া-মধ্যস্থতাকারী যুদ্ধবিরতি** কার্যকর হয়েছে। সংঘাত **১ লক্ষেরও বেশি কম্বোডিয়ান গ্রামবাসী** এবং **৪ লক্ষ থাই বাসিন্দাকে** সরিয়ে নিতে বাধ্য করেছে। কম্বোডিয়া নিরাপত্তা উদ্বেগের কারণ দেখিয়ে থাইল্যান্ডে **দক্ষিণ-পূর্ব এশিয়ান গেমস থেকে প্রত্যাহার** করেছে।"
+      },
+      {
+        "topic": "International: Japan Struck by 7.5 Magnitude Earthquake",
+        "english": "A powerful **7.5-magnitude earthquake** struck off **Japan's northeastern coast**, injuring dozens and forcing the evacuation of **over 100,000 people**. Tsunami warnings were issued but later lifted. Japan's **advanced early warning systems** helped minimize casualties and demonstrated the country's preparedness for seismic emergencies.",
+        "hindi": "**जापान के उत्तरपूर्वी तट** पर एक शक्तिशाली **7.5 तीव्रता का भूकंप** आया, जिसमें दर्जनों लोग घायल हुए और **1 लाख से अधिक लोगों** को निकालने के लिए मजबूर किया गया। सुनामी चेतावनियां जारी की गईं लेकिन बाद में हटा ली गईं। जापान की **उन्नत पूर्व चेतावनी प्रणाली** ने हताहतों को कम करने में मदद की और भूकंपीय आपातकाल के लिए देश की तैयारी का प्रदर्शन किया।",
+        "bengali": "**জাপানের উত্তর-পূর্ব উপকূলে** একটি শক্তিশালী **৭.৫ মাত্রার ভূমিকম্প** আঘাত হানে, যাতে কয়েক ডজন আহত হয় এবং **১ লক্ষেরও বেশি মানুষকে** সরিয়ে নিতে বাধ্য করা হয়। সুনামি সতর্কতা জারি করা হয়েছিল কিন্তু পরে প্রত্যাহার করা হয়। জাপানের **উন্নত প্রাথমিক সতর্কতা ব্যবস্থা** হতাহতের সংখ্যা কমাতে সাহায্য করেছে এবং ভূমিকম্প জরুরি অবস্থার জন্য দেশের প্রস্তুতি প্রদর্শন করেছে।"
+      },
+      {
+        "topic": "Economy: IMF Approves $1.2 Billion Loan to Pakistan",
+        "english": "The **International Monetary Fund (IMF)** approved a **$1.2 billion loan** to **Pakistan**, giving the institution greater control over the country's economic programs. This financial assistance aims to stabilize Pakistan's struggling economy amid fiscal challenges and balance of payment issues.",
+        "hindi": "**अंतर्राष्ट्रीय मुद्रा कोष (IMF)** ने **पाकिस्तान** को **$1.2 बिलियन ऋण** स्वीकृत किया, जिससे संस्थान को देश के आर्थिक कार्यक्रमों पर अधिक नियंत्रण मिला। यह वित्तीय सहायता राजकोषीय चुनौतियों और भुगतान संतुलन मुद्दों के बीच पाकिस्तान की संघर्षरत अर्थव्यवस्था को स्थिर करने का लक्ष्य रखती है।",
+        "bengali": "**আন্তর্জাতিক মুদ্রা তহবিল (IMF)** **পাকিস্তানকে** **$১.২ বিলিয়ন ঋণ** অনুমোদন করেছে, যা প্রতিষ্ঠানকে দেশের অর্থনৈতিক কর্মসূচির উপর বৃহত্তর নিয়ন্ত্রণ দিয়েছে। এই আর্থিক সহায়তার লক্ষ্য আর্থিক চ্যালেঞ্জ এবং পেমেন্ট ব্যালেন্স সমস্যার মধ্যে পাকিস্তানের সংগ্রামরত অর্থনীতি স্থিতিশীল করা।"
+      },
+      {
+        "topic": "International: Indonesia Jakarta Office Fire Kills 22 People",
+        "english": "At least **22 people died** in a devastating **office building fire** in **Jakarta, Indonesia**, raising serious concerns about **building safety regulations** and fire prevention measures in the country. The tragedy prompted calls for stricter enforcement of safety standards in commercial buildings.",
+        "hindi": "**जकार्ता, इंडोनेशिया** में एक विनाशकारी **कार्यालय भवन की आग** में **कम से कम 22 लोगों की मौत** हो गई, जिससे देश में **भवन सुरक्षा नियमों** और अग्नि रोकथाम उपायों के बारे में गंभीर चिंताएं बढ़ गईं। इस त्रासदी ने वाणिज्यिक भवनों में सुरक्षा मानकों के सख्त प्रवर्तन की मांग को बढ़ावा दिया।",
+        "bengali": "**জাকার্তা, ইন্দোনেশিয়ায়** একটি ধ্বংসাত্মক **অফিস ভবনের আগুনে** **কমপক্ষে ২২ জন মারা** গেছেন, যা দেশে **বিল্ডিং নিরাপত্তা বিধি** এবং অগ্নি প্রতিরোধ ব্যবস্থা সম্পর্কে গুরুতর উদ্বেগ বাড়িয়েছে। এই ট্র্যাজেডি বাণিজ্যিক ভবনে নিরাপত্তা মান কঠোরভাবে প্রয়োগের আহ্বান জানিয়েছে।"
+      }
+    ],
+    "createdAt": "2025-12-12T05:50:58.822Z",
+    "updatedAt": "2025-12-12T05:50:58.822Z"
+  },
+  {
+    "id": "2025-12-08",
+    "date": "2025-12-08",
+    "items": [
+      {
+        "topic": "Defence: India Inaugurates 125 Border Infrastructure Projects Including Shyok Tunnel",
+        "english": "**Defence Minister Rajnath Singh** inaugurated **125 border infrastructure projects** across India, including the strategic **Shyok Tunnel in Ladakh**. These projects aim to enhance **connectivity and defense preparedness** along India's sensitive border regions, strengthening the nation's security infrastructure.",
+        "hindi": "**रक्षा मंत्री राजनाथ सिंह** ने भारत भर में **125 सीमा बुनियादी ढांचा परियोजनाओं** का उद्घाटन किया, जिसमें **लद्दाख में रणनीतिक श्योक सुरंग** शामिल है। इन परियोजनाओं का उद्देश्य भारत के संवेदनशील सीमावर्ती क्षेत्रों में **संपर्क और रक्षा तैयारी को बढ़ाना** है, जो राष्ट्र की सुरक्षा अवसंरचना को मजबूत करता है।",
+        "bengali": "**প্রতিরক্ষামন্ত্রী রাজনাথ সিং** ভারত জুড়ে **১২৫টি সীমান্ত অবকাঠামো প্রকল্প** উদ্বোধন করেছেন, যার মধ্যে রয়েছে **লাদাখের কৌশলগত শ্যোক টানেল**। এই প্রকল্পগুলির লক্ষ্য ভারতের সংবেদনশীল সীমান্ত অঞ্চলে **সংযোগ এবং প্রতিরক্ষা প্রস্তুতি বৃদ্ধি** করা, যা দেশের নিরাপত্তা অবকাঠামোকে শক্তিশালী করে।"
+      },
+      {
+        "topic": "International: Sri Lanka Cyclone Ditwah Claims 366 Lives",
+        "english": "**Cyclone Ditwah** devastated **Sri Lanka**, causing catastrophic flooding and landslides that resulted in **366 deaths** with approximately **400 people missing**. **India** deployed mobile hospitals to assist in relief operations, demonstrating regional cooperation during natural disasters.",
+        "hindi": "**चक्रवात दितवाह** ने **श्रीलंका** में भारी तबाही मचाई, जिससे विनाशकारी बाढ़ और भूस्खलन हुआ जिसमें **366 लोगों की मृत्यु** हो गई और लगभग **400 लोग लापता** हैं। **भारत** ने राहत कार्यों में सहायता के लिए मोबाइल अस्पताल तैनात किए, जो प्राकृतिक आपदाओं के दौरान क्षेत्रीय सहयोग को प्रदर्शित करता है।",
+        "bengali": "**ঘূর্ণিঝড় দিতওয়াহ** **শ্রীলঙ্কায়** বিধ্বংসী প্রলয় ঘটিয়েছে, যার ফলে ভয়াবহ বন্যা এবং ভূমিধস হয়েছে যাতে **৩৬৬ জন মৃত্যু** হয়েছে এবং প্রায় **৪০০ জন নিখোঁজ** রয়েছে। **ভারত** ত্রাণ কার্যক্রমে সহায়তার জন্য মোবাইল হাসপাতাল মোতায়েন করেছে, যা প্রাকৃতিক দুর্যোগের সময় আঞ্চলিক সহযোগিতা প্রদর্শন করে।"
+      },
+      {
+        "topic": "Aviation: IndiGo Faces Massive Flight Disruptions Across India",
+        "english": "**IndiGo Airlines** experienced widespread **flight disruptions and cancellations** affecting thousands of passengers across major airports including **Hyderabad, Mumbai, and Delhi**. The crisis stemmed from **pilot shortages** and failure to adapt to new government guidelines on pilot duty hours, prompting **DGCA** to issue a final 24-hour extension notice.",
+        "hindi": "**इंडिगो एयरलाइंस** को व्यापक **उड़ान व्यवधान और रद्दीकरण** का सामना करना पड़ा जिससे **हैदराबाद, मुंबई और दिल्ली** सहित प्रमुख हवाई अड्डों पर हजारों यात्री प्रभावित हुए। यह संकट **पायलटों की कमी** और पायलट ड्यूटी घंटों पर नई सरकारी दिशानिर्देशों को अपनाने में विफलता से उत्पन्न हुआ, जिससे **DGCA** ने अंतिम 24 घंटे का विस्तार नोटिस जारी किया।",
+        "bengali": "**ইন্ডিগো এয়ারলাইন্স** ব্যাপক **ফ্লাইট ব্যাহত এবং বাতিলকরণ** অনুভব করেছে যা **হায়দরাবাদ, মুম্বাই এবং দিল্লি** সহ প্রধান বিমানবন্দরে হাজার হাজার যাত্রীকে প্রভাবিত করেছে। এই সংকট **পাইলট ঘাটতি** এবং পাইলট ডিউটি ঘণ্টার নতুন সরকারি নির্দেশিকা মানিয়ে নিতে ব্যর্থতা থেকে উদ্ভূত হয়েছে, যার ফলে **DGCA** চূড়ান্ত ২৪ ঘণ্টার সম্প্রসারণ নোটিস জারি করেছে।"
+      },
+      {
+        "topic": "International: Cambodia-Thailand Border Conflict Escalates",
+        "english": "Tensions along the **Cambodia-Thailand border** escalated dramatically when **Cambodia shelled Thailand's Ubon Ratchathani province**, killing one Thai soldier and injuring eight. In retaliation, **Thai F-16 jets** conducted airstrikes on Cambodian military targets, resulting in **four civilian deaths** and displacement of tens of thousands from border villages.",
+        "hindi": "**कंबोडिया-थाईलैंड सीमा** पर तनाव नाटकीय रूप से बढ़ गया जब **कंबोडिया ने थाईलैंड के उबोन रत्चथानी प्रांत पर गोलाबारी** की, जिसमें एक थाई सैनिक की मौत हो गई और आठ घायल हो गए। जवाबी कार्रवाई में, **थाई F-16 जेट** ने कंबोडियाई सैन्य लक्ष्यों पर हवाई हमले किए, जिसके परिणामस्वरूप **चार नागरिकों की मौत** हुई और सीमावर्ती गांवों से हजारों लोग विस्थापित हुए।",
+        "bengali": "**কম্বোডিয়া-থাইল্যান্ড সীমান্তে** উত্তেজনা নাটকীয়ভাবে বৃদ্ধি পেয়েছে যখন **কম্বোডিয়া থাইল্যান্ডের উবন রাতচাথানি প্রদেশে গোলাবর্ষণ** করেছে, যাতে একজন থাই সৈনিক নিহত এবং আটজন আহত হয়েছে। প্রতিশোধে, **থাই F-16 জেট** কম্বোডিয়ান সামরিক লক্ষ্যে বিমান হামলা চালায়, যার ফলে **চারজন বেসামরিক লোকের মৃত্যু** হয় এবং সীমান্ত গ্রাম থেকে হাজার হাজার মানুষ বাস্তুচ্যুত হয়।"
+      },
+      {
+        "topic": "Politics: Right to Disconnect Bill Introduced in Parliament",
+        "english": "**NCP MP Supriya Sule** introduced the landmark **Right to Disconnect Bill 2025** in Parliament, aiming to provide employees with the **legal right to ignore work-related communications** outside working hours without penalty. The bill addresses growing concerns about **digital burnout** and work-life balance.",
+        "hindi": "**NCP सांसद सुप्रिया सुले** ने संसद में ऐतिहासिक **राइट टू डिस्कनेक्ट बिल 2025** पेश किया, जिसका उद्देश्य कर्मचारियों को काम के घंटों के बाहर बिना किसी दंड के **कार्य-संबंधित संचार को अनदेखा करने का कानूनी अधिकार** प्रदान करना है। यह विधेयक **डिजिटल थकावट** और कार्य-जीवन संतुलन के बारे में बढ़ती चिंताओं को संबोधित करता है।",
+        "bengali": "**NCP সাংসদ সুপ্রিয়া সুলে** সংসদে যুগান্তকারী **রাইট টু ডিসকানেক্ট বিল ২০২৫** উত্থাপন করেছেন, যার লক্ষ্য কর্মচারীদের কর্মঘণ্টার বাইরে কোনো শাস্তি ছাড়াই **কাজ-সম্পর্কিত যোগাযোগ উপেক্ষা করার আইনি অধিকার** প্রদান করা। বিলটি **ডিজিটাল ক্লান্তি** এবং কর্ম-জীবন ভারসাম্য সম্পর্কে ক্রমবর্ধমান উদ্বেগ মোকাবেলা করে।"
+      },
+      {
+        "topic": "International: Japan Hit by 7.6 Magnitude Earthquake",
+        "english": "A powerful **7.6 magnitude earthquake** struck off the coast of **Aomori Prefecture, Japan**, triggering a small tsunami and causing injuries to **at least 23 people**. Authorities ordered evacuations for **90,000 residents**, and public services were temporarily suspended as the nation responded to the seismic emergency.",
+        "hindi": "**जापान के अओमोरी प्रान्त** के तट पर एक शक्तिशाली **7.6 तीव्रता का भूकंप** आया, जिससे एक छोटी सुनामी आई और **कम से कम 23 लोग घायल** हुए। अधिकारियों ने **90,000 निवासियों** के लिए निकासी का आदेश दिया, और भूकंपीय आपातकाल के प्रति राष्ट्र की प्रतिक्रिया के दौरान सार्वजनिक सेवाओं को अस्थायी रूप से निलंबित कर दिया गया।",
+        "bengali": "**জাপানের আওমোরি প্রিফেকচারের** উপকূলে একটি শক্তিশালী **৭.৬ মাত্রার ভূমিকম্প** আঘাত হানে, যা একটি ছোট সুনামি সৃষ্টি করে এবং **কমপক্ষে ২৩ জনকে আহত** করে। কর্তৃপক্ষ **৯০,০০০ বাসিন্দার** জন্য সরিয়ে নেওয়ার নির্দেশ দেয় এবং দেশ ভূমিকম্প জরুরি অবস্থার প্রতিক্রিয়া জানানোর সাথে সাথে জনসেবা সাময়িকভাবে স্থগিত করা হয়।"
+      },
+      {
+        "topic": "Culture: India Hosts UNESCO Intangible Cultural Heritage Committee",
+        "english": "**India** hosted the **20th session of the UNESCO Intergovernmental Committee for Safeguarding of the Intangible Cultural Heritage** from December 8-13, 2025, in **New Delhi**. This prestigious event brought together international delegates to discuss preservation and promotion of **intangible cultural heritage** worldwide.",
+        "hindi": "**भारत** ने 8-13 दिसंबर 2025 तक **नई दिल्ली** में **यूनेस्को अमूर्त सांस्कृतिक विरासत की सुरक्षा के लिए अंतर-सरकारी समिति के 20वें सत्र** की मेजबानी की। इस प्रतिष्ठित कार्यक्रम ने दुनिया भर में **अमूर्त सांस्कृतिक विरासत** के संरक्षण और संवर्धन पर चर्चा करने के लिए अंतरराष्ट्रीय प्रतिनिधियों को एक साथ लाया।",
+        "bengali": "**ভারত** ৮-১৩ ডিসেম্বর ২০২৫ পর্যন্ত **নয়াদিল্লিতে** **UNESCO অধরা সাংস্কৃতিক ঐতিহ্য সংরক্ষণের আন্তঃসরকার কমিটির ২০তম অধিবেশন** আয়োজন করেছে। এই মর্যাদাপূর্ণ অনুষ্ঠান বিশ্বব্যাপী **অধরা সাংস্কৃতিক ঐতিহ্য** সংরক্ষণ এবং প্রচারের বিষয়ে আলোচনা করতে আন্তর্জাতিক প্রতিনিধিদের একত্রিত করেছে।"
+      },
+      {
+        "topic": "Economy: China's Trade Surplus Crosses Historic $1 Trillion Mark",
+        "english": "**China** achieved a historic milestone as its **trade surplus surpassed $1 trillion** for the first time, despite facing pressure from **US tariffs**. This unprecedented economic achievement demonstrates China's continued dominance in global trade and manufacturing sectors.",
+        "hindi": "**चीन** ने एक ऐतिहासिक उपलब्धि हासिल की क्योंकि इसका **व्यापार अधिशेष पहली बार $1 ट्रिलियन को पार** कर गया, **अमेरिकी टैरिफ** से दबाव का सामना करने के बावजूद। यह अभूतपूर्व आर्थिक उपलब्धि वैश्विक व्यापार और विनिर्माण क्षेत्रों में चीन के निरंतर प्रभुत्व को प्रदर्शित करती है।",
+        "bengali": "**চীন** একটি ঐতিহাসিক মাইলফলক অর্জন করেছে কারণ এর **বাণিজ্য উদ্বৃত্ত প্রথমবারের মতো $১ ট্রিলিয়ন অতিক্রম** করেছে, **মার্কিন শুল্ক** থেকে চাপের মুখোমুখি হওয়া সত্ত্বেও। এই অভূতপূর্ব অর্থনৈতিক অর্জন বিশ্বব্যাপী বাণিজ্য এবং উৎপাদন খাতে চীনের অব্যাহত আধিপত্য প্রদর্শন করে।"
+      },
+      {
+        "topic": "Politics: Vande Mataram Debate Dominates Lok Sabha on 150th Anniversary",
+        "english": "The **Lok Sabha** witnessed extensive discussions on the **150th anniversary of Vande Mataram**. **Prime Minister Narendra Modi** initiated the debate highlighting its historical and cultural significance, while **Congress leaders** including **Priyanka Gandhi Vadra** responded, creating a significant political discourse on India's national song.",
+        "hindi": "**लोकसभा** ने **वंदे मातरम की 150वीं वर्षगांठ** पर व्यापक चर्चा देखी। **प्रधानमंत्री नरेंद्र मोदी** ने इसके ऐतिहासिक और सांस्कृतिक महत्व को उजागर करते हुए बहस शुरू की, जबकि **प्रियंका गांधी वाड्रा** सहित **कांग्रेस नेताओं** ने जवाब दिया, जिससे भारत के राष्ट्रगीत पर एक महत्वपूर्ण राजनीतिक चर्चा हुई।",
+        "bengali": "**লোকসভা** **বন্দে মাতরমের ১৫০তম বার্ষিকীতে** ব্যাপক আলোচনা প্রত্যক্ষ করেছে। **প্রধানমন্ত্রী নরেন্দ্র মোদি** এর ঐতিহাসিক এবং সাংস্কৃতিক তাৎপর্য তুলে ধরে বিতর্ক শুরু করেছেন, যখন **প্রিয়াঙ্কা গান্ধী বাদরা** সহ **কংগ্রেস নেতারা** প্রতিক্রিয়া জানিয়েছেন, যা ভারতের জাতীয় সংগীত নিয়ে একটি উল্লেখযোগ্য রাজনৈতিক আলোচনা তৈরি করেছে।"
+      },
+      {
+        "topic": "International: Southern Transitional Council Captures Yemen's Southern Governorates",
+        "english": "The **UAE-backed Southern Transitional Council (STC)** reportedly captured all **eight southern governorates of Yemen** in the 2025 Hadhramaut offensive. The STC has been seizing key areas in **Hadhramaut and Mahrah governorates** since December 3, potentially paving the way for a claim of **independence for South Yemen**.",
+        "hindi": "**UAE-समर्थित दक्षिणी संक्रमणकालीन परिषद (STC)** ने कथित तौर पर 2025 के हद्रामौत आक्रमण में यमन के सभी **आठ दक्षिणी राज्यक्षेत्रों पर कब्जा** कर लिया। STC 3 दिसंबर से **हद्रामौत और महरा राज्यक्षेत्रों** में प्रमुख क्षेत्रों पर कब्जा कर रहा है, जो संभावित रूप से **दक्षिण यमन की स्वतंत्रता** के दावे का मार्ग प्रशस्त कर रहा है।",
+        "bengali": "**UAE-সমর্থিত সাউদার্ন ট্রানজিশনাল কাউন্সিল (STC)** ২০২৫ হাদরামাউট আক্রমণে ইয়েমেনের সমস্ত **আটটি দক্ষিণ গভর্নরেট দখল** করেছে বলে জানা গেছে। STC ৩ ডিসেম্বর থেকে **হাদরামাউট এবং মাহরা গভর্নরেটে** মূল এলাকা দখল করছে, যা সম্ভাব্যভাবে **দক্ষিণ ইয়েমেনের স্বাধীনতার** দাবির পথ প্রশস্ত করছে।"
+      }
+    ],
+    "createdAt": "2025-12-12T05:45:53.568Z",
+    "updatedAt": "2025-12-12T05:45:53.569Z"
+  },
+  {
+    "id": "2025-12-07",
+    "date": "2025-12-07",
+    "items": [
+      {
+        "topic": "Technology: Fino Payments Bank Becomes First to Convert to Small Finance Bank",
+        "english": "**Fino Payments Bank** created history by becoming the **first payments bank in India** to receive **in-principle approval from RBI** to convert into a **Small Finance Bank (SFB)**. This milestone marks a significant evolution in India's fintech sector and demonstrates the growth potential of digital banking institutions.",
+        "hindi": "**फिनो पेमेंट्स बैंक** ने **स्मॉल फाइनेंस बैंक (SFB)** में परिवर्तित होने के लिए **RBI से सैद्धांतिक मंजूरी** प्राप्त करने वाला **भारत का पहला पेमेंट्स बैंक** बनकर इतिहास रच दिया। यह मील का पत्थर भारत के फिनटेक क्षेत्र में एक महत्वपूर्ण विकास को चिह्नित करता है और डिजिटल बैंकिंग संस्थानों की विकास क्षमता को प्रदर्शित करता है।",
+        "bengali": "**ফিনো পেমেন্টস ব্যাংক** **স্মল ফাইন্যান্স ব্যাংক (SFB)** এ রূপান্তরের জন্য **RBI থেকে নীতিগতভাবে অনুমোদন** পাওয়া **ভারতের প্রথম পেমেন্টস ব্যাংক** হয়ে ইতিহাস সৃষ্টি করেছে। এই মাইলফলক ভারতের ফিনটেক সেক্টরে একটি গুরুত্বপূর্ণ বিবর্তন চিহ্নিত করে এবং ডিজিটাল ব্যাঙ্কিং প্রতিষ্ঠানের বৃদ্ধির সম্ভাবনা প্রদর্শন করে।"
+      },
+      {
+        "topic": "Aviation: IndiGo Cancels 650 Flights Amid Major Operational Crisis",
+        "english": "**IndiGo Airlines** faced a severe operational crisis, cancelling approximately **650 out of 2,300 daily flights** on December 7, 2025. The **DGCA issued a show-cause notice** to IndiGo's CEO citing **planning failures and pilot duty norm lapses**, while the government intervened by setting **maximum airfare limits** to protect passengers.",
+        "hindi": "**इंडिगो एयरलाइंस** को एक गंभीर परिचालन संकट का सामना करना पड़ा, 7 दिसंबर 2025 को **2,300 दैनिक उड़ानों में से लगभग 650 को रद्द** किया। **DGCA ने इंडिगो के CEO को कारण बताओ नोटिस** जारी किया, जिसमें **योजना विफलताओं और पायलट ड्यूटी मानदंड चूक** का हवाला दिया गया, जबकि सरकार ने यात्रियों की सुरक्षा के लिए **अधिकतम किराया सीमा** निर्धारित करके हस्तक्षेप किया।",
+        "bengali": "**ইন্ডিগো এয়ারলাইন্স** একটি গুরুতর পরিচালনাগত সংকটের মুখোমুখি হয়েছে, ৭ ডিসেম্বর ২০২৫ এ **২,৩০০ দৈনিক ফ্লাইটের মধ্যে প্রায় ৬৫০টি বাতিল** করেছে। **DGCA ইন্ডিগোর CEO-কে কারণ দর্শানোর নোটিশ** জারি করেছে **পরিকল্পনা ব্যর্থতা এবং পাইলট ডিউটি নিয়ম লঙ্ঘনের** উল্লেখ করে, যখন সরকার যাত্রীদের সুরক্ষার জন্য **সর্বোচ্চ ভাড়া সীমা** নির্ধারণ করে হস্তক্ষেপ করেছে।"
+      },
+      {
+        "topic": "Technology: NHAI Gets SEBI Approval for Infrastructure Investment Trust",
+        "english": "The **National Highways Authority of India (NHAI)** secured **in-principle approval from SEBI** for its **'Raajmarg Infra Investment Trust' (RIIT)**. This infrastructure investment trust will enable public participation in highway development and create new investment opportunities in India's road infrastructure sector.",
+        "hindi": "**भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI)** ने अपने **'राजमार्ग इन्फ्रा इन्वेस्टमेंट ट्रस्ट' (RIIT)** के लिए **SEBI से सैद्धांतिक मंजूरी** प्राप्त की। यह बुनियादी ढांचा निवेश ट्रस्ट राजमार्ग विकास में सार्वजनिक भागीदारी को सक्षम करेगा और भारत के सड़क बुनियादी ढांचा क्षेत्र में नए निवेश अवसर पैदा करेगा।",
+        "bengali": "**ন্যাশনাল হাইওয়েজ অথরিটি অফ ইন্ডিয়া (NHAI)** তার **'রাজমার্গ ইনফ্রা ইনভেস্টমেন্ট ট্রাস্ট' (RIIT)** এর জন্য **SEBI থেকে নীতিগত অনুমোদন** পেয়েছে। এই অবকাঠামো বিনিয়োগ ট্রাস্ট হাইওয়ে উন্নয়নে জনসাধারণের অংশগ্রহণ সক্ষম করবে এবং ভারতের সড়ক অবকাঠামো খাতে নতুন বিনিয়োগের সুযোগ তৈরি করবে।"
+      },
+      {
+        "topic": "Defence: DRDO Transfers Seven Indigenous Technologies to Armed Forces",
+        "english": "The **Defence Research and Development Organisation (DRDO)** successfully transferred **seven indigenously developed technologies** to the **Indian Armed Forces** under the **Technology Development Fund (TDF) scheme**. This initiative strengthens India's **self-reliance in defence technology** and operational capabilities.",
+        "hindi": "**रक्षा अनुसंधान और विकास संगठन (DRDO)** ने **प्रौद्योगिकी विकास कोष (TDF) योजना** के तहत **सात स्वदेशी रूप से विकसित प्रौद्योगिकियों** को **भारतीय सशस्त्र बलों** को सफलतापूर्वक स्थानांतरित किया। यह पहल **रक्षा प्रौद्योगिकी में भारत की आत्मनिर्भरता** और परिचालन क्षमताओं को मजबूत करती है।",
+        "bengali": "**প্রতিরক্ষা গবেষণা ও উন্নয়ন সংস্থা (DRDO)** **প্রযুক্তি উন্নয়ন তহবিল (TDF) স্কিমের** অধীনে **সাতটি স্বদেশীয়ভাবে উন্নত প্রযুক্তি** **ভারতীয় সশস্ত্র বাহিনীতে** সফলভাবে স্থানান্তর করেছে। এই উদ্যোগ **প্রতিরক্ষা প্রযুক্তিতে ভারতের আত্মনির্ভরতা** এবং পরিচালনা সক্ষমতা শক্তিশালী করে।"
+      },
+      {
+        "topic": "Technology: Bharat Taxi Launched as Alternative Ride-Hailing Platform",
+        "english": "A **cooperative ride-hailing platform named Bharat Taxi** was launched under the **Union Ministry of Cooperation** as an alternative to existing services like **Uber and Ola**. This initiative aims to empower drivers through a **cooperative model** and provide competitive cab services across India.",
+        "hindi": "**Uber और Ola** जैसी मौजूदा सेवाओं के विकल्प के रूप में **केंद्रीय सहकारिता मंत्रालय** के तहत **भारत टैक्सी नामक एक सहकारी राइड-हेलिंग प्लेटफॉर्म** लॉन्च किया गया। इस पहल का उद्देश्य **सहकारी मॉडल** के माध्यम से ड्राइवरों को सशक्त बनाना और पूरे भारत में प्रतिस्पर्धी कैब सेवाएं प्रदान करना है।",
+        "bengali": "**Uber এবং Ola**-র মতো বিদ্যমান সেবার বিকল্প হিসাবে **কেন্দ্রীয় সহযোগিতা মন্ত্রকের** অধীনে **ভারত ট্যাক্সি নামে একটি সমবায় রাইড-হেইলিং প্ল্যাটফর্ম** চালু করা হয়েছে। এই উদ্যোগের লক্ষ্য **সমবায় মডেলের** মাধ্যমে চালকদের ক্ষমতায়ন করা এবং ভারত জুড়ে প্রতিযোগিতামূলক ক্যাব সেবা প্রদান করা।"
+      },
+      {
+        "topic": "Disaster: Goa Nightclub Fire Claims 23 Lives",
+        "english": "A devastating fire at the **Birch by Romeo Lane nightclub in North Goa** claimed **at least 23 lives**, including staff and tourists, and injured approximately  **50 others**. The blaze was reportedly triggered by a **cylinder blast**, leading to arrests and a magisterial inquiry into safety violations.",
+        "hindi": "**उत्तर गोवा में बर्च बाय रोमियो लेन नाइटक्लब** में एक विनाशकारी आग में कर्मचारियों और पर्यटकों सहित **कम से कम 23 लोगों की जान** चली गई और लगभग **50 अन्य घायल** हो गए। कथित तौर पर आग एक **सिलेंडर विस्फोट** से लगी, जिसके कारण गिरफ्तारी हुई और सुरक्षा उल्लंघनों की मजिस्ट्रेट जांच शुरू हुई।",
+        "bengali": "**উত্তর গোয়ার বার্চ বাই রোমিও লেন নাইটক্লাবে** একটি ধ্বংসাত্মক অগ্নিকাণ্ডে কর্মচারী এবং পর্যটক সহ **কমপক্ষে ২৩ জনের প্রাণহানি** হয়েছে এবং প্রায় **৫০ জন আহত** হয়েছেন। অগ্নিকাণ্ডটি একটি **সিলিন্ডার বিস্ফোরণের** কারণে হয়েছে বলে জানা গেছে, যার ফলে গ্রেপ্তার এবং নিরাপত্তা লঙ্ঘনের ম্যাজিস্ট্রেট তদন্ত শুরু হয়েছে।"
+      },
+      {
+        "topic": "International: Russia Launches Massive Aerial Assault on Ukraine",
+        "english": "**Russia** launched its **largest aerial assault** on **Ukraine**, deploying **653 drones and 51 missiles** targeting energy and transport infrastructure across **ten regions**. The attack injured **at least eight people** and left **millions without power**, coinciding with US-mediated peace talks in Miami.",
+        "hindi": "**रूस** ने **यूक्रेन** पर अपना **सबसे बड़ा हवाई हमला** शुरू किया, **दस क्षेत्रों** में ऊर्जा और परिवहन बुनियादी ढांचे को निशाना बनाते हुए **653 ड्रोन और 51 मिसाइलें** तैनात कीं। हमले में **कम से कम आठ लोग घायल** हुए और **लाखों लोग बिजली के बिना** रह गए, जो मियामी में अमेरिकी-मध्यस्थ शांति वार्ता के साथ मेल खाता है।",
+        "bengali": "**রাশিয়া** **ইউক্রেনে** তার **সর্ববৃহৎ বিমান হামলা** চালিয়েছে, **দশটি অঞ্চলে** শক্তি এবং পরিবহন অবকাঠামোকে লক্ষ্য করে **৬৫৩ ড্রোন এবং ৫১ মিসাইল** মোতায়েন করেছে। হামলায় **কমপক্ষে আট জন আহত** হয়েছে এবং **লক্ষ লক্ষ মানুষ বিদ্যুৎ ছাড়াই** থেকে গেছে, যা মিয়ামিতে মার্কিন-মধ্যস্থ শান্তি আলোচনার সাথে মিলেছে।"
+      },
+      {
+        "topic": "International: Military Coup in Benin",
+        "english": "A group of soldiers in **Benin**, calling themselves the **Military Committee for Refoundation**, announced the **dissolution of the government** and removal of the President on state television. This marks the **latest in a series of coups** in West Africa, raising concerns about regional stability.",
+        "hindi": "**बेनिन** में सैनिकों के एक समूह ने, जो खुद को **मिलिट्री कमेटी फॉर रिफाउंडेशन** कहते हैं, राज्य टेलीविजन पर **सरकार के विघटन** और राष्ट्रपति को हटाने की घोषणा की। यह पश्चिम अफ्रीका में **तख्तापलट की श्रृंखला में नवीनतम** को चिह्नित करता है, जो क्षेत्रीय स्थिरता के बारे में चिंता बढ़ाता है।",
+        "bengali": "**বেনিনে** সৈন্যদের একটি দল, যারা নিজেদের **মিলিটারি কমিটি ফর রিফাউন্ডেশন** বলে, রাজ্য টেলিভিশনে **সরকার বিলুপ্তি** এবং রাষ্ট্রপতিকে অপসারণের ঘোষণা দিয়েছে। এটি পশ্চিম আফ্রিকায় **সাম্প্রতিক অভ্যুত্থানের সিরিজে সর্বশেষ** চিহ্নিত করে, যা আঞ্চলিক স্থিতিশীলতা নিয়ে উদ্বেগ বাড়িয়েছে।"
+      },
+      {
+        "topic": "Sports: Sunil Narine Becomes First Bowler with 600 T20 Wickets",
+        "english": "**West Indies spinner Sunil Narine** achieved a historic milestone by becoming the **first bowler to take 600 wickets in T20 cricket**. This remarkable feat showcases his dominance and consistency in the shortest format of the game across various T20 leagues worldwide.",
+        "hindi": "**वेस्ट इंडीज के स्पिनर सुनील नारिन** ने **T20 क्रिकेट में 600 विकेट लेने वाले पहले गेंदबाज** बनकर एक ऐतिहासिक मील का पत्थर हासिल किया। यह उल्लेखनीय उपलब्धि दुनिया भर की विभिन्न T20 लीगों में खेल के सबसे छोटे प्रारूप में उनके प्रभुत्व और स्थिरता को प्रदर्शित करती है।",
+        "bengali": "**ওয়েস্ট ইন্ডিজের স্পিনার সুনীল নারাইন** **T20 ক্রিকেটে ৬০০ উইকেট নেওয়া প্রথম বোলার** হয়ে একটি ঐতিহাসিক মাইলফলক অর্জন করেছেন। এই অসাধারণ কৃতিত্ব বিশ্বব্যাপী বিভিন্ন T20 লিগে খেলার সংক্ষিপ্ততম ফর্ম্যাটে তার আধিপত্য এবং ধারাবাহিকতা প্রদর্শন করে।"
+      },
+      {
+        "topic": "Events: International Civil Aviation Day and Armed Forces Flag Day Observed",
+        "english": "**December 7** was observed as **International Civil Aviation Day** with the theme **\"Safe Skies. Sustainable Future: Together for All\"** and **Armed Forces Flag Day** in India. These observances highlighted the importance of aviation safety and honored the sacrifices of Indian military personnel.",
+        "hindi": "**7 दिसंबर** को **\"सुरक्षित आसमान। सतत भविष्य: सभी के लिए एक साथ\"** विषय के साथ **अंतर्राष्ट्रीय नागरिक उड्डयन दिवस** और भारत में **सशस्त्र सेना झंडा दिवस** के रूप में मनाया गया। ये आयोजन विमानन सुरक्षा के महत्व को उजागर करते हैं और भारतीय सैन्य कर्मियों के बलिदान का सम्मान करते हैं।",
+        "bengali": "**৭ ডিসেম্বর** **\"নিরাপদ আকাশ। টেকসই ভবিষ্যৎ: সবার জন্য একসাথে\"** থিম সহ **আন্তর্জাতিক বেসামরিক বিমান চলাচল দিবস** এবং ভারতে **সশস্ত্র বাহিনী পতাকা দিবস** হিসাবে পালিত হয়েছে। এই পর্যবেক্ষণগুলি বিমান চলাচলের নিরাপত্তার গুরুত্ব তুলে ধরে এবং ভারতীয় সামরিক কর্মীদের ত্যাগের সম্মান করে।"
+      }
+    ],
+    "createdAt": "2025-12-11T17:31:22.124Z",
+    "updatedAt": "2025-12-11T17:31:22.124Z"
+  },
+  {
+    "date": "2025-12-10",
+    "current_affairs": [
+      {
+        "topic": "Finance: SEBI Launches PaRRVA Platform to Combat Misleading Investment Claims",
+        "english": "The Securities and Exchange Board of India (SEBI) has introduced the PaRRVA platform, a new digital tool designed to verify investment claims and prevent misleading content from financial influencers. This initiative aims to protect retail investors from fraudulent investment advice and unverified claims circulating on social media.",
+        "hindi": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) ने PaRRVA प्लेटफॉर्म की शुरुआत की है, जो निवेश दावों को सत्यापित करने और वित्तीय प्रभावकों की भ्रामक सामग्री को रोकने के लिए एक नया डिजिटल उपकरण है। यह पहल खुदरा निवेशकों को धोखाधड़ी वाली निवेश सलाह और सोशल मीडिया पर फैल रहे असत्यापित दावों से बचाने के उद्देश्य से शुरू की गई है।",
+        "bengali": "ভারতীয় সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড (সেবি) PaRRVA প্ল্যাটফর্ম চালু করেছে, যা একটি নতুন ডিজিটাল টুল যা বিনিয়োগের দাবি যাচাই করতে এবং আর্থিক প্রভাবশালীদের বিভ্রান্তিকর বিষয়বস্তু প্রতিরোধ করতে ডিজাইন করা হয়েছে। এই উদ্যোগের লক্ষ্য খুচরা বিনিয়োগকারীদের প্রতারণামূলক বিনিয়োগ পরামর্শ এবং সোশ্যাল মিডিয়ায় প্রচারিত অযাচাইকৃত দাবি থেকে রক্ষা করা।"
+      },
+      {
+        "topic": "Technology: Adani Group to Build 2500 Crore AI Data Centre in Telangana",
+        "english": "The Adani Group has announced plans to establish a massive AI-powered green data centre in Telangana with an investment of 2500 crore rupees. This state-of-the-art facility will focus on sustainable technology and is expected to boost the state's digital infrastructure significantly.",
+        "hindi": "अडानी समूह ने तेलंगाना में 2500 करोड़ रुपये के निवेश के साथ एक विशाल एआई-संचालित हरित डेटा सेंटर स्थापित करने की योजना की घोषणा की है। यह अत्याधुनिक सुविधा टिकाऊ प्रौद्योगिकी पर केंद्रित होगी और राज्य के डिजिटल बुनियादी ढांचे को महत्वपूर्ण रूप से बढ़ावा देने की उम्मीद है।",
+        "bengali": "আদানি গ্রুপ তেলেঙ্গানায় ২৫০০ করোড় রুপি বিনিয়োগে একটি বিশাল এআই-চালিত সবুজ ডেটা সেন্টার স্থাপনের পরিকল্পনা ঘোষণা করেছে। এই অত্যাধুনিক সুবিধা টেকসই প্রযুক্তির উপর ফোকাস করবে এবং রাজ্যের ডিজিটাল অবকাঠামোতে উল্লেখযোগ্য বৃদ্ধি আশা করা হচ্ছে।"
+      },
+      {
+        "topic": "Defence: Indian Navy Launches Operation Sagar Bandhu to Support Sri Lanka",
+        "english": "The Indian Navy has deployed four additional warships to Sri Lanka under Operation Sagar Bandhu as part of humanitarian assistance and disaster relief efforts. This operation demonstrates India's commitment to regional cooperation and its role as a first responder in the Indian Ocean region.",
+        "hindi": "भारतीय नौसेना ने मानवीय सहायता और आपदा राहत प्रयासों के तहत ऑपरेशन सागर बंधु के अंतर्गत श्रीलंका में चार अतिरिक्त युद्धपोतों को तैनात किया है। यह अभियान क्षेत्रीय सहयोग के प्रति भारत की प्रतिबद्धता और हिंद महासागर क्षेत्र में प्रथम प्रतिक्रियाकर्ता के रूप में इसकी भूमिका को प्रदर्शित करता है।",
+        "bengali": "ভারতীয় নৌবাহিনী মানবিক সহায়তা এবং দুর্যোগ ত্রাণ প্রচেষ্টার অংশ হিসাবে অপারেশন সাগর বন্ধুর অধীনে শ্রীলঙ্কায় চারটি অতিরিক্ত যুদ্ধজাহাজ মোতায়েন করেছে। এই অভিযান আঞ্চলিক সহযোগিতার প্রতি ভারতের প্রতিশ্রুতি এবং ভারত মহাসাগর অঞ্চলে প্রথম সাড়াদানকারী হিসাবে এর ভূমিকা প্রদর্শন করে।"
+      },
+      {
+        "topic": "Awards: Raveena Tandon Receives PETA India's Highest Annual Award",
+        "english": "Bollywood actress Raveena Tandon has been honored with PETA India's top annual recognition for her outstanding contribution to animal welfare and rights. The award acknowledges her consistent efforts in promoting compassion towards animals and raising awareness about their protection.",
+        "hindi": "बॉलीवुड अभिनेत्री रवीना टंडन को पशु कल्याण और अधिकारों में उनके उत्कृष्ट योगदान के लिए पेटा इंडिया के शीर्ष वार्षिक सम्मान से सम्मानित किया गया है। यह पुरस्कार जानवरों के प्रति करुणा को बढ़ावा देने और उनकी सुरक्षा के बारे में जागरूकता बढ़ाने में उनके निरंतर प्रयासों को मान्यता देता है।",
+        "bengali": "বলিউড অভিনেত্রী রবীনা ট্যান্ডনকে পশু কল্যাণ এবং অধিকারে তাঁর অসাধারণ অবদানের জন্য পেটা ইন্ডিয়ার সর্বোচ্চ বার্ষিক স্বীকৃতি প্রদান করা হয়েছে। এই পুরস্কার পশুদের প্রতি সহানুভূতি প্রচার এবং তাদের সুরক্ষা সম্পর্কে সচেতনতা বৃদ্ধিতে তাঁর ধারাবাহিক প্রচেষ্টাকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Infrastructure: NHAI's Raajmarg Infra InvIT Gets SEBI Approval for IPO",
+        "english": "The National Highways Authority of India's (NHAI) infrastructure investment trust, Raajmarg Infra InvIT, has received preliminary approval from SEBI to launch its public listing. This move will enable retail investors to participate in India's highway infrastructure development through a transparent investment vehicle.",
+        "hindi": "राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) के बुनियादी ढांचा निवेश ट्रस्ट, राजमार्ग इन्फ्रा InvIT को सेबी से अपनी सार्वजनिक लिस्टिंग शुरू करने के लिए प्रारंभिक मंजूरी मिल गई है। यह कदम खुदरा निवेशकों को एक पारदर्शी निवेश माध्यम के जरिए भारत के राजमार्ग बुनियादी ढांचे के विकास में भाग लेने में सक्षम बनाएगा।",
+        "bengali": "জাতীয় মহাসড়ক কর্তৃপক্ষের (এনএইচএআই) অবকাঠামো বিনিয়োগ ট্রাস্ট, রাজমার্গ ইনফ্রা InvIT তার পাবলিক লিস্টিং চালু করার জন্য সেবির কাছ থেকে প্রাথমিক অনুমোদন পেয়েছে। এই পদক্ষেপ খুচরা বিনিয়োগকারীদের একটি স্বচ্ছ বিনিয়োগ মাধ্যমের মাধ্যমে ভারতের মহাসড়ক অবকাঠামো উন্নয়নে অংশগ্রহণ করতে সক্ষম করবে।"
+      },
+      {
+        "topic": "Chess: 3-Year-Old Indian Becomes Youngest FIDE-Rated Chess Player",
+        "english": "A three-year-old Indian child has created history by becoming the youngest chess player ever to earn an official FIDE rating. This remarkable achievement showcases the early development of chess talent in India and sets a new benchmark in the global chess community.",
+        "hindi": "एक तीन वर्षीय भारतीय बच्चे ने आधिकारिक FIDE रेटिंग अर्जित करने वाले सबसे कम उम्र के शतरंज खिलाड़ी बनकर इतिहास रच दिया है। यह उल्लेखनीय उपलब्धि भारत में शतरंज प्रतिभा के प्रारंभिक विकास को प्रदर्शित करती है और वैश्विक शतरंज समुदाय में एक नया मानदंड स्थापित करती है।",
+        "bengali": "একজন তিন বছর বয়সী ভারতীয় শিশু আনুষ্ঠানিক FIDE রেটিং অর্জনকারী সর্বকনিষ্ঠ দাবা খেলোয়াড় হয়ে ইতিহাস সৃষ্টি করেছে। এই অসাধারণ সাফল্য ভারতে দাবা প্রতিভার প্রাথমিক বিকাশ প্রদর্শন করে এবং বিশ্বব্যাপী দাবা সম্প্রদায়ে একটি নতুন মানদণ্ড স্থাপন করে।"
+      },
+      {
+        "topic": "Achievement: Maharashtra Sets Guinness Record for Solar Pump Installation",
+        "english": "Maharashtra has achieved a Guinness World Record for the largest-scale installation of solar pumps in the agricultural sector. This initiative represents a major step towards sustainable farming practices and demonstrates the state's commitment to renewable energy adoption in rural areas.",
+        "hindi": "महाराष्ट्र ने कृषि क्षेत्र में सौर पंपों की सबसे बड़े पैमाने की स्थापना के लिए गिनीज विश्व रिकॉर्ड हासिल किया है। यह पहल टिकाऊ कृषि प्रथाओं की दिशा में एक महत्वपूर्ण कदम है और ग्रामीण क्षेत्रों में नवीकरणीय ऊर्जा अपनाने के प्रति राज्य की प्रतिबद्धता को प्रदर्शित करती है।",
+        "bengali": "মহারাষ্ট্র কৃষি ক্ষেত্রে সৌর পাম্পের বৃহত্তম মাপের ইনস্টলেশনের জন্য গিনেস ওয়ার্ল্ড রেকর্ড অর্জন করেছে। এই উদ্যোগ টেকসই কৃষি অনুশীলনের দিকে একটি বড় পদক্ষেপ এবং গ্রামীণ এলাকায় নবায়নযোগ্য শক্তি গ্রহণের প্রতি রাজ্যের প্রতিশ্রুতি প্রদর্শন করে।"
+      },
+      {
+        "topic": "Healthcare: India Prepares for Second WHO Traditional Medicine Summit",
+        "english": "India has commenced preparations to host the second WHO Global Summit on Traditional Medicine. This prestigious event will bring together experts, policymakers, and practitioners from around the world to discuss the integration of traditional medicine systems with modern healthcare.",
+        "hindi": "भारत ने पारंपरिक चिकित्सा पर दूसरे विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) वैश्विक शिखर सम्मेलन की मेजबानी की तैयारी शुरू कर दी है। यह प्रतिष्ठित कार्यक्रम दुनिया भर के विशेषज्ञों, नीति निर्माताओं और चिकित्सकों को पारंपरिक चिकित्सा प्रणालियों को आधुनिक स्वास्थ्य सेवा के साथ एकीकृत करने पर चर्चा करने के लिए एक साथ लाएगा।",
+        "bengali": "ভারত ঐতিহ্যবাহী চিকিৎসার উপর দ্বিতীয় বিশ্ব স্বাস্থ্য সংস্থার (WHO) বৈশ্বিক শিখর সম্মেলনের আয়োজনের প্রস্তুতি শুরু করেছে। এই মর্যাদাপূর্ণ অনুষ্ঠান বিশ্বজুড়ে বিশেষজ্ঞ, নীতিনির্ধারক এবং অনুশীলনকারীদের একত্রিত করবে ঐতিহ্যবাহী চিকিৎসা ব্যবস্থার আধুনিক স্বাস্থ্যসেবার সাথে একীকরণ নিয়ে আলোচনা করতে।"
+      },
+      {
+        "topic": "Animal Welfare: Anant Ambani Honored by Humane Society International",
+        "english": "Anant Ambani has been recognized as the youngest recipient of the Humane Society International's prestigious animal welfare award. The honor acknowledges his dedicated efforts towards animal conservation, rescue, and rehabilitation through his Vantara wildlife rescue initiative.",
+        "hindi": "अनंत अंबानी को ह्यूमेन सोसाइटी इंटरनेशनल के प्रतिष्ठित पशु कल्याण पुरस्कार का सबसे कम उम्र का प्राप्तकर्ता मान्यता मिली है। यह सम्मान उनके वंतारा वन्यजीव बचाव पहल के माध्यम से पशु संरक्षण, बचाव और पुनर्वास के लिए उनके समर्पित प्रयासों को स्वीकार करता है।",
+        "bengali": "অনন্ত আম্বানি হিউম্যান সোসাইটি ইন্টারন্যাশনালের মর্যাদাপূর্ণ পশু কল্যাণ পুরস্কারের সর্বকনিষ্ঠ প্রাপক হিসাবে স্বীকৃত হয়েছেন। এই সম্মান তাঁর বন্তারা বন্যপ্রাণী উদ্ধার উদ্যোগের মাধ্যমে পশু সংরক্ষণ, উদ্ধার এবং পুনর্বাসনের জন্য তাঁর নিবেদিত প্রচেষ্টাকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Heritage: Gyan Bharatam Mission Launched to Preserve Ancient Manuscripts",
+        "english": "The Government of India has launched the Gyan Bharatam Mission, an ambitious initiative aimed at digitally preserving India's vast manuscript heritage. This project will use advanced technology to catalog, digitize, and make accessible thousands of ancient manuscripts, ensuring their preservation for future generations.",
+        "hindi": "भारत सरकार ने ज्ञान भारतम मिशन की शुरुआत की है, जो भारत की विशाल पांडुलिपि विरासत को डिजिटल रूप से संरक्षित करने का एक महत्वाकांक्षी पहल है। यह परियोजना हजारों प्राचीन पांडुलिपियों को सूचीबद्ध करने, डिजिटलीकरण करने और सुलभ बनाने के लिए उन्नत तकनीक का उपयोग करेगी, जिससे आने वाली पीढ़ियों के लिए उनका संरक्षण सुनिश्चित होगा।",
+        "bengali": "ভারত সরকার জ্ঞান ভারতম মিশন চালু করেছে, যা ভারতের বিশাল পাণ্ডুলিপি ঐতিহ্যকে ডিজিটালভাবে সংরক্ষণের লক্ষ্যে একটি উচ্চাভিলাষী উদ্যোগ। এই প্রকল্প হাজার হাজার প্রাচীন পাণ্ডুলিপি তালিকাভুক্ত, ডিজিটাইজ এবং অ্যাক্সেসযোগ্য করতে উন্নত প্রযুক্তি ব্যবহার করবে, ভবিষ্যৎ প্রজন্মের জন্য তাদের সংরক্ষণ নিশ্চিত করবে।"
+      }
+    ]
+  }
 ]
