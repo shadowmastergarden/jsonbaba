@@ -1,5 +1,74 @@
 [
   {
+    "id": "2025-12-11",
+    "slug": "2025-12-11",
+    "date": "2025-12-11",
+    "current_affairs": [
+      {
+        "topic": "Healthcare: US FDA Approves First AI-Based Liver Disease Detection System",
+        "english": "The **United States Food and Drug Administration (FDA)** has granted approval for the world's **first artificial intelligence-powered diagnostic system** specifically developed to accelerate the detection and diagnosis of **liver diseases**. This breakthrough technology is expected to **significantly reduce diagnosis time** and improve patient outcomes through **early detection**.",
+        "hindi": "संयुक्त राज्य खाद्य एवं औषधि प्रशासन ने विशेष रूप से यकृत रोगों के पता लगाने और निदान को तेज करने के लिए विकसित की गई दुनिया की पहली कृत्रिम बुद्धिमत्ता-संचालित निदान प्रणाली को मंजूरी दी है। इस अभूतपूर्व तकनीक से निदान समय में उल्लेखनीय कमी आने और प्रारंभिक पता लगाने के माध्यम से रोगी परिणामों में सुधार की उम्मीद है।",
+        "bengali": "মার্কিন যুক্তরাষ্ট্রের খাদ্য ও ওষুধ প্রশাসন বিশেষভাবে লিভারের রোগ সনাক্তকরণ এবং নির্ণয় ত্বরান্বিত করার জন্য বিকশিত বিশ্বের প্রথম কৃত্রিম বুদ্ধিমত্তা-চালিত ডায়াগনস্টিক সিস্টেমকে অনুমোদন দিয়েছে। এই যুগান্তকারী প্রযুক্তি নির্ণয়ের সময় উল্লেখযোগ্যভাবে হ্রাস করবে এবং প্রাথমিক সনাক্তকরণের মাধ্যমে রোগীর ফলাফল উন্নত করবে বলে আশা করা হচ্ছে।"
+      },
+      {
+        "topic": "Politics: Andrej Babiš Sworn In as Czech Republic's Prime Minister",
+        "english": "**Andrej Babiš** has officially been sworn in as the **new Prime Minister of the Czech Republic**, marking a significant political transition in the Central European nation. The oath-taking ceremony was conducted in accordance with constitutional protocols, and Babiš is expected to implement his party's **reform agenda**.",
+        "hindi": "एंड्रेज बाबिस ने आधिकारिक तौर पर चेक गणराज्य के नए प्रधान मंत्री के रूप में शपथ ली है, जो मध्य यूरोपीय राष्ट्र में एक महत्वपूर्ण राजनीतिक परिवर्तन को दर्शाता है। शपथ ग्रहण समारोह संवैधानिक प्रोटोकॉल के अनुसार आयोजित किया गया था, और बाबिस से अपनी पार्टी के सुधार एजेंडे को लागू करने की उम्मीद है।",
+        "bengali": "আন্দ্রেজ বাবিশ আনুষ্ঠানিকভাবে চেক প্রজাতন্ত্রের নতুন প্রধানমন্ত্রী হিসেবে শপথ গ্রহণ করেছেন, যা মধ্য ইউরোপীয় দেশে একটি উল্লেখযোগ্য রাজনৈতিক পরিবর্তন চিহ্নিত করে। শপথ অনুষ্ঠানটি সাংবিধানিক প্রোটোকল অনুসারে পরিচালিত হয়েছিল এবং বাবিশ তার দলের সংস্কার এজেন্ডা বাস্তবায়ন করবেন বলে প্রত্যাশিত।"
+      },
+      {
+        "topic": "Sports: TIME Magazine Honors A'ja Wilson as 2025 Athlete of the Year",
+        "english": "**TIME Magazine** has recognized basketball superstar **A'ja Wilson** with the prestigious **2025 Athlete of the Year** title. This honor celebrates her exceptional performance, leadership on the court, and significant contributions to **women's basketball** both domestically and internationally.",
+        "hindi": "TIME पत्रिका ने बास्केटबॉल सुपरस्टार ए'जा विल्सन को प्रतिष्ठित 2025 एथलीट ऑफ द ईयर खिताब से सम्मानित किया है। यह सम्मान उनके असाधारण प्रदर्शन, कोर्ट पर नेतृत्व, और घरेलू और अंतरराष्ट्रीय स्तर पर महिला बास्केटबॉल में महत्वपूर्ण योगदान का जश्न मनाता है।",
+        "bengali": "TIME ম্যাগাজিন বাস্কেটবল সুপারস্টার এ'জা উইলসনকে মর্যাদাপূর্ণ ২০২৫ অ্যাথলিট অফ দ্য ইয়ার শিরোনামে স্বীকৃতি দিয়েছে। এই সম্মান তার অসাধারণ পারফরম্যান্স, কোর্টে নেতৃত্ব এবং দেশীয় ও আন্তর্জাতিক উভয় ক্ষেত্রে নারী বাস্কেটবলে উল্লেখযোগ্য অবদান উদযাপন করে।"
+      },
+      {
+        "topic": "Sports: Thailand Inaugurates 33rd Southeast Asian Games",
+        "english": "**Thailand** has officially opened the **33rd edition of the Southeast Asian Games** with a grand ceremony that showcased the nation's rich cultural heritage and sporting spirit. Athletes from across Southeast Asia have gathered to compete in various sporting disciplines, promoting **regional unity** and **athletic excellence**.",
+        "hindi": "थाईलैंड ने 33वें दक्षिण पूर्व एशियाई खेलों को एक भव्य समारोह के साथ आधिकारिक तौर पर खोला है जो देश की समृद्ध सांस्कृतिक विरासत और खेल भावना को प्रदर्शित करता है। दक्षिण पूर्व एशिया भर के एथलीट विभिन्न खेल विषयों में प्रतिस्पर्धा करने के लिए एकत्र हुए हैं, जो क्षेत्रीय एकता और एथलेटिक उत्कृष्टता को बढ़ावा देते हैं।",
+        "bengali": "থাইল্যান্ড আনুষ্ঠানিকভাবে ৩৩তম দক্ষিণ-পূর্ব এশিয়ান গেমসের উদ্বোধন করেছে একটি জাঁকজমকপূর্ণ অনুষ্ঠানের মাধ্যমে যা দেশের সমৃদ্ধ সাংস্কৃতিক ঐতিহ্য এবং ক্রীড়া চেতনা প্রদর্শন করেছে। দক্ষিণ-পূর্ব এশিয়া জুড়ে ক্রীড়াবিদরা বিভিন্ন ক্রীড়া শাখায় প্রতিযোগিতা করতে একত্রিত হয়েছেন, আঞ্চলিক ঐক্য এবং ক্রীড়া উৎকর্ষতা প্রচার করছেন।"
+      },
+      {
+        "topic": "Technology: India Post Opens Kerala's First Gen-Z Focused Post Office",
+        "english": "**India Post** has launched an innovative **Gen-Z oriented post office extension** in **Kerala**, featuring modern digital services and youth-friendly amenities. This initiative represents a strategic effort to attract **younger generations** to postal services by integrating contemporary technology and customer-centric designs.",
+        "hindi": "इंडिया पोस्ट ने केरल में आधुनिक डिजिटल सेवाओं और युवा-अनुकूल सुविधाओं वाला एक नवीन जेन-जेड उन्मुख डाकघर विस्तार लॉन्च किया है। यह पहल समकालीन तकनीक और ग्राहक-केंद्रित डिजाइनों को एकीकृत करके युवा पीढ़ियों को डाक सेवाओं की ओर आकर्षित करने का एक रणनीतिक प्रयास है।",
+        "bengali": "ইন্ডিয়া পোস্ট কেরলে একটি উদ্ভাবনী জেন-জেড ভিত্তিক ডাকঘর সম্প্রসারণ চালু করেছে, যাতে আধুনিক ডিজিটাল সেবা এবং যুব-বান্ধব সুবিধা রয়েছে। এই উদ্যোগ সমসাময়িক প্রযুক্তি এবং গ্রাহক-কেন্দ্রিক ডিজাইন সংযুক্ত করে পোস্টাল সেবায় তরুণ প্রজন্মকে আকৃষ্ট করার একটি কৌশলগত প্রচেষ্টা প্রতিনিধিত্ব করে।"
+      },
+      {
+        "topic": "Entertainment: Leonardo DiCaprio Named TIME's 2025 Entertainer of the Year",
+        "english": "Acclaimed actor **Leonardo DiCaprio** has been honored by **TIME Magazine** as the **Entertainer of the Year for 2025**. The recognition acknowledges his outstanding performances, **environmental advocacy**, and lasting impact on the global entertainment industry throughout his illustrious career.",
+        "hindi": "प्रशंसित अभिनेता लियोनार्डो डिकैप्रियो को TIME पत्रिका द्वारा 2025 के एंटरटेनर ऑफ द ईयर के रूप में सम्मानित किया गया है। यह मान्यता उनके उत्कृष्ट प्रदर्शन, पर्यावरणीय वकालत, और उनके शानदार करियर के दौरान वैश्विक मनोरंजन उद्योग पर स्थायी प्रभाव को स्वीकार करती है।",
+        "bengali": "প্রশংসিত অভিনেতা লিওনার্দো ডিক্যাপ্রিওকে TIME ম্যাগাজিন ২০২৫ সালের এন্টারটেইনার অফ দ্য ইয়ার হিসেবে সম্মানিত করেছে। এই স্বীকৃতি তার অসাধারণ পারফরম্যান্স, পরিবেশগত ওকালতি এবং তার কৃতিত্বপূর্ণ ক্যারিয়ার জুড়ে বিশ্বব্যাপী বিনোদন শিল্পে দীর্ঘস্থায়ী প্রভাবকে স্বীকার করে।"
+      },
+      {
+        "topic": "Technology: IIT Madras and India AI Mission to Host Global AI Summit in Chennai",
+        "english": "The **Indian Institute of Technology (IIT) Madras**, in collaboration with the **India AI Mission**, will organize a prestigious **Global Artificial Intelligence Conclave** in **Chennai**. This event aims to bring together leading AI researchers, industry experts, and policymakers to discuss the future of **AI development** and its applications in India.",
+        "hindi": "भारतीय प्रौद्योगिकी संस्थान मद्रास, भारत एआई मिशन के सहयोग से, चेन्नई में एक प्रतिष्ठित वैश्विक कृत्रिम बुद्धिमत्ता सम्मेलन का आयोजन करेगा। इस कार्यक्रम का उद्देश्य प्रमुख एआई शोधकर्ताओं, उद्योग विशेषज्ञों और नीति निर्माताओं को भारत में एआई विकास के भविष्य और इसके अनुप्रयोगों पर चर्चा करने के लिए एक साथ लाना है।",
+        "bengali": "ভারতীয় প্রযুক্তি সংস্থান মাদ্রাজ, ইন্ডিয়া এআই মিশনের সহযোগিতায়, চেন্নাইতে একটি মর্যাদাপূর্ণ গ্লোবাল আর্টিফিশিয়াল ইন্টেলিজেন্স কনক্লেভ আয়োজন করবে। এই অনুষ্ঠানের লক্ষ্য শীর্ষস্থানীয় এআই গবেষক, শিল্প বিশেষজ্ঞ এবং নীতিনির্ধারকদের একত্রিত করা ভারতে এআই উন্নয়নের ভবিষ্যৎ এবং এর প্রয়োগ সম্পর্কে আলোচনা করতে।"
+      },
+      {
+        "topic": "Culture: UNESCO Recognizes Deepavali as Intangible Cultural Heritage",
+        "english": "The **United Nations Educational, Scientific and Cultural Organization (UNESCO)** has officially inscribed **Deepavali (Diwali)** on its prestigious list of **Intangible Cultural Heritage of Humanity**. This recognition significantly enhances **India's cultural presence** on the global stage and acknowledges the festival's universal values of **light, unity, and renewal**.",
+        "hindi": "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन ने आधिकारिक तौर पर दीपावली को मानवता की अमूर्त सांस्कृतिक विरासत की अपनी प्रतिष्ठित सूची में अंकित किया है। यह मान्यता वैश्विक मंच पर भारत की सांस्कृतिक उपस्थिति को काफी बढ़ाती है और प्रकाश, एकता और नवीनीकरण के त्योहार के सार्वभौमिक मूल्यों को स्वीकार करती है।",
+        "bengali": "জাতিসংঘ শিক্ষা, বিজ্ঞান ও সাংস্কৃতিক সংস্থা আনুষ্ঠানিকভাবে দীপাবলিকে মানবতার অধরা সাংস্কৃতিক ঐতিহ্যের তার মর্যাদাপূর্ণ তালিকায় অন্তর্ভুক্ত করেছে। এই স্বীকৃতি বিশ্ব মঞ্চে ভারতের সাংস্কৃতিক উপস্থিতি উল্লেখযোগ্যভাবে বৃদ্ধি করে এবং আলো, ঐক্য ও নবায়নের উৎসবের সার্বজনীন মূল্যবোধকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Defence: India to Deploy Indigenous Air Defence System for Delhi's Security",
+        "english": "**India** is set to install an advanced **indigenously-developed Integrated Air Defence Weapon System** to strengthen the aerial security of the national capital, **Delhi**. This cutting-edge defense system represents a major milestone in India's **self-reliance initiative** in defense technology and will provide comprehensive protection against **aerial threats**.",
+        "hindi": "भारत राष्ट्रीय राजधानी दिल्ली की हवाई सुरक्षा को मजबूत करने के लिए एक उन्नत स्वदेशी रूप से विकसित एकीकृत वायु रक्षा हथियार प्रणाली स्थापित करने के लिए तैयार है। यह अत्याधुनिक रक्षा प्रणाली रक्षा प्रौद्योगिकी में भारत की आत्मनिर्भरता पहल में एक प्रमुख मील का पत्थर है और हवाई खतरों के खिलाफ व्यापक सुरक्षा प्रदान करेगी।",
+        "bengali": "ভারত জাতীয় রাজধানী দিল্লির আকাশ নিরাপত্তা শক্তিশালী করতে একটি উন্নত স্বদেশীয়ভাবে-উন্নত সমন্বিত বায়ু প্রতিরক্ষা অস্ত্র ব্যবস্থা স্থাপন করতে চলেছে। এই অত্যাধুনিক প্রতিরক্ষা ব্যবস্থা প্রতিরক্ষা প্রযুক্তিতে ভারতের আত্মনির্ভরতা উদ্যোগের একটি প্রধান মাইলফলক প্রতিনিধিত্ব করে এবং বায়বীয় হুমকির বিরুদ্ধে ব্যাপক সুরক্ষা প্রদান করবে।"
+      },
+      {
+        "topic": "International: Lithuania Declares Emergency Over Belarus Balloon Incidents",
+        "english": "**Lithuania** has officially declared a **state of emergency** in response to multiple unauthorized **balloon incursions from Belarus** entering its airspace. This development has raised significant **security concerns** and prompted the government to implement enhanced **border surveillance** and protective measures.",
+        "hindi": "लिथुआनिया ने बेलारूस से अपने हवाई क्षेत्र में प्रवेश करने वाले कई अनधिकृत गुब्बारा घुसपैठ के जवाब में आधिकारिक तौर पर आपातकाल की स्थिति घोषित की है। इस विकास ने महत्वपूर्ण सुरक्षा चिंताओं को बढ़ाया है और सरकार को बढ़ी हुई सीमा निगरानी और सुरक्षात्मक उपाय लागू करने के लिए प्रेरित किया है।",
+        "bengali": "লিথুয়ানিয়া আনুষ্ঠানিকভাবে জরুরি অবস্থা ঘোষণা করেছে বেলারুশ থেকে তার আকাশসীমায় প্রবেশকারী একাধিক অননুমোদিত বেলুন অনুপ্রবেশের প্রতিক্রিয়ায়। এই ঘটনা উল্লেখযোগ্য নিরাপত্তা উদ্বেগ বৃদ্ধি করেছে এবং সরকারকে উন্নত সীমান্ত নজরদারি এবং সুরক্ষা ব্যবস্থা প্রয়োগ করতে প্ররোচিত করেছে।"
+      }
+    ],
+    "createdAt": "2025-12-12T05:51:59.225Z",
+    "updatedAt": "2025-12-12T05:51:59.225Z"
+  },
+  {
     "id": "2025-12-09",
     "slug": "2025-12-09",
     "date": "2025-12-09",
