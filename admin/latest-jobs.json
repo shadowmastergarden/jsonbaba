@@ -1,5 +1,132 @@
 [
     {
+        "id": "iocl-apprentice-various-post-recruitment-2025",
+        "createdAt": "2025-12-14T02:29:00.000Z",
+        "updatedAt": "2025-12-14T02:29:00.000Z",
+        "title": "IOCL Apprentice Various Post Recruitment 2025",
+        "description": "Indian Oil Corporation Limited (IOCL) ने रिफाइनरीज डिवीजन में Trade / Technician / Graduate Apprentice के कुल 2755 पदों पर भर्ती के लिए अधिसूचना जारी की है। इच्छुक उम्मीदवार जो ITI, 12वीं पास, डिप्लोमा या संबंधित क्षेत्र में डिग्री रखते हैं, वे 18 दिसंबर 2025 तक ऑनलाइन आवेदन कर सकते हैं। आयु सीमा 18 से 24 वर्ष है। चयन प्रक्रिया मेरिट लिस्ट, डॉक्यूमेंट वेरिफिकेशन और मेडिकल परीक्षा के आधार पर होगी।",
+        "category": "Latest Jobs",
+        "vacancyDetails": {
+            "Total Posts": "2755"
+        },
+        "qualificationDetails": "ITI / 12th Pass / Diploma / Degree in relevant field",
+        "ageLimit": {
+            "Minimum Age": "18 Years",
+            "Maximum Age": "24 Years",
+            "Age as on": "30 November 2025"
+        },
+        "applicationFee": {
+            "General / OBC / EWS": "₹ 0/-",
+            "SC / ST / PH": "₹ 0/-"
+        },
+        "importantDates": {
+            "Online Apply Start Date": "28/11/2025",
+            "Online Apply Last Date": "18/12/2025",
+            "Last Date Pay Exam Fee": "18/12/2025",
+            "Merit List": "27/12/2025",
+            "DV Date": "02-07/01/2026"
+        },
+        "selectionProcess": [
+            "Merit List Based On Marks",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "importantLinks": {
+            "Apply Online": "https://iocl.com/apprenticeships",
+            "Official Notification": "https://iocl.com/apprenticeships",
+            "Official Website": "https://iocl.com/apprenticeships"
+        },
+        "customSections": [
+            {
+                "title": "Post Details",
+                "items": {
+                    "Post Name": "Trade / Technician / Graduate Apprentice",
+                    "Division": "Refineries Division",
+                    "Total Vacancies": "2755"
+                }
+            },
+            {
+                "title": "Payment Mode",
+                "items": {
+                    "Debit Card": "Available",
+                    "Credit Card": "Available",
+                    "Internet Banking": "Available",
+                    "IMPS": "Available",
+                    "Mobile Wallet": "Available"
+                }
+            }
+        ]
+    },
+    {
+        "id": "rspcb-jso-jee-recruitment-2025",
+        "createdAt": "2025-12-14T02:29:00.000Z",
+        "updatedAt": "2025-12-14T02:29:00.000Z",
+        "title": "RSPCB JSO & JEE Recruitment 2025",
+        "description": "Rajasthan State Pollution Control Board (RSPCB) ने Junior Scientific Officer (JSO) और Junior Environmental Engineer (JEE) के कुल 100 पदों पर भर्ती के लिए अधिसूचना जारी की है। JSO के लिए M.Sc./M.S. डिग्री (Chemistry, Soil Science, Environmental Science, Microbiology) और JEE के लिए M.Tech./M.E. (Environmental Engineering) या First Class B.Tech./B.E. आवश्यक है। आयु सीमा 18 से 40 वर्ष है। ऑनलाइन आवेदन की अंतिम तिथि 16 दिसंबर 2025 है। चयन लिखित परीक्षा, डॉक्यूमेंट वेरिफिकेशन और मेडिकल परीक्षा के आधार पर होगा।",
+        "category": "Latest Jobs",
+        "vacancyDetails": {
+            "Total Posts": "100"
+        },
+        "qualificationDetails": "For JSO: First Class M.Sc./M.S. in Chemistry/Soil Science/Environmental Science/Microbiology with B.Sc./B.S. in Science. For JEE: M.Tech./M.E. in Environmental Engineering or First Class B.Tech./B.E. in Biotechnology/Chemical/Civil/Mining/Environmental/Textile Engineering",
+        "ageLimit": {
+            "Minimum Age": "18 Years",
+            "Maximum Age": "40 Years",
+            "Age as on": "01 January 2026"
+        },
+        "applicationFee": {
+            "General / BC / EBC (CL)": "₹ 1400/-",
+            "EWS / EBC / BC (NCL)": "₹ 1200/-",
+            "SC / ST / PH": "₹ 1000/-"
+        },
+        "importantDates": {
+            "Online Apply Start Date": "26/11/2025",
+            "Online Apply Last Date": "16/12/2025",
+            "Last Date For Fee Payment": "16/12/2025",
+            "Exam Date": "Notify Later",
+            "Admit Card": "Before Exam",
+            "Result Date": "Will Be Updated Soon"
+        },
+        "selectionProcess": [
+            "Written Examination",
+            "Document Verification",
+            "Medical Examination"
+        ],
+        "importantLinks": {
+            "Apply Online (Registration)": "https://ibpsreg.ibps.in/rspcsep25/basic_details.php",
+            "Apply Online (Login)": "https://ibpsreg.ibps.in/rspcsep25/",
+            "Official Notification": "http://sarkariresult.com.cm/wp-content/uploads/2025/11/RSPCB-Advertisement-2025-26.pdf",
+            "Official Website": "https://environment.rajasthan.gov.in/content/environment/en.html"
+        },
+        "customSections": [
+            {
+                "title": "Post Details",
+                "items": {
+                    "Junior Scientific Officer (JSO)": "Available",
+                    "Junior Environmental Engineer (JEE)": "Available",
+                    "Total Posts": "100"
+                }
+            },
+            {
+                "title": "Qualification Breakdown",
+                "items": {
+                    "JSO - Required": "First Class M.Sc./M.S. in Chemistry/Soil Science/Environmental Science/Microbiology with B.Sc./B.S. in Science",
+                    "JEE - Option 1": "M.Tech./M.E. in Environmental Engineering after B.Tech./B.E. in relevant branch",
+                    "JEE - Option 2": "First Class B.Tech./B.E. in Biotechnology/Chemical/Civil/Mining/Environmental/Textile Engineering"
+                }
+            },
+            {
+                "title": "Payment Mode",
+                "items": {
+                    "Debit Card": "Available",
+                    "Credit Card": "Available",
+                    "Internet Banking": "Available",
+                    "IMPS": "Available",
+                    "Mobile Wallet": "Available"
+                }
+            }
+        ]
+    },
+    {
         "id": "dsssb-mts-recruitment-2025",
         "createdAt": "2025-12-12T06:00:00.000Z",
         "updatedAt": "2025-12-12T06:00:00.000Z",
