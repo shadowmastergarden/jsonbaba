@@ -1,5 +1,51 @@
 [
     {
+        "id": "cgpsc-sse-mains-final-result-2025",
+        "createdAt": "2025-12-14T02:41:00.000Z",
+        "updatedAt": "2025-12-14T02:41:00.000Z",
+        "title": "CGPSC SSE Mains Final Result 2025",
+        "description": "Chhattisgarh Public Service Commission (CGPSC) ने State Service Examination (SSE) के Mains Final Result 21 नवंबर 2025 को जारी कर दिया है। Pre Exam 09 फरवरी 2025 को और Mains Exam 26-29 जून 2025 के बीच आयोजित की गई थी। Pre Exam Result 12 मार्च 2025 को घोषित किया गया था। Final Merit List PDF के रूप में उपलब्ध है जिसमें चयनित उम्मीदवारों के नाम और Roll Numbers शामिल हैं। चयन प्रक्रिया में Written Exam, Document Verification और Medical Examination शामिल हैं।",
+        "importantDates": {
+            "Application Start": "01/12/2024",
+            "Last Date for Apply": "30/12/2024",
+            "Correction Last Date": "02/01/2025",
+            "Pre Exam Date": "09/02/2025",
+            "Main Exam": "26-29/06/2025",
+            "Admit Card": "15/06/2025",
+            "Pre Result Declared": "12/03/2025",
+            "Mains Final Result": "21/11/2025"
+        },
+        "importantLinks": {
+            "Download Mains Final Result": "https://psc.cg.gov.in/pdf/result/DML_SSE2024_20112025.PDF",
+            "Download Pre Result": "https://psc.cg.gov.in/pdf/result/WER_SSPE_2024_11032025.PDF",
+            "Official Notification": "https://psc.cg.gov.in/pdf/Advertisement/ADVT_SSE2024_26112024.pdf",
+            "Official Website": "https://psc.cg.gov.in/"
+        }
+    },
+    {
+        "id": "rssb-nhm-rajmes-result-2025",
+        "createdAt": "2025-12-14T02:41:00.000Z",
+        "updatedAt": "2025-12-14T02:41:00.000Z",
+        "title": "RSSB NHM & RajMES Result 2025",
+        "description": "Rajasthan Staff Selection Board (RSSB/RSMSSB) ने National Health Mission (NHM) और RajMES के विभिन्न पदों के लिए परीक्षा परिणाम 31 अक्टूबर 2025 को जारी कर दिया है। परीक्षा 02-13 जून 2025 के बीच आयोजित की गई थी। Exam City Details 28 मई 2025 को और Admit Card 01 जून 2025 को जारी किया गया था। Result PDF में योग्य उम्मीदवारों की सूची Roll Number/Name के साथ उपलब्ध है। चयन प्रक्रिया में Written Examination, Document Verification और Medical Examination शामिल हैं।",
+        "importantDates": {
+            "Notification Date": "29/01/2025",
+            "Online Apply Start Date": "02/04/2025",
+            "Online Apply Last Date": "01/05/2025",
+            "Last Date For Fee Payment": "01/05/2025",
+            "Exam Date": "02-13/06/2025",
+            "Exam City Details": "28/05/2025",
+            "Admit Card": "01/06/2025",
+            "Result Date": "31/10/2025"
+        },
+        "importantLinks": {
+            "Download Result": "http://sarkariresult.com.cm/wp-content/uploads/2025/08/1760095470.pdf",
+            "Download Answer Key": "https://rssb.rajasthan.gov.in/answerkeys",
+            "Download Master Question Paper": "https://rssb.rajasthan.gov.in/oldpapers",
+            "Official Website": "https://rssb.rajasthan.gov.in/"
+        }
+    },
+{
         "id": "iob-bank-400-lbo-vacancy-lpt-test-result",
         "createdAt": "2025-12-12T07:10:00.000Z",
         "updatedAt": "2025-12-12T07:10:00.000Z",
