@@ -1,5 +1,48 @@
 [
     {
+        "id": "ib-security-assistant-executive-result-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "IB Security Assistant/ Executive Result 2025",
+        "description": "Intelligence Bureau (IB) ने Security Assistant और Executive पदों की भर्ती परीक्षा का परिणाम जारी कर दिया है। परिणाम 17 दिसंबर 2025 को घोषित किया गया।",
+        "importantDates": {
+            "Result Declared": "17/12/2025",
+            "Exam Date": "29-30 September 2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.mha.gov.in/notifications/vacancies"
+        }
+    },
+    {
+        "id": "clat-result-2026",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "CLAT Result 2026",
+        "description": "Consortium of National Law Universities ने CLAT 2026 प्रवेश परीक्षा का परिणाम जारी कर दिया है।",
+        "importantDates": {
+            "Result Declared": "16/12/2025",
+            "Exam Date": "07/12/2025"
+        },
+        "importantLinks": {
+            "Download Result": "https://result1.consortiumofnlus.ac.in/",
+            "Official Website": "https://consortiumofnlus.ac.in/clat-2026/"
+        }
+    },
+    {
+        "id": "bihar-bpsc-70th-cce-mains-result-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "Bihar BPSC 70th CCE Mains Result 2025",
+        "description": "Bihar Public Service Commission (BPSC) ने 70th Combined Competitive Mains Examination का परिणाम 16 दिसंबर 2025 को जारी कर दिया है।",
+        "importantDates": {
+            "Mains Result Declared": "16/12/2025",
+            "Mains Exam Date": "25-30 April 2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://www.bpsc.bih.nic.in/"
+        }
+    },
+    {
         "id": "rrb-ntpc-graduate-cbt-2-result-2025",
         "createdAt": "2025-12-16T03:26:00.000Z",
         "updatedAt": "2025-12-16T03:26:00.000Z",
