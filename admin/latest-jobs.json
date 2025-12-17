@@ -1,4 +1,187 @@
 [
+  {
+    "id": "railway-rrc-ser-apprentice-recruitment-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "Railway RRC SER Apprentice Recruitment 2025",
+    "description": "Railway Recruitment Cell (RRC), South Eastern Railway (SER) ने Apprentice के 1785 पदों पर भर्ती के लिए ऑनलाइन आवेदन आमंत्रित किए हैं। इच्छुक उम्मीदवार आधिकारिक वेबसाइट के माध्यम से आवेदन कर सकते हैं।",
+    "importantDates": {
+      "Application Start": "18/11/2025",
+      "Last Date to Apply": "17/12/2025",
+      "Last Date Fee Payment": "17/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.rrcser.co.in/",
+      "Official Notification": "https://www.rrcser.co.in/pdf/Notification%20for%20Act%20Apprentices%202025-26.pdf"
+    },
+    "vacancyDetails": {
+      "Total Posts": "1785"
+    },
+    "ageLimit": {
+      "Minimum Age": "15 Years",
+      "Maximum Age": "24 Years",
+      "Calculate On": "01/01/2026"
+    },
+    "applicationFee": {
+      "General / OBC": "Rs. 100/-",
+      "SC / ST / Female": "Rs. 0/-"
+    },
+    "selectionProcess": [
+      "Merit List based on 10th and ITI Marks",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "customSections": [
+      {
+        "title": "Eligibility Criteria",
+        "items": {
+          "Qualification": "Class 10th passed with 50% marks and ITI Certificate in relevant trade."
+        }
+      }
+    ]
+  },
+  {
+    "id": "up-police-computer-operator-grade-a-recruitment-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "UP Police Computer Operator Grade-A Recruitment 2025",
+    "description": "Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB) ने Computer Operator Grade-A के 1352 पदों पर भर्ती के लिए अधिसूचना जारी की है। उम्मीदवार अंतिम तिथि से पहले ऑनलाइन आवेदन कर सकते हैं।",
+    "importantDates": {
+      "Application Start": "16/12/2025",
+      "Last Date to Apply": "15/01/2026",
+      "Last Date Fee Payment": "15/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "http://uppbpb.gov.in/",
+      "Apply Online": "https://www.upprpb.in/#/auth/landing"
+    },
+    "vacancyDetails": {
+      "Total Posts": "1352"
+    },
+    "ageLimit": {
+      "Minimum Age": "18 Years",
+      "Maximum Age": "28 Years",
+      "Calculate On": "01/07/2025"
+    },
+    "applicationFee": {
+      "General / OBC / EWS": "Rs. 500/-",
+      "SC / ST": "Rs. 400/-"
+    },
+    "customSections": [
+      {
+        "title": "Eligibility and Qualification",
+        "items": {
+          "Education": "10+2 with Physics & Maths AND O Level Certificate OR Diploma in Computer/IT/Electronics.",
+          "Typing Speed": "Hindi: 25 wpm, English: 30 wpm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "upsssc-lekhpal-recruitment-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "UPSSSC Lekhpal Recruitment 2025",
+    "description": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) ने Lekhpal के 7994 पदों पर भर्ती के लिए विज्ञापन जारी किया है। PET स्कोर कार्ड धारक अभ्यर्थी आवेदन कर सकते हैं।",
+    "importantDates": {
+      "Application Start": "29/12/2025",
+      "Last Date to Apply": "28/01/2026",
+      "Fee Payment Last Date": "28/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://upsssc.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "7994"
+    },
+    "ageLimit": {
+      "Minimum Age": "18 Years",
+      "Maximum Age": "40 Years",
+      "Calculate On": "01/07/2025"
+    },
+    "applicationFee": {
+      "All Candidates": "Rs. 25/-"
+    },
+    "customSections": [
+      {
+        "title": "Eligibility Details",
+        "items": {
+          "Qualification": "10+2 (Intermediate) Exam Passed from any recognized Board.",
+          "Requirement": "Must have valid UPSSSC PET Score Card."
+        }
+      }
+    ]
+  },
+  {
+    "id": "rrb-ministerial-isolated-category-recruitment-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "RRB Ministerial & Isolated Category Recruitment 2025",
+    "description": "Railway Recruitment Boards (RRB) ने Ministerial और Isolated Category के 311 पदों पर भर्ती के लिए शॉर्ट नोटिस जारी किया है। विस्तृत अधिसूचना जल्द जारी की जाएगी।",
+    "importantDates": {
+      "Application Start": "30/12/2025",
+      "Last Date to Apply": "29/01/2026",
+      "Last Date Fee": "31/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://indianrailways.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "311"
+    },
+    "ageLimit": {
+      "Minimum Age": "18 Years (Expected)",
+      "Maximum Age": "40 Years (Expected)"
+    },
+    "applicationFee": {
+      "Note": "Fee details will be available in full notification."
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Jr. Translator (Hindi)": "Master's Degree in Hindi/English with English/Hindi as elective subject.",
+          "Chief Law Assistant": "Degree in Law with 3 years standing practice.",
+          "Lab Asst": "10+2 with Science & Diploma/Certificate in Lab Technology."
+        }
+      }
+    ]
+  },
+  {
+    "id": "btsc-junior-engineer-recruitment-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "BTSC Junior Engineer Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Junior Engineer (Civil/Electrical/Mechanical) के 2809 पदों पर भर्ती के लिए आवेदन मांगे हैं।",
+    "importantDates": {
+      "Application Start": "12/12/2025",
+      "Last Date to Apply": "12/01/2026",
+      "Fee Payment Last Date": "12/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://btsc.bihar.gov.in/",
+      "Apply Online": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx"
+    },
+    "vacancyDetails": {
+      "Total Posts": "2809"
+    },
+    "ageLimit": {
+      "Minimum Age": "18 Years",
+      "Maximum Age": "37 Years (Male), 40 Years (Female)",
+      "Calculate On": "01/08/2025"
+    },
+    "applicationFee": {
+      "All Candidates": "Rs. 100/-"
+    },
+    "customSections": [
+      {
+        "title": "Education Qualification",
+        "items": {
+          "Requirements": "Diploma in Civil, Electrical, or Mechanical Engineering from recognized Institute."
+        }
+      }
+    ]
+  },
     {
         "id": "iocl-apprentice-various-post-recruitment-2025",
         "createdAt": "2025-12-14T02:29:00.000Z",

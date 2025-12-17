@@ -1,5 +1,98 @@
 [
     {
+        "id": "railway-rrb-group-d-admit-card-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "Railway RRB Group D Exam City / Admit Card 2025",
+        "description": "Railway Recruitment Boards (RRB) ने Group D Level 1 पदों के लिए Exam City और Admit Card जारी कर दिया है। परीक्षा 27 नवंबर 2025 से 16 जनवरी 2026 तक आयोजित की जाएगी।",
+        "importantDates": {
+            "Exam Date": "27 Nov 2025 – 16 Jan 2026",
+            "Admit Card Available": "24/11/2025",
+            "Exam City Details": "19/11/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://rrb.digialm.com/EForms/configuredHtml/33015/96410/login.html",
+            "Check Exam City": "https://rrb.digialm.com/EForms/configuredHtml/33015/96410/login.html",
+            "Check Exam Date Notice": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/CEN_-08_2024_English.pdf"
+        },
+        "vacancyDetails": {
+            "Post Name": "RRB Group D Various Posts in Level 1"
+        },
+        "customSections": [
+            {
+                "title": "Selection Process",
+                "items": {
+                    "Stages": "CBT-1, PET, Document Verification, Medical Exam"
+                }
+            }
+        ]
+    },
+    {
+        "id": "rrb-ntpc-10-2-inter-level-cbt-2-admit-card-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "RRB NTPC 10+2 Inter Level CBT-2 Admit Card 2025",
+        "description": "Railway Recruitment Board (RRB) ने NTPC 10+2 Inter Level CBT-2 परीक्षा के लिए Admit Card जारी कर दिया है। CBT-2 परीक्षा 20 दिसंबर 2025 को होगी।",
+        "importantDates": {
+            "CBT-2 Exam Date": "20/12/2025",
+            "CBT-2 Admit Card": "16/12/2025",
+            "CBT-2 Exam City": "10/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/",
+            "Check Exam City": "https://rrb.digialm.com/"
+        },
+        "vacancyDetails": {
+            "Post Name": "NTPC 10+2 Undergraduate Level Posts"
+        }
+    },
+    {
+        "id": "ibps-so-xv-15th-interview-letter-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "IBPS SO XV 15th Interview Letter 2025",
+        "description": "Institute of Banking Personnel Selection (IBPS) ने Specialist Officer (SO) XV भर्ती के लिए Interview Letter जारी कर दिया है।",
+        "importantDates": {
+            "Interview Letter Available": "17/12/2025",
+            "Interview Date": "December 2025 / January 2026",
+            "Mains Result Declared": "10/12/2025"
+        },
+        "importantLinks": {
+            "Download Interview Letter": "https://ibpsreg.ibps.in/crpspxvjun25/intcla_dec25/login.php?appid=3c4b31524f8552b2e3d82329bd28f64d",
+            "Official Website": "https://www.ibps.in/"
+        }
+    },
+    {
+        "id": "uppsc-lt-grade-assistant-teacher-admit-card-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "UPPSC LT Grade Assistant Teacher Admit Card 2025",
+        "description": "Uttar Pradesh Public Service Commission (UPPSC) ने LT Grade Assistant Teacher परीक्षा के लिए प्रवेश पत्र जारी कर दिए हैं। परीक्षा 06 दिसंबर 2025 से 25 जनवरी 2026 तक होगी।",
+        "importantDates": {
+            "Exam Date": "06 Dec 2025 – 25 Jan 2026",
+            "Admit Card Available": "26/11/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://uppsc.up.nic.in/"
+        }
+    },
+    {
+        "id": "emrs-teaching-non-teaching-admit-card-2025",
+        "createdAt": "2025-12-17T12:30:00.000Z",
+        "updatedAt": "2025-12-17T12:30:00.000Z",
+        "title": "EMRS Teaching/ Non Teaching Admit Card 2025",
+        "description": "Eklavya Model Residential Schools (EMRS) ने Teaching और Non-Teaching पदों की परीक्षा के लिए Admit Card जारी कर दिया है।",
+        "importantDates": {
+            "Exam Date": "13, 14, 21 December 2025",
+            "Admit Card Available": "11/12/2025",
+            "Exam City Details": "28/11/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://examinationservices.nic.in/AdmitCardService/Admitcard/Login?apprefno=102992511",
+            "Check Exam City": "https://examinationservices.nic.in/AdmitCard/AuthForCity/Login?ApplicationId=102992511"
+        }
+    },
+    {
         "id": "bel-340-probationary-engineer-admit-card",
         "createdAt": "2025-12-14T02:34:00.000Z",
         "updatedAt": "2025-12-14T02:34:00.000Z",
