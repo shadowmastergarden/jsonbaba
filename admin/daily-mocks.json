@@ -1,0 +1,37 @@
+[
+  {
+    "id": "current-Solar-System-01",
+    "title": {
+      "en": "Solar System and Universe",
+      "hi": "सौर मंडल (Solar System) और ब्रह्मांड",
+      "bn": "সৌরজগত এবং মহাবিশ্ব"
+    },
+    "category": "Geography",
+    "createdAt": "2025-11-06T23:59:59Z",
+    "questions": [
+      {
+        "id": 1,
+        "question": {
+          "en": "Which of the following planets is known as the **'Evening Star'**?",
+          "hi": "निम्नलिखित में से किस ग्रह को **'सांझ का तारा'** (Evening Star) के नाम से जाना जाता है?",
+          "bn": "নিচের কোন গ্রহটিকে **'সন্ধ্যার তারা'** (Evening Star) নামে পরিচিত?"
+        },
+        "options": {
+          "en": ["Mars", "Jupiter", "Venus", "Mercury"],
+          "hi": ["मंगल", "बृहस्पति", "शुक्र", "बुध"],
+          "bn": ["মঙ্গল", "বৃহস্পতি", "শুক্র", "বুধ"]
+        },
+        "correctAnswer": {
+          "en": "Venus",
+          "hi": "शुक्र",
+          "bn": "শুক্র"
+        },
+        "explanation": {
+          "en": "Venus is the brightest natural object in the night sky after the Moon, often visible just before sunrise and just after sunset. It is also called the 'Morning Star'.",
+          "hi": "शुक्र चंद्रमा के बाद रात के आकाश में सबसे चमकीला प्राकृतिक पिंड है, जो अक्सर सूर्योदय से ठीक पहले और सूर्यास्त के ठीक बाद दिखाई देता है। इसे 'भोर का तारा' भी कहा जाता है।",
+          "bn": "শুক্র হল চাঁদের পরে রাতের আকাশের সবচেয়ে উজ্জ্বল প্রাকৃতিক বস্তু, যা প্রায়শই সূর্যোদয়ের ঠিক আগে এবং সূর্যাস্তের ঠিক পরে দৃশ্যমান হয়। এটিকে 'ভোরের তারা'ও বলা হয়।"
+        }
+      }
+    ]
+  }
+]
