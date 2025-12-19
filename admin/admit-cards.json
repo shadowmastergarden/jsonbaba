@@ -1,5 +1,198 @@
 [
     {
+        "id": "bsf-hc-ro-rm-pet-pst-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "BSF HC RO / RM PET / PST Admit Card 2025",
+        "description": "Border Security Force (BSF) ने Head Constable Radio Operator और Radio Mechanic पदों के लिए PET/PST Admit Card जारी कर दिया है। परीक्षा दिसंबर 2025 में आयोजित की जाएगी।",
+        "importantDates": {
+            "Apply Online Start Date": "24/08/2025",
+            "Apply Online Last Date": "23/09/2025",
+            "Correction Date": "24-26/09/2025",
+            "PET/PST Exam Date": "December 2025",
+            "PET/PST Admit Card": "17/12/2025"
+        },
+        "importantLinks": {
+            "Download PET/PST Admit Card": "https://rectt.bsf.gov.in/auth/login",
+            "Check PET/PST Exam Date Notice": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1765954790.pdf",
+            "Official Website": "https://rectt.bsf.gov.in/"
+        }
+    },
+    {
+        "id": "bihar-vidhan-parishad-driver-office-attendant-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "Bihar Vidhan Parishad Driver, Office Attendant Admit Card 2025",
+        "description": "Bihar Vidhan Parishad ने Driver और Office Attendant पदों के लिए परीक्षा का Admit Card जारी कर दिया है। परीक्षा 21 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Online Apply Start Date": "29/09/2025",
+            "Online Apply Last Date": "20/10/2025",
+            "Last Date For Fee Payment": "22/10/2025",
+            "Exam Date": "21/12/2025",
+            "Admit Card": "17/12/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://blcsrecruitment.com/admit-login01.aspx",
+            "Check Admit Card Notice": "https://vidhanparishad.bihar.gov.in/document/Recruitment/2025/Exam_Reschedule_01_2025_1.pdf",
+            "Official Website": "https://vidhanparishad.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "ssc-delhi-police-constable-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "SSC Delhi Police Constable Exam City Details / Admit Card 2025",
+        "description": "Staff Selection Commission (SSC) ने Delhi Police Constable परीक्षा के लिए Exam City Details और Admit Card जारी कर दिया है। परीक्षा 18 दिसंबर 2025 से 06 जनवरी 2026 तक आयोजित की जाएगी।",
+        "importantDates": {
+            "Apply Online Start Date": "22/09/2025",
+            "Apply Online Last Date": "31/10/2025",
+            "Slot Selection Starting Date": "05/12/2025",
+            "Slot Selection Last Date": "30/12/2025",
+            "Exam Date": "18/12/2025 to 06/01/2026",
+            "Admit Card": "15/12/2025"
+        },
+        "importantLinks": {
+            "Download Exam City / Admit Card": "https://ssc.gov.in/login",
+            "Online Self Slot Booking Link": "https://ssc.gov.in/login",
+            "Check Exam Date Notice": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_28112025.pdf",
+            "Official Website": "https://ssc.gov.in/"
+        }
+    },
+    {
+        "id": "up-police-computer-operator-typing-test-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "UP Police Computer Operator Typing Test Admit Card 2025",
+        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Computer Operator पदों के लिए Typing Test Admit Card जारी कर दिया है। Typing Test 21 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Written Exam Date": "01/11/2025",
+            "Written Result": "10/12/2025",
+            "Typing Test Date": "21/12/2025",
+            "Typing Test Admit Card": "15/12/2025"
+        },
+        "importantLinks": {
+            "Download Typing Test Admit Card": "https://www.coexams.com/cotypingAdmitcard/loginpage.aspx",
+            "Check Typing Test Date Notice": "https://uppbpb.gov.in/FilesUploaded/Notice/202512151748559905acba682-54fe-468a-8b97-b950808eb6b6.pdf",
+            "Official Website": "https://uppbpb.gov.in/"
+        }
+    },
+    {
+        "id": "dda-group-a-b-c-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "DDA Group A, B, C Admit Card 2025",
+        "description": "Delhi Development Authority (DDA) ने Group A, B और C विभिन्न पदों के लिए Admit Card जारी कर दिया है। परीक्षा 16 दिसंबर 2025 से 03 जनवरी 2026 तक आयोजित की जाएगी।",
+        "importantDates": {
+            "Online Apply Start Date": "06/10/2025",
+            "Online Apply Last Date": "05/11/2025",
+            "Last Date For Fee Payment": "07/11/2025",
+            "Exam City Details": "08/12/2025",
+            "Exam Date": "16/12/2025 to 03/01/2026",
+            "Admit Card": "14/12/2025"
+        },
+        "importantLinks": {
+            "Official Website": "https://dda.org.in/"
+        }
+    },
+    {
+        "id": "aiims-4th-cre-group-b-c-exam-city-details-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "AIIMS 4th CRE Group B, C Exam City Details 2025",
+        "description": "All India Institute of Medical Sciences (AIIMS) ने 4th Combined Recruitment Examination (CRE) Group B और C पदों के लिए Exam City Details जारी कर दी है। परीक्षा 22-24 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Online Apply Start Date": "14/11/2025",
+            "Online Apply Last Date": "02/12/2025",
+            "Last Date Final Submit Form": "06/12/2025",
+            "Exam City Details": "15/12/2025",
+            "Exam Date": "22-24/12/2025"
+        },
+        "importantLinks": {
+            "Check Exam City Details": "https://aiimsexams.ac.in/advertisement/6915d3056d76b75af3e2187d",
+            "Apply Online": "https://aiimsexams.ac.in/advertisement/6915d3056d76b75af3e2187d",
+            "Official Website": "https://aiimsexams.ac.in/"
+        }
+    },
+    {
+        "id": "bihar-shs-anm-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "Bihar SHS ANM Admit Card 2025",
+        "description": "Bihar State Health Society (SHSB) ने Auxiliary Nurse Midwife (ANM) पदों के लिए 5006 पदों पर भर्ती परीक्षा का Admit Card जारी कर दिया है। परीक्षा 17-19 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Application Start Date": "14/08/2025",
+            "Last Date": "28/08/2025",
+            "Exam Date": "17-19/12/2025",
+            "Admit Card": "11/12/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://cdn3.digialm.com/EForms/configuredHtml/1631/94951/login.html",
+            "Mock Test Link": "https://g21.digialm.com:443//OnlineAssessment/index.html?1631@@M19",
+           
+            "Official Website": "https://shs.bihar.gov.in/"
+        }
+    },
+    {
+        "id": "patna-high-court-stenographer-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "Patna High Court Stenographer Admit Card 2025",
+        "description": "Patna High Court ने Stenographer Group-C पदों के लिए परीक्षा का Admit Card जारी कर दिया है। परीक्षा 22 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Online Apply Start Date": "21/08/2025",
+            "Online Apply Last Date": "19/09/2025",
+            "Last Date For Fee Payment": "21/09/2025",
+            "Exam Date": "22/12/2025",
+            "Admit Card": "15/12/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://cdn.digialm.com//EForms/configuredHtml/1149/95095/login.html",
+        
+            "Official Website": "http://patnahighcourt.gov.in/"
+        }
+    },
+    {
+        "id": "nabard-assistant-manager-grade-a-pre-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "NABARD Assistant Manager Grade-A Pre Admit Card 2025",
+        "description": "National Bank for Agriculture and Rural Development (NABARD) ने Assistant Manager Grade-A पदों के लिए Preliminary Exam Admit Card जारी कर दिया है। परीक्षा 20 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Online Apply Start Date": "08/11/2025",
+            "Online Apply Last Date": "30/11/2025",
+            "Exam Date": "20/12/2025",
+            "Admit Card": "15/12/2025"
+        },
+        "importantLinks": {
+            "Download Pre Admit Card": "https://ibpsreg.ibps.in/nbardamoct25/oecla_dec25/login.php",
+            "Apply Online": "https://ibpsreg.ibps.in/nbardamoct25/",
+           
+            "Official Website": "https://www.nabard.org/"
+        }
+    },
+    {
+        "id": "nta-csir-ugc-net-december-admit-card-2025",
+        "createdAt": "2025-12-19T05:53:00.000Z",
+        "updatedAt": "2025-12-19T05:53:00.000Z",
+        "title": "NTA CSIR UGC NET December Admit Card 2025",
+        "description": "National Testing Agency (NTA) ने CSIR UGC NET December 2025 परीक्षा के लिए Admit Card जारी कर दिया है। परीक्षा 18 दिसंबर 2025 को आयोजित की जाएगी।",
+        "importantDates": {
+            "Apply Online Start Date": "25/09/2025",
+            "Apply Online Last Date": "27/10/2025",
+            "Fee Payment Last Date": "28/10/2025",
+            "Correction Date": "30/10/2025 to 01/11/2025",
+            "Exam City Details": "09/12/2025",
+            "Exam Date": "18/12/2025",
+            "Admit Card": "14/12/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://examinationservices.nic.in/AdmitCardService/Admitcard/Login",
+            "Check Subject Wise Exam Schedule": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2025/12/20251217493403555.pdf",
+            "Check Exam City Details": "https://examinationservices.nic.in/AdmitCard/AuthForCity/Login?ApplicationId=101162511",
+            "Official Website": "https://csirnet.nta.nic.in/"
+        }
+    },
+    {
         "id": "railway-rrb-group-d-admit-card-2025",
         "createdAt": "2025-12-17T12:30:00.000Z",
         "updatedAt": "2025-12-17T12:30:00.000Z",
