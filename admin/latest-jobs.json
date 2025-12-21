@@ -1,547 +1,591 @@
 [
-    {
-        "id": "bihar-bssc-inter-level-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "Bihar BSSC Inter Level Recruitment 2025",
-        "description": "Bihar Staff Selection Commission (BSSC) ने Inter Level विभिन्न पदों के लिए 23,175 पदों पर भर्ती की घोषणा की है। 12वीं (Intermediate) पास उम्मीदवार इस भर्ती के लिए ऑनलाइन आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 15 जनवरी 2026 तक बढ़ाई गई है।",
-        "totalPosts": "23175",
-        "educationalQualifications": "12th Class (Intermediate) passed from recognized board",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "15/10/2025",
-            "Online Apply Last Date": "15/01/2026",
-            "Last Date For Fee Payment": "15/01/2026",
-            "Last Date Final Submit Form": "18/01/2026"
-        },
-        "selectionProcess": [
-            "Prelims Written Exam",
-            "Mains Written Exam",
-            "Skill Test (If Applicable)",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "23175"
-        },
-        "importantLinks": {
-            "Apply Online": "https://www.onlinebssc.com/25interlevela/",
-            "Official Notification": "https://bssc.bihar.gov.in/Advertisement/02_23A_Advt.pdf",
-            "Official Website": "https://bssc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Staff Selection Commission",
-            "Recruitment Year": "2025"
-        }
+  {
+    "id": "up-police-si-confidential-asi-clerk-asi-accounts-recruitment-2025",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "UP Police SI Confidential, ASI Clerk & ASI Accounts Online Form 2025",
+    "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Sub-Inspector SI (Confidential) और Assistant Sub-Inspector ASI (Clerk / Accounts) भर्ती 2025 के लिए नोटिफिकेशन जारी किया है। योग्य उम्मीदवार 20 दिसंबर 2025 से 19 जनवरी 2026 तक ऑनलाइन आवेदन कर सकते हैं।",
+    "totalPosts": "Notify Soon",
+    "educationalQualifications": "SI (Confidential): Graduate + Typing (Eng 30/Hin 25) + Steno 80 + O Level.\nASI (Clerk): Graduate + Typing (Eng 30/Hin 25) + O Level.\nASI (Accounts): B.Com + Typing (Hin 15) + O Level.",
+    "ageLimit": "21-28 Years as on 01/07/2025",
+    "applicationFee": "General / OBC / EWS: 500/-, SC / ST / Female: 400/-",
+    "paymentMode": [
+      "Debit Card",
+      "Credit Card",
+      "Net Banking",
+      "Mobile Wallet",
+      "IMPS"
+    ],
+    "importantDates": {
+      "Application Begin": "20/12/2025",
+      "Last Date for Apply Online": "19/01/2026",
+      "Pay Exam Fee Last Date": "19/01/2026",
+      "Correction Last Date": "22/01/2026",
+      "Exam Date": "Notify Soon",
+      "Admit Card Available": "Before Exam"
     },
-    {
-        "id": "mpesb-group-1-sub-group-2-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "MPESB Group 1 Sub Group 2 Recruitment 2025",
-        "description": "Madhya Pradesh Employees Selection Board (MPESB) ने Group 1 Sub Group 2 के 474 पदों के लिए भर्ती निकाली है। विभिन्न स्नातक और स्नातकोत्तर डिग्रीधारी उम्मीदवार आवेदन कर सकते हैं। परीक्षा तिथि 10 फरवरी 2026 निर्धारित है।",
-        "totalPosts": "474",
-        "educationalQualifications": "Bachelor's degree in relevant field (Sociology, Medical Social Work, M.S.W., Psychology, Physiotherapy, Statistics, Economics, Mathematics, etc.) from recognized university",
-        "ageLimit": "18-40 Years as on 01 January 2025",
-        "applicationFee": "General: Rs. 500/-; OBC/SC/ST/EWS/PH: Rs. 250/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Apply Online Start Date": "24/12/2025",
-            "Apply Online Last Date": "07/01/2026",
-            "Last Date For Fee Payment": "07/01/2026",
-            "Correction Last Date": "12/01/2026",
-            "Exam Date": "10/02/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "474"
-        },
-        "importantLinks": {
-            "Official Website": "https://esb.mp.gov.in/"
-        },
-        "additionalDetails": {
-            "Board": "Madhya Pradesh Employees Selection Board",
-            "Recruitment Year": "2025"
-        }
+    "selectionProcess": [
+      "Written Exam",
+      "Physical Efficiency Test (PET)",
+      "Physical Standards Test (PST)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Sub-Inspector (Confidential)": "Degree + Typing + Steno",
+      "Assistant Sub-Inspector (Clerk)": "Degree + Typing",
+      "Assistant Sub-Inspector (Accounts)": "B.Com + Typing"
     },
-    {
-        "id": "btsc-pump-operator-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BTSC Pump Operator Recruitment 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Pump Operator के 191 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Machinist/Fitter trade) उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 12 जनवरी 2026 है।",
-        "totalPosts": "191",
-        "educationalQualifications": "10th Pass + ITI Certificate in Machinist, Fitter trade from recognized institute",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "12/12/2025",
-            "Online Apply Last Date": "12/01/2026",
-            "Last Date For Fee Payment": "12/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "191"
-        },
-        "importantLinks": {
-            "Apply Online": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
-            "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/32_2025.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Technical Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "importantLinks": {
+      "Apply Online": "https://www.upprpb.in/#/auth/landing",
+      "Download Notification": "https://uppbpb.gov.in/FilesUploaded/Notice/20251220151112587157f3d5b-a695-425f-adfd-d212f2568fa4.pdf",
+      "Official Website": "http://uppbpb.gov.in/"
     },
-    {
-        "id": "btsc-work-inspector-mechanical-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BTSC Work Inspector Mechanical Recruitment 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Work Inspector Mechanical के 493 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Machinist/Fitter/Wireman/Electrician trade) उम्मीदवार आवेदन कर सकते हैं।",
-        "totalPosts": "493",
-        "educationalQualifications": "10th Pass + ITI Certificate in Machinist, Fitter, Wireman, or Electrician trade from recognized institute",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "12/12/2025",
-            "Online Apply Last Date": "12/01/2026",
-            "Last Date For Fee Payment": "12/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "493"
-        },
-        "importantLinks": {
-            "Apply Online": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
-            "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/31_2025.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Technical Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "customSections": [],
+    "additionalDetails": "Candidates are advised to read the notification carefully before applying."
+  },
+  {
+    "id": "bihar-bssc-inter-level-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "Bihar BSSC Inter Level Recruitment 2025",
+    "description": "Bihar Staff Selection Commission (BSSC) ने Inter Level विभिन्न पदों के लिए 23,175 पदों पर भर्ती की घोषणा की है। 12वीं (Intermediate) पास उम्मीदवार इस भर्ती के लिए ऑनलाइन आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 15 जनवरी 2026 तक बढ़ाई गई है।",
+    "totalPosts": "23175",
+    "educationalQualifications": "12th Class (Intermediate) passed from recognized board",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "15/10/2025",
+      "Online Apply Last Date": "15/01/2026",
+      "Last Date For Fee Payment": "15/01/2026",
+      "Last Date Final Submit Form": "18/01/2026"
     },
-    {
-        "id": "bihar-vidhan-parishad-pa-deo-ldc-steno-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "Bihar Vidhan Parishad PA, DEO, LDC & Steno Recruitment 2025",
-        "description": "Bihar Vidhan Parishad ने Personal Assistant, Data Entry Operator, Lower Division Clerk और Stenographer के विभिन्न पदों के लिए भर्ती निकाली है। Intermediate से Graduate तक के उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 26 दिसंबर 2025 तक बढ़ाई गई है।",
-        "totalPosts": "Multiple Posts",
-        "educationalQualifications": "Intermediate to Graduate degree with typing/stenography skills (Post wise)",
-        "ageLimit": "18-21 Years (Min) to 37-42 Years (Max) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "28/11/2025",
-            "Online Apply Last Date": "26/12/2025",
-            "Last Date For Fee Payment": "28/12/2025"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Steno/Typing Test (Post Wise)",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "Multiple Posts"
-        },
-        "importantLinks": {
-            "Apply Online": "https://blcsrecruitment.com/main.aspx",
-            "Date Extend Notice": "https://vidhanparishad.bihar.gov.in/document/Recruitment/2025/date_extention.pdf",
-            "Official Website": "https://vidhanparishad.bihar.gov.in/"
-        },
-        "customSections": [
-            {
-                "title": "Post Details",
-                "items": {
-                    "Personal Assistant": "Level-07 Pay Scale",
-                    "DEO": "Level-04 Pay Scale",
-                    "LDC": "Level-02 Pay Scale",
-                    "Stenographer": "Level-04 Pay Scale"
-                }
-            }
-        ],
-        "additionalDetails": {
-            "Department": "Bihar Vidhan Parishad",
-            "Recruitment Year": "2025"
-        }
+    "selectionProcess": [
+      "Prelims Written Exam",
+      "Mains Written Exam",
+      "Skill Test (If Applicable)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "23175"
     },
-    {
-        "id": "afcat-01-2026-batch-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "AFCAT 01/2026 Batch Recruitment 2025",
-        "description": "Indian Air Force ने Air Force Common Admission Test (AFCAT) 01/2026 Batch (January 2027 Course) के लिए 340 पदों पर भर्ती निकाली है। Flying Branch, Ground Duty (Technical/Non-Technical) के लिए Bachelor's Degree धारक उम्मीदवार आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 19 दिसंबर 2025 तक बढ़ाई गई है।",
-        "totalPosts": "340",
-        "educationalQualifications": "Bachelor's Degree in any stream with Physics & Mathematics at 10+2 level / B.E./B.Tech degree from recognized university (Post wise requirements vary)",
-        "ageLimit": "20-24 Years (Flying), 20-26 Years (Ground Duty) as on 01 January 2027",
-        "applicationFee": "All Candidates: Rs. 550/-; NCC Special Entry/Meteorology Entry: Free",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "17/11/2025",
-            "Online Apply Last Date": "19/12/2025",
-            "Last Date For Fee Payment": "19/12/2025"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Air Force Selection Board (AFSB)",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "340"
-        },
-        "importantLinks": {
-            "Apply Online": "https://cdn.digialm.com/EForms/configuredHtml/1258/96171/login.html",
-            "Official Website": "https://afcat.cdac.in/"
-        },
-        "customSections": [
-            {
-                "title": "Branch Details",
-                "items": {
-                    "Flying Branch": "Bachelor's Degree with Physics & Maths",
-                    "Ground Duty Technical": "B.E./B.Tech in relevant stream",
-                    "Ground Duty Non-Technical": "Any Graduate with 60% marks"
-                }
-            }
-        ],
-        "additionalDetails": {
-            "Department": "Indian Air Force",
-            "Course": "January 2027",
-            "Recruitment Year": "2025"
-        }
+    "importantLinks": {
+      "Apply Online": "https://www.onlinebssc.com/25interlevela/",
+      "Official Notification": "https://bssc.bihar.gov.in/Advertisement/02_23A_Advt.pdf",
+      "Official Website": "https://bssc.bihar.gov.in/"
     },
-    {
-        "id": "drdo-ceptam-11-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "DRDO CEPTAM-11 Recruitment 2025",
-        "description": "Defence Research and Development Organisation (DRDO) ने CEPTAM-11 के तहत Senior Technical Assistant-B और Technician-A के 764 पदों पर भर्ती निकाली है। B.Sc/Diploma in Engineering या ITI certificate धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 01 जनवरी 2026 है।",
-        "totalPosts": "764",
-        "educationalQualifications": "B.Sc degree or Diploma in Engineering (for STA-B) / ITI certification in relevant trade (for Tech-A)",
-        "ageLimit": "18-28 Years as on 01 January 2026",
-        "applicationFee": "Gen/OBC/EWS/MSP: Rs. 750/- (STA), Rs. 600/- (Tech-A); SC/ST/PH/ESM/Female: Rs. 500/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "11/12/2025",
-            "Online Apply Last Date": "01/01/2026",
-            "Last Date For Fee Payment": "03/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Trade Test/Skill Test",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "764"
-        },
-        "importantLinks": {
-            "Apply Online": "https://cdn.digialm.com/EForms/configuredHtml/1258/96576/Index.html",
-            "Official Notification (Hindi)": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/CEPTAM-11_AdvtHindi.pdf",
-            "Official Notification (English)": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/CEPTAM-11_AdvtEnglish.pdf",
-            "Official Website": "https://www.drdo.gov.in/drdo/en/offerings/vacancies"
-        },
-        "additionalDetails": {
-            "Department": "Defence Research and Development Organisation",
-            "Recruitment Year": "2025"
-        }
+    "additionalDetails": {
+      "Commission": "Bihar Staff Selection Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "mpesb-group-1-sub-group-2-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "MPESB Group 1 Sub Group 2 Recruitment 2025",
+    "description": "Madhya Pradesh Employees Selection Board (MPESB) ने Group 1 Sub Group 2 के 474 पदों के लिए भर्ती निकाली है। विभिन्न स्नातक और स्नातकोत्तर डिग्रीधारी उम्मीदवार आवेदन कर सकते हैं। परीक्षा तिथि 10 फरवरी 2026 निर्धारित है।",
+    "totalPosts": "474",
+    "educationalQualifications": "Bachelor's degree in relevant field (Sociology, Medical Social Work, M.S.W., Psychology, Physiotherapy, Statistics, Economics, Mathematics, etc.) from recognized university",
+    "ageLimit": "18-40 Years as on 01 January 2025",
+    "applicationFee": "General: Rs. 500/-; OBC/SC/ST/EWS/PH: Rs. 250/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Apply Online Start Date": "24/12/2025",
+      "Apply Online Last Date": "07/01/2026",
+      "Last Date For Fee Payment": "07/01/2026",
+      "Correction Last Date": "12/01/2026",
+      "Exam Date": "10/02/2026"
     },
-    {
-        "id": "bihar-bseb-deled-online-form-2026-28",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "Bihar BSEB DELED Online Form 2026-28",
-        "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (D.El.Ed) 2026-28 के लिए प्रवेश परीक्षा का आयोजन किया है। 12वीं पास (General/OBC: 50%, SC/ST: 45% marks) उम्मीदवार आवेदन कर सकते हैं। परीक्षा तिथि 19 जनवरी से 18 फरवरी 2026 तक है।",
-        "totalPosts": "As per BSEB norms",
-        "educationalQualifications": "Intermediate (12th) with minimum 50% marks (General/OBC) and 45% marks (SC/ST) from recognized board",
-        "ageLimit": "Minimum 17 Years as on 01 January 2026",
-        "applicationFee": "General/EBC/EWS/BC: Rs. 960/-; SC/ST/Divyang: Rs. 760/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "11/12/2025",
-            "Online Apply Last Date": "24/12/2025",
-            "Last Date For Fee Payment": "24/12/2025",
-            "Exam Date": "19/01/2026 to 18/02/2026",
-            "Admit Card": "10/01/2026",
-            "Answer Key Objection": "26/02/2026 to 01/03/2026",
-            "Result Date": "March 2026"
-        },
-        "selectionProcess": [
-            "Online Examination",
-            "Written Examination"
-        ],
-        "vacancyDetails": {
-            "Admission Type": "D.El.Ed Course Admission"
-        },
-        "importantLinks": {
-            "Apply Online": "https://form.bsebdeled.com/login",
-            "Full Notification": "https://formapi.bsebdeled.com/files/others/deled-form-2026-vigyapti.pdf",
-            "Official Website": "http://biharboardonline.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Board": "Bihar School Examination Board",
-            "Course": "D.El.Ed 2026-28",
-            "Admission Year": "2026"
-        }
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "474"
     },
-    {
-        "id": "btsc-dental-hygienist-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BTSC Dental Hygienist Recruitment 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Dental Hygienist के 702 पदों के लिए भर्ती निकाली है। 12वीं (Biology subject के साथ) + Diploma in Dental Hygiene धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
-        "totalPosts": "702",
-        "educationalQualifications": "12th Pass with Biology + Diploma in Dental Hygiene from recognized institution",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "05/12/2025",
-            "Online Apply Last Date": "05/01/2026",
-            "Last Date For Fee Payment": "05/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "702"
-        },
-        "importantLinks": {
-            "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
-            "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2025.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Technical Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "importantLinks": {
+      "Official Website": "https://esb.mp.gov.in/"
     },
-    {
-        "id": "btsc-hostel-manager-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BTSC Hostel Manager Recruitment 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Hostel Manager के पदों के लिए भर्ती निकाली है। B.Sc in Hospitality and Hotel Administration या Post Graduate Diploma in Hotel Management धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
-        "totalPosts": "Multiple Posts",
-        "educationalQualifications": "B.Sc. in Hospitality and Hotel Administration or Post Graduate Diploma in Hotel Management from recognized university/institution",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "05/12/2025",
-            "Online Apply Last Date": "05/01/2026",
-            "Last Date For Fee Payment": "05/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "Multiple Posts"
-        },
-        "importantLinks": {
-            "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
-            "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/27_2025.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Technical Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "additionalDetails": {
+      "Board": "Madhya Pradesh Employees Selection Board",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "btsc-pump-operator-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BTSC Pump Operator Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Pump Operator के 191 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Machinist/Fitter trade) उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 12 जनवरी 2026 है।",
+    "totalPosts": "191",
+    "educationalQualifications": "10th Pass + ITI Certificate in Machinist, Fitter trade from recognized institute",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "12/12/2025",
+      "Online Apply Last Date": "12/01/2026",
+      "Last Date For Fee Payment": "12/01/2026"
     },
-    {
-        "id": "btsc-work-inspector-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BTSC Work Inspector Recruitment 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Work Inspector के 1114 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Draughtsman Civil/Surveyor/Plumber trade) उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
-        "totalPosts": "1114",
-        "educationalQualifications": "10th Pass + ITI Certificate in Draughtsman (Civil), Surveyor, or Plumber trade from recognized institute",
-        "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "All Candidates: Rs. 100/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "05/12/2025",
-            "Online Apply Last Date": "05/01/2026",
-            "Last Date For Fee Payment": "05/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "1114"
-        },
-        "importantLinks": {
-            "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
-            "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/25_2025.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Technical Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "191"
     },
-    {
-        "id": "railway-plw-apprentice-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "Railway PLW Apprentice Recruitment 2025",
-        "description": "Railway Patiala Locomotive Works (PLW) ने Apprentice के 225 पदों के लिए भर्ती निकाली है। 10वीं (50% marks) + ITI या 8वीं पास + ITI certificate धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 22 दिसंबर 2025 है।",
-        "totalPosts": "225",
-        "educationalQualifications": "10th Pass with 50% marks + ITI Certificate / 8th Pass + ITI from NCVT/SCVT approved institute",
-        "ageLimit": "15-22 Years (Welder), 15-24 Years (Other Posts) as on 22 December 2025",
-        "applicationFee": "General/OBC/EWS: Rs. 100/-; SC/ST/PH/Female: Free",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "01/12/2025",
-            "Online Apply Last Date": "22/12/2025",
-            "Last Date For Fee Payment": "22/12/2025"
-        },
-        "selectionProcess": [
-            "Merit List on the Basis of Marks",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "225"
-        },
-        "importantLinks": {
-            "Apply Online": "https://plw.indianrailways.gov.in/dmwLogin.jsp?lang=0&id=0,295,333,433,481",
-            "Official Website": "https://plw.indianrailways.gov.in/"
-        },
-        "additionalDetails": {
-            "Department": "Railway Patiala Locomotive Works",
-            "Recruitment Year": "2025-26"
-        }
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
+      "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/32_2025.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
     },
-    {
-        "id": "uppsc-polytechnic-lecturer-recruitment-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "UPPSC Polytechnic Lecturer Recruitment 2025",
-        "description": "Uttar Pradesh Public Service Commission (UPPSC) ने Polytechnic Lecturer के 513 पदों के लिए भर्ती निकाली है। B.E, B.Tech, B.Arch, या M.Sc degree धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 02 जनवरी 2026 है।",
-        "totalPosts": "513",
-        "educationalQualifications": "B.E, B.Tech, B.Arch, or M.Sc degree in relevant field from recognized university",
-        "ageLimit": "21-40 Years as on 01 July 2025",
-        "applicationFee": "General/OBC/EWS: Rs. 225/-; SC/ST: Rs. 105/-; Ex-Service: Rs. 105/-; PH: Rs. 25/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Online Apply Start Date": "02/12/2025",
-            "Online Apply Last Date": "02/01/2026",
-            "Last Date For Fee Payment": "02/01/2026",
-            "Correction Date": "09/01/2026"
-        },
-        "selectionProcess": [
-            "Written Exam",
-            "Interview",
-            "Document Verification",
-            "Medical Examination"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "513"
-        },
-        "importantLinks": {
-            "Apply Online": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
-            "Official Notification (Hindi)": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=748&flag=H&FID=917",
-            "Official Notification (English)": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=748&flag=E&FID=918",
-            "Official Website": "https://uppsc.up.nic.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Uttar Pradesh Public Service Commission",
-            "Recruitment Year": "2025"
-        }
+    "additionalDetails": {
+      "Commission": "Bihar Technical Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "btsc-work-inspector-mechanical-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BTSC Work Inspector Mechanical Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Work Inspector Mechanical के 493 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Machinist/Fitter/Wireman/Electrician trade) उम्मीदवार आवेदन कर सकते हैं।",
+    "totalPosts": "493",
+    "educationalQualifications": "10th Pass + ITI Certificate in Machinist, Fitter, Wireman, or Electrician trade from recognized institute",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "12/12/2025",
+      "Online Apply Last Date": "12/01/2026",
+      "Last Date For Fee Payment": "12/01/2026"
     },
-    {
-        "id": "bpsc-71th-mains-online-form-2025",
-        "createdAt": "2025-12-19T05:38:00.000Z",
-        "updatedAt": "2025-12-19T05:38:00.000Z",
-        "title": "BPSC 71th Mains Online Form 2025",
-        "description": "Bihar Public Service Commission (BPSC) ने 71वीं Combined Competitive Examination (CCE) के Pre Exam qualified उम्मीदवारों के लिए Mains Online Form जारी कर दिया है। 1298 पदों के लिए Mains परीक्षा आयोजित की जाएगी। आवेदन की अंतिम तिथि 24 दिसंबर 2025 है।",
-        "totalPosts": "1298",
-        "educationalQualifications": "Graduation degree in any stream / Commerce, Economics, Mathematics, or Statistics (Post wise) from recognized university",
-        "ageLimit": "21-37 Years (Male), 21-40 Years (Female) as on 01 August 2025",
-        "applicationFee": "General/OBC/EWS: Rs. 600/-; SC/ST/Female (Bihar): Rs. 150/-; PH: Rs. 150/-",
-        "paymentMode": [
-            "Online Mode"
-        ],
-        "importantDates": {
-            "Mains Online Apply Start Date": "03/12/2025",
-            "Mains Online Apply Last Date": "24/12/2025",
-            "Pre Exam Date": "13/09/2025",
-            "Pre Admit Card": "06/09/2025",
-            "Pre Answer Key": "19/09/2025",
-            "Pre Final Answer Key": "31/10/2025",
-            "Pre Result Date": "18/11/2025"
-        },
-        "selectionProcess": [
-            "Pre Exam",
-            "Mains Exam"
-        ],
-        "vacancyDetails": {
-            "Total Posts": "1298"
-        },
-        "importantLinks": {
-            "Apply Online Mains Form": "https://bpsconline.bihar.gov.in/candidate/login",
-            "Mains Form Notice": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-Integrated-71st-CCE-Main_BPSC-20251201-izt68y.pdf",
-
-            "Official Website": "https://bpsc.bihar.gov.in/"
-        },
-        "additionalDetails": {
-            "Commission": "Bihar Public Service Commission",
-            "Examination": "71st CCE",
-            "Recruitment Year": "2025"
-        }
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "493"
     },
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
+      "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/31_2025.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Bihar Technical Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "bihar-vidhan-parishad-pa-deo-ldc-steno-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "Bihar Vidhan Parishad PA, DEO, LDC & Steno Recruitment 2025",
+    "description": "Bihar Vidhan Parishad ने Personal Assistant, Data Entry Operator, Lower Division Clerk और Stenographer के विभिन्न पदों के लिए भर्ती निकाली है। Intermediate से Graduate तक के उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 26 दिसंबर 2025 तक बढ़ाई गई है।",
+    "totalPosts": "Multiple Posts",
+    "educationalQualifications": "Intermediate to Graduate degree with typing/stenography skills (Post wise)",
+    "ageLimit": "18-21 Years (Min) to 37-42 Years (Max) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "28/11/2025",
+      "Online Apply Last Date": "26/12/2025",
+      "Last Date For Fee Payment": "28/12/2025"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Steno/Typing Test (Post Wise)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "Multiple Posts"
+    },
+    "importantLinks": {
+      "Apply Online": "https://blcsrecruitment.com/main.aspx",
+      "Date Extend Notice": "https://vidhanparishad.bihar.gov.in/document/Recruitment/2025/date_extention.pdf",
+      "Official Website": "https://vidhanparishad.bihar.gov.in/"
+    },
+    "customSections": [
+      {
+        "title": "Post Details",
+        "items": {
+          "Personal Assistant": "Level-07 Pay Scale",
+          "DEO": "Level-04 Pay Scale",
+          "LDC": "Level-02 Pay Scale",
+          "Stenographer": "Level-04 Pay Scale"
+        }
+      }
+    ],
+    "additionalDetails": {
+      "Department": "Bihar Vidhan Parishad",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "afcat-01-2026-batch-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "AFCAT 01/2026 Batch Recruitment 2025",
+    "description": "Indian Air Force ने Air Force Common Admission Test (AFCAT) 01/2026 Batch (January 2027 Course) के लिए 340 पदों पर भर्ती निकाली है। Flying Branch, Ground Duty (Technical/Non-Technical) के लिए Bachelor's Degree धारक उम्मीदवार आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 19 दिसंबर 2025 तक बढ़ाई गई है।",
+    "totalPosts": "340",
+    "educationalQualifications": "Bachelor's Degree in any stream with Physics & Mathematics at 10+2 level / B.E./B.Tech degree from recognized university (Post wise requirements vary)",
+    "ageLimit": "20-24 Years (Flying), 20-26 Years (Ground Duty) as on 01 January 2027",
+    "applicationFee": "All Candidates: Rs. 550/-; NCC Special Entry/Meteorology Entry: Free",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "17/11/2025",
+      "Online Apply Last Date": "19/12/2025",
+      "Last Date For Fee Payment": "19/12/2025"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Air Force Selection Board (AFSB)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "340"
+    },
+    "importantLinks": {
+      "Apply Online": "https://cdn.digialm.com/EForms/configuredHtml/1258/96171/login.html",
+      "Official Website": "https://afcat.cdac.in/"
+    },
+    "customSections": [
+      {
+        "title": "Branch Details",
+        "items": {
+          "Flying Branch": "Bachelor's Degree with Physics & Maths",
+          "Ground Duty Technical": "B.E./B.Tech in relevant stream",
+          "Ground Duty Non-Technical": "Any Graduate with 60% marks"
+        }
+      }
+    ],
+    "additionalDetails": {
+      "Department": "Indian Air Force",
+      "Course": "January 2027",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "drdo-ceptam-11-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "DRDO CEPTAM-11 Recruitment 2025",
+    "description": "Defence Research and Development Organisation (DRDO) ने CEPTAM-11 के तहत Senior Technical Assistant-B और Technician-A के 764 पदों पर भर्ती निकाली है। B.Sc/Diploma in Engineering या ITI certificate धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 01 जनवरी 2026 है।",
+    "totalPosts": "764",
+    "educationalQualifications": "B.Sc degree or Diploma in Engineering (for STA-B) / ITI certification in relevant trade (for Tech-A)",
+    "ageLimit": "18-28 Years as on 01 January 2026",
+    "applicationFee": "Gen/OBC/EWS/MSP: Rs. 750/- (STA), Rs. 600/- (Tech-A); SC/ST/PH/ESM/Female: Rs. 500/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "11/12/2025",
+      "Online Apply Last Date": "01/01/2026",
+      "Last Date For Fee Payment": "03/01/2026"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Trade Test/Skill Test",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "764"
+    },
+    "importantLinks": {
+      "Apply Online": "https://cdn.digialm.com/EForms/configuredHtml/1258/96576/Index.html",
+      "Official Notification (Hindi)": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/CEPTAM-11_AdvtHindi.pdf",
+      "Official Notification (English)": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/CEPTAM-11_AdvtEnglish.pdf",
+      "Official Website": "https://www.drdo.gov.in/drdo/en/offerings/vacancies"
+    },
+    "additionalDetails": {
+      "Department": "Defence Research and Development Organisation",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "bihar-bseb-deled-online-form-2026-28",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "Bihar BSEB DELED Online Form 2026-28",
+    "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (D.El.Ed) 2026-28 के लिए प्रवेश परीक्षा का आयोजन किया है। 12वीं पास (General/OBC: 50%, SC/ST: 45% marks) उम्मीदवार आवेदन कर सकते हैं। परीक्षा तिथि 19 जनवरी से 18 फरवरी 2026 तक है।",
+    "totalPosts": "As per BSEB norms",
+    "educationalQualifications": "Intermediate (12th) with minimum 50% marks (General/OBC) and 45% marks (SC/ST) from recognized board",
+    "ageLimit": "Minimum 17 Years as on 01 January 2026",
+    "applicationFee": "General/EBC/EWS/BC: Rs. 960/-; SC/ST/Divyang: Rs. 760/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "11/12/2025",
+      "Online Apply Last Date": "24/12/2025",
+      "Last Date For Fee Payment": "24/12/2025",
+      "Exam Date": "19/01/2026 to 18/02/2026",
+      "Admit Card": "10/01/2026",
+      "Answer Key Objection": "26/02/2026 to 01/03/2026",
+      "Result Date": "March 2026"
+    },
+    "selectionProcess": [
+      "Online Examination",
+      "Written Examination"
+    ],
+    "vacancyDetails": {
+      "Admission Type": "D.El.Ed Course Admission"
+    },
+    "importantLinks": {
+      "Apply Online": "https://form.bsebdeled.com/login",
+      "Full Notification": "https://formapi.bsebdeled.com/files/others/deled-form-2026-vigyapti.pdf",
+      "Official Website": "http://biharboardonline.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Board": "Bihar School Examination Board",
+      "Course": "D.El.Ed 2026-28",
+      "Admission Year": "2026"
+    }
+  },
+  {
+    "id": "btsc-dental-hygienist-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BTSC Dental Hygienist Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Dental Hygienist के 702 पदों के लिए भर्ती निकाली है। 12वीं (Biology subject के साथ) + Diploma in Dental Hygiene धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
+    "totalPosts": "702",
+    "educationalQualifications": "12th Pass with Biology + Diploma in Dental Hygiene from recognized institution",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "05/12/2025",
+      "Online Apply Last Date": "05/01/2026",
+      "Last Date For Fee Payment": "05/01/2026"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "702"
+    },
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
+      "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2025.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Bihar Technical Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "btsc-hostel-manager-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BTSC Hostel Manager Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Hostel Manager के पदों के लिए भर्ती निकाली है। B.Sc in Hospitality and Hotel Administration या Post Graduate Diploma in Hotel Management धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
+    "totalPosts": "Multiple Posts",
+    "educationalQualifications": "B.Sc. in Hospitality and Hotel Administration or Post Graduate Diploma in Hotel Management from recognized university/institution",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "05/12/2025",
+      "Online Apply Last Date": "05/01/2026",
+      "Last Date For Fee Payment": "05/01/2026"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "Multiple Posts"
+    },
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
+      "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/27_2025.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Bihar Technical Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "btsc-work-inspector-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BTSC Work Inspector Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Work Inspector के 1114 पदों के लिए भर्ती निकाली है। 10वीं पास + ITI (Draughtsman Civil/Surveyor/Plumber trade) उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 05 जनवरी 2026 है।",
+    "totalPosts": "1114",
+    "educationalQualifications": "10th Pass + ITI Certificate in Draughtsman (Civil), Surveyor, or Plumber trade from recognized institute",
+    "ageLimit": "18-37 Years (Male), 18-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "05/12/2025",
+      "Online Apply Last Date": "05/01/2026",
+      "Last Date For Fee Payment": "05/01/2026"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "1114"
+    },
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
+      "Official Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/25_2025.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Bihar Technical Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "railway-plw-apprentice-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "Railway PLW Apprentice Recruitment 2025",
+    "description": "Railway Patiala Locomotive Works (PLW) ने Apprentice के 225 पदों के लिए भर्ती निकाली है। 10वीं (50% marks) + ITI या 8वीं पास + ITI certificate धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 22 दिसंबर 2025 है।",
+    "totalPosts": "225",
+    "educationalQualifications": "10th Pass with 50% marks + ITI Certificate / 8th Pass + ITI from NCVT/SCVT approved institute",
+    "ageLimit": "15-22 Years (Welder), 15-24 Years (Other Posts) as on 22 December 2025",
+    "applicationFee": "General/OBC/EWS: Rs. 100/-; SC/ST/PH/Female: Free",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "01/12/2025",
+      "Online Apply Last Date": "22/12/2025",
+      "Last Date For Fee Payment": "22/12/2025"
+    },
+    "selectionProcess": [
+      "Merit List on the Basis of Marks",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "225"
+    },
+    "importantLinks": {
+      "Apply Online": "https://plw.indianrailways.gov.in/dmwLogin.jsp?lang=0&id=0,295,333,433,481",
+      "Official Website": "https://plw.indianrailways.gov.in/"
+    },
+    "additionalDetails": {
+      "Department": "Railway Patiala Locomotive Works",
+      "Recruitment Year": "2025-26"
+    }
+  },
+  {
+    "id": "uppsc-polytechnic-lecturer-recruitment-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "UPPSC Polytechnic Lecturer Recruitment 2025",
+    "description": "Uttar Pradesh Public Service Commission (UPPSC) ने Polytechnic Lecturer के 513 पदों के लिए भर्ती निकाली है। B.E, B.Tech, B.Arch, या M.Sc degree धारक उम्मीदवार आवेदन कर सकते हैं। अंतिम तिथि 02 जनवरी 2026 है।",
+    "totalPosts": "513",
+    "educationalQualifications": "B.E, B.Tech, B.Arch, or M.Sc degree in relevant field from recognized university",
+    "ageLimit": "21-40 Years as on 01 July 2025",
+    "applicationFee": "General/OBC/EWS: Rs. 225/-; SC/ST: Rs. 105/-; Ex-Service: Rs. 105/-; PH: Rs. 25/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Online Apply Start Date": "02/12/2025",
+      "Online Apply Last Date": "02/01/2026",
+      "Last Date For Fee Payment": "02/01/2026",
+      "Correction Date": "09/01/2026"
+    },
+    "selectionProcess": [
+      "Written Exam",
+      "Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "513"
+    },
+    "importantLinks": {
+      "Apply Online": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
+      "Official Notification (Hindi)": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=748&flag=H&FID=917",
+      "Official Notification (English)": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=748&flag=E&FID=918",
+      "Official Website": "https://uppsc.up.nic.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Uttar Pradesh Public Service Commission",
+      "Recruitment Year": "2025"
+    }
+  },
+  {
+    "id": "bpsc-71th-mains-online-form-2025",
+    "createdAt": "2025-12-19T05:38:00.000Z",
+    "updatedAt": "2025-12-19T05:38:00.000Z",
+    "title": "BPSC 71th Mains Online Form 2025",
+    "description": "Bihar Public Service Commission (BPSC) ने 71वीं Combined Competitive Examination (CCE) के Pre Exam qualified उम्मीदवारों के लिए Mains Online Form जारी कर दिया है। 1298 पदों के लिए Mains परीक्षा आयोजित की जाएगी। आवेदन की अंतिम तिथि 24 दिसंबर 2025 है।",
+    "totalPosts": "1298",
+    "educationalQualifications": "Graduation degree in any stream / Commerce, Economics, Mathematics, or Statistics (Post wise) from recognized university",
+    "ageLimit": "21-37 Years (Male), 21-40 Years (Female) as on 01 August 2025",
+    "applicationFee": "General/OBC/EWS: Rs. 600/-; SC/ST/Female (Bihar): Rs. 150/-; PH: Rs. 150/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Mains Online Apply Start Date": "03/12/2025",
+      "Mains Online Apply Last Date": "24/12/2025",
+      "Pre Exam Date": "13/09/2025",
+      "Pre Admit Card": "06/09/2025",
+      "Pre Answer Key": "19/09/2025",
+      "Pre Final Answer Key": "31/10/2025",
+      "Pre Result Date": "18/11/2025"
+    },
+    "selectionProcess": [
+      "Pre Exam",
+      "Mains Exam"
+    ],
+    "vacancyDetails": {
+      "Total Posts": "1298"
+    },
+    "importantLinks": {
+      "Apply Online Mains Form": "https://bpsconline.bihar.gov.in/candidate/login",
+      "Mains Form Notice": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-Integrated-71st-CCE-Main_BPSC-20251201-izt68y.pdf",
+      "Official Website": "https://bpsc.bihar.gov.in/"
+    },
+    "additionalDetails": {
+      "Commission": "Bihar Public Service Commission",
+      "Examination": "71st CCE",
+      "Recruitment Year": "2025"
+    }
+  },
   {
     "id": "railway-rrc-ser-apprentice-recruitment-2025",
     "createdAt": "2025-12-17T12:30:00.000Z",
