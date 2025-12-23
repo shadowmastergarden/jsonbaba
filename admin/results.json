@@ -1,5 +1,65 @@
 [
   {
+    "id": "upsc-cms-final-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "UPSC CMS Final Result 2025",
+    "description": "Union Public Service Commission (UPSC) ने Combined Medical Services (CMS) Examination 2025 का फाइनल रिजल्ट घोषित कर दिया है। चयनित उम्मीदवार अपना परिणाम देख सकते हैं।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://upsc.gov.in/",
+      "Check Result": "https://upsc.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "705"
+    }
+  },
+  {
+    "id": "upsc-epfo-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "UPSC EPFO Result 2025",
+    "description": "Union Public Service Commission (UPSC) ने EPFO Enforcement Officer (EO), Accounts Officer (AO) और APFC परीक्षा 2025 का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://upsc.gov.in/",
+      "Check Result": "https://upsc.gov.in/"
+    }
+  },
+  {
+    "id": "iocl-junior-engineer-officer-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "IOCL Junior Engineer/ Officer Result 2025",
+    "description": "Indian Oil Corporation Limited (IOCL) ने Junior Engineer और Officer भर्ती परीक्षा का परिणाम जारी कर दिया है। उम्मीदवार लॉग इन करके अपना रिजल्ट देख सकते हैं।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://iocl.com/",
+      "Check Result": "https://iocl.com/"
+    }
+  },
+  {
+    "id": "bihar-bseb-deled-2nd-selection-list-2025-27",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "Bihar BSEB DELED 2nd Selection List 2025-27",
+    "description": "BSEB Bihar ने D.El.Ed Admission 2025-27 के लिए दूसरी चयन सूची (2nd Selection List) जारी कर दी है। जिन छात्रों का नाम इस लिस्ट में है वे आवंटित कॉलेज में प्रवेश ले सकते हैं।",
+    "importantDates": {
+      "2nd Selection List": "22/12/2025",
+      "Counselling Begins": "22/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.bsebdeled.com/",
+      "Check Selection List": "https://www.bsebdeled.com/"
+    }
+  },
+  {
     "id": "sbi-po-final-result-2025-out",
     "createdAt": "2025-12-21T05:30:00.000Z",
     "updatedAt": "2025-12-21T05:30:00.000Z",

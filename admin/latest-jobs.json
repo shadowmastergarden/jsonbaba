@@ -1,5 +1,42 @@
 [
   {
+    "id": "uppsc-medical-officer-other-posts-recruitment-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "UPPSC Medical Officer & Other Posts Recruitment 2025",
+    "description": "Uttar Pradesh Public Service Commission (UPPSC) ने Medical Officer और अन्य various पदों के लिए भर्ती अधिसूचना जारी की है। इसमें कुल 2158 पदों पर सीधी भर्ती होगी।",
+    "totalPosts": "2158",
+    "educationalQualifications": "Degree in Ayurveda/Unani Tib/Veterinary/Diploma/Dental/Pharmacy/etc",
+    "ageLimit": "21-40 Years",
+    "applicationFee": "Rs. 105/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Begin": "22/12/2025",
+      "Last Date for Apply Online": "22/01/2026",
+      "Pay Exam Fee Last Date": "22/01/2026",
+      "Correction Last Date": "29/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://uppsc.up.nic.in/",
+      "Apply Online": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+    },
+    "vacancyDetails": {
+      "Total Posts": "2158"
+    },
+    "customSections": [
+      {
+        "title": "Vacancy Details",
+        "items": {
+          "Medical Officer": "Various",
+          "Other Posts": "Various",
+          "Total": "2158"
+        }
+      }
+    ]
+  },
+  {
     "id": "up-police-si-confidential-asi-clerk-asi-accounts-recruitment-2025",
     "createdAt": "2025-12-21T05:30:00.000Z",
     "updatedAt": "2025-12-21T05:30:00.000Z",
