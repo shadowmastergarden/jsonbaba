@@ -1,342 +1,477 @@
 [
-    {
-        "id": "ssc-cgl-tier-i-result-2025",
-        "createdAt": "2025-12-19T06:00:00.000Z",
-        "updatedAt": "2025-12-19T06:00:00.000Z",
-        "title": "SSC CGL Tier - I Result 2025",
-        "description": "Staff Selection Commission (SSC) ने Combined Graduate Level (CGL) Tier-I परीक्षा का Result जारी कर दिया है। परीक्षा सितंबर 2025 में आयोजित की गई थी। Qualified candidates अब Tier-II परीक्षा के लिए पात्र हैं।",
-        "importantDates": {
-            "Online Apply Start Date": "09/06/2025",
-            "Online Apply Last Date": "04/07/2025",
-            "Exam Date": "12-26 September 2025",
-            "Re-Exam Date": "14/10/2025",
-            "Tier-I Answer Key": "16/10/2025",
-            "Result Date": "18/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://ssc.nic.in/"
-        }
+  {
+    "id": "upsc-cms-final-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "UPSC CMS Final Result 2025",
+    "description": "Union Public Service Commission (UPSC) ने Combined Medical Services (CMS) Examination 2025 का फाइनल रिजल्ट घोषित कर दिया है। चयनित उम्मीदवार अपना परिणाम देख सकते हैं।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
     },
-    {
-        "id": "bihar-btsc-dresser-result-2025",
-        "createdAt": "2025-12-19T06:00:00.000Z",
-        "updatedAt": "2025-12-19T06:00:00.000Z",
-        "title": "Bihar BTSC Dresser Result 2025",
-        "description": "Bihar Technical Service Commission (BTSC) ने Dresser पदों की भर्ती परीक्षा का Result जारी कर दिया है। परीक्षा 08-09 जुलाई 2025 को आयोजित की गई थी।",
-        "importantDates": {
-            "Application Start Date": "12/04/2025",
-            "Application Last Date": "15/04/2025",
-            "Exam Date (Dresser)": "08-09/07/2025",
-            "Admit Card (Dresser)": "01/07/2025",
-            "Answer Key": "30/07/2025",
-            "Result Declared Date": "18/12/2025"
-        },
-        "importantLinks": {
-            "Download Dresser Result": "https://cdn3.digialm.com/EForms/configuredHtml/1631/93089/login.html",
-            "Check Result Notice": "https://btsc.bihar.gov.in/sites/default/files/2025-12/3963.pdf",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://upsc.gov.in/",
+      "Check Result": "https://upsc.gov.in/"
     },
-    {
-        "id": "upsc-engineering-services-final-result-2025",
-        "createdAt": "2025-12-19T06:00:00.000Z",
-        "updatedAt": "2025-12-19T06:00:00.000Z",
-        "title": "UPSC Engineering Services Final Result 2025",
-        "description": "Union Public Service Commission (UPSC) ने Engineering Services Examination (ESE) 2025 का Final Result जारी कर दिया है। यह Result Prelims, Mains और Interview के आधार पर तैयार किया गया है।",
-        "importantDates": {
-            "Online Apply Start Date": "18/09/2024",
-            "Online Apply Last Date": "08/10/2024",
-            "Pre Exam Date": "08/06/2025",
-            "Pre Admit Card Available": "28/05/2025",
-            "Mains Exam Date": "10/08/2025",
-            "Mains Admit Card": "30/07/2025",
-            "Mains Result": "04/09/2025",
-            "Final Result": "18/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://upsc.gov.in/"
-        }
+    "vacancyDetails": {
+      "Total Posts": "705"
+    }
+  },
+  {
+    "id": "upsc-epfo-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "UPSC EPFO Result 2025",
+    "description": "Union Public Service Commission (UPSC) ने EPFO Enforcement Officer (EO), Accounts Officer (AO) और APFC परीक्षा 2025 का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
     },
-    {
-        "id": "rbi-grade-a-b-final-result-2025",
-        "createdAt": "2025-12-19T06:00:00.000Z",
-        "updatedAt": "2025-12-19T06:00:00.000Z",
-        "title": "RBI Grade A, B Final Result 2025",
-        "description": "Reserve Bank of India (RBI) ने Officer Grade B (Officer & Manager) और Grade A (Assistant Manager) पदों की भर्ती का Final Result जारी कर दिया है। यह Result Phase-I Exam और Interview के आधार पर घोषित किया गया है।",
-        "importantDates": {
-            "Online Apply Start Date": "11/07/2025",
-            "Online Apply Last Date": "31/07/2025",
-            "Phase-I Exam Date": "16/08/2025",
-            "Admit Card": "11/08/2025",
-            "Phase-I Result Date": "30/10/2025",
-            "Final Result": "17/12/2025"
-        },
-        "importantLinks": {
-            "Download Score Card / Cutoff": "https://opportunities.rbi.org.in/Scripts/resultsnew.aspx",
-            "Download Final Result": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4767",
-            "Official Website": "https://www.rbi.org.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://upsc.gov.in/",
+      "Check Result": "https://upsc.gov.in/"
+    }
+  },
+  {
+    "id": "iocl-junior-engineer-officer-result-2025",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "IOCL Junior Engineer/ Officer Result 2025",
+    "description": "Indian Oil Corporation Limited (IOCL) ने Junior Engineer और Officer भर्ती परीक्षा का परिणाम जारी कर दिया है। उम्मीदवार लॉग इन करके अपना रिजल्ट देख सकते हैं।",
+    "importantDates": {
+      "Result Declared": "22/12/2025"
     },
-    {
-        "id": "ib-security-assistant-executive-result-2025",
-        "createdAt": "2025-12-17T12:30:00.000Z",
-        "updatedAt": "2025-12-17T12:30:00.000Z",
-        "title": "IB Security Assistant/ Executive Result 2025",
-        "description": "Intelligence Bureau (IB) ने Security Assistant और Executive पदों की भर्ती परीक्षा का परिणाम जारी कर दिया है। परिणाम 17 दिसंबर 2025 को घोषित किया गया।",
-        "importantDates": {
-            "Result Declared": "17/12/2025",
-            "Exam Date": "29-30 September 2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://www.mha.gov.in/notifications/vacancies"
-        }
+    "importantLinks": {
+      "Official Website": "https://iocl.com/",
+      "Check Result": "https://iocl.com/"
+    }
+  },
+  {
+    "id": "bihar-bseb-deled-2nd-selection-list-2025-27",
+    "createdAt": "2025-12-23T11:45:00.000Z",
+    "updatedAt": "2025-12-23T11:45:00.000Z",
+    "title": "Bihar BSEB DELED 2nd Selection List 2025-27",
+    "description": "BSEB Bihar ने D.El.Ed Admission 2025-27 के लिए दूसरी चयन सूची (2nd Selection List) जारी कर दी है। जिन छात्रों का नाम इस लिस्ट में है वे आवंटित कॉलेज में प्रवेश ले सकते हैं।",
+    "importantDates": {
+      "2nd Selection List": "22/12/2025",
+      "Counselling Begins": "22/12/2025"
     },
-    {
-        "id": "clat-result-2026",
-        "createdAt": "2025-12-17T12:30:00.000Z",
-        "updatedAt": "2025-12-17T12:30:00.000Z",
-        "title": "CLAT Result 2026",
-        "description": "Consortium of National Law Universities ने CLAT 2026 प्रवेश परीक्षा का परिणाम जारी कर दिया है।",
-        "importantDates": {
-            "Result Declared": "16/12/2025",
-            "Exam Date": "07/12/2025"
-        },
-        "importantLinks": {
-            "Download Result": "https://result1.consortiumofnlus.ac.in/",
-            "Official Website": "https://consortiumofnlus.ac.in/clat-2026/"
-        }
+    "importantLinks": {
+      "Official Website": "https://www.bsebdeled.com/",
+      "Check Selection List": "https://www.bsebdeled.com/"
+    }
+  },
+  {
+    "id": "sbi-po-final-result-2025-out",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "SBI PO Final Result 2025",
+    "description": "State Bank of India (SBI) ने Probationary Officer (PO) recruitment 2025 का फाइनल रिजल्ट जारी कर दिया है। चयनित उम्मीदवारों की सूची वेबसाइट पर उपलब्ध है।",
+    "importantDates": {
+      "Mains Result Declared": "06/11/2025",
+      "Interview Date": "24-30 Nov 2025",
+      "Final Result Declared": "19/12/2025"
     },
-    {
-        "id": "bihar-bpsc-70th-cce-mains-result-2025",
-        "createdAt": "2025-12-17T12:30:00.000Z",
-        "updatedAt": "2025-12-17T12:30:00.000Z",
-        "title": "Bihar BPSC 70th CCE Mains Result 2025",
-        "description": "Bihar Public Service Commission (BPSC) ने 70th Combined Competitive Mains Examination का परिणाम 16 दिसंबर 2025 को जारी कर दिया है।",
-        "importantDates": {
-            "Mains Result Declared": "16/12/2025",
-            "Mains Exam Date": "25-30 April 2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://www.bpsc.bih.nic.in/"
-        }
+    "importantLinks": {
+      "Download Final Result": "https://sbi.bank.in/documents/77530/52947104/19122025-SBIPO-RESULT-2025-25-15-COL-FORMAT+%281%29.pdf/676b6ad1-999c-cc50-00e3-7e83ea16c5d6?t=1766141040106",
+      "Official Website": "https://sbi.co.in/"
+    }
+  },
+  {
+    "id": "asrb-net-ars-sms-sto-result-2025",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "ASRB NET, ARS, SMS & STO Result 2025",
+    "description": "Agricultural Scientists Recruitment Board (ASRB) ने NET-2025, ARS, SMS (T-6) और STO (T-6) परीक्षा का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Exam Date": "11-13 Nov 2025",
+      "Result Declared": "20/12/2025"
     },
-    {
-        "id": "rrb-ntpc-graduate-cbt-2-result-2025",
-        "createdAt": "2025-12-16T03:26:00.000Z",
-        "updatedAt": "2025-12-16T03:26:00.000Z",
-        "title": "RRB NTPC Graduate CBT-2 Result 2025",
-        "description": "Railway Recruitment Board (RRB) ने Non-Technical Popular Categories (NTPC) Graduate Level के CBT-2 परीक्षा का परिणाम 15 दिसंबर 2025 को जारी कर दिया है। CBT-2 परीक्षा 13 अक्टूबर 2025 को आयोजित की गई थी। Exam City Details 03 अक्टूबर 2025 को और Admit Card 09 अक्टूबर 2025 को जारी किया गया था। Answer Key 17 अक्टूबर 2025 को उपलब्ध हुई थी। Result में shortlisted candidates की सूची और cutoff marks दिए गए हैं। सभी RRB zones (Chennai, Mumbai, Ranchi, Patna, Ahmedabad, Gorakhpur, Bhopal, Ajmer, Chandigarh, Guwahati आदि) के लिए अलग-अलग result PDFs उपलब्ध हैं।",
-        "importantDates": {
-            "Online Apply Start Date": "14/09/2024",
-            "Online Apply Last Date": "20/10/2024",
-            "Fee Payment Last Date": "20/10/2024",
-            "Correction / Modified Form": "23-30/10/2024",
-            "CBT-1 Exam Date": "05-24/06/2025",
-            "CBT-1 Exam City Details": "26/05/2025",
-            "CBT-1 Admit Card": "01/06/2025",
-            "CBT-1 Answer Key": "01/07/2025",
-            "CBT-1 Result": "19/09/2025",
-            "CBT-2 Exam Date": "13/10/2025",
-            "CBT-2 Exam City Details": "03/10/2025",
-            "CBT-2 Admit Card": "09/10/2025",
-            "CBT-2 Answer Key": "17/10/2025",
-            "CBT-2 Result": "15/12/2025"
-        },
-        "importantLinks": {
-            "RRB Chennai Result": "https://www.rrbchennai.gov.in/downloads/Candidates-shortlisted-for-CBAT-and-CBTST.pdf",
-            "RRB Chennai Cutoff": "https://www.rrbchennai.gov.in/downloads/Cutoff-marks-shortlisted-for-CBAT-and-CBTST.pdf",
-            "RRB Mumbai Result": "https://www.rrbmumbai.gov.in/newpdf/CBAT%20&%20CBTST%20RESULT_NTPC_G.pdf",
-            "RRB Ranchi Result": "https://rrbranchi.gov.in/upload/files/pdf/11_56_34am41a3aaea5a6ceb8036c2509574e8c9af.pdf",
-            "RRB Patna Result": "https://www.rrbpatna.gov.in/pdf/RESULT_CUTOFF_CBT-II_05_2025.pdf",
-            "RRB Ahmedabad Result": "https://rrbahmedabad.gov.in/wp-content/uploads/2025/12/Shortlisting-of-candidates-for-CBAT-and-TST-CEN-05-2024.pdf",
-            "RRB Gorakhpur Result": "https://www.rrbgkp.gov.in/results/result%2005-2024%2015dec25.pdf",
-            "RRB Bhopal Result": "https://rrbbhopal.gov.in/2025/BHOPAL_PublishingReport_15Dec2025.pdf",
-            "RRB Ajmer Result": "https://rrbajmer.gov.in/Upload_PDF/CEN_05_2024_NTPC_G_Result_CBT-2_15122025-639014094503563386.pdf",
-            "RRB Chandigarh Result": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/052024NTPCG-CBT2_Result.pdf",
-            "RRB Guwahati Result": "https://www.rrbguwahati.gov.in/documents/GUWAHATI_PublishingReport_15Dec2025.pdf"
-        }
+    "importantLinks": {
+      "Download Result": "https://cbexams.com/CBT_Result_2025/ResultsMenu.aspx",
+      "Official Website": "https://www.asrb.org.in/"
+    }
+  },
+  {
+    "id": "rssb-vdo-result-2025",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "RSSB VDO Result 2025",
+    "description": "Rajasthan Staff Selection Board (RSSB) ने Village Development Officer (VDO) 2025 भर्ती परीक्षा का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Exam Date": "02/11/2025",
+      "Result Declared": "19/12/2025"
     },
-    {
-        "id": "cgpsc-sse-mains-final-result-2025",
-        "createdAt": "2025-12-14T02:41:00.000Z",
-        "updatedAt": "2025-12-14T02:41:00.000Z",
-        "title": "CGPSC SSE Mains Final Result 2025",
-        "description": "Chhattisgarh Public Service Commission (CGPSC) ने State Service Examination (SSE) के Mains Final Result 21 नवंबर 2025 को जारी कर दिया है। Pre Exam 09 फरवरी 2025 को और Mains Exam 26-29 जून 2025 के बीच आयोजित की गई थी। Pre Exam Result 12 मार्च 2025 को घोषित किया गया था। Final Merit List PDF के रूप में उपलब्ध है जिसमें चयनित उम्मीदवारों के नाम और Roll Numbers शामिल हैं। चयन प्रक्रिया में Written Exam, Document Verification और Medical Examination शामिल हैं।",
-        "importantDates": {
-            "Application Start": "01/12/2024",
-            "Last Date for Apply": "30/12/2024",
-            "Correction Last Date": "02/01/2025",
-            "Pre Exam Date": "09/02/2025",
-            "Main Exam": "26-29/06/2025",
-            "Admit Card": "15/06/2025",
-            "Pre Result Declared": "12/03/2025",
-            "Mains Final Result": "21/11/2025"
-        },
-        "importantLinks": {
-            "Download Mains Final Result": "https://psc.cg.gov.in/pdf/result/DML_SSE2024_20112025.PDF",
-            "Download Pre Result": "https://psc.cg.gov.in/pdf/result/WER_SSPE_2024_11032025.PDF",
-            "Official Notification": "https://psc.cg.gov.in/pdf/Advertisement/ADVT_SSE2024_26112024.pdf",
-            "Official Website": "https://psc.cg.gov.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://rssb.rajasthan.gov.in/"
+    }
+  },
+  {
+    "id": "ibps-rrb-xiv-14th-scale-i-pre-result-2025",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "IBPS RRB XIV Officer Scale-I Pre Result 2025",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने RRB XIV Officer Scale-I Preliminary Exam 2025 का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Pre Exam Date": "22-23 Nov 2025",
+      "Result Declared": "19/12/2025"
     },
-    {
-        "id": "rssb-nhm-rajmes-result-2025",
-        "createdAt": "2025-12-14T02:41:00.000Z",
-        "updatedAt": "2025-12-14T02:41:00.000Z",
-        "title": "RSSB NHM & RajMES Result 2025",
-        "description": "Rajasthan Staff Selection Board (RSSB/RSMSSB) ने National Health Mission (NHM) और RajMES के विभिन्न पदों के लिए परीक्षा परिणाम 31 अक्टूबर 2025 को जारी कर दिया है। परीक्षा 02-13 जून 2025 के बीच आयोजित की गई थी। Exam City Details 28 मई 2025 को और Admit Card 01 जून 2025 को जारी किया गया था। Result PDF में योग्य उम्मीदवारों की सूची Roll Number/Name के साथ उपलब्ध है। चयन प्रक्रिया में Written Examination, Document Verification और Medical Examination शामिल हैं।",
-        "importantDates": {
-            "Notification Date": "29/01/2025",
-            "Online Apply Start Date": "02/04/2025",
-            "Online Apply Last Date": "01/05/2025",
-            "Last Date For Fee Payment": "01/05/2025",
-            "Exam Date": "02-13/06/2025",
-            "Exam City Details": "28/05/2025",
-            "Admit Card": "01/06/2025",
-            "Result Date": "31/10/2025"
-        },
-        "importantLinks": {
-            "Download Result": "http://sarkariresult.com.cm/wp-content/uploads/2025/08/1760095470.pdf",
-            "Download Answer Key": "https://rssb.rajasthan.gov.in/answerkeys",
-            "Download Master Question Paper": "https://rssb.rajasthan.gov.in/oldpapers",
-            "Official Website": "https://rssb.rajasthan.gov.in/"
-        }
+    "importantLinks": {
+      "Check Result": "https://www.ibps.in/",
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "patna-high-court-mazdoor-cycling-test-result-2025",
+    "createdAt": "2025-12-21T05:30:00.000Z",
+    "updatedAt": "2025-12-21T05:30:00.000Z",
+    "title": "Patna High Court Mazdoor Cycling Test Result 2025",
+    "description": "Patna High Court ने Mazdoor Recruitment 2025 के लिए आयोजित Cycling Test का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Cycling Test Date": "10-12 Dec 2025",
+      "Result Declared": "19/12/2025"
     },
-{
-        "id": "iob-bank-400-lbo-vacancy-lpt-test-result",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "IOB Bank 400 LBO Vacancy LPT Test Result",
-        "description": "Indian Overseas Bank (IOB) ने Local Bank Officer (LBO) in JMGS-I के 400 पदों के लिए Local Language Proficiency Test (LPT) का Result जारी कर दिया है। यह भर्ती विभिन्न states (Tamil Nadu, Odisha, Maharashtra, Gujarat, West Bengal, Punjab) में है। LPT Date: 03-04 December 2025, Result: 11 December 2025। Interview Date: 08-15 December 2025।",
-        "importantDates": {
-            "Notification Out": "09/05/2025",
-            "Starting Date": "12/05/2025",
-            "Last Date": "31/05/2025 11:59 PM",
-            "Exam Date": "12/07/2025",
-            "Exam Result": "18/10/2025",
-            "LPT Date": "03-04 Dec 2025",
-            "LPT Admit Card": "27/11/2025",
-            "LPT Test Result Out": "11/12/2025",
-            "Interview Date": "08-15 Dec 2025"
-        },
-        "importantLinks": {
-            "Get LPT Result": "https://www.iob.bank.in/upload/CEDocuments/iobAnnexure-LPT-Passed-11122025.pdf",
-            "Official Website": "https://www.iob.in/Careers"
-        }
+    "importantLinks": {
+      "Download Result": "https://patnahighcourt.gov.in/getfile/MTAxMDk=-oYbJhDPqiMo=",
+      "Official Website": "https://patnahighcourt.gov.in/"
+    }
+  },
+  {
+    "id": "ssc-cgl-tier-i-result-2025",
+    "createdAt": "2025-12-19T06:00:00.000Z",
+    "updatedAt": "2025-12-19T06:00:00.000Z",
+    "title": "SSC CGL Tier - I Result 2025",
+    "description": "Staff Selection Commission (SSC) ने Combined Graduate Level (CGL) Tier-I परीक्षा का Result जारी कर दिया है। परीक्षा सितंबर 2025 में आयोजित की गई थी। Qualified candidates अब Tier-II परीक्षा के लिए पात्र हैं।",
+    "importantDates": {
+      "Online Apply Start Date": "09/06/2025",
+      "Online Apply Last Date": "04/07/2025",
+      "Exam Date": "12-26 September 2025",
+      "Re-Exam Date": "14/10/2025",
+      "Tier-I Answer Key": "16/10/2025",
+      "Result Date": "18/12/2025"
     },
-    {
-        "id": "psssb-08-24-warder-matron-pet-pmt-result",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "PSSSB 08/24 Warder, Matron PET/PMT Result",
-        "description": "Punjab Subordinate Services Selection Board (PSSSB) ने Warder और Matron पदों के लिए Physical Efficiency Test (PET) और Physical Measurement Test (PMT) का Result जारी कर दिया है। 12th Pass और 10th with Punjabi आवश्यक है। PET/PMT Date: 11-13 November 2025, Result: 11 December 2025।",
-        "importantDates": {
-            "Starting Date": "29/07/2024",
-            "Last Date": "20/08/2024 05:00 PM",
-            "Exam Date": "27/10/2024",
-            "Exam Result": "08/12/2024",
-            "PET/PMT Date": "11-13 Nov 2025",
-            "PET/PMT Admit Card": "10/11/2025",
-            "PET/PMT Result Out": "11/12/2025"
-        },
-        "importantLinks": {
-            "Get PET/PMT Result (Warder)": "https://sarkari.network/wp-content/uploads/Result-of-Warder-08-of-2024-for-Website.pdf",
-            "Get PET/PMT Result (Matron)": "https://sarkari.network/wp-content/uploads/Result-of-Matron-08-of-2024-for-Website.pdf",
-            "Official Website": "https://sssb.punjab.gov.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://ssc.nic.in/"
+    }
+  },
+  {
+    "id": "bihar-btsc-dresser-result-2025",
+    "createdAt": "2025-12-19T06:00:00.000Z",
+    "updatedAt": "2025-12-19T06:00:00.000Z",
+    "title": "Bihar BTSC Dresser Result 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Dresser पदों की भर्ती परीक्षा का Result जारी कर दिया है। परीक्षा 08-09 जुलाई 2025 को आयोजित की गई थी।",
+    "importantDates": {
+      "Application Start Date": "12/04/2025",
+      "Application Last Date": "15/04/2025",
+      "Exam Date (Dresser)": "08-09/07/2025",
+      "Admit Card (Dresser)": "01/07/2025",
+      "Answer Key": "30/07/2025",
+      "Result Declared Date": "18/12/2025"
     },
-    {
-        "id": "btsc-11389-staff-nurse-vacancy-exam-result",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "BTSC 11389 Staff Nurse Vacancy Exam Result",
-        "description": "Bihar Technical Service Commission (BTSC) ने Staff Nurse के 11389 पदों के लिए Exam Result जारी कर दिया है। B.Sc Nursing या GNM आवश्यक है। Exam Date: 30-31 July & 01, 03 August 2025, Result: 11 December 2025।",
-        "importantDates": {
-            "Notification Out": "25/04/2025",
-            "Starting Date": "25/04/2025",
-            "Last Date": "23/05/2025 11:59 PM",
-            "Exam Date": "30-31 July & 01, 03 August 2025",
-            "Exam Admit Card": "23/07/2025",
-            "Answer Key Released": "08/08/2025",
-            "Exam Result Declared": "11/12/2025"
-        },
-        "importantLinks": {
-            "Get Result/Score Card": "https://cdn3.digialm.com/EForms/configuredHtml/1631/93756/login.html",
-            "Official Website": "https://btsc.bihar.gov.in/"
-        }
+    "importantLinks": {
+      "Download Dresser Result": "https://cdn3.digialm.com/EForms/configuredHtml/1631/93089/login.html",
+      "Check Result Notice": "https://btsc.bihar.gov.in/sites/default/files/2025-12/3963.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    }
+  },
+  {
+    "id": "upsc-engineering-services-final-result-2025",
+    "createdAt": "2025-12-19T06:00:00.000Z",
+    "updatedAt": "2025-12-19T06:00:00.000Z",
+    "title": "UPSC Engineering Services Final Result 2025",
+    "description": "Union Public Service Commission (UPSC) ने Engineering Services Examination (ESE) 2025 का Final Result जारी कर दिया है। यह Result Prelims, Mains और Interview के आधार पर तैयार किया गया है।",
+    "importantDates": {
+      "Online Apply Start Date": "18/09/2024",
+      "Online Apply Last Date": "08/10/2024",
+      "Pre Exam Date": "08/06/2025",
+      "Pre Admit Card Available": "28/05/2025",
+      "Mains Exam Date": "10/08/2025",
+      "Mains Admit Card": "30/07/2025",
+      "Mains Result": "04/09/2025",
+      "Final Result": "18/12/2025"
     },
-    {
-        "id": "bihar-deled-admission-1st-merit-list-2025",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "Bihar DELEd Admission 1st Merit List 2025",
-        "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (DELEd) 2025-27 batch के लिए 1st Merit List जारी कर दी है। यह 2 year BTC course है। 12th Pass (50% Marks, SC/ST/PH: 45% Marks) आवश्यक है। Exam Date: 26 August 2025, Result: 26 November 2025, 1st Merit List: 11 December 2025।",
-        "importantDates": {
-            "Notification Out": "11/01/2025",
-            "Starting Date": "11/01/2025",
-            "Last Date": "05/02/2025 11:59 PM (Extended)",
-            "Exam Date": "26/08/2025",
-            "Admit Card": "21/08/2025",
-            "Answer Key": "11/10/2025",
-            "Exam Result": "26/11/2025",
-            "1st Merit List": "11/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://biharboardonline.bihar.gov.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://upsc.gov.in/"
+    }
+  },
+  {
+    "id": "rbi-grade-a-b-final-result-2025",
+    "createdAt": "2025-12-19T06:00:00.000Z",
+    "updatedAt": "2025-12-19T06:00:00.000Z",
+    "title": "RBI Grade A, B Final Result 2025",
+    "description": "Reserve Bank of India (RBI) ने Officer Grade B (Officer & Manager) और Grade A (Assistant Manager) पदों की भर्ती का Final Result जारी कर दिया है। यह Result Phase-I Exam और Interview के आधार पर घोषित किया गया है।",
+    "importantDates": {
+      "Online Apply Start Date": "11/07/2025",
+      "Online Apply Last Date": "31/07/2025",
+      "Phase-I Exam Date": "16/08/2025",
+      "Admit Card": "11/08/2025",
+      "Phase-I Result Date": "30/10/2025",
+      "Final Result": "17/12/2025"
     },
-    {
-        "id": "ibps-specialist-officer-xv-mains-result-2025",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "IBPS Specialist Officer XV Mains Result 2025",
-        "description": "Institute of Banking Personnel Selection (IBPS) ने Specialist Officer (SO) XV की Mains Exam का Result जारी कर दिया है। कुल 1007 पदों के लिए भर्ती। पद: IT Officer, Agricultural Field Officer, Rajbhasha Adhikari, Law Officer, HR/Personnel Officer, Marketing Officer। Mains Result: 10 December 2025।",
-        "importantDates": {
-            "Mains Result Out": "10/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://www.ibps.in/"
-        }
+    "importantLinks": {
+      "Download Score Card / Cutoff": "https://opportunities.rbi.org.in/Scripts/resultsnew.aspx",
+      "Download Final Result": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4767",
+      "Official Website": "https://www.rbi.org.in/"
+    }
+  },
+  {
+    "id": "ib-security-assistant-executive-result-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "IB Security Assistant/ Executive Result 2025",
+    "description": "Intelligence Bureau (IB) ने Security Assistant और Executive पदों की भर्ती परीक्षा का परिणाम जारी कर दिया है। परिणाम 17 दिसंबर 2025 को घोषित किया गया।",
+    "importantDates": {
+      "Result Declared": "17/12/2025",
+      "Exam Date": "29-30 September 2025"
     },
-    {
-        "id": "ibps-po-mt-xv-vacancy-mains-score-card",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "IBPS PO / MT XV Vacancy Mains Score Card",
-        "description": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer (PO) / Management Trainee (MT) XV की Mains Exam का Score Card जारी कर दिया है। Graduation Degree आवश्यक है। Mains Score Card: 10 December 2025।",
-        "importantDates": {
-            "Mains Score Card": "10/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://www.ibps.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://www.mha.gov.in/notifications/vacancies"
+    }
+  },
+  {
+    "id": "clat-result-2026",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "CLAT Result 2026",
+    "description": "Consortium of National Law Universities ने CLAT 2026 प्रवेश परीक्षा का परिणाम जारी कर दिया है।",
+    "importantDates": {
+      "Result Declared": "16/12/2025",
+      "Exam Date": "07/12/2025"
     },
-    {
-        "id": "up-police-930-computer-operator-exam-result",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "UP Police 930 Computer Operator Exam Result",
-        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Computer Operator के 930 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
-        "importantDates": {
-            "Exam Result Out": "10/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://uppbpb.gov.in/"
-        }
+    "importantLinks": {
+      "Download Result": "https://result1.consortiumofnlus.ac.in/",
+      "Official Website": "https://consortiumofnlus.ac.in/clat-2026/"
+    }
+  },
+  {
+    "id": "bihar-bpsc-70th-cce-mains-result-2025",
+    "createdAt": "2025-12-17T12:30:00.000Z",
+    "updatedAt": "2025-12-17T12:30:00.000Z",
+    "title": "Bihar BPSC 70th CCE Mains Result 2025",
+    "description": "Bihar Public Service Commission (BPSC) ने 70th Combined Competitive Mains Examination का परिणाम 16 दिसंबर 2025 को जारी कर दिया है।",
+    "importantDates": {
+      "Mains Result Declared": "16/12/2025",
+      "Mains Exam Date": "25-30 April 2025"
     },
-    {
-        "id": "up-police-921-si-asi-vacancy-exam-result",
-        "createdAt": "2025-12-12T07:10:00.000Z",
-        "updatedAt": "2025-12-12T07:10:00.000Z",
-        "title": "UP Police 921 SI, ASI Vacancy Exam Result",
-        "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Sub-Inspector (SI) और Assistant Sub-Inspector (ASI) के 921 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
-        "importantDates": {
-            "Exam Result Out": "10/12/2025"
-        },
-        "importantLinks": {
-            "Official Website": "https://uppbpb.gov.in/"
-        }
+    "importantLinks": {
+      "Official Website": "https://www.bpsc.bih.nic.in/"
+    }
+  },
+  {
+    "id": "rrb-ntpc-graduate-cbt-2-result-2025",
+    "createdAt": "2025-12-16T03:26:00.000Z",
+    "updatedAt": "2025-12-16T03:26:00.000Z",
+    "title": "RRB NTPC Graduate CBT-2 Result 2025",
+    "description": "Railway Recruitment Board (RRB) ने Non-Technical Popular Categories (NTPC) Graduate Level के CBT-2 परीक्षा का परिणाम 15 दिसंबर 2025 को जारी कर दिया है। CBT-2 परीक्षा 13 अक्टूबर 2025 को आयोजित की गई थी। Exam City Details 03 अक्टूबर 2025 को और Admit Card 09 अक्टूबर 2025 को जारी किया गया था। Answer Key 17 अक्टूबर 2025 को उपलब्ध हुई थी। Result में shortlisted candidates की सूची और cutoff marks दिए गए हैं। सभी RRB zones (Chennai, Mumbai, Ranchi, Patna, Ahmedabad, Gorakhpur, Bhopal, Ajmer, Chandigarh, Guwahati आदि) के लिए अलग-अलग result PDFs उपलब्ध हैं।",
+    "importantDates": {
+      "Online Apply Start Date": "14/09/2024",
+      "Online Apply Last Date": "20/10/2024",
+      "Fee Payment Last Date": "20/10/2024",
+      "Correction / Modified Form": "23-30/10/2024",
+      "CBT-1 Exam Date": "05-24/06/2025",
+      "CBT-1 Exam City Details": "26/05/2025",
+      "CBT-1 Admit Card": "01/06/2025",
+      "CBT-1 Answer Key": "01/07/2025",
+      "CBT-1 Result": "19/09/2025",
+      "CBT-2 Exam Date": "13/10/2025",
+      "CBT-2 Exam City Details": "03/10/2025",
+      "CBT-2 Admit Card": "09/10/2025",
+      "CBT-2 Answer Key": "17/10/2025",
+      "CBT-2 Result": "15/12/2025"
     },
+    "importantLinks": {
+      "RRB Chennai Result": "https://www.rrbchennai.gov.in/downloads/Candidates-shortlisted-for-CBAT-and-CBTST.pdf",
+      "RRB Chennai Cutoff": "https://www.rrbchennai.gov.in/downloads/Cutoff-marks-shortlisted-for-CBAT-and-CBTST.pdf",
+      "RRB Mumbai Result": "https://www.rrbmumbai.gov.in/newpdf/CBAT%20&%20CBTST%20RESULT_NTPC_G.pdf",
+      "RRB Ranchi Result": "https://rrbranchi.gov.in/upload/files/pdf/11_56_34am41a3aaea5a6ceb8036c2509574e8c9af.pdf",
+      "RRB Patna Result": "https://www.rrbpatna.gov.in/pdf/RESULT_CUTOFF_CBT-II_05_2025.pdf",
+      "RRB Ahmedabad Result": "https://rrbahmedabad.gov.in/wp-content/uploads/2025/12/Shortlisting-of-candidates-for-CBAT-and-TST-CEN-05-2024.pdf",
+      "RRB Gorakhpur Result": "https://www.rrbgkp.gov.in/results/result%2005-2024%2015dec25.pdf",
+      "RRB Bhopal Result": "https://rrbbhopal.gov.in/2025/BHOPAL_PublishingReport_15Dec2025.pdf",
+      "RRB Ajmer Result": "https://rrbajmer.gov.in/Upload_PDF/CEN_05_2024_NTPC_G_Result_CBT-2_15122025-639014094503563386.pdf",
+      "RRB Chandigarh Result": "https://www.rrbcdg.gov.in/uploads/2024/05-NTPCG/052024NTPCG-CBT2_Result.pdf",
+      "RRB Guwahati Result": "https://www.rrbguwahati.gov.in/documents/GUWAHATI_PublishingReport_15Dec2025.pdf"
+    }
+  },
+  {
+    "id": "cgpsc-sse-mains-final-result-2025",
+    "createdAt": "2025-12-14T02:41:00.000Z",
+    "updatedAt": "2025-12-14T02:41:00.000Z",
+    "title": "CGPSC SSE Mains Final Result 2025",
+    "description": "Chhattisgarh Public Service Commission (CGPSC) ने State Service Examination (SSE) के Mains Final Result 21 नवंबर 2025 को जारी कर दिया है। Pre Exam 09 फरवरी 2025 को और Mains Exam 26-29 जून 2025 के बीच आयोजित की गई थी। Pre Exam Result 12 मार्च 2025 को घोषित किया गया था। Final Merit List PDF के रूप में उपलब्ध है जिसमें चयनित उम्मीदवारों के नाम और Roll Numbers शामिल हैं। चयन प्रक्रिया में Written Exam, Document Verification और Medical Examination शामिल हैं।",
+    "importantDates": {
+      "Application Start": "01/12/2024",
+      "Last Date for Apply": "30/12/2024",
+      "Correction Last Date": "02/01/2025",
+      "Pre Exam Date": "09/02/2025",
+      "Main Exam": "26-29/06/2025",
+      "Admit Card": "15/06/2025",
+      "Pre Result Declared": "12/03/2025",
+      "Mains Final Result": "21/11/2025"
+    },
+    "importantLinks": {
+      "Download Mains Final Result": "https://psc.cg.gov.in/pdf/result/DML_SSE2024_20112025.PDF",
+      "Download Pre Result": "https://psc.cg.gov.in/pdf/result/WER_SSPE_2024_11032025.PDF",
+      "Official Notification": "https://psc.cg.gov.in/pdf/Advertisement/ADVT_SSE2024_26112024.pdf",
+      "Official Website": "https://psc.cg.gov.in/"
+    }
+  },
+  {
+    "id": "rssb-nhm-rajmes-result-2025",
+    "createdAt": "2025-12-14T02:41:00.000Z",
+    "updatedAt": "2025-12-14T02:41:00.000Z",
+    "title": "RSSB NHM & RajMES Result 2025",
+    "description": "Rajasthan Staff Selection Board (RSSB/RSMSSB) ने National Health Mission (NHM) और RajMES के विभिन्न पदों के लिए परीक्षा परिणाम 31 अक्टूबर 2025 को जारी कर दिया है। परीक्षा 02-13 जून 2025 के बीच आयोजित की गई थी। Exam City Details 28 मई 2025 को और Admit Card 01 जून 2025 को जारी किया गया था। Result PDF में योग्य उम्मीदवारों की सूची Roll Number/Name के साथ उपलब्ध है। चयन प्रक्रिया में Written Examination, Document Verification और Medical Examination शामिल हैं।",
+    "importantDates": {
+      "Notification Date": "29/01/2025",
+      "Online Apply Start Date": "02/04/2025",
+      "Online Apply Last Date": "01/05/2025",
+      "Last Date For Fee Payment": "01/05/2025",
+      "Exam Date": "02-13/06/2025",
+      "Exam City Details": "28/05/2025",
+      "Admit Card": "01/06/2025",
+      "Result Date": "31/10/2025"
+    },
+    "importantLinks": {
+      "Download Result": "http://sarkariresult.com.cm/wp-content/uploads/2025/08/1760095470.pdf",
+      "Download Answer Key": "https://rssb.rajasthan.gov.in/answerkeys",
+      "Download Master Question Paper": "https://rssb.rajasthan.gov.in/oldpapers",
+      "Official Website": "https://rssb.rajasthan.gov.in/"
+    }
+  },
+  {
+    "id": "iob-bank-400-lbo-vacancy-lpt-test-result",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "IOB Bank 400 LBO Vacancy LPT Test Result",
+    "description": "Indian Overseas Bank (IOB) ने Local Bank Officer (LBO) in JMGS-I के 400 पदों के लिए Local Language Proficiency Test (LPT) का Result जारी कर दिया है। यह भर्ती विभिन्न states (Tamil Nadu, Odisha, Maharashtra, Gujarat, West Bengal, Punjab) में है। LPT Date: 03-04 December 2025, Result: 11 December 2025। Interview Date: 08-15 December 2025।",
+    "importantDates": {
+      "Notification Out": "09/05/2025",
+      "Starting Date": "12/05/2025",
+      "Last Date": "31/05/2025 11:59 PM",
+      "Exam Date": "12/07/2025",
+      "Exam Result": "18/10/2025",
+      "LPT Date": "03-04 Dec 2025",
+      "LPT Admit Card": "27/11/2025",
+      "LPT Test Result Out": "11/12/2025",
+      "Interview Date": "08-15 Dec 2025"
+    },
+    "importantLinks": {
+      "Get LPT Result": "https://www.iob.bank.in/upload/CEDocuments/iobAnnexure-LPT-Passed-11122025.pdf",
+      "Official Website": "https://www.iob.in/Careers"
+    }
+  },
+  {
+    "id": "psssb-08-24-warder-matron-pet-pmt-result",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "PSSSB 08/24 Warder, Matron PET/PMT Result",
+    "description": "Punjab Subordinate Services Selection Board (PSSSB) ने Warder और Matron पदों के लिए Physical Efficiency Test (PET) और Physical Measurement Test (PMT) का Result जारी कर दिया है। 12th Pass और 10th with Punjabi आवश्यक है। PET/PMT Date: 11-13 November 2025, Result: 11 December 2025।",
+    "importantDates": {
+      "Starting Date": "29/07/2024",
+      "Last Date": "20/08/2024 05:00 PM",
+      "Exam Date": "27/10/2024",
+      "Exam Result": "08/12/2024",
+      "PET/PMT Date": "11-13 Nov 2025",
+      "PET/PMT Admit Card": "10/11/2025",
+      "PET/PMT Result Out": "11/12/2025"
+    },
+    "importantLinks": {
+      "Get PET/PMT Result (Warder)": "https://sarkari.network/wp-content/uploads/Result-of-Warder-08-of-2024-for-Website.pdf",
+      "Get PET/PMT Result (Matron)": "https://sarkari.network/wp-content/uploads/Result-of-Matron-08-of-2024-for-Website.pdf",
+      "Official Website": "https://sssb.punjab.gov.in/"
+    }
+  },
+  {
+    "id": "btsc-11389-staff-nurse-vacancy-exam-result",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "BTSC 11389 Staff Nurse Vacancy Exam Result",
+    "description": "Bihar Technical Service Commission (BTSC) ने Staff Nurse के 11389 पदों के लिए Exam Result जारी कर दिया है। B.Sc Nursing या GNM आवश्यक है। Exam Date: 30-31 July & 01, 03 August 2025, Result: 11 December 2025।",
+    "importantDates": {
+      "Notification Out": "25/04/2025",
+      "Starting Date": "25/04/2025",
+      "Last Date": "23/05/2025 11:59 PM",
+      "Exam Date": "30-31 July & 01, 03 August 2025",
+      "Exam Admit Card": "23/07/2025",
+      "Answer Key Released": "08/08/2025",
+      "Exam Result Declared": "11/12/2025"
+    },
+    "importantLinks": {
+      "Get Result/Score Card": "https://cdn3.digialm.com/EForms/configuredHtml/1631/93756/login.html",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    }
+  },
+  {
+    "id": "bihar-deled-admission-1st-merit-list-2025",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "Bihar DELEd Admission 1st Merit List 2025",
+    "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (DELEd) 2025-27 batch के लिए 1st Merit List जारी कर दी है। यह 2 year BTC course है। 12th Pass (50% Marks, SC/ST/PH: 45% Marks) आवश्यक है। Exam Date: 26 August 2025, Result: 26 November 2025, 1st Merit List: 11 December 2025।",
+    "importantDates": {
+      "Notification Out": "11/01/2025",
+      "Starting Date": "11/01/2025",
+      "Last Date": "05/02/2025 11:59 PM (Extended)",
+      "Exam Date": "26/08/2025",
+      "Admit Card": "21/08/2025",
+      "Answer Key": "11/10/2025",
+      "Exam Result": "26/11/2025",
+      "1st Merit List": "11/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://biharboardonline.bihar.gov.in/"
+    }
+  },
+  {
+    "id": "ibps-specialist-officer-xv-mains-result-2025",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "IBPS Specialist Officer XV Mains Result 2025",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने Specialist Officer (SO) XV की Mains Exam का Result जारी कर दिया है। कुल 1007 पदों के लिए भर्ती। पद: IT Officer, Agricultural Field Officer, Rajbhasha Adhikari, Law Officer, HR/Personnel Officer, Marketing Officer। Mains Result: 10 December 2025।",
+    "importantDates": {
+      "Mains Result Out": "10/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "ibps-po-mt-xv-vacancy-mains-score-card",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "IBPS PO / MT XV Vacancy Mains Score Card",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer (PO) / Management Trainee (MT) XV की Mains Exam का Score Card जारी कर दिया है। Graduation Degree आवश्यक है। Mains Score Card: 10 December 2025।",
+    "importantDates": {
+      "Mains Score Card": "10/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "up-police-930-computer-operator-exam-result",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "UP Police 930 Computer Operator Exam Result",
+    "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Computer Operator के 930 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
+    "importantDates": {
+      "Exam Result Out": "10/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://uppbpb.gov.in/"
+    }
+  },
+  {
+    "id": "up-police-921-si-asi-vacancy-exam-result",
+    "createdAt": "2025-12-12T07:10:00.000Z",
+    "updatedAt": "2025-12-12T07:10:00.000Z",
+    "title": "UP Police 921 SI, ASI Vacancy Exam Result",
+    "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) ने Sub-Inspector (SI) और Assistant Sub-Inspector (ASI) के 921 पदों के लिए Exam Result जारी कर दिया है। यह 2023 की भर्ती के लिए result है। Exam Result: 10 December 2025।",
+    "importantDates": {
+      "Exam Result Out": "10/12/2025"
+    },
+    "importantLinks": {
+      "Official Website": "https://uppbpb.gov.in/"
+    }
+  },
   {
     "title": "OICL 500 Assistant Posts Mains Exam Result",
     "description": "Oriental Insurance Company Limited (OICL) ने Assistant (Level-III) के 500 पदों के लिए Mains Exam Result जारी कर दिया है। Bachelor's Degree और Local Language का ज्ञान आवश्यक है। Mains Exam Date: 28/10/2025, Result: 09/12/2025।",

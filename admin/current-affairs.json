@@ -1,154 +1,406 @@
 [
-    {
-        "id": "2025-12-17",
-        "slug": "2025-12-17",
-        "date": "2025-12-17",
-        "current_affairs": [
-            {
-                "topic": "International: PM Modi Begins Three-Nation Tour in Jordan",
-                "english": "Prime Minister Narendra Modi commenced his three-nation tour with a historic visit to Jordan, focusing on strengthening bilateral ties, renewable energy, and IT cooperation. He was received by Crown Prince Al Hussein, marking a significant diplomatic gesture.",
-                "hindi": "प्रधानमंत्री नरेंद्र मोदी ने जॉर्डन की ऐतिहासिक यात्रा के साथ अपने तीन देशों के दौरे की शुरुआत की, जो द्विपक्षीय संबंधों, नवीकरणीय ऊर्जा और आईटी सहयोग को मजबूत करने पर केंद्रित है। क्राउन प्रिंस अल हुसैन ने उनका स्वागत किया, जो एक महत्वपूर्ण राजनयिक संकेत है।",
-                "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদি জর্ডানে ঐতিহাসিক সফরের মাধ্যমে তার তিন দেশের সফর শুরু করেছেন, যা দ্বিপাক্ষিক সম্পর্ক, নবায়নযোগ্য শক্তি এবং আইটি সহযোগিতা জোরদার করার উপর দৃষ্টি নিবদ্ধ করে। ক্রাউন প্রিন্স আল হোসেন তাকে স্বাগত জানান, যা একটি উল্লেখযোগ্য কূটনৈতিক নিদর্শন।"
-            },
-            {
-                "topic": "Technology: Microsoft Launches MahaCrimeOS AI for Maharashtra Police",
-                "english": "Microsoft CEO Satya Nadella announced the rollout of 'MahaCrimeOS AI', an advanced AI-driven crime investigation platform for the Maharashtra Police. This initiative makes Maharashtra the first state in India to deploy such a sophisticated digital policing tool.",
-                "hindi": "माइक्रोसॉफ्ट के सीईओ सत्य नडेला ने महाराष्ट्र पुलिस के लिए एक उन्नत एआई-संचालित अपराध जांच मंच 'महाक्राइमओएस एआई' के रोलआउट की घोषणा की। यह पहल महाराष्ट्र को ऐसे परिष्कृत डिजिटल पुलिसिंग उपकरण को तैनात करने वाला भारत का पहला राज्य बनाती है।",
-                "bengali": "মাইক্রোসফ্টের সিইও সত্য নাদেলা মহারাষ্ট্র পুলিশের জন্য একটি উন্নত এআই-চালিত অপরাধ তদন্ত প্ল্যাটফর্ম 'মহাক্রাইমওএস এআই' চালু করার ঘোষণা দিয়েছেন। এই উদ্যোগটি মহারাষ্ট্রকে ভারতের প্রথম রাজ্যে পরিণত করেছে যা এই ধরণের অত্যাধুনিক ডিজিটাল পুলিশিং সরঞ্জাম মোতায়েন করেছে।"
-            },
-            {
-                "topic": "Science: India Unveils Indigenous 'DHRUV64' Microprocessor",
-                "english": "India achieved a major tech milestone by unveiling 'DHRUV64', its first indigenous 64-bit dual-core microprocessor. This development significantly boosts India's self-reliance in the semiconductor ecosystem.",
-                "hindi": "भारत ने अपना पहला स्वदेशी 64-बिट डुअल-कोर माइक्रोप्रोसेसर 'ध्रुव64' (DHRUV64) और अनावरण करके एक प्रमुख तकनीकी मील का पत्थर हासिल किया। यह विकास सेमीकंडक्टर पारिस्थितिकी तंत्र में भारत की आत्मनिर्भरता को काफी बढ़ावा देता है।",
-                "bengali": "ভারত তার প্রথম স্বদেশী ৬৪-বিট ডুয়াল-কোর মাইক্রোপ্রসেসর 'ধ্রুব৬৪' (DHRUV64) উন্মোচন করে একটি বড় প্রযুক্তিগত মাইলফলক অর্জন করেছে। এই উন্নয়ন সেমিকন্ডাক্টর ইকোসিস্টেমে ভারতের আত্মনির্ভরতাকে উল্লেখযোগ্যভাবে বৃদ্ধি করে।"
-            }
-        ]
-    },
-    {
-        "id": "2025-12-16",
-        "slug": "2025-12-16",
-        "date": "2025-12-16",
-        "current_affairs": [
-            {
-                "topic": "Defence: India Celebrates Vijay Diwas; President Inaugurates 'Param Vir Dirgha'",
-                "english": "On Vijay Diwas, commemorating India's 1971 war victory, President Droupadi Murmu inaugurated 'Param Vir Dirgha' at Rashtrapati Bhavan. The gallery showcases portraits of all 21 Param Vir Chakra awardees, honoring their supreme sacrifice.",
-                "hindi": "भारत की 1971 के युद्ध में जीत के उपलक्ष्य में विजय दिवस पर, राष्ट्रपति द्रौपदी मुर्मू ने राष्ट्रपति भवन में 'परम वीर दीर्घा' का उद्घाटन किया। यह गैलरी सभी 21 परम वीर चक्र पुरस्कार विजेताओं के चित्रों को प्रदर्शित करती है, जो उनके सर्वोच्च बलिदान का सम्मान करती है।",
-                "bengali": "১৯৭১ সালের যুদ্ধে ভারতের বিজয় স্মরণে বিজয় দিবসে, রাষ্ট্রপতি দ্রৌপদী মুর্মু রাষ্ট্রপতি ভবনে 'পরম বীর দীর্ঘা' উদ্বোধন করেন। গ্যালারিটি সমস্ত ২১ জন পরম বীর চক্র পুরস্কারপ্রাপ্তদের প্রতিকৃতি প্রদর্শন করে, তাদের সর্বোচ্চ আত্মত্যাগের প্রতি সম্মান জানায়।"
-            },
-            {
-                "topic": "Defence: Indian Navy Commissions DSC A20 at Kochi",
-                "english": "The Indian Navy strengthened its operational capabilities by commissioning the DSC A20 vessel at Kochi. This addition enhances the Navy's coastal security and surveillance framework.",
-                "hindi": "भारतीय नौसेना ने कोच्चि में DSC A20 पोत को कमीशन करके अपनी परिचालन क्षमताओं को मजबूत किया। यह अतिरिक्त नौसेना की तटीय सुरक्षा और निगरानी ढांचे को बढ़ाता है।",
-                "bengali": "ভারতীয় নৌবাহিনী কোচিতে DSC A20 জাহাজটি কমিশন করে তার অপারেশনাল ক্ষমতা শক্তিশালী করেছে। এই সংযোজন নৌবাহিনীর উপকূলীয় নিরাপত্তা এবং নজরদারি কাঠামো বৃদ্ধি করে।"
-            },
-            {
-                "topic": "Parliament: Winter Session Discusses Nuclear Power Reforms",
-                "english": "The ongoing Winter Session of Parliament focused on the newly tabled SHANTI Bill, aimed at reforming India's nuclear energy sector. The bill proposes identifying new collaborative avenues for private players in nuclear power generation.",
-                "hindi": "संसद के चल रहे शीतकालीन सत्र ने भारत के परमाणु ऊर्जा क्षेत्र में सुधार के उद्देश्य से नए पेश किए गए शांति (SHANTI) विधेयक पर ध्यान केंद्रित किया। विधेयक परमाणु ऊर्जा उत्पादन में निजी खिलाड़ियों के लिए नए सहयोगी रास्ते की पहचान करने का प्रस्ताव करता है।",
-                "bengali": "সংসদের চলমান শীতকালীন অধিবেশন ভারতের পারমাণবিক শক্তি খাত সংস্কারের লক্ষ্যে নতুন ভাবে উত্থাপিত শান্তি (SHANTI) বিলের উপর দৃষ্টি নিবদ্ধ করেছে। বিলটি পারমাণবিক বিদ্যুৎ উৎপাদনে ব্যক্তিগত খেলোয়াড়দের জন্য নতুন সহযোগিতামূলক পথ চিহ্নিত করার প্রস্তাব করেছে।"
-            }
-        ]
-    },
-    {
-        "id": "2025-12-15",
-        "slug": "2025-12-15",
-        "date": "2025-12-15",
-        "current_affairs": [
-            {
-                "topic": "Economy: India's Trade Deficit Narrows Sharply in November",
-                "english": "India's trade deficit declined by over 61% in November 2025 to $6.6 billion, driven by robust merchandise exports and reduced imports of commodities like gold and oil, signaling a strengthening external trade position.",
-                "hindi": "नवंबर 2025 में भारत का व्यापार घाटा 61% से अधिक घटकर $6.6 बिलियन हो गया, जो मजबूत माल निर्यात और सोने और तेल जैसी वस्तुओं के कम आयात से प्रेरित है, जो एक मजबूत बाहरी व्यापार स्थिति का संकेत देता है।",
-                "bengali": "নভেম্বর ২০২৫-এ ভারতের বাণিজ্য ঘাটতি ৬১%-এর বেশি কমে $৬.৬ বিলিয়ন হয়েছে, যা শক্তিশালী পণ্য রফতানি এবং সোনা ও তেলের মতো পণ্যের আমদানি হ্রাসের দ্বারা চালিত হয়েছে, যা একটি শক্তিশালী বৈদেশিক বাণিজ্যের অবস্থানের ইঙ্গিত দেয়।"
-            },
-            {
-                "topic": "Environment: Delhi Air Quality Remains in 'Severe' Category",
-                "english": "Delhi continues to face a public health crisis as the Air Quality Index (AQI) remains in the 'Severe' category. Schools have shifted to hybrid modes, and transport services including flights and trains face significant delays due to smog.",
-                "hindi": "दिल्ली वायु गुणवत्ता सूचकांक (AQI) 'गंभीर' श्रेणी में बने रहने के कारण सार्वजनिक स्वास्थ्य संकट का सामना कर रही है। स्कूलों ने हाइब्रिड मोड में बदलाव किया है, और स्मॉग के कारण उड़ानों और ट्रेनों सहित परिवहन सेवाओं को महत्वपूर्ण देरी का सामना करना पड़ रहा है।",
-                "bengali": "এয়ার কোয়ালিটি ইনডেক্স (AQI) 'গুরুতর' বিভাগে থাকার কারণে দিল্লি জনস্বাস্থ্য সংকটের মুখোমুখি হচ্ছে। স্কুলগুলি হাইব্রিড মোডে স্থানান্তরিত হয়েছে, এবং ধোঁয়াশার কারণে ফ্লাইট এবং ট্রেন সহ পরিবহন পরিষেবাগুলি উল্লেখযোগ্য বিলম্বের সম্মুখীন হচ্ছে।"
-            },
-            {
-                "topic": "Legislation: SHANTI Bill Tabled for Nuclear Sector Reform",
-                "english": "The 'Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India' (SHANTI) Bill, 2025, was tabled in Parliament. It seeks to establish a modern legal framework for the nuclear sector, replacing archaic laws.",
-                "hindi": "'ट्रांसफॉर्मिंग इंडिया के लिए परमाणु ऊर्जा का सतत दोहन और उन्नति' (SHANTI) विधेयक, 2025, संसद में पेश किया गया। यह पुरातन कानूनों की जगह परमाणु क्षेत्र के लिए एक आधुनिक कानूनी ढांचा स्थापित करना चाहता है।",
-                "bengali": "'ট্রান্সফর্মিং ইন্ডিয়ার জন্য পারমাণবিক শক্তির টেকসই ব্যবহার এবং অগ্রগতি' (SHANTI) বিল, ২০২৫, সংসদে পেশ করা হয়েছে। এটি সেকেলে আইন প্রতিস্থাপন করে পারমাণবিক খাতের জন্য একটি আধুনিক আইনি কাঠামো প্রতিষ্ঠা করতে চায়।"
-            }
-        ]
-    },
-    {
-        "id": "2025-12-14",
-        "slug": "2025-12-14",
-        "date": "2025-12-14",
-        "current_affairs": [
-            {
-                "topic": "Governance: Centre Launches National Cyber Safety Campaign",
-                "english": "The Government of India launched a nationwide Cyber Safety Awareness Campaign targeting students. The initiative emphasizes digital responsibility, protection against cyberbullying, and data privacy education in educational institutions.",
-                "hindi": "भारत सरकार ने छात्रों को लक्षित करते हुए एक राष्ट्रव्यापी साइबर सुरक्षा जागरूकता अभियान शुरू किया। यह पहल शैक्षणिक संस्थानों में डिजिटल जिम्मेदारी, साइबरबुलिंग से सुरक्षा और डेटा गोपनीयता शिक्षा पर जोर देती है।",
-                "bengali": "ভারত সরকার শিক্ষার্থীদের লক্ষ্য করে দেশব্যাপী সাইবার নিরাপত্তা সচেতনতা প্রচার শুরু করেছে। এই উদ্যোগ শিক্ষাপ্রতিষ্ঠানে ডিজিটাল দায়িত্ব, সাইবার বুলিং থেকে সুরক্ষা এবং ডেটা গোপনীয়তা শিক্ষার ওপর জোর দেয়।"
-            },
-            {
-                "topic": "Infrastructure: Vande Bharat Express Service Expanded in Northeast",
-                "english": "Indian Railways announced the expansion of Vande Bharat Express operations in Eastern and Northeastern states. The move aims to boost regional connectivity and reduce travel time significantly between key cities.",
-                "hindi": "भारतीय रेलवे ने पूर्वी और पूर्वोत्तर राज्यों में वंदे भारत एक्सप्रेस परिचालन के विस्तार की घोषणा की। इस कदम का उद्देश्य क्षेत्रीय संपर्क को बढ़ावा देना और प्रमुख शहरों के बीच यात्रा के समय को काफी कम करना है।",
-                "bengali": "ভারতীয় রেল পূর্ব ও উত্তর-পূর্ব রাজ্যগুলিতে বন্দে ভারত এক্সপ্রেস অপারেশন সম্প্রসারণের ঘোষণা দিয়েছে। এই পদক্ষেপের লক্ষ্য আঞ্চলিক সংযোগ বৃদ্ধি করা এবং মূল শহরগুলির মধ্যে ভ্রমণের সময় উল্লেখযোগ্যভাবে হ্রাস করা।"
-            },
-            {
-                "topic": "Weather: IMD Issues Cold Wave Alert for North India",
-                "english": "The India Meteorological Department (IMD) issued a cold wave alert for North and Central India, including Delhi, Rajasthan, and MP. Authorities have advised schools to take necessary precautions for students.",
-                "hindi": "भारत मौसम विज्ञान विभाग (IMD) ने दिल्ली, राजस्थान और एमपी सहित उत्तर और मध्य भारत के लिए शीत लहर का अलर्ट जारी किया। अधिकारियों ने स्कूलों को छात्रों के लिए आवश्यक सावधानी बरतने की सलाह दी है।",
-                "bengali": "ভারতের আবহাওয়া বিভাগ (IMD) দিল্লি, রাজস্থান এবং এমপি সহ উত্তর ও মধ্য ভারতের জন্য শৈত্যপ্রবাহের সতর্কতা জারি করেছে। কর্তৃপক্ষ স্কুলগুলিকে শিক্ষার্থীদের জন্য প্রয়োজনীয় সতর্কতা অবলম্বন করার পরামর্শ দিয়েছে।"
-            }
-        ]
-    },
-    {
-        "id": "2025-12-13",
-        "slug": "2025-12-13",
-        "date": "2025-12-13",
-        "current_affairs": [
-            {
-                "topic": "Policy: Union Cabinet Approves Historic Atomic Energy Bill (SHANTI)",
-                "english": "The Union Cabinet cleared the path for the Atomic Energy Bill, 2025 (SHANTI), which allows for private sector participation in nuclear technology. This is seen as a transformative step for India's energy security.",
-                "hindi": "केंद्रीय मंत्रिमंडल ने परमाणु ऊर्जा विधेयक, 2025 (SHANTI) का मार्ग साफ कर दिया, जो परमाणु प्रौद्योगिकी में निजी क्षेत्र की भागीदारी की अनुमति देता है। इसे भारत की ऊर्जा सुरक्षा के लिए एक परिवर्तनकारी कदम के रूप में देखा जा रहा है।",
-                "bengali": "কেন্দ্রীয় মন্ত্রিসভা পারমাণবিক শক্তি বিল, ২০২৫ (SHANTI)-এর পথ পরিষ্কার করেছে, যা পারমাণবিক প্রযুক্তিতে বেসরকারি খাতের অংশগ্রহণের অনুমতি দেয়। এটি ভারতের শক্তি সুরক্ষার জন্য একটি রূপান্তরমূলক পদক্ষেপ হিসাবে দেখা হচ্ছে।"
-            },
-            {
-                "topic": "Trade: India-Oman Free Trade Pact Approved",
-                "english": "Ahead of the Prime Minister's visit, the Cabinet approved the Comprehensive Economic Partnership Agreement (CEPA) with Oman. This pact is expected to significantly boost bilateral trade and investment between the two nations.",
-                "hindi": "प्रधानमंत्री की यात्रा से पहले, कैबिनेट ने ओमान के साथ व्यापक आर्थिक भागीदारी समझौते (CEPA) को मंजूरी दी। इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश को काफी बढ़ावा मिलने की उम्मीद है।",
-                "bengali": "প্রধানমন্ত্রীর সফরের আগে, মন্ত্রিসভা ওমানের সাথে ব্যাপক অর্থনৈতিক অংশীদারিত্ব চুক্তি (CEPA) অনুমোদন করেছে। এই চুক্তিটি দুই দেশের মধ্যে দ্বিপাক্ষিক বাণিজ্য এবং বিনিয়োগ উল্লেখযোগ্যভাবে বৃদ্ধি করবে বলে আশা করা হচ্ছে।"
-            },
-            {
-                "topic": "Scheme: MGNREGA Renamed to 'Poojya Bapu Grameen Rozgar Yojana'",
-                "english": "Boosting rural welfare, the government renamed the MNREGA scheme to 'Poojya Bapu Grameen Rozgar Yojana' and increased the guaranteed workdays from 100 to 125, aiming to provide greater economic security to rural households.",
-                "hindi": "ग्रामीण कल्याण को बढ़ावा देते हुए, सरकार ने मनरेगा (MNREGA) योजना का नाम बदलकर 'पूज्य बापू ग्रामीण रोजगार योजना' कर दिया और ग्रामीण परिवारों को अधिक आर्थिक सुरक्षा प्रदान करने के उद्देश्य से गारंटीकृत कार्यदिवसों को 100 से बढ़ाकर 125 कर दिया।",
-                "bengali": "গ্রামীণ কল্যাণ বৃদ্ধি করে, সরকার এমএনআরইজিএ (MNREGA) স্কিমের নাম পরিবর্তন করে 'পূজ্য বাপু গ্রামীণ রোজগার যোজনা' রেখেছে এবং গ্রামীণ পরিবারগুলিকে আরও বেশি অর্থনৈতিক নিরাপত্তা প্রদানের লক্ষ্যে নিশ্চিত কর্মদিবস ১০০ থেকে বাড়িয়ে ১২৫ করেছে।"
-            }
-        ]
-    },
-    {
-        "id": "2025-12-12",
-        "slug": "2025-12-12",
-        "date": "2025-12-12",
-        "current_affairs": [
-            {
-                "topic": "Awards: Alia Bhatt Wins Golden Globe Horizon Award",
-                "english": "Actress Alia Bhatt was honored with the inaugural Golden Globe Horizon Award at the Red Sea International Film Festival, recognizing her global contribution to cinema.",
-                "hindi": "अभिनेत्री आलिया भट्ट को रेड सी इंटरनेशनल फिल्म फेस्टिवल में उद्घाटन गोल्डन ग्लोब होराइजन अवार्ड से सम्मानित किया गया, जो सिनेमा में उनके वैश्विक योगदान को मान्यता देता है।",
-                "bengali": "অভিনেত্রী আলিয়া ভাট রেড সি ইন্টারন্যাশনাল ফিল্ম ফেস্টিভ্যালে উদ্বোধনী গোল্ডেন গ্লোব হরাইজন অ্যাওয়ার্ডে সম্মানিত হয়েছেন, যা সিনেমায় তার বৈশ্বিক অবদানকে স্বীকৃতি দেয়।"
-            },
-            {
-                "topic": "Environment: Tamil Nadu Official Honored by UNEP",
-                "english": "Supriya Sahu, Additional Chief Secretary of Tamil Nadu, received the UNEP's 2025 Champions of the Earth Award for her pioneering work in environmental conservation and plastic ban implementation.",
-                "hindi": "तमिलनाडु की अतिरिक्त मुख्य सचिव सुप्रिया साहू को पर्यावरण संरक्षण और प्लास्टिक प्रतिबंध लागू करने में उनके अग्रणी कार्य के लिए UNEP का 2025 चैंपियंस ऑफ द अर्थ अवार्ड मिला।",
-                "bengali": "তামিলনাড়ুর অতিরিক্ত মুখ্য সচিব সুপ্রিয়া সাহু পরিবেশ সংরক্ষণ এবং প্লাস্টিক নিষেধাজ্ঞা বাস্তবায়নে তার অগ্রণী কাজের জন্য UNEP-এর ২০২৫ চ্যাম্পিয়নস অফ দ্য আর্থ পুরস্কার পেয়েছেন।"
-            },
-            {
-                "topic": "Technology: Global AI Conclave Announced for Chennai",
-                "english": "India announced it will host the Global AI Conclave 2025 in Chennai. The event aims to position India as a global leader in responsible AI development and deployment.",
-                "hindi": "भारत ने घोषणा की कि वह चेन्नई में ग्लोबल एआई कॉन्क्लेव 2025 की मेजबानी करेगा। इस आयोजन का उद्देश्य भारत को जिम्मेदार एआई विकास और तैनाती में एक वैश्विक नेता के रूप में स्थापित करना है।",
-                "bengali": "ভারত ঘোষণা করেছে যে তারা চেন্নাইতে গ্লোবাল এআই কনক্লেভ ২০২৫ আয়োজন করবে। এই ইভেন্টটির লক্ষ্য ভারত দায়িত্বশীল এআই উন্নয়ন এবং স্থাপনায় বিশ্বনেতা হিসাবে অবস্থান করা।"
-            }
-        ]
-    },
+  {
+    "id": "2025-12-23",
+    "slug": "2025-12-23",
+    "date": "2025-12-23",
+    "current_affairs": [
+      {
+        "topic": "National: National Farmers' Day (Kisan Diwas) Celebrated",
+        "english": "India celebrated National Farmers' Day (Kisan Diwas) on December 23 to honor the birth anniversary of former Prime Minister Chaudhary Charan Singh and recognize the vital contribution of farmers to the nation's economy.",
+        "hindi": "भारत ने पूर्व प्रधानमंत्री चौधरी चरण सिंह की जयंती के सम्मान में और देश की अर्थव्यवस्था में किसानों के महत्वपूर्ण योगदान को मान्यता देने के लिए 23 दिसंबर को राष्ट्रीय किसान दिवस (Kisan Diwas) मनाया।",
+        "bengali": "ভারত ২৩শে ডিসেম্বর প্রাক্তন প্রধানমন্ত্রী চৌধুরী চরণ সিংয়ের জন্মবার্ষিকী উদযাপন এবং দেশের অর্থনীতিতে কৃষকদের গুরুত্বপূর্ণ অবদানকে স্বীকৃতি দেওয়ার জন্য জাতীয় কৃষক দিবস (Kisan Diwas) পালন করেছে।"
+      },
+      {
+        "topic": "International: India and Netherlands Sign MoU for Maritime Heritage Complex",
+        "english": "India and the Netherlands signed a Memorandum of Understanding (MoU) to collaborate on the development of the National Maritime Heritage Complex (NMHC) in Lothal, Gujarat, enhancing maritime heritage cooperation.",
+        "hindi": "भारत और नीदरलैंड ने लोथल, गुजरात में राष्ट्रीय समुद्री विरासत परिसर (NMHC) के विकास पर सहयोग करने के लिए एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए, जिससे समुद्री विरासत सहयोग को बढ़ावा मिला।",
+        "bengali": "ভারত ও নেদারল্যান্ডস গুজরাটের লোথালে জাতীয় সামুদ্রিক ঐতিহ্য কমপ্লেক্স (NMHC)-এর উন্নয়নে সহযোগিতা করার জন্য একটি সমঝোতা স্মারক (MoU) স্বাক্ষর করেছে, যা সামুদ্রিক ঐতিহ্য সহযোগিতা বৃদ্ধি করবে।"
+      },
+      {
+        "topic": "National: Railway Protection Force Wins First Prize in Police Band Competition",
+        "english": "The Railway Protection Force (RPF) secured the first position in the men's brass band category at the 26th All India Police Band Competition, showcasing exceptional musical prowess.",
+        "hindi": "रेलवे सुरक्षा बल (RPF) ने 26वीं अखिल भारतीय पुलिस बैंड प्रतियोगिता में पुरुषों के ब्रास बैंड श्रेणी में प्रथम स्थान हासिल किया, जो असाधारण संगीत कौशल का प्रदर्शन है।",
+        "bengali": "রেলওয়ে সুরক্ষা বাহিনী (RPF) ২৬তম সর্বভারতীয় পুলিশ ব্যান্ড প্রতিযোগিতায় পুরুষদের ব্রাস ব্যান্ড বিভাগে প্রথম স্থান অধিকার করেছে, যা তাদের অসাধারণ সংগীত দক্ষতা প্রদর্শন করে।"
+      },
+      {
+        "topic": "International: Japan Restarts Kashiwazaki-Kariwa Nuclear Power Plant",
+        "english": "Japan approved the restart of the Kashiwazaki-Kariwa nuclear power plant, the world's largest, marking a significant shift in its energy policy aimed at reducing carbon emissions and ensuring stable power supply.",
+        "hindi": "जापान ने दुनिया के सबसे बड़े परमाणु ऊर्जा संयंत्र, काशीवाजाकी-कारीवा के पुनः आरंभ को मंजूरी दी, जो कार्बन उत्सर्जन को कम करने और स्थिर बिजली आपूर्ति सुनिश्चित करने के उद्देश्य से उसकी ऊर्जा नीति में एक महत्वपूर्ण बदलाव है।",
+        "bengali": "জাপান বিশ্বের বৃহত্তম পারমাণবিক বিদ্যুৎ কেন্দ্র কাশিওয়াজাকি-কারিওয়া পুনরায় চালু করার অনুমোদন দিয়েছে, যা কার্বন নির্গমন হ্রাস এবং স্থিতিশীল বিদ্যুৎ সরবরাহ নিশ্চিত করার লক্ষ্যে তার শক্তি নীতিতে একটি উল্লেখযোগ্য পরিবর্তন চিহ্নিত করে।"
+      },
+      {
+        "topic": "Defence: India Moves Closer to BrahMos Missile Exports",
+        "english": "India progressed towards finalizing $450 million worth of BrahMos supersonic cruise missile export deals with Vietnam and Indonesia, strengthening defense ties with Southeast Asian nations.",
+        "hindi": "भारत ने वियतनाम और इंडोनेशिया के साथ 450 मिलियन डॉलर के ब्रह्मोस सुपरसोनिक क्रूज मिसाइल निर्यात सौदों को अंतिम रूप देने की दिशा में प्रगति की, जिससे दक्षिण पूर्व एशियाई देशों के साथ रक्षा संबंध मजबूत हुए।",
+        "bengali": "ভারত ভিয়েতনাম ও ইন্দোনেশিয়ার সাথে ৪৫০ মিলিয়ন ডলার মূল্যের ব্রাহ্মোস সুপারসনিক ক্রুজ মিসাইল রফতানি চুক্তি চূড়ান্ত করার দিকে অগ্রসর হয়েছে, যা দক্ষিণ-পূর্ব এশীয় দেশগুলির সাথে প্রতিরক্ষা সম্পর্ক জোরদার করবে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-22",
+    "slug": "2025-12-22",
+    "date": "2025-12-22",
+    "current_affairs": [
+      {
+        "topic": "National: National Mathematics Day Celebrated",
+        "english": "India observed National Mathematics Day on December 22 to commemorate the birth anniversary of the legendary mathematician Srinivasa Ramanujan, promoting the importance of mathematics in daily life.",
+        "hindi": "महान गणितज्ञ श्रीनिवास रामानुजन की जयंती के उपलक्ष्य में भारत ने 22 दिसंबर को राष्ट्रीय गणित दिवस मनाया, जो दैनिक जीवन में गणित के महत्व को बढ़ावा देता है।",
+        "bengali": "ভারত ২২শে ডিসেম্বর কিংবদন্তি গণিতবিদ শ্রীনিবাস রামানুজনের জন্মবার্ষিকী স্মরণে জাতীয় গণিত দিবস পালন করেছে, যা দৈনন্দিন জীবনে গণিতের গুরুত্ব প্রচার করে।"
+      },
+      {
+        "topic": "International: Brazil Hands Over BRICS Presidency to India for 2026",
+        "english": "Brazil formally handed over the BRICS presidency to India for the year 2026 during the 4th BRICS Sherpas Meeting, setting the stage for India's leadership in the bloc.",
+        "hindi": "ब्राजील ने चौथी ब्रिक्स शेरपा बैठक के दौरान औपचारिक रूप से वर्ष 2026 के लिए ब्रिक्स की अध्यक्षता भारत को सौंप दी, जिससे गुट में भारत के नेतृत्व का मंच तैयार हुआ।",
+        "bengali": "ব্রাজিল চতুর্থ ব্রিক্স শেরপা বৈঠকের সময় আনুষ্ঠানিকভাবে ২০২৬ সালের জন্য ভারতের কাছে ব্রিক্স প্রেসিডেন্সি হস্তান্তর করেছে, যা ব্লকে ভারতের নেতৃত্বের মঞ্চ তৈরি করেছে।"
+      },
+      {
+        "topic": "Economy: ADB Commits $4.2 Billion Lending to India",
+        "english": "The Asian Development Bank (ADB) committed $4.258 billion in sovereign lending to India for 2025 to support projects in renewable energy, urban infrastructure, and healthcare development.",
+        "hindi": "एशियाई विकास बैंक (ADB) ने भारत को 2025 के लिए नवीकरणीय ऊर्जा, शहरी बुनियादी ढांचे और स्वास्थ्य देखभाल विकास में परियोजनाओं का समर्थन करने के लिए $4.258 बिलियन के संप्रभु ऋण की प्रतिबद्धता जताई।",
+        "bengali": "এশিয়ান ডেভেলপমেন্ট ব্যাংক (ADB) ২০২৫ সালের জন্য ভারতে নবায়নযোগ্য শক্তি, শহুরে অবকাঠামো এবং স্বাস্থ্যসেবা উন্নয়নের প্রকল্পগুলিকে সমর্থন করার জন্য ৪.২৫৮ বিলিয়ন ডলার ঋণ দেওয়ার প্রতিশ্রুতি দিয়েছে।"
+      },
+      {
+        "topic": "National: Good Governance Week 2025 Launched",
+        "english": "The Government of India launched Good Governance Week 2025 with the 'Prashasan Gaon Ki Ore' campaign, aiming to redress public grievances and improve service delivery at the grassroots level.",
+        "hindi": "भारत सरकार ने 'प्रशासन गांव की ओर' अभियान के साथ सुशासन सप्ताह 2025 का शुभारंभ किया, जिसका उद्देश्य सार्वजनिक शिकायतों का निवारण करना और जमीनी स्तर पर सेवा वितरण में सुधार करना है।",
+        "bengali": "ভারত সরকার 'প্রশাসন গাঁও কি অর' অভিযানের সাথে সুশাসন সপ্তাহ ২০২৫ চালু করেছে, যার লক্ষ্য জনগণের অভিযোগের সমাধান করা এবং তৃণমূল পর্যায়ে পরিষেবা প্রদানের উন্নতি করা।"
+      },
+      {
+        "topic": "Defence: Indian Navy Receives ASW SWC 'Anjadip'",
+        "english": "The Indian Navy received the 'Anjadip', an Anti-Submarine Warfare Shallow Water Craft (ASW SWC), boosting its capabilities for coastal defense and search and rescue operations.",
+        "hindi": "भारतीय नौसेना को 'अंजादीप' प्राप्त हुआ, जो एक एंटी-सबमरीन वारफेयर शैलो वाटर क्राफ्ट (ASW SWC) है, जो तटीय रक्षा और खोज और बचाव कार्यों के लिए अपनी क्षमताओं को बढ़ाता है।",
+        "bengali": "ভারতীয় নৌবাহিনী 'অঞ্জদীপ' পেয়েছে, যা একটি অ্যান্টি-সাবমেরিন ওয়ারফেয়ার শ্যালো ওয়াটার ক্রাফট (ASW SWC), যা উপকূলীয় প্রতিরক্ষা এবং অনুসন্ধান ও উদ্ধার অভিযানের জন্য তার সক্ষমতা বৃদ্ধি করে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-21",
+    "slug": "2025-12-21",
+    "date": "2025-12-21",
+    "current_affairs": [
+      {
+        "topic": "National: Parliament Passes SHANTI Bill for Nuclear Sector Reform",
+        "english": "The Parliament has passed the 'Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India' (SHANTI) Bill. This historic legislation opens up India's nuclear energy sector to private players, aiming to boost clean energy production and technological advancement.",
+        "hindi": "संसद ने 'ट्रांसफॉर्मिंग इंडिया के लिए परमाणु ऊर्जा का सतत दोहन और उन्नति' (शांति) विधेयक पारित कर दिया है। यह ऐतिहासिक कानून भारत के परमाणु ऊर्जा क्षेत्र को निजी खिलाड़ियों के लिए खोलता है, जिसका उद्देश्य स्वच्छ ऊर्जा उत्पादन और तकनीकी उन्नति को बढ़ावा देना है।",
+        "bengali": "সংসদ 'ট্রান্সফর্মিং ইন্ডিয়ার জন্য পারমাণবিক শক্তির টেকসই ব্যবহার এবং অগ্রগতি' (শান্তি) বিল পাস করেছে। এই ঐতিহাসিক আইনটি ভারতের পারমাণবিক শক্তি খাতকে বেসরকারি খেলোয়াড়দের জন্য উন্মুক্ত করে, যার লক্ষ্য স্বচ্ছ শক্তি উৎপাদন এবং প্রযুক্তিগত অগ্রগতি বৃদ্ধি করা।"
+      },
+      {
+        "topic": "Economy: India and Oman Sign Historic Trade Agreement (CEPA)",
+        "english": "India and Oman have signed a Comprehensive Economic Partnership Agreement (CEPA). The pact provides zero-duty access on 98.08% of tariff lines, significantly boosting bilateral trade and economic cooperation between the two nations.",
+        "hindi": "भारत और ओमान ने एक व्यापक आर्थिक भागीदारी समझौते (CEPA) पर हस्ताक्षर किए हैं। यह समझौता 98.08% टैरिफ लाइनों पर शून्य-शुल्क पहुंच प्रदान करता है, जिससे दोनों देशों के बीच द्विपक्षीय व्यापार और आर्थिक सहयोग को काफी बढ़ावा मिलता है।",
+        "bengali": "ভারত ও ওমান একটি ব্যাপক অর্থনৈতিক অংশীদারিত্ব চুক্তি (CEPA) স্বাক্ষর করেছে। এই চুক্তিটি ৯৮.০৮% ট্যারিফ লাইনে শূন্য-শুল্ক অ্যাক্সেস প্রদান করে, যা দুই দেশের মধ্যে দ্বিপাক্ষিক বাণিজ্য এবং অর্থনৈতিক সহযোগিতাকে উল্লেখযোগ্যভাবে বৃদ্ধি করবে।"
+      },
+      {
+        "topic": "Sports: Pakistan Defeats India in U-19 Asia Cup Final",
+        "english": "In a one-sided final held in Dubai, Pakistan defeated India by 191 runs to clinch the U-19 Asia Cup title. This victory marks Pakistan's second title in the tournament's history.",
+        "hindi": "दुबई में आयोजित एकतरफा फाइनल में, पाकिस्तान ने भारत को 191 रनों से हराकर U-19 एशिया कप का खिताब अपने नाम किया। यह जीत टूर्नामेंट के इतिहास में पाकिस्तान का दूसरा खिताब है।",
+        "bengali": "দুবাইতে অনুষ্ঠিত একতরফা ফাইনালে পাকিস্তানকে ১৯১ রানে হারিয়ে অনূর্ধ্ব-১৯ এশিয়া কাপের শিরোপা জিতেছে পাকিস্তান। এই টুর্নামেন্টের ইতিহাসে এটি পাকিস্তানের দ্বিতীয় শিরোপা।"
+      },
+      {
+        "topic": "Science: ISRO Conducts Gaganyaan Parachute System Tests",
+        "english": "The Indian Space Research Organisation (ISRO) successfully conducted another series of tests for the parachute systems designed for the Gaganyaan mission. These tests are crucial for ensuring the safe return of astronauts to Earth.",
+        "hindi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने गगनयान मिशन के लिए डिज़ाइन किए गए पैराशूट सिस्टम के लिए परीक्षणों की एक और श्रृंखला सफलतापूर्वक आयोजित की। ये परीक्षण अंतरिक्ष यात्रियों की पृथ्वी पर सुरक्षित वापसी सुनिश्चित करने के लिए महत्वपूर्ण हैं।",
+        "bengali": "ভারতীয় মহাকাশ গবেষণা সংস্থা (ইসরো) গগনযান মিশনের জন্য ডিজাইন করা প্যারাসুট সিস্টেমের জন্য আরও একটি ধারাবাহিক পরীক্ষা সফলভাবে পরিচালনা করেছে। মহাকাশচারীদের পৃথিবীতে নিরাপদ প্রত্যাবর্তন নিশ্চিত করার জন্য এই পরীক্ষাগুলি অত্যন্ত গুরুত্বপূর্ণ।"
+      },
+      {
+        "topic": "Defence: Reservation Increased for Ex-Agniveers in CAPFs",
+        "english": "The Union Home Ministry has increased the reservation for ex-Agniveers in Group C posts of the Central Armed Police Forces (CAPFs) from 10% to 50%, providing significant employment opportunities for reliable personnel.",
+        "hindi": "केंद्रीय गृह मंत्रालय ने केंद्रीय सशस्त्र पुलिस बलों (CAPF) के ग्रुप सी पदों में पूर्व-अग्निवीरों के लिए आरक्षण 10% से बढ़ाकर 50% कर दिया है, जो विश्वसनीय कर्मियों के लिए महत्वपूर्ण रोजगार के अवसर प्रदान करता है।",
+        "bengali": "কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রক কেন্দ্রীয় সশস্ত্র পুলিশ বাহিনী (CAPF)-এর গ্রুপ সি পদে প্রাক্তন অগ্নিবীরদের সংরক্ষণ ১০% থেকে বাড়িয়ে ৫০% করেছে, যা নির্ভরযোগ্য কর্মীদের জন্য উল্লেখযোগ্য কর্মসংস্থানের সুযোগ প্রদান করবে।"
+      },
+      {
+        "topic": "Economy: RBI Cuts Repo Rate to 5.25%",
+        "english": "The Reserve Bank of India (RBI) has reduced the repo rate by 25 basis points to 5.25%, marking the fourth consecutive rate cut in 2025. This move aims to stimulate economic growth and manage inflation.",
+        "hindi": "भारतीय रिजर्व बैंक (RBI) ने रेपो दर को 25 आधार अंक घटाकर 5.25% कर दिया है, जो 2025 में लगातार चौथी दर कटौती है। इस कदम का उद्देश्य आर्थिक विकास को प्रोत्साहित करना और मुद्रास्फीति का प्रबंधन करना है।",
+        "bengali": "ভারতীয় রিজার্ভ ব্যাংক (আরবিআই) রেপো রেট ২৫ বেসিস পয়েন্ট কমিয়ে ৫.২৫% করেছে, যা ২০২৫ সালে টানা চতুর্থবারের মতো হার কমানোর ঘটনা। এই পদক্ষেপের লক্ষ্য অর্থনৈতিক প্রবৃদ্ধি উদ্দীপিত করা এবং মুদ্রাস্ফীতি নিয়ন্ত্রণ করা।"
+      },
+      {
+        "topic": "National: Railway Ministry Announces Fare Hike",
+        "english": "The Railway Ministry has announced a hike in train fares effective December 26, 2025. The revised rates include an increase of 1 paisa per km for ordinary class beyond 215 km and 2 paise per km for AC classes.",
+        "hindi": "रेल मंत्रालय ने 26 दिसंबर, 2025 से प्रभावी ट्रेन किराए में बढ़ोतरी की घोषणा की है। संशोधित दरों में 215 किमी से आगे साधारण श्रेणी के लिए 1 पैसा प्रति किमी और एसी कक्षाओं के लिए 2 पैसे प्रति किमी की वृद्धि शामिल है।",
+        "bengali": "রেলওয়ে মন্ত্রক ২৬ ডিসেম্বর, ২০২৫ থেকে ট্রেনের ভাড়া বৃদ্ধির ঘোষণা করেছে। সংশোধিত হারের মধ্যে রয়েছে ২১৫ কিলোমিটারের বেশি সাধারণ শ্রেণির জন্য প্রতি কিমিতে ১ পয়সা এবং এসি ক্লাসের জন্য প্রতি কিমিতে ২ পয়সা বৃদ্ধি।"
+      },
+      {
+        "topic": "Environment: Winter Solstice Marks Longest Night",
+        "english": "December 21, 2025, marked the Winter Solstice, the shortest day and longest night of the year in the Northern Hemisphere. This astronomical event signifies the official beginning of winter.",
+        "hindi": "21 दिसंबर, 2025 को शीतकालीन संक्रांति मनाई गई, जो उत्तरी गोलार्ध में वर्ष का सबसे छोटा दिन और सबसे लंबी रात है। यह खगोलीय घटना सर्दियों की आधिकारिक शुरुआत का प्रतीक है।",
+        "bengali": "২১ ডিসেম্বর, ২০২৫, শীতকালীন অয়নকাল চিহ্নিত করা হয়েছে, যা উত্তর গোলার্ধে বছরের সবচেয়ে ছোট দিন এবং দীর্ঘতম রাত। এই মহাজাগতিক ঘটনাটি শীতের আনুষ্ঠানিক সূচনা নির্দেশ করে।"
+      },
+      {
+        "topic": "Judiciary: Live-in Relationships Not Illegal, says Allahabad HC",
+        "english": "The Allahabad High Court has ruled that live-in relationships between consenting adults are not illegal. The court emphasized that such relationships are protected under the constitutional right to life and personal liberty.",
+        "hindi": "इलाहाबाद उच्च न्यायालय ने फैसला सुनाया है कि सहमति देने वाले वयस्कों के बीच लिव-इन रिलेशनशिप अवैध नहीं हैं। अदालत ने जोर देकर कहा कि ऐसे रिश्ते जीवन और व्यक्तिगत स्वतंत्रता के संवैधानिक अधिकार के तहत सुरक्षित हैं।",
+        "bengali": "এলাহাবাদ হাইকোর্ট রায় দিয়েছে যে সম্মতিপ্রাপ্ত প্রাপ্তবয়স্কদের মধ্যে লিভ-ইন সম্পর্ক অবৈধ নয়। আদালত জোর দিয়ে বলেছে যে এই ধরনের সম্পর্কগুলি জীবন ও ব্যক্তিগত স্বাধীনতার সাংবিধানিক অধিকারের অধীনে সুরক্ষিত।"
+      },
+      {
+        "topic": "Weather: Cold Wave Warning Issued for North India",
+        "english": "The India Meteorological Department (IMD) has issued cold wave warnings for several parts of North India. Dense fog and dropping temperatures are expected to affect daily life in the region over the coming days.",
+        "hindi": "भारत मौसम विज्ञान विभाग (IMD) ने उत्तर भारत के कई हिस्सों के लिए शीत लहर की चेतावनी जारी की है। आने वाले दिनों में घने कोहरे और गिरते तापमान से क्षेत्र में जनजीवन प्रभावित होने की उम्मीद है।",
+        "bengali": "ভারতের আবহাওয়া বিভাগ (আইএমডি) উত্তর ভারতের বেশ কয়েকটি অংশের জন্য শৈত্যপ্রবাহের সতর্কতা জারি করেছে। আগামী দিনে ঘন কুয়াশা এবং তাপমাত্রা হ্রাস অঞ্চলের জনজীবনকে প্রভাবিত করবে বলে আশা করা হচ্ছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-20",
+    "slug": "2025-12-20",
+    "date": "2025-12-20",
+    "current_affairs": [
+      {
+        "topic": "National: India Opens Nuclear Sector to Private Firms",
+        "english": "India's Parliament has approved significant policy reforms, officially opening the nuclear energy industry to private firms and allowing full foreign ownership of insurance companies. This move aims to accelerate clean energy production and attract global investment.",
+        "hindi": "भारत की संसद ने महत्वपूर्ण नीतिगत सुधारों को मंजूरी दी है, आधिकारिक तौर पर परमाणु ऊर्जा उद्योग को निजी कंपनियों के लिए खोल दिया है और बीमा कंपनियों के पूर्ण विदेशी स्वामित्व की अनुमति दी है। इस कदम का उद्देश्य स्वच्छ ऊर्जा उत्पादन में तेजी लाना और वैश्विक निवेश को आकर्षित करना है।",
+        "bengali": "ভারতের সংসদ গুরুত্বপূর্ণ নীতি সংস্কার অনুমোদন করেছে, আনুষ্ঠানিকভাবে পারমাণবিক শক্তি শিল্পকে বেসরকারি সংস্থাগুলির জন্য উন্মুক্ত করেছে এবং বিমা সংস্থাগুলির সম্পূর্ণ বিদেশি মালিকানার অনুমতি দিয়েছে। এই পদক্ষেপের লক্ষ্য স্বচ্ছ শক্তি উৎপাদন ত্বরান্বিত করা এবং বিশ্বব্যাপী বিনিয়োগ আকর্ষণ করা।"
+      },
+      {
+        "topic": "Infrastructure: PM Modi Inaugurates Nature-Themed Airport Terminal in Guwahati",
+        "english": "Prime Minister Narendra Modi inaugurated a new nature-themed terminal at Lokpriya Gopinath Bordoloi International Airport in Guwahati, Assam. The terminal is designed to enhance regional connectivity while showcasing the state's natural beauty and commitment to sustainability.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी ने असम के गुवाहाटी में लोकप्रिय गोपीनाथ बोरदोलोई अंतरराष्ट्रीय हवाई अड्डे पर एक नए प्रकृति-थीम वाले टर्मिनल का उद्घाटन किया। टर्मिनल को राज्य की प्राकृतिक सुंदरता और स्थिरता के प्रति प्रतिबद्धता को प्रदर्शित करते हुए क्षेत्रीय कनेक्टिविटी को बढ़ाने के लिए डिज़ाइन किया गया है।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদি আসামের গুয়াহাটির লোকপ্ৰিয় গোপীনাথ বর্দোলোই আন্তর্জাতিক বিমানবন্দরে একটি নতুন প্রকৃতি-থিমযুক্ত টার্মিনাল উদ্বোধন করেছেন। টার্মিনালটি রাজ্যের প্রাকৃতিক সৌন্দর্য এবং স্থায়িত্বের প্রতি প্রতিশ্রুতি প্রদর্শন করার সময় আঞ্চলিক সংযোগ বাড়ানোর জন্য ডিজাইন করা হয়েছে।"
+      },
+      {
+        "topic": "International: First Wheelchair User Travels to Space",
+        "english": "German aerospace engineer Michaela Benthaus made history by becoming the first wheelchair user to travel into space aboard a Blue Origin flight. This milestone highlights increasing inclusivity in space exploration.",
+        "hindi": "जर्मन एयरोस्पेस इंजीनियर माइकला बेंटहॉस ने ब्लू ओरिजिन फ्लाइट में अंतरिक्ष की यात्रा करने वाली पहली व्हीलचेयर उपयोगकर्ता बनकर इतिहास रच दिया। यह मील का पत्थर अंतरिक्ष अन्वेषण में बढ़ती समावेशिता को उजागर करता है।",
+        "bengali": "জার্মান অ্যারোস্পেস ইঞ্জিনিয়ার মাইকেলা বেন্থাউস ব্লু অরিজিন ফ্লাইটে মহাকাশে ভ্রমণকারী প্রথম হুইলচেয়ার ব্যবহারকারী হয়ে ইতিহাস সৃষ্টি করেছেন। এই মাইলফলকটি মহাকাশ অন্বেষণে ক্রমবর্ধমান অন্তর্ভুক্তিকে তুলে ধরে।"
+      },
+      {
+        "topic": "Judiciary: Supreme Court Rules CSR Includes Environmental Responsibility",
+        "english": "The Supreme Court of India has held that Corporate Social Responsibility (CSR) inherently includes environmental responsibility. The ruling mandates corporations to integrate sustainable practices and environmental protection into their CSR initiatives.",
+        "hindi": "भारत के सर्वोच्च न्यायालय ने कहा है कि कॉर्पोरेट सामाजिक जिम्मेदारी (CSR) में स्वाभाविक रूप से पर्यावरणीय जिम्मेदारी शामिल है। यह फैसला निगमों को अपनी सीएसआर पहलों में स्थायी प्रथाओं और पर्यावरण संरक्षण को एकीकृत करने का आदेश देता है।",
+        "bengali": "ভারতের সুপ্রিম কোর্ট রায় দিয়েছে যে কর্পোরেট সোশ্যাল রেসপন্সিবিলিটি (CSR)-র মধ্যে পরিবেশগত দায়িত্ব অন্তর্ভুক্ত রয়েছে। এই রায় কর্পোরেশনগুলিকে তাদের সিএসআর উদ্যোগে টেকসই অনুশীলন এবং পরিবেশ সুরক্ষা সংহত করার নির্দেশ দেয়।"
+      },
+      {
+        "topic": "Technology: Google Commits $8 Million to India's AI Ecosystem",
+        "english": "Google has announced an $8 million funding commitment to support India's artificial intelligence research ecosystem. The funds will focus on advancing AI capabilities, fostering innovation, and supporting academic research in the country.",
+        "hindi": "Google ने भारत के आर्टिफिशियल इंटेलिजेंस रिसर्च इकोसिस्टम का समर्थन करने के लिए $8 मिलियन की फंडिंग प्रतिबद्धता की घोषणा की है। यह फंड एआई क्षमताओं को आगे बढ़ाने, नवाचार को बढ़ावा देने और देश में अकादमिक अनुसंधान का समर्थन करने पर केंद्रित होगा।",
+        "bengali": "গুগল ভারতের কৃত্রিম বুদ্ধিমত্তা গবেষণা ইকোসিস্টেমকে সমর্থন করার জন্য $৮ মিলিয়ন অর্থায়নের প্রতিশ্রুতি ঘোষণা করেছে। এই তহবিল এআই সক্ষমতা বৃদ্ধি, উদ্ভাবন ও দেশে একাডেমিক গবেষণাকে সমর্থন করার দিকে মনোনিবেশ করবে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-19",
+    "slug": "2025-12-19",
+    "date": "2025-12-19",
+    "current_affairs": [
+      {
+        "topic": "International: PM Modi Conferred with Highest Civilian Honors of Ethiopia and Oman",
+        "english": "Prime Minister Narendra Modi was conferred with Ethiopia's highest civilian honor, the Great Honour Nishan of Ethiopia, and Oman's highest civilian award, the Order of Oman. These awards recognize his efforts in strengthening bilateral ties and global cooperation.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी को इथियोपिया के सर्वोच्च नागरिक सम्मान, 'ग्रेट ऑनर निशान ऑफ इथियोपिया' और ओमान के सर्वोच्च नागरिक पुरस्कार, 'ऑर्डर ऑफ ओमान' से सम्मानित किया गया। ये पुरस्कार द्विपक्षीय संबंधों और वैश्विक सहयोग को मजबूत करने में उनके प्रयासों को मान्यता देते हैं।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদিকে ইথিওপিয়ার সর্বোচ্চ বেসামরিক সম্মান, 'গ্রেট অনার নিশান অফ ইথিওপিয়া' এবং ওমানের সর্বোচ্চ বেসামরিক পুরস্কার, 'অর্ডার অফ ওমান'-এ ভূষিত করা হয়েছে। এই পুরস্কারগুলি দ্বিপাক্ষিক সম্পর্ক এবং বৈশ্বিক সহযোগিতা জোরদার করার ক্ষেত্রে তার প্রচেষ্টাকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Economy: India and Oman Sign Comprehensive Economic Partnership Agreement",
+        "english": "India and Oman officially signed a Comprehensive Economic Partnership Agreement (CEPA). The agreement is aimed at boosting trade in goods and services, investment, and facilitating greater mobility between the two nations.",
+        "hindi": "भारत और ओमान ने आधिकारिक तौर पर एक व्यापक आर्थिक भागीदारी समझौते (CEPA) पर हस्ताक्षर किए। इस समझौते का उद्देश्य वस्तुओं और सेवाओं में व्यापार, निवेश को बढ़ावा देना और दोनों देशों के बीच अधिक गतिशीलता की सुविधा प्रदान करना है।",
+        "bengali": "ভারত ও ওমান আনুষ্ঠানিকভাবে একটি ব্যাপক অর্থনৈতিক অংশীদারিত্ব চুক্তি (CEPA) স্বাক্ষর করেছে। এই চুক্তির লক্ষ্য পণ্য ও পরিষেবার বাণিজ্য, বিনিয়োগ বৃদ্ধি করা এবং দুই দেশের মধ্যে বৃহত্তর গতিশীলতার সুবিধা প্রদান করা।"
+      },
+      {
+        "topic": "National: Parliament Passes Nuclear Bill for Private Sector Entry",
+        "english": "The Lok Sabha has passed a landmark Nuclear Bill that allows private players to enter the nuclear energy sector. This legislative change is expected to enhance India's energy security and technological capabilities.",
+        "hindi": "लोकसभा ने एक ऐतिहासिक परमाणु विधेयक पारित किया है जो निजी खिलाड़ियों को परमाणु ऊर्जा क्षेत्र में प्रवेश करने की अनुमति देता है। इस विधायी बदलाव से भारत की ऊर्जा सुरक्षा और तकनीकी क्षमताओं को बढ़ाने की उम्मीद है।",
+        "bengali": "লোকসভা একটি যুগান্তকারী পারমাণবিক বিল পাস করেছে যা বেসরকারি সংস্থাগুলিকে পারমাণবিক শক্তি খাতে প্রবেশের অনুমতি দেয়। এই আইনি পরিবর্তন ভারতের শক্তি নিরাপত্তা এবং প্রযুক্তিগত সক্ষমতা বৃদ্ধি করবে বলে আশা করা হচ্ছে।"
+      },
+      {
+        "topic": "Defence: India Inducts Heavy Artillery into Kashmir Valley via Special Train",
+        "english": "The Indian Army achieved a significant logistical milestone by inducting tanks and heavy artillery guns into the Kashmir Valley using a special military train. This move strengthens the defense posture in the strategic region.",
+        "hindi": "भारतीय सेना ने एक विशेष सैन्य ट्रेन का उपयोग करके कश्मीर घाटी में टैंक और भारी तोपखाने की बंदूकों को शामिल करके एक महत्वपूर्ण रसद मील का पत्थर हासिल किया। यह कदम रणनीतिक क्षेत्र में रक्षा मुद्रा को मजबूत करता है।",
+        "bengali": "ভারতীয় সেনাবাহিনী একটি বিশেষ সামরিক ট্রেন ব্যবহার করে কাশ্মীর উপত্যকায় ট্যাঙ্ক এবং ভারী আর্টিলারি বন্দুক নিয়ে এসে একটি গুরুত্বপূর্ণ লজিস্টিক্যাল মাইলফলক অর্জন করেছে। এই পদক্ষেপ কৌশলগত অঞ্চলে প্রতিরক্ষা ব্যবস্থাকে শক্তিশালী করে।"
+      },
+      {
+        "topic": "National: Goa Liberation Day Celebrated",
+        "english": "India celebrated Goa Liberation Day on December 19, commemorating the liberation of Goa from Portuguese rule in 1961. The day honors the armed forces and freedom fighters who contributed to the state's independence.",
+        "hindi": "भारत ने 19 दिसंबर को गोवा मुक्ति दिवस मनाया, जो 1961 में पुर्तगाली शासन से गोवा की मुक्ति का स्मरण कराता है। यह दिन राज्य की स्वतंत्रता में योगदान देने वाले सशस्त्र बलों और स्वतंत्रता सेनानियों का सम्मान करता है।",
+        "bengali": "ভারত ১৯ ডিসেম্বর গোয়া মুক্তি দিবস উদযাপন করেছে, যা ১৯৬১ সালে পর্তুগিজ শাসন থেকে গোয়ার মুক্তিকে স্মরণ করে। এই দিনটি সশস্ত্র বাহিনী এবং স্বাধীনতা সংগ্রামীদের সম্মান জানায় যারা রাজ্যের স্বাধীনতায় অবদান রেখেছিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-18",
+    "slug": "2025-12-18",
+    "date": "2025-12-18",
+    "current_affairs": [
+      {
+        "topic": "National: Minorities Rights Day Observed",
+        "english": "India observed Minorities Rights Day on December 18 to promote the rights of minority communities and ensure their protection. The day emphasizes equality, non-discrimination, and the preservation of cultural identities.",
+        "hindi": "भारत ने अल्पसंख्यक समुदायों के अधिकारों को बढ़ावा देने और उनकी सुरक्षा सुनिश्चित करने के लिए 18 दिसंबर को अल्पसंख्यक अधिकार दिवस मनाया। यह दिन समानता, गैर-भेदभाव और सांस्कृतिक पहचान के संरक्षण पर जोर देता है।",
+        "bengali": "সংখ্যালঘু সম্প্রদায়ের অধিকার প্রচার এবং তাদের সুরক্ষা নিশ্চিত করতে ভারত ১৮ ডিসেম্বর সংখ্যালঘু অধিকার দিবস পালন করেছে। দিনটি সমতা, বৈষম্যহীনতা এবং সাংস্কৃতিক পরিচয় সংরক্ষণের ওপর জোর দেয়।"
+      },
+      {
+        "topic": "Defence: Joint Military Exercise 'DESERT CYCLONE-II' Begins",
+        "english": "The second edition of the joint military exercise 'DESERT CYCLONE-II' between the Indian Army and the UAE Land Forces commenced in Abu Dhabi. The exercise aims to enhance interoperability and share best practices in counter-terrorism operations.",
+        "hindi": "भारतीय सेना और संयुक्त अरब अमीरात लैंड फोर्सेज के बीच संयुक्त सैन्य अभ्यास 'डेजर्ट साइक्लोन-II' का दूसरा संस्करण अबू धाबी में शुरू हुआ। इस अभ्यास का उद्देश्य अंतःक्रियाशीलता को बढ़ाना और आतंकवाद विरोधी अभियानों में सर्वोत्तम प्रथाओं को साझा करना है।",
+        "bengali": "ভারতীয় সেনাবাহিনী এবং সংযুক্ত আরব আমিরাত ল্যান্ড ফোর্সের মধ্যে যৌথ সামরিক মহড়া 'ডেজার্ট সাইক্লোন-II'-এর দ্বিতীয় সংস্করণ আবুধাবিতে শুরু হয়েছে। এই মহড়ার লক্ষ্য আন্তঃকার্যক্ষমতা বৃদ্ধি করা এবং সন্ত্রাসবিরোধী অভিযানে সর্বোত্তম অনুশীলনগুলি ভাগ করা।"
+      },
+      {
+        "topic": "International: Brazil Hands Over BRICS Presidency to India for 2026",
+        "english": "Brazil has formally handed over the BRICS presidency to India for the year 2026. This leadership role will see India guiding the bloc's agenda on global economic cooperation and geopolitical issues.",
+        "hindi": "ब्राजील ने औपचारिक रूप से वर्ष 2026 के लिए ब्रिक्स की अध्यक्षता भारत को सौंप दी है। यह नेतृत्व भूमिका भारत को वैश्विक आर्थिक सहयोग और भू-राजनीतिक मुद्दों पर गुट के एजेंडे का मार्गदर्शन करते हुए देखेगी।",
+        "bengali": "ব্রাজিল আনুষ্ঠানিকভাবে ২০২৬ সালের জন্য ভারতের কাছে ব্রিকস প্রেসিডেন্সি হস্তান্তর করেছে। এই নেতৃত্বের ভূমিকায় ভারতকে বিশ্বব্যাপী অর্থনৈতিক সহযোগিতা এবং ভূ-রাজনৈতিক বিষয়ে ব্লকের এজেন্ডা পরিচালনা করতে দেখা যাবে।"
+      },
+      {
+        "topic": "Economy: India's Unemployment Rate Drops to 4.7%",
+        "english": "The Ministry of Statistics and Programme Implementation (MoSPI) reported that India's unemployment rate declined to 4.7% in November 2025. This positive trend indicates improvement in the labor market and economic recovery.",
+        "hindi": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) ने बताया कि नवंबर 2025 में भारत की बेरोजगारी दर घटकर 4.7% हो गई। यह सकारात्मक प्रवृत्ति श्रम बाजार और आर्थिक सुधार में सुधार का संकेत देती है।",
+        "bengali": "পরিসংখ্যান ও কর্মসূচি বাস্তবায়ন মন্ত্রক (MoSPI) জানিয়েছে যে নভেম্বর ২০২৫-এ ভারতের বেকারত্বের হার ৪.৭%-এ নেমে এসেছে। এই ইতিবাচক প্রবণতা শ্রম বাজার এবং অর্থনৈতিক পুনরুদ্ধারের উন্নতি নির্দেশ করে।"
+      },
+      {
+        "topic": "Infrastructure: NHAI Launches India's First 'Wildlife-Safe Road'",
+        "english": "The National Highways Authority of India (NHAI) launched India's first 'wildlife-safe road' on a ghat section of NH-45 in Madhya Pradesh. The project incorporates dedicated corridors for safe animal passage, balancing infrastructure development with conservation.",
+        "hindi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) ने मध्य प्रदेश में NH-45 के घाट खंड पर भारत की पहली 'वन्यजीव-सुरक्षित सड़क' शुरू की। इस परियोजना में सुरक्षित पशु मार्ग के लिए समर्पित गलियारे शामिल हैं, जो संरक्षण के साथ बुनियादी ढांचे के विकास को संतुलित करते हैं।",
+        "bengali": "ন্যাশনাল হাইওয়ে অথরিটি অফ ইন্ডিয়া (NHAI) মধ্যপ্রদেশের NH-45-এর একটি ঘাট সেকশনে ভারতের প্রথম 'বন্যপ্রাণী-নিরাপদ রাস্তা' চালু করেছে। প্রকল্পটি নিরাপদ পশু চলাচলের জন্য নিবেদিত করিডোর অন্তর্ভুক্ত করে, যা সংরক্ষণের সাথে অবকাঠামো উন্নয়নের ভারসাম্য বজায় রাখে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17",
+    "slug": "2025-12-17",
+    "date": "2025-12-17",
+    "current_affairs": [
+      {
+        "topic": "International: PM Modi Begins Three-Nation Tour in Jordan",
+        "english": "Prime Minister Narendra Modi commenced his three-nation tour with a historic visit to Jordan, focusing on strengthening bilateral ties, renewable energy, and IT cooperation. He was received by Crown Prince Al Hussein, marking a significant diplomatic gesture.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी ने जॉर्डन की ऐतिहासिक यात्रा के साथ अपने तीन देशों के दौरे की शुरुआत की, जो द्विपक्षीय संबंधों, नवीकरणीय ऊर्जा और आईटी सहयोग को मजबूत करने पर केंद्रित है। क्राउन प्रिंस अल हुसैन ने उनका स्वागत किया, जो एक महत्वपूर्ण राजनयिक संकेत है।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদি জর্ডানে ঐতিহাসিক সফরের মাধ্যমে তার তিন দেশের সফর শুরু করেছেন, যা দ্বিপাক্ষিক সম্পর্ক, নবায়নযোগ্য শক্তি এবং আইটি সহযোগিতা জোরদার করার উপর দৃষ্টি নিবদ্ধ করে। ক্রাউন প্রিন্স আল হোসেন তাকে স্বাগত জানান, যা একটি উল্লেখযোগ্য কূটনৈতিক নিদর্শন।"
+      },
+      {
+        "topic": "Technology: Microsoft Launches MahaCrimeOS AI for Maharashtra Police",
+        "english": "Microsoft CEO Satya Nadella announced the rollout of 'MahaCrimeOS AI', an advanced AI-driven crime investigation platform for the Maharashtra Police. This initiative makes Maharashtra the first state in India to deploy such a sophisticated digital policing tool.",
+        "hindi": "माइक्रोसॉफ्ट के सीईओ सत्य नडेला ने महाराष्ट्र पुलिस के लिए एक उन्नत एआई-संचालित अपराध जांच मंच 'महाक्राइमओएस एआई' के रोलआउट की घोषणा की। यह पहल महाराष्ट्र को ऐसे परिष्कृत डिजिटल पुलिसिंग उपकरण को तैनात करने वाला भारत का पहला राज्य बनाती है।",
+        "bengali": "মাইক্রোসফ্টের সিইও সত্য নাদেলা মহারাষ্ট্র পুলিশের জন্য একটি উন্নত এআই-চালিত অপরাধ তদন্ত প্ল্যাটফর্ম 'মহাক্রাইমওএস এআই' চালু করার ঘোষণা দিয়েছেন। এই উদ্যোগটি মহারাষ্ট্রকে ভারতের প্রথম রাজ্যে পরিণত করেছে যা এই ধরণের অত্যাধুনিক ডিজিটাল পুলিশিং সরঞ্জাম মোতায়েন করেছে।"
+      },
+      {
+        "topic": "Science: India Unveils Indigenous 'DHRUV64' Microprocessor",
+        "english": "India achieved a major tech milestone by unveiling 'DHRUV64', its first indigenous 64-bit dual-core microprocessor. This development significantly boosts India's self-reliance in the semiconductor ecosystem.",
+        "hindi": "भारत ने अपना पहला स्वदेशी 64-बिट डुअल-कोर माइक्रोप्रोसेसर 'ध्रुव64' (DHRUV64) और अनावरण करके एक प्रमुख तकनीकी मील का पत्थर हासिल किया। यह विकास सेमीकंडक्टर पारिस्थितिकी तंत्र में भारत की आत्मनिर्भरता को काफी बढ़ावा देता है।",
+        "bengali": "ভারত তার প্রথম স্বদেশী ৬৪-বিট ডুয়াল-কোর মাইক্রোপ্রসেসর 'ধ্রুব৬৪' (DHRUV64) উন্মোচন করে একটি বড় প্রযুক্তিগত মাইলফলক অর্জন করেছে। এই উন্নয়ন সেমিকন্ডাক্টর ইকোসিস্টেমে ভারতের আত্মনির্ভরতাকে উল্লেখযোগ্যভাবে বৃদ্ধি করে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-16",
+    "slug": "2025-12-16",
+    "date": "2025-12-16",
+    "current_affairs": [
+      {
+        "topic": "Defence: India Celebrates Vijay Diwas; President Inaugurates 'Param Vir Dirgha'",
+        "english": "On Vijay Diwas, commemorating India's 1971 war victory, President Droupadi Murmu inaugurated 'Param Vir Dirgha' at Rashtrapati Bhavan. The gallery showcases portraits of all 21 Param Vir Chakra awardees, honoring their supreme sacrifice.",
+        "hindi": "भारत की 1971 के युद्ध में जीत के उपलक्ष्य में विजय दिवस पर, राष्ट्रपति द्रौपदी मुर्मू ने राष्ट्रपति भवन में 'परम वीर दीर्घा' का उद्घाटन किया। यह गैलरी सभी 21 परम वीर चक्र पुरस्कार विजेताओं के चित्रों को प्रदर्शित करती है, जो उनके सर्वोच्च बलिदान का सम्मान करती है।",
+        "bengali": "১৯৭১ সালের যুদ্ধে ভারতের বিজয় স্মরণে বিজয় দিবসে, রাষ্ট্রপতি দ্রৌপদী মুর্মু রাষ্ট্রপতি ভবনে 'পরম বীর দীর্ঘা' উদ্বোধন করেন। গ্যালারিটি সমস্ত ২১ জন পরম বীর চক্র পুরস্কারপ্রাপ্তদের প্রতিকৃতি প্রদর্শন করে, তাদের সর্বোচ্চ আত্মত্যাগের প্রতি সম্মান জানায়।"
+      },
+      {
+        "topic": "Defence: Indian Navy Commissions DSC A20 at Kochi",
+        "english": "The Indian Navy strengthened its operational capabilities by commissioning the DSC A20 vessel at Kochi. This addition enhances the Navy's coastal security and surveillance framework.",
+        "hindi": "भारतीय नौसेना ने कोच्चि में DSC A20 पोत को कमीशन करके अपनी परिचालन क्षमताओं को मजबूत किया। यह अतिरिक्त नौसेना की तटीय सुरक्षा और निगरानी ढांचे को बढ़ाता है।",
+        "bengali": "ভারতীয় নৌবাহিনী কোচিতে DSC A20 জাহাজটি কমিশন করে তার অপারেশনাল ক্ষমতা শক্তিশালী করেছে। এই সংযোজন নৌবাহিনীর উপকূলীয় নিরাপত্তা এবং নজরদারি কাঠামো বৃদ্ধি করে।"
+      },
+      {
+        "topic": "Parliament: Winter Session Discusses Nuclear Power Reforms",
+        "english": "The ongoing Winter Session of Parliament focused on the newly tabled SHANTI Bill, aimed at reforming India's nuclear energy sector. The bill proposes identifying new collaborative avenues for private players in nuclear power generation.",
+        "hindi": "संसद के चल रहे शीतकालीन सत्र ने भारत के परमाणु ऊर्जा क्षेत्र में सुधार के उद्देश्य से नए पेश किए गए शांति (SHANTI) विधेयक पर ध्यान केंद्रित किया। विधेयक परमाणु ऊर्जा उत्पादन में निजी खिलाड़ियों के लिए नए सहयोगी रास्ते की पहचान करने का प्रस्ताव करता है।",
+        "bengali": "সংসদের চলমান শীতকালীন অধিবেশন ভারতের পারমাণবিক শক্তি খাত সংস্কারের লক্ষ্যে নতুন ভাবে উত্থাপিত শান্তি (SHANTI) বিলের উপর দৃষ্টি নিবদ্ধ করেছে। বিলটি পারমাণবিক বিদ্যুৎ উৎপাদনে ব্যক্তিগত খেলোয়াড়দের জন্য নতুন সহযোগিতামূলক পথ চিহ্নিত করার প্রস্তাব করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15",
+    "slug": "2025-12-15",
+    "date": "2025-12-15",
+    "current_affairs": [
+      {
+        "topic": "Economy: India's Trade Deficit Narrows Sharply in November",
+        "english": "India's trade deficit declined by over 61% in November 2025 to $6.6 billion, driven by robust merchandise exports and reduced imports of commodities like gold and oil, signaling a strengthening external trade position.",
+        "hindi": "नवंबर 2025 में भारत का व्यापार घाटा 61% से अधिक घटकर $6.6 बिलियन हो गया, जो मजबूत माल निर्यात और सोने और तेल जैसी वस्तुओं के कम आयात से प्रेरित है, जो एक मजबूत बाहरी व्यापार स्थिति का संकेत देता है।",
+        "bengali": "নভেম্বর ২০২৫-এ ভারতের বাণিজ্য ঘাটতি ৬১%-এর বেশি কমে $৬.৬ বিলিয়ন হয়েছে, যা শক্তিশালী পণ্য রফতানি এবং সোনা ও তেলের মতো পণ্যের আমদানি হ্রাসের দ্বারা চালিত হয়েছে, যা একটি শক্তিশালী বৈদেশিক বাণিজ্যের অবস্থানের ইঙ্গিত দেয়।"
+      },
+      {
+        "topic": "Environment: Delhi Air Quality Remains in 'Severe' Category",
+        "english": "Delhi continues to face a public health crisis as the Air Quality Index (AQI) remains in the 'Severe' category. Schools have shifted to hybrid modes, and transport services including flights and trains face significant delays due to smog.",
+        "hindi": "दिल्ली वायु गुणवत्ता सूचकांक (AQI) 'गंभीर' श्रेणी में बने रहने के कारण सार्वजनिक स्वास्थ्य संकट का सामना कर रही है। स्कूलों ने हाइब्रिड मोड में बदलाव किया है, और स्मॉग के कारण उड़ानों और ट्रेनों सहित परिवहन सेवाओं को महत्वपूर्ण देरी का सामना करना पड़ रहा है।",
+        "bengali": "এয়ার কোয়ালিটি ইনডেক্স (AQI) 'গুরুতর' বিভাগে থাকার কারণে দিল্লি জনস্বাস্থ্য সংকটের মুখোমুখি হচ্ছে। স্কুলগুলি হাইব্রিড মোডে স্থানান্তরিত হয়েছে, এবং ধোঁয়াশার কারণে ফ্লাইট এবং ট্রেন সহ পরিবহন পরিষেবাগুলি উল্লেখযোগ্য বিলম্বের সম্মুখীন হচ্ছে।"
+      },
+      {
+        "topic": "Legislation: SHANTI Bill Tabled for Nuclear Sector Reform",
+        "english": "The 'Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India' (SHANTI) Bill, 2025, was tabled in Parliament. It seeks to establish a modern legal framework for the nuclear sector, replacing archaic laws.",
+        "hindi": "'ट्रांसफॉर्मिंग इंडिया के लिए परमाणु ऊर्जा का सतत दोहन और उन्नति' (SHANTI) विधेयक, 2025, संसद में पेश किया गया। यह पुरातन कानूनों की जगह परमाणु क्षेत्र के लिए एक आधुनिक कानूनी ढांचा स्थापित करना चाहता है।",
+        "bengali": "'ট্রান্সফর্মিং ইন্ডিয়ার জন্য পারমাণবিক শক্তির টেকসই ব্যবহার এবং অগ্রগতি' (SHANTI) বিল, ২০২৫, সংসদে পেশ করা হয়েছে। এটি সেকেলে আইন প্রতিস্থাপন করে পারমাণবিক খাতের জন্য একটি আধুনিক আইনি কাঠামো প্রতিষ্ঠা করতে চায়।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14",
+    "slug": "2025-12-14",
+    "date": "2025-12-14",
+    "current_affairs": [
+      {
+        "topic": "Governance: Centre Launches National Cyber Safety Campaign",
+        "english": "The Government of India launched a nationwide Cyber Safety Awareness Campaign targeting students. The initiative emphasizes digital responsibility, protection against cyberbullying, and data privacy education in educational institutions.",
+        "hindi": "भारत सरकार ने छात्रों को लक्षित करते हुए एक राष्ट्रव्यापी साइबर सुरक्षा जागरूकता अभियान शुरू किया। यह पहल शैक्षणिक संस्थानों में डिजिटल जिम्मेदारी, साइबरबुलिंग से सुरक्षा और डेटा गोपनीयता शिक्षा पर जोर देती है।",
+        "bengali": "ভারত সরকার শিক্ষার্থীদের লক্ষ্য করে দেশব্যাপী সাইবার নিরাপত্তা সচেতনতা প্রচার শুরু করেছে। এই উদ্যোগ শিক্ষাপ্রতিষ্ঠানে ডিজিটাল দায়িত্ব, সাইবার বুলিং থেকে সুরক্ষা এবং ডেটা গোপনীয়তা শিক্ষার ওপর জোর দেয়।"
+      },
+      {
+        "topic": "Infrastructure: Vande Bharat Express Service Expanded in Northeast",
+        "english": "Indian Railways announced the expansion of Vande Bharat Express operations in Eastern and Northeastern states. The move aims to boost regional connectivity and reduce travel time significantly between key cities.",
+        "hindi": "भारतीय रेलवे ने पूर्वी और पूर्वोत्तर राज्यों में वंदे भारत एक्सप्रेस परिचालन के विस्तार की घोषणा की। इस कदम का उद्देश्य क्षेत्रीय संपर्क को बढ़ावा देना और प्रमुख शहरों के बीच यात्रा के समय को काफी कम करना है।",
+        "bengali": "ভারতীয় রেল পূর্ব ও উত্তর-পূর্ব রাজ্যগুলিতে বন্দে ভারত এক্সপ্রেস অপারেশন সম্প্রসারণের ঘোষণা দিয়েছে। এই পদক্ষেপের লক্ষ্য আঞ্চলিক সংযোগ বৃদ্ধি করা এবং মূল শহরগুলির মধ্যে ভ্রমণের সময় উল্লেখযোগ্যভাবে হ্রাস করা।"
+      },
+      {
+        "topic": "Weather: IMD Issues Cold Wave Alert for North India",
+        "english": "The India Meteorological Department (IMD) issued a cold wave alert for North and Central India, including Delhi, Rajasthan, and MP. Authorities have advised schools to take necessary precautions for students.",
+        "hindi": "भारत मौसम विज्ञान विभाग (IMD) ने दिल्ली, राजस्थान और एमपी सहित उत्तर और मध्य भारत के लिए शीत लहर का अलर्ट जारी किया। अधिकारियों ने स्कूलों को छात्रों के लिए आवश्यक सावधानी बरतने की सलाह दी है।",
+        "bengali": "ভারতের আবহাওয়া বিভাগ (IMD) দিল্লি, রাজস্থান এবং এমপি সহ উত্তর ও মধ্য ভারতের জন্য শৈত্যপ্রবাহের সতর্কতা জারি করেছে। কর্তৃপক্ষ স্কুলগুলিকে শিক্ষার্থীদের জন্য প্রয়োজনীয় সতর্কতা অবলম্বন করার পরামর্শ দিয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13",
+    "slug": "2025-12-13",
+    "date": "2025-12-13",
+    "current_affairs": [
+      {
+        "topic": "Policy: Union Cabinet Approves Historic Atomic Energy Bill (SHANTI)",
+        "english": "The Union Cabinet cleared the path for the Atomic Energy Bill, 2025 (SHANTI), which allows for private sector participation in nuclear technology. This is seen as a transformative step for India's energy security.",
+        "hindi": "केंद्रीय मंत्रिमंडल ने परमाणु ऊर्जा विधेयक, 2025 (SHANTI) का मार्ग साफ कर दिया, जो परमाणु प्रौद्योगिकी में निजी क्षेत्र की भागीदारी की अनुमति देता है। इसे भारत की ऊर्जा सुरक्षा के लिए एक परिवर्तनकारी कदम के रूप में देखा जा रहा है।",
+        "bengali": "কেন্দ্রীয় মন্ত্রিসভা পারমাণবিক শক্তি বিল, ২০২৫ (SHANTI)-এর পথ পরিষ্কার করেছে, যা পারমাণবিক প্রযুক্তিতে বেসরকারি খাতের অংশগ্রহণের অনুমতি দেয়। এটি ভারতের শক্তি সুরক্ষার জন্য একটি রূপান্তরমূলক পদক্ষেপ হিসাবে দেখা হচ্ছে।"
+      },
+      {
+        "topic": "Trade: India-Oman Free Trade Pact Approved",
+        "english": "Ahead of the Prime Minister's visit, the Cabinet approved the Comprehensive Economic Partnership Agreement (CEPA) with Oman. This pact is expected to significantly boost bilateral trade and investment between the two nations.",
+        "hindi": "प्रधानमंत्री की यात्रा से पहले, कैबिनेट ने ओमान के साथ व्यापक आर्थिक भागीदारी समझौते (CEPA) को मंजूरी दी। इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश को काफी बढ़ावा मिलने की उम्मीद है।",
+        "bengali": "প্রধানমন্ত্রীর সফরের আগে, মন্ত্রিসভা ওমানের সাথে ব্যাপক অর্থনৈতিক অংশীদারিত্ব চুক্তি (CEPA) অনুমোদন করেছে। এই চুক্তিটি দুই দেশের মধ্যে দ্বিপাক্ষিক বাণিজ্য এবং বিনিয়োগ উল্লেখযোগ্যভাবে বৃদ্ধি করবে বলে আশা করা হচ্ছে।"
+      },
+      {
+        "topic": "Scheme: MGNREGA Renamed to 'Poojya Bapu Grameen Rozgar Yojana'",
+        "english": "Boosting rural welfare, the government renamed the MNREGA scheme to 'Poojya Bapu Grameen Rozgar Yojana' and increased the guaranteed workdays from 100 to 125, aiming to provide greater economic security to rural households.",
+        "hindi": "ग्रामीण कल्याण को बढ़ावा देते हुए, सरकार ने मनरेगा (MNREGA) योजना का नाम बदलकर 'पूज्य बापू ग्रामीण रोजगार योजना' कर दिया और ग्रामीण परिवारों को अधिक आर्थिक सुरक्षा प्रदान करने के उद्देश्य से गारंटीकृत कार्यदिवसों को 100 से बढ़ाकर 125 कर दिया।",
+        "bengali": "গ্রামীণ কল্যাণ বৃদ্ধি করে, সরকার এমএনআরইজিএ (MNREGA) স্কিমের নাম পরিবর্তন করে 'পূজ্য বাপু গ্রামীণ রোজগার যোজনা' রেখেছে এবং গ্রামীণ পরিবারগুলিকে আরও বেশি অর্থনৈতিক নিরাপত্তা প্রদানের লক্ষ্যে নিশ্চিত কর্মদিবস ১০০ থেকে বাড়িয়ে ১২৫ করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12",
+    "slug": "2025-12-12",
+    "date": "2025-12-12",
+    "current_affairs": [
+      {
+        "topic": "Awards: Alia Bhatt Wins Golden Globe Horizon Award",
+        "english": "Actress Alia Bhatt was honored with the inaugural Golden Globe Horizon Award at the Red Sea International Film Festival, recognizing her global contribution to cinema.",
+        "hindi": "अभिनेत्री आलिया भट्ट को रेड सी इंटरनेशनल फिल्म फेस्टिवल में उद्घाटन गोल्डन ग्लोब होराइजन अवार्ड से सम्मानित किया गया, जो सिनेमा में उनके वैश्विक योगदान को मान्यता देता है।",
+        "bengali": "অভিনেত্রী আলিয়া ভাট রেড সি ইন্টারন্যাশনাল ফিল্ম ফেস্টিভ্যালে উদ্বোধনী গোল্ডেন গ্লোব হরাইজন অ্যাওয়ার্ডে সম্মানিত হয়েছেন, যা সিনেমায় তার বৈশ্বিক অবদানকে স্বীকৃতি দেয়।"
+      },
+      {
+        "topic": "Environment: Tamil Nadu Official Honored by UNEP",
+        "english": "Supriya Sahu, Additional Chief Secretary of Tamil Nadu, received the UNEP's 2025 Champions of the Earth Award for her pioneering work in environmental conservation and plastic ban implementation.",
+        "hindi": "तमिलनाडु की अतिरिक्त मुख्य सचिव सुप्रिया साहू को पर्यावरण संरक्षण और प्लास्टिक प्रतिबंध लागू करने में उनके अग्रणी कार्य के लिए UNEP का 2025 चैंपियंस ऑफ द अर्थ अवार्ड मिला।",
+        "bengali": "তামিলনাড়ুর অতিরিক্ত মুখ্য সচিব সুপ্রিয়া সাহু পরিবেশ সংরক্ষণ এবং প্লাস্টিক নিষেধাজ্ঞা বাস্তবায়নে তার অগ্রণী কাজের জন্য UNEP-এর ২০২৫ চ্যাম্পিয়নস অফ দ্য আর্থ পুরস্কার পেয়েছেন।"
+      },
+      {
+        "topic": "Technology: Global AI Conclave Announced for Chennai",
+        "english": "India announced it will host the Global AI Conclave 2025 in Chennai. The event aims to position India as a global leader in responsible AI development and deployment.",
+        "hindi": "भारत ने घोषणा की कि वह चेन्नई में ग्लोबल एआई कॉन्क्लेव 2025 की मेजबानी करेगा। इस आयोजन का उद्देश्य भारत को जिम्मेदार एआई विकास और तैनाती में एक वैश्विक नेता के रूप में स्थापित करना है।",
+        "bengali": "ভারত ঘোষণা করেছে যে তারা চেন্নাইতে গ্লোবাল এআই কনক্লেভ ২০২৫ আয়োজন করবে। এই ইভেন্টটির লক্ষ্য ভারত দায়িত্বশীল এআই উন্নয়ন এবং স্থাপনায় বিশ্বনেতা হিসাবে অবস্থান করা।"
+      }
+    ]
+  },
   {
     "id": "2025-12-11",
     "slug": "2025-12-11",
