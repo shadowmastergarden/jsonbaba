@@ -1,5 +1,79 @@
 [
   {
+    "id": "2025-12-25",
+    "slug": "2025-12-25",
+    "date": "2025-12-25",
+    "current_affairs": [
+      {
+        "topic": "National: Good Governance Day Celebrated",
+        "english": "India observed Good Governance Day on December 25, marking the 101st birth anniversary of former Prime Minister Atal Bihari Vajpayee, emphasizing transparent and citizen-centric governance across the nation.",
+        "hindi": "भारत ने 25 दिसंबर को पूर्व प्रधानमंत्री अटल बिहारी वाजपेयी की 101वीं जयंती के अवसर पर सुशासन दिवस मनाया, जिसमें पूरे देश में पारदर्शी और नागरिक केंद्रित शासन पर जोर दिया गया।",
+        "bengali": "ভারত ২৫ ডিসেম্বর প্রাক্তন প্রধানমন্ত্রী অটল বিহারী বাজপেয়ীর ১০১তম জন্মবার্ষিকী উপলক্ষে সুশাসন দিবস পালন করেছে, যেখানে সারা দেশে স্বচ্ছ এবং নাগরিক-কেন্দ্রিক শাসনের ওপর জোর দেওয়া হয়েছে।"
+      },
+      {
+        "topic": "Defence: Coast Guard Inducts 'Samudra Pratap' Vessel",
+        "english": "The Indian Coast Guard inducted 'Samudra Pratap', its first indigenously designed and built Pollution Control Vessel. This addition significantly boosts India's capability to protecting its marine environment from oil spills and other hazards.",
+        "hindi": "भारतीय तटरक्षक बल ने अपना पहला स्वदेशी रूप से डिजाइन और निर्मित प्रदूषण नियंत्रण पोत 'समुद्र प्रताप' शामिल किया। यह अतिरिक्त तेल रिसाव और अन्य खतरों से अपने समुद्री पर्यावरण की रक्षा करने की भारत की क्षमता को काफी बढ़ाता है।",
+        "bengali": "ভারতীয় উপকূলরক্ষী বাহিনী তার প্রথম স্বদেশীভাবে ডিজাইন করা এবং নির্মিত দূষণ নিয়ন্ত্রণকারী জাহাজ 'সমুদ্র প্রতাপ' অন্তর্ভুক্ত করেছে। এই সংযোজন তেল ছড়িয়ে পড়া এবং অন্যান্য বিপদ থেকে তার সামুদ্রিক পরিবেশ রক্ষা করার ভারতের ক্ষমতা উল্লেখযোগ্যভাবে বৃদ্ধি করে।"
+      },
+      {
+        "topic": "Sports: Ministry Launches Comprehensive Internship Policy",
+        "english": "The Ministry of Youth Affairs and Sports launched a new Comprehensive Internship Policy aimed at cultivating young talent in sports governance, science, and management, creating a robust pipeline of professionals for India's sporting ecosystem.",
+        "hindi": "युवा मामले और खेल मंत्रालय ने खेल प्रशासन, विज्ञान और प्रबंधन में युवा प्रतिभाओं को विकसित करने के उद्देश्य से एक नई व्यापक इंटर्नशिप नीति शुरू की, जो भारत के खेल पारिस्थितिकी तंत्र के लिए पेशेवरों की एक मजबूत पाइपलाइन तैयार करती है।",
+        "bengali": "যুব ও ক্রীড়া মন্ত্রণালয় ক্রীড়া শাসন, বিজ্ঞান এবং ব্যবস্থাপনায় তরুণ প্রতিভার বিকাশে একটি নতুন ব্যাপক ইন্টার্নশিপ নীতি চালু করেছে, যা ভারতের ক্রীড়া ইকোসিস্টেমের জন্য পেশাদারদের একটি শক্তিশালী পাইপলাইন তৈরি করবে।"
+      },
+      {
+        "topic": "Education: Vice President Highlights AI in Learning",
+        "english": "Vice President Jagdeep Dhankhar emphasized the critical role of Artificial Intelligence in revolutionizing education at the AI Evolution conclave, noting its potential to enable personalized learning experiences and streamline administrative tasks.",
+        "hindi": "उपराष्ट्रपति जगदीप धनखड़ ने एआई इवोल्यूशन कॉन्क्लेव में शिक्षा में क्रांति लाने में कृत्रिम बुद्धिमत्ता की महत्वपूर्ण भूमिका पर जोर दिया, जिसमें व्यक्तिगत सीखने के अनुभवों को सक्षम करने और प्रशासनिक कार्यों को सुव्यवस्थित करने की इसकी क्षमता को नोट किया गया।",
+        "bengali": "উপরাষ্ট্রপতি জগদীপ ধনখর এআই ইভোলিউশন কনক্লেভে শিক্ষায় বিপ্লব ঘটাতে কৃত্রিম বুদ্ধিমত্তার গুরুত্বপূর্ণ ভূমিকার ওপর জোর দিয়েছেন, ব্যক্তিগত শিক্ষার অভিজ্ঞতা সক্ষম করা এবং প্রশাসনিক কাজগুলি সহজতর করার সম্ভাব্যতার কথা উল্লেখ করেছেন।"
+      },
+      {
+        "topic": "International: India Announces $450 Million Aid to Sri Lanka",
+        "english": "Reaffirming its 'Neighbourhood First' policy, India announced a $450 million relief package to assist Sri Lanka's economic recovery and reconstruction efforts following recent natural calamities.",
+        "hindi": "अपनी 'पड़ोस प्रथम' नीति की पुष्टि करते हुए, भारत ने हालिया प्राकृतिक आपदाओं के बाद श्रीलंका के आर्थिक सुधार और पुनर्निर्माण प्रयासों में सहायता के लिए $450 मिलियन के राहत पैकेज की घोषणा की।",
+        "bengali": "তার 'প্রতিবেশী প্রথম' নীতি পুনঃনিশ্চিত করে, ভারত সাম্প্রতিক প্রাকৃতিক বিপর্যয়ের পর শ্রীলঙ্কার অর্থনৈতিক পুনরুদ্ধার এবং পুনর্গঠন প্রচেষ্টায় সহায়তা করার জন্য ৪৫০ মিলিয়ন ডলারের ত্রাণ প্যাকেজ ঘোষণা করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-24",
+    "slug": "2025-12-24",
+    "date": "2025-12-24",
+    "current_affairs": [
+      {
+        "topic": "National: National Consumer Day Focused on Digital Justice",
+        "english": "India celebrated National Consumer Day on December 24 with a focus on 'Digital Justice', highlighting the need for efficient and speedy grievance redressal mechanisms in the growing digital commerce landscape.",
+        "hindi": "भारत ने 24 दिसंबर को 'डिजिटल न्याय' पर ध्यान केंद्रित करते हुए राष्ट्रीय उपभोक्ता दिवस मनाया, जिसमें बढ़ते डिजिटल वाणिज्य परिदृश्य में कुशल और त्वरित शिकायत निवारण तंत्र की आवश्यकता पर प्रकाश डाला गया।",
+        "bengali": "ভারত ২৪ ডিসেম্বর 'ডিজিটাল ন্যায়বিচার'-এর ওপর গুরুত্ব দিয়ে জাতীয় ভোক্তা দিবস পালন করেছে, যা ক্রমবর্ধমান ডিজিটাল বাণিজ্য পরিদৃশ্যে দক্ষ এবং দ্রুত অভিযোগ নিষ্পত্তি ব্যবস্থার প্রয়োজনীয়তা তুলে ধরেছে।"
+      },
+      {
+        "topic": "Defence: DRDO Successfully Tests Akash-NG Missile",
+        "english": "The Defence Research and Development Organisation (DRDO) successfully conducted user evaluation trials of the Akash Next Generation (Akash-NG) surface-to-air missile, demonstrating its capability to intercept high-speed aerial threats with precision.",
+        "hindi": "रक्षा अनुसंधान और विकास संगठन (DRDO) ने आकाश नेक्स्ट जेनरेशन (Akash-NG) सतह से हवा में मार करने वाली मिसाइल का सफल उपयोगकर्ता मूल्यांकन परीक्षण किया, जिसमें सटीकता के साथ उच्च गति वाले हवाई खतरों को रोकने की क्षमता का प्रदर्शन किया गया।",
+        "bengali": "প্রতিরক্ষা গবেষণা ও উন্নয়ন সংস্থা (DRDO) আকাশ নেক্সট জেনারেশন (Akash-NG) সারফেস-টু-এয়ার মিসাইলের সফল ব্যবহারকারী মূল্যায়ন পরীক্ষা পরিচালনা করেছে, যা নির্ভুলতার সাথে উচ্চ-গতির আকাশী হুমকি প্রতিহত করার ক্ষমতা প্রদর্শন করেছে।"
+      },
+      {
+        "topic": "Infrastructure: PM to Inaugurate Rashtra Prerna Sthal",
+        "english": "Preparations are complete for Prime Minister Narendra Modi to inaugurate the 'Rashtra Prerna Sthal' in Lucknow, a grand memorial spanning 65 acres dedicated to the memory and ideals of Bharat Ratna Atal Bihari Vajpayee.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी द्वारा लखनऊ में 'राष्ट्र प्रेरणा स्थल' के उद्घाटन की तैयारियां पूरी हो गई हैं, जो भारत रत्न अटल बिहारी वाजपेयी की स्मृति और आदर्शों को समर्पित 65 एकड़ में फैला एक भव्य स्मारक है।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদির লখনউতে 'রাষ্ট্র প্রেরণা স্থল' উদ্বোধনের প্রস্তুতি সম্পন্ন হয়েছে, যা ভারতরত্ন অটল বিহারী বাজপেয়ীর স্মৃতি ও আদর্শের প্রতি নিবেদিত ৬৫ একর বিস্তৃত একটি বিশাল স্মৃতিসৌধ।"
+      },
+      {
+        "topic": "Education: NITI Aayog Releases Higher Education Strategy",
+        "english": "NITI Aayog released a strategic roadmap for the 'Internationalisation of Higher Education', aiming to transform India into a global education hub by 2047 by attracting foreign students and fostering research collaborations.",
+        "hindi": "नीति आयोग ने 'उच्च शिक्षा के अंतर्राष्ट्रीयकरण' के लिए एक रणनीतिक रोडमैप जारी किया, जिसका उद्देश्य विदेशी छात्रों को आकर्षित करके और अनुसंधान सहयोग को बढ़ावा देकर 2047 तक भारत को एक वैश्विक शिक्षा केंद्र में बदलना है।",
+        "bengali": "নীতি আয়োগ 'উচ্চ শিক্ষার আন্তর্জাতিকীকরণ'-এর জন্য একটি কৌশলগত রোডম্যাপ প্রকাশ করেছে, যার লক্ষ্য বিদেশি শিক্ষার্থীদের আকৃষ্ট করে এবং গবেষণা সহযোগিতা বৃদ্ধি করে ২০৪৭ সালের মধ্যে ভারতকে একটি বিশ্বব্যাপী শিক্ষা কেন্দ্রে রূপান্তর করা।"
+      },
+      {
+        "topic": "International: Egypt and UNCCD Discuss Climate Action",
+        "english": "Egypt's Foreign Minister held high-level talks with the UN Convention to Combat Desertification (UNCCD) to align national priorities with global climate goals, following UNCCD Executive Secretary Yasmine Fouad's Nobel Peace Prize recognition.",
+        "hindi": "मिस्र के विदेश मंत्री ने राष्ट्रीय प्राथमिकताओं को वैश्विक जलवायु लक्ष्यों के साथ संरेखित करने के लिए मरुस्थलीकरण का मुकाबला करने के लिए संयुक्त राष्ट्र कन्वेंशन (UNCCD) के साथ उच्च स्तरीय वार्ता आयोजित की।",
+        "bengali": "মিশরের পররাষ্ট্রমন্ত্রী জাতীয় অগ্রাধিকারগুলিকে বিশ্বব্যাপী জলবায়ু লক্ষ্যগুলির সাথে সামঞ্জস্য করতে মরুকরণ মোকাবিলার জন্য জাতিসংঘের কনভেনশন (UNCCD)-এর সাথে উচ্চ-পর্যায়ের আলোচনা করেছেন।"
+      }
+    ]
+  },
+  {
     "id": "2025-12-23",
     "slug": "2025-12-23",
     "date": "2025-12-23",

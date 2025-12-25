@@ -1,5 +1,148 @@
 [
   {
+    "id": "railway-rrb-group-d-online-form-2026",
+    "createdAt": "2025-12-25T13:30:00.000Z",
+    "updatedAt": "2025-12-25T13:30:00.000Z",
+    "title": "Railway RRB Group D Online Form 2026",
+    "description": "Railway Recruitment Board (RRB) ने Group D (Level-1) के 22,000 पदों पर बंपर भर्ती के लिए शॉर्ट नोटिस जारी किया है। 10वीं पास उम्मीदवारों के लिए रेलवे में सरकारी नौकरी पाने का यह सुनहरा अवसर है।",
+    "totalPosts": "22000",
+    "educationalQualifications": "Class 10th Pass OR ITI OR NAC from NCVT",
+    "ageLimit": "18-36 Years (as per RRB Rules)",
+    "applicationFee": "Gen/OBC: Rs. 500/- | SC/ST/Ex-SM/Female: Rs. 250/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "21/01/2026 (Tentative)",
+      "Last Date Apply Online": "20/02/2026 (Tentative)",
+      "Pay Exam Fee Last Date": "20/02/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://indianrailways.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "22000"
+    },
+    "customSections": [
+      {
+        "title": "Fee Refund Details",
+        "items": {
+          "Gen/OBC": "Rs. 400/- (After appearing in CBT)",
+          "SC/ST/Female": "Rs. 250/- (After appearing in CBT)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bihar-btsc-sports-trainer-recruitment-2025",
+    "createdAt": "2025-12-25T13:30:00.000Z",
+    "updatedAt": "2025-12-25T13:30:00.000Z",
+    "title": "Bihar BTSC Sports Trainer Recruitment 2025",
+    "description": "Bihar Technical Service Commission (BTSC) ने Sports Trainer के 48 पदों पर भर्ती के लिए ऑनलाइन आवेदन आमंत्रित किया है। खेल प्रशिक्षण में डिप्लोमा और उपलब्धियां रखने वाले उम्मीदवार आवेदन कर सकते हैं।",
+    "totalPosts": "48",
+    "educationalQualifications": "Bachelor Degree + Diploma in Sports Coaching + Sports Achievements",
+    "ageLimit": "18-37 Years (Male UR), 18-40 Years (Female UR/BC/EBC)",
+    "applicationFee": "All Candidates: Rs. 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "22/12/2025",
+      "Last Date Apply Online": "22/01/2026",
+      "Pay Exam Fee Last Date": "22/01/2026",
+      "Exam Date": "Notify Soon"
+    },
+    "importantLinks": {
+      "Apply Online": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
+      "Download Notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/Sports%20Trainer.pdf",
+      "Official Website": "https://btsc.bihar.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "48"
+    }
+  },
+  {
+    "id": "bank-of-india-apprentice-recruitment-2025",
+    "createdAt": "2025-12-25T13:30:00.000Z",
+    "updatedAt": "2025-12-25T13:30:00.000Z",
+    "title": "Bank of India Apprentice Recruitment 2025",
+    "description": "Bank of India (BOI) ने Apprentice के 400 पदों पर भर्ती के लिए अधिसूचना जारी की है। बैंकिंग क्षेत्र में करियर बनाने के इच्छुक ग्रेजुएट उम्मीदवारों के लिए यह एक अच्छा अवसर है।",
+    "totalPosts": "400",
+    "educationalQualifications": "Bachelor Degree in Any Stream from Recognized University",
+    "ageLimit": "20-28 Years (as on 01/12/2025)",
+    "applicationFee": "Gen/OBC/EWS: Rs. 800/- | SC/ST: Rs. 600/- | Female: Rs. 400/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "25/12/2025",
+      "Last Date Apply Online": "10/01/2026",
+      "Pay Exam Fee Last Date": "10/01/2026",
+      "Exam Date": "Notify Soon"
+    },
+    "importantLinks": {
+      "Apply Online": "https://bankofindia.co.in/",
+      "Official Website": "https://bankofindia.co.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "400"
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Fee Details",
+        "items": {
+          "Gen/OBC/EWS": "Rs. 800/-",
+          "SC/ST": "Rs. 600/-",
+          "All Female": "Rs. 400/-"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bihar-bseb-deled-online-form-2026-28",
+    "createdAt": "2025-12-25T13:30:00.000Z",
+    "updatedAt": "2025-12-25T13:30:00.000Z",
+    "title": "Bihar BSEB DELED Online Form 2026-28",
+    "description": "Bihar School Examination Board (BSEB) ने Diploma in Elementary Education (D.El.Ed) 2026-28 सत्र में नामांकन के लिए ऑनलाइन आवेदन आमंत्रित किया है। जो उम्मीदवार शिक्षक बनने का सपना देख रहे हैं, वे इस प्रवेश परीक्षा के लिए आवेदन कर सकते हैं।",
+    "totalPosts": "Admission",
+    "educationalQualifications": "10+2 (Intermediate) with 50% Marks (Gen/OBC) & 45% Marks (SC/ST)",
+    "ageLimit": "Minimum 17 Years (as on 01/01/2026)",
+    "applicationFee": "Gen/EBC/BC/EWS: Rs. 960/- | SC/ST/Divyang: Rs. 760/-",
+    "paymentMode": [
+      "Online Mode",
+      "Debit Card",
+      "Credit Card",
+      "Net Banking"
+    ],
+    "importantDates": {
+      "Application Start": "11/12/2025",
+      "Last Date Apply Online": "09/01/2026",
+      "Pay Exam Fee Last Date": "09/01/2026",
+      "Admit Card Available": "10/01/2026",
+      "Exam Date": "19/01/2026 to 18/02/2026",
+      "Answer Key Objection": "26/02/2026 to 01/03/2026",
+      "Result Declared": "March 2026"
+    },
+    "importantLinks": {
+      "Appl Online": "https://form.bsebdeled.com/login",
+      "Download Notification": "https://formapi.bsebdeled.com/files/others/deled-form-2026-vigyapti.pdf",
+      "Official Website": "http://biharboardonline.bihar.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Admission Course"
+    },
+    "customSections": [
+      {
+        "title": "Course Details",
+        "items": {
+          "Course Name": "Diploma in Elementary Education (D.El.Ed)",
+          "Duration": "2 Years",
+          "Session": "2026-2028"
+        }
+      }
+    ]
+  },
+  {
     "id": "uppsc-medical-officer-other-posts-recruitment-2025",
     "createdAt": "2025-12-23T11:45:00.000Z",
     "updatedAt": "2025-12-23T11:45:00.000Z",
