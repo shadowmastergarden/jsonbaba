@@ -1,22 +1,48 @@
 [
     {
-        "id": "railway-rrb-group-d-exam-city-admit-card-2025",
-        "createdAt": "2025-12-25T13:45:00.000Z",
-        "updatedAt": "2025-12-25T13:45:00.000Z",
-        "title": "Railway RRB Group D Exam City / Admit Card 2025",
-        "description": "Railway Recruitment Boards (RRB) ने Group D (Level-1) भर्ती परीक्षा के लिए Exam City और Admit Card जारी कर दिया है। उम्मीदवार अब अपनी परीक्षा तिथि और शहर की जानकारी चेक कर सकते हैं।",
+        "id": "rrb-ntpc-graduate-level-cbat-admit-card-2025",
+        "createdAt": "2025-12-27T08:35:00.000Z",
+        "updatedAt": "2025-12-27T08:35:00.000Z",
+        "title": "RRB NTPC Graduate Level CBAT Admit Card 2025",
+        "description": "Railway Recruitment Board (RRB) has released the Admit Card for the NTPC Graduate Level CBAT (Computer Based Aptitude Test) 2025 scheduled for 28 December 2025.",
         "importantDates": {
-            "Exam Date": "27/11/2025 to 16/01/2026",
-            "Revised Exam Date": "08-09 Jan & 02-10 Feb 2026",
-            "Exam City Available": "19/11/2025",
-            "Admit Card Available": "24/11/2025"
+            "Admit Card Available": "25/12/2025",
+            "CBAT Exam Date": "28/12/2025"
         },
         "importantLinks": {
-            "Download Admit Card (Link 1)": "https://rrb.digialm.com/EForms/configuredHtml/33015/96410/login.html",
-            "Download Admit Card (Link 2)": "https://rrb.digialm.com/EForms/loginAction.do?subAction=ViewLoginPage&formId=96410&orgId=33015",
-            "Check Exam City (Link 1)": "https://rrb.digialm.com/EForms/configuredHtml/33015/96410/login.html",
-            "Check Revised Exam Date": "https://rrbahmedabad.gov.in/wp-content/uploads/2025/12/Notice-regarding-revised-exam-schedule-of-CEN-08_2024-English.pdf",
+            "Download Admit Card": "https://ibpsreg.ibps.in/pnboct25/oecla_dec25/login.php?appid=d895fc056a5b47a5444ca97a9d50fd51",
             "Official Website": "https://indianrailways.gov.in/"
+        }
+    },
+    {
+        "id": "kvs-nvs-teaching-non-teaching-exam-city-details-2025",
+        "createdAt": "2025-12-27T08:35:00.000Z",
+        "updatedAt": "2025-12-27T08:35:00.000Z",
+        "title": "KVS NVS Teaching & Non-Teaching Exam City Details 2025",
+        "description": "Kendriya Vidyalaya Sangathan (KVS) and Navodaya Vidyalaya Samiti (NVS) have released the Exam City details for the Teaching and Non-Teaching Recruitment 2025. Candidates can check their allotted exam city now.",
+        "importantDates": {
+            "Exam City Available": "26/12/2025",
+            "Exam Date": "10-11/01/2026"
+        },
+        "importantLinks": {
+            "Check Exam City Details": "https://examinationservices.nic.in/AdmitCard/AuthForCity/Login?ApplicationId=102982511",
+            "Official Website KVS": "https://kvsangathan.nic.in/en/",
+            "Official Website NVS": "https://navodaya.gov.in/nvs/en/Recruitment/Notification-Vacancies/"
+        }
+    },
+    {
+        "id": "pnb-bank-lbo-admit-card-2025",
+        "createdAt": "2025-12-27T08:30:00.000Z",
+        "updatedAt": "2025-12-27T08:30:00.000Z",
+        "title": "PNB Bank LBO Admit Card 2025",
+        "description": "Punjab National Bank (PNB) has released the Admit Card for the Local Bank Officer (LBO) Examination 2025. Candidates can download their hall ticket for the exam scheduled on 04 January 2026.",
+        "importantDates": {
+            "Admit Card Available": "26/12/2025",
+            "Exam Date": "04/01/2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://ibpsreg.ibps.in/pnboct25/oecla_dec25/login.php?appid=d895fc056a5b47a5444ca97a9d50fd51",
+            "Official Website": "https://pnb.bank.in/Recruitments.aspx"
         }
     },
     {
