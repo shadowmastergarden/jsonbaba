@@ -1,5 +1,21 @@
 [
     {
+        "id": "bpsc-aedo-admit-card-date-2025-out",
+        "createdAt": "2025-12-28T08:30:00.000Z",
+        "updatedAt": "2025-12-28T08:30:00.000Z",
+        "title": "BPSC AEDO Admit Card Date 2025",
+        "description": "Bihar Public Service Commission (BPSC) has released the Admit Card Date notice for Assistant Elementary Education Officer (AEDO). The Admit Card download link will activate on 03 January 2026. Exam Date: 10-16 January 2026.",
+        "importantDates": {
+            "Admit Card Available": "03/01/2026",
+            "Exam Date": "10-16 January 2026",
+            "Re-Open Form Dates": "05/12/2025 to 12/12/2025"
+        },
+        "importantLinks": {
+            "Download Admit Card Date Notice": "http://sarkariresult.com.cm/wp-content/uploads/2025/12/604855478_122157089132682404_7139879270400975122_n.jpg",
+            "Official Website": "https://bpsc.bihar.gov.in/"
+        }
+    },
+    {
         "id": "rrb-ntpc-graduate-level-cbat-admit-card-2025",
         "createdAt": "2025-12-27T08:35:00.000Z",
         "updatedAt": "2025-12-27T08:35:00.000Z",
@@ -58,23 +74,6 @@
         "importantLinks": {
             "Download Admit Card": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
             "Official Website": "https://uppsc.up.nic.in/"
-        }
-    },
-    {
-        "id": "bpsc-aedo-exam-date-2025",
-        "createdAt": "2025-12-25T13:45:00.000Z",
-        "updatedAt": "2025-12-25T13:45:00.000Z",
-        "title": "BPSC AEDO Exam Date 2025",
-        "description": "Bihar Public Service Commission (BPSC) ने Assistant Elementary Education Officer (AEDO) भर्ती परीक्षा की तिथि घोषित कर दी है। परीक्षा 10 से 16 जनवरी 2026 तक आयोजित की जाएगी।",
-        "importantDates": {
-            "Exam Date": "10-16 January 2026",
-            "Re-Open Form Dates": "05/12/2025 to 12/12/2025",
-            "Admit Card Available": "Before Exam"
-        },
-        "importantLinks": {
-            "Check Exam Date Notice": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Examination-Program-872025-AEDO-Written-Objective_BPSC-20251223-nadyuv.pdf",
-            "Apply Online (Re-Open)": "https://bpsconline.bihar.gov.in/candidate/login",
-            "Official Website": "https://bpsc.bihar.gov.in/"
         }
     },
     {

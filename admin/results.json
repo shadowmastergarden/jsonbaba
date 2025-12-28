@@ -1,20 +1,5 @@
 [
   {
-    "id": "allahabad-high-court-hjs-pre-result-2025",
-    "createdAt": "2025-12-27T08:30:00.000Z",
-    "updatedAt": "2025-12-27T08:30:00.000Z",
-    "title": "Allahabad High Court HJS Pre Result 2025",
-    "description": "Allahabad High Court has declared the Pre Result for the Higher Judicial Services (HJS) Recruitment 2025. Candidates can check their roll numbers in the selected list PDF.",
-    "importantDates": {
-      "Result Declared": "18/12/2025",
-      "Exam Date": "20/07/2025"
-    },
-    "importantLinks": {
-      "Download Result": "https://www.allahabadhighcourt.in/event/event_24293_18-12-2025.pdf",
-      "Official Website": "https://www.allahabadhighcourt.in/"
-    }
-  },
-  {
     "id": "assam-rifles-technical-tradesman-result-2025",
     "createdAt": "2025-12-25T14:00:00.000Z",
     "updatedAt": "2025-12-25T14:00:00.000Z",
@@ -256,6 +241,21 @@
     "importantLinks": {
       "Check Result": "https://www.ibps.in/",
       "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "allahabad-high-court-hjs-pre-result-2025",
+    "createdAt": "2025-12-27T08:30:00.000Z",
+    "updatedAt": "2025-12-27T08:30:00.000Z",
+    "title": "Allahabad High Court HJS Pre Result 2025",
+    "description": "Allahabad High Court has declared the Pre Result for the Higher Judicial Services (HJS) Recruitment 2025. Candidates can check their roll numbers in the selected list PDF.",
+    "importantDates": {
+      "Result Declared": "18/12/2025",
+      "Exam Date": "20/07/2025"
+    },
+    "importantLinks": {
+      "Download Result": "https://www.allahabadhighcourt.in/event/event_24293_18-12-2025.pdf",
+      "Official Website": "https://www.allahabadhighcourt.in/"
     }
   },
   {
