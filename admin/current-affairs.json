@@ -1,5 +1,42 @@
 [
   {
+    "id": "2025-12-28",
+    "slug": "2025-12-28",
+    "date": "2025-12-28",
+    "current_affairs": [
+      {
+        "topic": "5th National Conference of Chief Secretaries",
+        "english": "PM Modi chaired the 5th National Conference of Chief Secretaries in New Delhi (Dec 26-28). The conference theme was 'Human Capital for Viksit Bharat'.",
+        "hindi": "पीएम मोदी ने नई दिल्ली में मुख्य सचिवों के 5वें राष्ट्रीय सम्मेलन (26-28 दिसंबर) की अध्यक्षता की। सम्मेलन का विषय 'विकसित भारत के लिए मानव पूंजी' था।",
+        "bengali": "প্রধানমন্ত্রী মোদী নয়াদিল্লিতে মুখ্য সচিবদের ৫ম জাতীয় সম্মেলনের (২৬-২৮ ডিসেম্বর) সভাপতিত্ব করেন। সম্মেলনের থিম ছিল 'বিকশিত ভারতের জন্য মানব পুঁজি'।"
+      },
+      {
+        "topic": "Atal Canteens Inaugurated in Delhi",
+        "english": "Delhi CM Rekha Gupta inaugurated 'Atal Canteens' across the capital. These canteens will provide nutritious meals to the public for just ₹5.",
+        "hindi": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने राजधानी भर में 'अटल कैंटीन' का उद्घाटन किया। ये कैंटीन जनता को मात्र ₹5 में पौष्टिक भोजन प्रदान करेंगी।",
+        "bengali": "দিল্লির মুখ্যমন্ত্রী রেখা গুপ্তা রাজধানী জুড়ে 'অটল ক্যান্টিন' উদ্বোধন করেছেন। এই ক্যান্টিনগুলো জনগণকে মাত্র ৫ টাকায় পুষ্টিকর খাবার সরবরাহ করবে।"
+      },
+      {
+        "topic": "Dhanu Yatra Festival Begins in Odisha",
+        "english": "The world's largest open-air theatre festival, 'Dhanu Yatra', began in Bargarh, Odisha. The festival transforms the town into the mythological city of Mathura.",
+        "hindi": "दुनिया का सबसे बड़ा ओपन-एयर थिएटर फेस्टिवल 'धनु यात्रा' ओडिशा के बरगढ़ में शुरू हुआ। यह उत्सव शहर को पौराणिक शहर मथुरा में बदल देता है।",
+        "bengali": "বিশ্বের বৃহত্তম ওপেন-এয়ার থিয়েটার উৎসব 'ধনু যাত্রা' ওড়িশার বারগড়ে শুরু হয়েছে। এই উৎসবটি শহরটিকে পৌরাণিক শহর মথুরায় রূপান্তরিত করেছে।"
+      },
+      {
+        "topic": "Vaibhav Suryavanshi Honoured",
+        "english": "14-year-old cricket prodigy Vaibhav Suryavanshi received the 'Pradhan Mantri Rashtriya Bal Puraskar' from President Draupadi Murmu for his sports achievements.",
+        "hindi": "14 वर्षीय क्रिकेट प्रतिभा वैभव सूर्यवंशी को उनकी खेल उपलब्धियों के लिए राष्ट्रपति द्रौपदी मुर्मू से 'प्रधानमंत्री राष्ट्रीय बाल पुरस्कार' मिला।",
+        "bengali": "১৪ বছর বয়সী ক্রিকেট প্রতিভার অধিকারী বৈভব সূর্যবংশী তার ক্রীড়া সাফল্যের জন্য রাষ্ট্রপতি দ্রৌপদী মুর্মুর কাছ থেকে 'প্রধানমন্ত্রী রাষ্ট্রীয় বাল পুরস্কার' পেয়েছেন।"
+      },
+      {
+        "topic": "Supreme Court on Aravalli Definition",
+        "english": "The Supreme Court has taken suo motu cognisance of the concerns regarding the redefinition of the Aravalli Hills and set up a special bench to examine it.",
+        "hindi": "सुप्रीम कोर्ट ने अरावली पहाड़ियों की पुनर्परिभाषा को लेकर चिंताओं पर स्वतः संज्ञान लिया है और इसकी जांच के लिए एक विशेष पीठ का गठन किया है।",
+        "bengali": "সুপ্রিম কোর্ট আরাবল্লী পাহাড়ের সংজ্ঞায়ন সংক্রান্ত উদ্বেগের বিষয়ে স্বতঃপ্রণোদিত পদক্ষেপ নিয়েছে এবং এটি পরীক্ষা করার জন্য একটি বিশেষ বেঞ্চ গঠন করেছে।"
+      }
+    ]
+  },
+  {
     "id": "2025-12-27",
     "slug": "2025-12-27",
     "date": "2025-12-27",
