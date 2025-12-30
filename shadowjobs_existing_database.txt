@@ -1,10 +1,11 @@
 # SHADOWJOBS.IN - EXISTING CONTENT DATABASE
-## Last Updated: 25 December 2025, 01:35 PM
+## Last Updated: 30 December 2025, 09:12 AM
 
 ===============================================================================
                          LATEST JOBS ON SHADOWJOBS.IN
 ===============================================================================
-1. Bihar BSEB DELED Online Form 2026-28
+1. UP Anganwadi Bharti Online Form 2025
+2. Bihar BSEB DELED Online Form 2026-28
 2. Bank of India Apprentice Online Form 2025
 3. Bihar BTSC Sports Trainer Online Form 2025
 4. Railway RRB Group D Online Form 2026
@@ -76,17 +77,23 @@
 ===============================================================================
                        ADMIT CARDS ON SHADOWJOBS.IN
 ===============================================================================
-Total Admit Cards: 50
+Total Admit Cards: 55
 
-1. Railway RRB Group D Exam City / Admit Card 2025
-2. UPPSC LT Grade Assistant Teacher Admit Card 2025
-3. BPSC AEDO Exam Date 2025
-4. UP Home Guard Exam Date 2025
-5. Railway RRB Group D Exam City / Admit Card 2025
-2. Railway RRB Group D Exam City / Admit Card 2025
-3. RRB NTPC Graduate Level CBAT Exam City Details 2025
-2. Rajasthan Board Class 10th/ 12th Time-Table 2026
-3. SSC CGL Tier - II Exam Date 2025
+1. CBSE Board Class 10th & 12th Exam Date Sheet 2026
+2. BIEAP Inter 1st & 2nd Year Time Table 2026
+3. RRB NTPC CBAT & TST Admit Card 2025
+4. PNB Bank LBO Admit Card 2025
+5. RRB Ministerial & Isolated Translation Test Admit Card
+6. BPSC AEDO Admit Card Date 2025
+2. RRB NTPC Graduate Level CBAT Admit Card 2025
+3. KVS NVS Teaching & Non-Teaching Exam City Details 2025
+4. PNB Bank LBO Admit Card 2025
+5. UPPSC LT Grade Assistant Teacher Admit Card 2025
+6. UP Home Guard Exam Date 2025
+7. Railway RRB Group D Exam City / Admit Card 2025
+8. RRB NTPC Graduate Level CBAT Exam City Details 2025
+9. Rajasthan Board Class 10th / 12th Time Table 2026
+10. SSC CGL Tier-II Exam Date 2025
 4. BSF HC RO / RM PET / PST Admit Card 2025
 5. Bihar Vidhan Parishad Driver, Office Attendant Admit Card 2025
 6. SSC Delhi Police Constable Exam City Details / Admit Card 2025
@@ -135,7 +142,9 @@ Total Admit Cards: 50
 ===============================================================================
 Total Answer Keys: 27
 
-1. DSSSB Various Post Answer Key 2025
+1. Bihar SHS Ophthalmic Assistant Answer Key 2025
+2. Bihar SHS ANM Answer Key 2025
+3. DSSSB Various Post Answer Key 2025
 2. SSC Jr Engineer Paper-I Answer Key 2025
 2. Bihar JEEVIKA Answer Key 2025
 3. MPESB Police Constable Answer Key 2025
@@ -166,16 +175,22 @@ Total Answer Keys: 27
 ===============================================================================
                          RESULTS ON SHADOWJOBS.IN
 ===============================================================================
-Total Results: 50
+Total Results: 55
 
-1. UKSSSC Group C Forester Result 2025
-2. Bihar BTSC SMO Final Result 2025
-3. Indian Coast Guard AC 01/2026 Batch Final Result
-4. Assam Rifles Technical / Tradesman Result 2025
-5. SSC CPO SI Paper-I Answer Key 2025
-6. IIM CAT Result / Score Card 2025
-7. RRB NTPC 10+2 Inter Level CBT-2 Answer Key 2025
-8. BPSC ASO Pre Result 2025
+1. IPPB GDS Executive Result 2025
+2. SSC Stenographer Grade C & D Result 2025
+3. RPSC Assistant Engineer (AEN) Pre Result 2025
+4. RRB Ministerial & Isolated Final Result 2025
+5. UPSC CDS I OTA Final Result 2025
+6. Assam Rifles Technical / Tradesman Result 2025
+2. SSC CPO SI Paper-I Answer Key 2025
+3. IIM CAT Result / Score Card 2025
+4. RRB NTPC 10+2 Inter Level CBT-2 Answer Key 2025
+5. BPSC ASO Pre Result 2025
+6. UKSSSC Group C Forester Result 2025
+7. Bihar BTSC SMO Final Result 2025
+8. Indian Coast Guard AC 01/2026 Batch Final Result
+
 9. UPSC CMS Final Result 2025
 10. UPSC EPFO Result 2025
 3. IOCL Junior Engineer/ Officer Result 2025
@@ -223,9 +238,14 @@ Total Results: 50
 ===============================================================================
                       CURRENT AFFAIRS ON SHADOWJOBS.IN
 ===============================================================================
-Total Days Tracked: 14 (Recently Added)
+Total Days Tracked: 19 (Recently Added)
 
-1. Current Affairs - 25 December 2025
+1. Current Affairs - 30 December 2025
+2. Current Affairs - 29 December 2025
+3. Current Affairs - 28 December 2025
+2. Current Affairs - 27 December 2025
+2. Current Affairs - 26 December 2025
+3. Current Affairs - 25 December 2025
 2. Current Affairs - 24 December 2025
 3. Current Affairs - 23 December 2025
 4. Current Affairs - 22 December 2025
@@ -238,14 +258,20 @@ Total Days Tracked: 14 (Recently Added)
 11. Current Affairs - 15 December 2025
 12. Current Affairs - 14 December 2025
 13. Current Affairs - 13 December 2025
-14. Current Affairs - 12 December 2025
+15. Current Affairs - 13 December 2025
+16. Current Affairs - 12 December 2025
 
 ===============================================================================
                         EXAM DATES ON SHADOWJOBS.IN
 ===============================================================================
 Total Exam Dates: 23
 
-1. RRB 368 Section Controller App. Status Notice
+1. OICL 500 Assistant Language Test Date Notice 2025
+2. RPSC Vacancy Tentative Exam Calendar 2026
+3. UPSSSC 1224 Stenographer Revised Exam Date 2024
+4. Delhi DDA Various Posts Stage-II Exam Date 2025
+5. DSSSB Various Post Exam Date 2026
+2. RRB 368 Section Controller App. Status Notice
 2. KVS & NVS Revised Vacancies Notice 2025
 3. AIIMS CRE Group B, C Posts Application Status
 4. BSHS 5006 ANM Vacancy Exam Date Notice
@@ -273,13 +299,13 @@ Total Exam Dates: 23
                             SUMMARY STATISTICS
 ===============================================================================
 Total Jobs:        65
-Total Admit Cards: 47
+Total Admit Cards: 55
 Total Answer Keys: 27
-Total Results:     42
+Total Results:     55
 Total Exam Dates:  23
-Total CA Days:     10
+Total CA Days:     19
 ------------------------------
-GRAND TOTAL:      214 items
+GRAND TOTAL:      244 items
 
 ===============================================================================
                               USAGE NOTES

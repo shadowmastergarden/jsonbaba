@@ -1,5 +1,75 @@
 [
   {
+    "id": "ippb-gds-executive-result-2025",
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "updatedAt": "2025-12-30T09:00:00.000Z",
+    "title": "IPPB GDS Executive Result 2025",
+    "description": "India Post Payments Bank (IPPB) has declared the result for Gramin Dak Sevak (GDS) Executive recruitment 2025. Selected candidates can check their names in the merit list.",
+    "importantDates": {
+      "Result Declared": "30/12/2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://www.ippbonline.com/",
+      "Official Website": "https://www.ippbonline.com/"
+    }
+  },
+  {
+    "id": "ssc-stenographer-grade-c-d-result-2025",
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "updatedAt": "2025-12-30T09:00:00.000Z",
+    "title": "SSC Stenographer Grade C & D Result 2025",
+    "description": "Staff Selection Commission (SSC) has released the result for Stenographer Grade C & D Examination 2025. Candidates can check their qualifying status and marks.",
+    "importantDates": {
+      "Result Declared": "30/12/2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://ssc.gov.in/",
+      "Official Website": "https://ssc.gov.in/"
+    }
+  },
+  {
+    "id": "rpsc-assistant-engineer-pre-result-2025",
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "updatedAt": "2025-12-30T09:00:00.000Z",
+    "title": "RPSC Assistant Engineer (AEN) Pre Result 2025",
+    "description": "Rajasthan Public Service Commission (RPSC) has declared the Preliminary Exam Result for Assistant Engineer (AEN) Combined Competitive Exam 2025.",
+    "importantDates": {
+      "Result Declared": "30/12/2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://rpsc.rajasthan.gov.in/",
+      "Official Website": "https://rpsc.rajasthan.gov.in/"
+    }
+  },
+  {
+    "id": "rrb-ministerial-isolated-final-result-2025",
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "updatedAt": "2025-12-30T09:00:00.000Z",
+    "title": "RRB Ministerial & Isolated Final Result 2025",
+    "description": "Railway Recruitment Board (RRB) has released the Final Result for Ministerial and Isolated Categories Recruitment 2025.",
+    "importantDates": {
+      "Result Declared": "30/12/2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://indianrailways.gov.in/",
+      "Official Website": "https://indianrailways.gov.in/"
+    }
+  },
+  {
+    "id": "upsc-cds-i-ota-final-result-2025",
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "updatedAt": "2025-12-30T09:00:00.000Z",
+    "title": "UPSC CDS I OTA Final Result 2025",
+    "description": "Union Public Service Commission (UPSC) has declared the Final Result for Combined Defence Services (CDS) Examination (I), 2025 for OTA Course.",
+    "importantDates": {
+      "Result Declared": "30/12/2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://upsc.gov.in/",
+      "Official Website": "https://upsc.gov.in/"
+    }
+  },
+  {
     "id": "assam-rifles-technical-tradesman-result-2025",
     "createdAt": "2025-12-25T14:00:00.000Z",
     "updatedAt": "2025-12-25T14:00:00.000Z",
