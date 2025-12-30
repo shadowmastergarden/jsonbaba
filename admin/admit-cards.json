@@ -1,5 +1,83 @@
 [
     {
+        "id": "cbse-board-class-10-12-date-sheet-2026",
+        "createdAt": "2025-12-30T09:00:00.000Z",
+        "updatedAt": "2025-12-30T09:00:00.000Z",
+        "title": "CBSE Board Class 10th & 12th Exam Date Sheet 2026",
+        "description": "Central Board of Secondary Education (CBSE) has released the official Date Sheet for Class 10th and 12th Board Exams 2026. The exams are scheduled to begin from February 15, 2026.",
+        "importantDates": {
+            "Date Sheet Released": "30/12/2025",
+            "Class 10 Exam Start": "15/02/2026",
+            "Class 12 Exam Start": "15/02/2026"
+        },
+        "importantLinks": {
+            "Download Class 10 Date Sheet": "https://www.cbse.gov.in/",
+            "Download Class 12 Date Sheet": "https://www.cbse.gov.in/",
+            "Official Website": "https://www.cbse.gov.in/"
+        }
+    },
+    {
+        "id": "bieap-inter-1st-2nd-year-time-table-2026",
+        "createdAt": "2025-12-30T09:00:00.000Z",
+        "updatedAt": "2025-12-30T09:00:00.000Z",
+        "title": "BIEAP Inter 1st & 2nd Year Time Table 2026",
+        "description": "Board of Intermediate Education, Andhra Pradesh (BIEAP) has released the Time Table for Intermediate 1st and 2nd Year Public Examinations March 2026.",
+        "importantDates": {
+            "Time Table Released": "30/12/2025",
+            "1st Year Exam Start": "March 2026",
+            "2nd Year Exam Start": "March 2026"
+        },
+        "importantLinks": {
+            "Download Time Table": "https://bieap.apcfss.in/",
+            "Official Website": "https://bieap.apcfss.in/"
+        }
+    },
+    {
+        "id": "rrb-ntpc-cbat-tst-admit-card-2025",
+        "createdAt": "2025-12-30T09:00:00.000Z",
+        "updatedAt": "2025-12-30T09:00:00.000Z",
+        "title": "RRB NTPC CBAT & TST Admit Card 2025",
+        "description": "Railway Recruitment Board (RRB) has released the Admit Card for NTPC Computer Based Aptitude Test (CBAT) and Typing Skill Test (TST). Candidates can download their hall tickets now.",
+        "importantDates": {
+            "Admit Card Available": "30/12/2025",
+            "Exam Date": "January 2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://indianrailways.gov.in/",
+            "Official Website": "https://indianrailways.gov.in/"
+        }
+    },
+    {
+        "id": "pnb-bank-lbo-admit-card-2025-new",
+        "createdAt": "2025-12-30T09:00:00.000Z",
+        "updatedAt": "2025-12-30T09:00:00.000Z",
+        "title": "PNB Bank LBO Admit Card 2025",
+        "description": "Punjab National Bank (PNB) has released the Admit Card for the Local Bank Officer (LBO) recruitment examination.",
+        "importantDates": {
+            "Admit Card Available": "30/12/2025",
+            "Exam Date": "January 2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://pnb.bank.in/",
+            "Official Website": "https://pnb.bank.in/"
+        }
+    },
+    {
+        "id": "rrb-ministerial-isolated-translation-test-admit-card",
+        "createdAt": "2025-12-30T09:00:00.000Z",
+        "updatedAt": "2025-12-30T09:00:00.000Z",
+        "title": "RRB Ministerial & Isolated Translation Test Admit Card",
+        "description": "Railway Recruitment Board (RRB) has released the Admit Card for the Translation Test of Ministerial & Isolated Categories. Candidates can download it from their respective regional RRB websites.",
+        "importantDates": {
+            "Admit Card Available": "30/12/2025",
+            "Test Date": "January 2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://indianrailways.gov.in/",
+            "Official Website": "https://indianrailways.gov.in/"
+        }
+    },
+    {
         "id": "bpsc-aedo-admit-card-date-2025-out",
         "createdAt": "2025-12-28T08:30:00.000Z",
         "updatedAt": "2025-12-28T08:30:00.000Z",
@@ -11,7 +89,6 @@
             "Re-Open Form Dates": "05/12/2025 to 12/12/2025"
         },
         "importantLinks": {
-            "Download Admit Card Date Notice": "http://sarkariresult.com.cm/wp-content/uploads/2025/12/604855478_122157089132682404_7139879270400975122_n.jpg",
             "Official Website": "https://bpsc.bihar.gov.in/"
         }
     },
