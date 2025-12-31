@@ -1,9 +1,11 @@
 # SHADOWJOBS.IN - EXISTING CONTENT DATABASE
-## Last Updated: 30 December 2025, 09:12 AM
+## Last Updated: 31 december 2025, 08:00 PM
 
 ===============================================================================
                          LATEST JOBS ON SHADOWJOBS.IN
 ===============================================================================
+1. UP Police Constable Recruitment 2026
+2. UKPSC Lecturer Recruitment 2026
 1. UP Anganwadi Bharti Online Form 2025
 2. Bihar BSEB DELED Online Form 2026-28
 2. Bank of India Apprentice Online Form 2025
@@ -77,8 +79,10 @@
 ===============================================================================
                        ADMIT CARDS ON SHADOWJOBS.IN
 ===============================================================================
-Total Admit Cards: 55
+Total Admit Cards: 57
 
+1. OICL Assistant RLT Exam Date 2025
+2. Bihar Police BPSSC SI Pre Admit Card 2025
 1. CBSE Board Class 10th & 12th Exam Date Sheet 2026
 2. BIEAP Inter 1st & 2nd Year Time Table 2026
 3. RRB NTPC CBAT & TST Admit Card 2025
@@ -140,8 +144,10 @@ Total Admit Cards: 55
 ===============================================================================
                        ANSWER KEYS ON SHADOWJOBS.IN
 ===============================================================================
-Total Answer Keys: 27
+Total Answer Keys: 29
 
+1. SSC Delhi Police Driver Answer Key 2025
+2. NTA CSIR UGC NET December Answer Key 2025
 1. Bihar SHS Ophthalmic Assistant Answer Key 2025
 2. Bihar SHS ANM Answer Key 2025
 3. DSSSB Various Post Answer Key 2025
@@ -175,8 +181,13 @@ Total Answer Keys: 27
 ===============================================================================
                          RESULTS ON SHADOWJOBS.IN
 ===============================================================================
-Total Results: 55
+Total Results: 60
 
+1. IBPS RRB 13th Reserve List 2025
+2. IBPS PO 14 Reserve List 2025
+3. IBPS SO 14 Reserve List 2025
+1. IBPS Clerk 14 Reserve List 2025
+2. RSSB Patwari Final Result 2025
 1. IPPB GDS Executive Result 2025
 2. SSC Stenographer Grade C & D Result 2025
 3. RPSC Assistant Engineer (AEN) Pre Result 2025
@@ -238,10 +249,11 @@ Total Results: 55
 ===============================================================================
                       CURRENT AFFAIRS ON SHADOWJOBS.IN
 ===============================================================================
-Total Days Tracked: 19 (Recently Added)
+Total Days Tracked: 20 (Recently Added)
 
-1. Current Affairs - 30 December 2025
-2. Current Affairs - 29 December 2025
+1. Current Affairs - 31 December 2025
+2. Current Affairs - 30 December 2025
+3. Current Affairs - 29 December 2025
 3. Current Affairs - 28 December 2025
 2. Current Affairs - 27 December 2025
 2. Current Affairs - 26 December 2025
@@ -298,14 +310,14 @@ Total Exam Dates: 23
 ===============================================================================
                             SUMMARY STATISTICS
 ===============================================================================
-Total Jobs:        65
-Total Admit Cards: 55
-Total Answer Keys: 27
-Total Results:     55
+Total Jobs:        67
+Total Admit Cards: 57
+Total Answer Keys: 29
+Total Results:     60
 Total Exam Dates:  23
-Total CA Days:     19
+Total CA Days:     20
 ------------------------------
-GRAND TOTAL:      244 items
+GRAND TOTAL:      256 items
 
 ===============================================================================
                               USAGE NOTES

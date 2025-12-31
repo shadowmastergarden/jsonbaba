@@ -1,5 +1,79 @@
 [
   {
+    "id": "2025-12-31",
+    "slug": "2025-12-31",
+    "date": "2025-12-31",
+    "current_affairs": [
+      {
+        "topic": "Economy: India Becomes 4th Largest Economy",
+        "english": "India has officially become the world's fourth-largest economy with a GDP of approximately $4.18 trillion, surpassing Japan. The growth is driven by strong domestic demand and a resilient services sector.",
+        "hindi": "भारत आधिकारिक तौर पर $4.18 ट्रिलियन की जीडीपी के साथ जापान को पछाड़कर दुनिया की चौथी सबसे बड़ी अर्थव्यवस्था बन गया है। यह वृद्धि मजबूत घरेलू मांग और लचीले सेवा क्षेत्र द्वारा संचालित है।",
+        "bengali": "ভারত আনুষ্ঠানিকভাবে ৪.১৮ ট্রিলিয়ন ডলারের জিডিপি নিয়ে জাপানকে ছাড়িয়ে বিশ্বের চতুর্থ বৃহত্তম অর্থনীতিতে পরিণত হয়েছে। এই বৃদ্ধি শক্তিশালী অভ্যন্তরীণ চাহিদা এবং একটি স্থিতিস্থাপক পরিষেবা খাত দ্বারা চালিত।"
+      },
+      {
+        "topic": "Policy: Gujarat Approves First AI Research Organization",
+        "english": "The Gujarat government has granted approval for the Indian Artificial Intelligence Research Organization (IAIRO) at GIFT City, making it the first state to host a specialized AI research body.",
+        "hindi": "गुजरात सरकार ने गिफ्ट सिटी में 'इंडियन आर्टिफिशियल इंटेलिजेंस रिसर्च ऑर्गनाइजेशन' (IAIRO) की स्थापना को मंजूरी दी है, जिससे यह विशेष एआई अनुसंधान निकाय की मेजबानी करने वाला पहला राज्य बन गया है।",
+        "bengali": "গুজরাট সরকার গিফট সিটিতে 'ইন্ডিয়ান আর্টিফিশিয়াল ইন্টেলিজেন্স রিসার্চ অর্গানাইজেশন' (IAIRO)-এর অনুমোদন দিয়েছে, যা এটিকে একটি বিশেষ এআই গবেষণা সংস্থার আয়োজক প্রথম রাজ্যে পরিণত করেছে।"
+      },
+      {
+        "topic": "Telecom: National Frequency Allocation Plan 2025 Launched",
+        "english": "India's National Frequency Allocation Plan 2025 (NFAP 2025) has come into effect, establishing a legal framework for 6G services and managing spectrum allocation across sectors.",
+        "hindi": "भारत की राष्ट्रीय आवृत्ति आवंटन योजना 2025 (NFAP 2025) लागू हो गई है, जो 6G सेवाओं के लिए कानूनी ढांचा स्थापित करती है और विभिन्न क्षेत्रों में स्पेक्ट्रम आवंटन का प्रबंधन करती है।",
+        "bengali": "ভারতের জাতীয় ফ্রিকোয়েন্সি বরাদ্দ পরিকল্পনা ২০২৫ (NFAP 2025) কার্যকর হয়েছে, যা ৬জি পরিষেবাগুলির জন্য আইনি কাঠামো তৈরি করছে এবং বিভিন্ন খাতে স্পেকট্রাম বরাদ্দ পরিচালনা করছে।"
+      },
+      {
+        "topic": "Defense: DRDO Successfully Tests Pinaka Rocket",
+        "english": "The DRDO successfully conducted the maiden flight test of the 120-km range Pinaka Long Range Guided Rocket (LRGR 120) in Odisha, boosting India's indigenous defense capabilities.",
+        "hindi": "DRDO ने ओडिशा में 120 किमी रेंज वाले पिनाका लॉन्ग रेंज गाइडेड रॉकेट (LRGR 120) का सफल प्रथम उड़ान परीक्षण किया, जिससे भारत की स्वदेशी रक्षा क्षमताओं को बढ़ावा मिला।",
+        "bengali": "ডিআরডিও ওড়িশায় ১২০-কিমি রেঞ্জের পিনাকা লং রেঞ্জ গাইডেড রকেটের (LRGR 120) সফল প্রথম উড়ান পরীক্ষা পরিচালনা করেছে, যা ভারতের দেশীয় প্রতিরক্ষা সক্ষমতা বৃদ্ধি করেছে।"
+      },
+      {
+        "topic": "Environment: Delhi Air Quality Remains Severe",
+        "english": "Delhi's air quality is expected to remain in the 'severe' category on New Year's Eve, prompting health warnings and potential restrictions on celebrations.",
+        "hindi": "नए साल की पूर्व संध्या पर दिल्ली की वायु गुणवत्ता 'गंभीर' श्रेणी में रहने की उम्मीद है, जिसके कारण स्वास्थ्य चेतावनी जारी की गई है और समारोहों पर संभावित प्रतिबंध लगाए गए हैं।",
+        "bengali": "নতুন বছরের প্রাক্কালে দিল্লির বায়ুর গুণমান 'গুরুতর' বিভাগে থাকবে বলে আশা করা হচ্ছে, যার ফলে স্বাস্থ্য সতর্কতা জারি করা হয়েছে এবং উদযাপনে সম্ভাব্য বিধিনিষেধ আরোপ করা হয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-30",
+    "slug": "2025-12-30",
+    "date": "2025-12-30",
+    "current_affairs": [
+      {
+        "topic": "Defense: DAC Approves ₹79,000 Crore Procurement",
+        "english": "The Defence Acquisition Council (DAC) approved capital acquisition proposals worth ₹79,000 crore to strengthen the Armed Forces, focusing on indigenous manufacturing and modernization.",
+        "hindi": "रक्षा अधिग्रहण परिषद (DAC) ने सशस्त्र बलों को मजबूत करने के लिए ₹79,000 करोड़ के पूंजी अधिग्रहण प्रस्तावों को मंजूरी दी, जिसमें स्वदेशी निर्माण और आधुनिकीकरण पर ध्यान केंद्रित किया गया है।",
+        "bengali": "প্রতিরক্ষা অধিগ্রহণ কাউন্সিল (DAC) সশস্ত্র বাহিনীকে শক্তিশালী করার জন্য ₹৭৯,০০০ কোটি টাকার মূলধন অধিগ্রহণ প্রস্তাব অনুমোদন করেছে, যা দেশীয় উত্পাদন এবং আধুনিকীকরণের ওপর গুরুত্ব দেয়।"
+      },
+      {
+        "topic": "Infrastructure: India Clears Dulhasti Stage-II Hydro Project",
+        "english": "India has cleared the 260-MW Dulhasti Stage-II hydropower project on the Chenab River in Jammu & Kashmir to boost energy generation, despite objections raised by Pakistan.",
+        "hindi": "भारत ने ऊर्जा उत्पादन को बढ़ावा देने के लिए जम्मू-कश्मीर में चिनाब नदी पर 260 मेगावाट की दुल्हस्ती चरण-II जलविद्युत परियोजना को मंजूरी दे दी है, जिस पर पाकिस्तान ने आपत्ति जताई थी।",
+        "bengali": "পাকিস্তান আপত্তি তোল সত্ত্বেও, ভারত শক্তি উৎপাদন বাড়ানোর জন্য জম্মু ও কাশ্মীরের চেনাব নদীতে ২৬০ মেগাওয়াট দুলহস্তি স্টেজ-২ জলবিদ্যুৎ প্রকল্প অনুমোদন করেছে।"
+      },
+      {
+        "topic": "Environment: Total Ban on Mining in Aravalli Range",
+        "english": "To protect the fragile ecosystem, the Ministry of Environment has announced a complete ban on granting new mining leases across the entire Aravalli Range.",
+        "hindi": "नाजुक पारिस्थितिकी तंत्र की रक्षा के लिए, पर्यावरण मंत्रालय ने पूरी अरावली रेंज में नए खनन पट्टे देने पर पूर्ण प्रतिबंध की घोषणा की है।",
+        "bengali": "ভঙ্গুর বাস্তুতন্ত্র রক্ষার জন্য, পরিবেশ মন্ত্রক সমগ্র আরাবল্লী রেঞ্জ জুড়ে নতুন খনির ইজারা দেওয়ার ওপর সম্পূর্ণ নিষেধাজ্ঞা ঘোষণা করেছে।"
+      },
+      {
+        "topic": "Health: Concerns Over Fake Rabies Vaccines",
+        "english": "Health authorities have issued warnings following reports of fake rabies vaccines in India, prompting international advisories for travelers to verify their vaccination status.",
+        "hindi": "भारत में नकली रेबीज टीकों की रिपोर्टों के बाद स्वास्थ्य अधिकारियों ने चेतावनी जारी की है, जिससे यात्रियों को अपनी टीकाकरण स्थिति को सत्यापित करने के लिए अंतर्राष्ट्रीय परामर्श जारी किए गए हैं।",
+        "bengali": "ভারতে নকল রেবিস ভ্যাকসিনের রিপোর্টের পর স্বাস্থ্য কর্তৃপক্ষ সতর্কবার্তা জারি করেছে, যার ফলে ভ্রমণকারীদের তাদের টিকা দেওয়ার অবস্থা যাচাই করার জন্য আন্তর্জাতিক পরামর্শ জারি করা হয়েছে।"
+      },
+      {
+        "topic": "Polity: PM Modi Consults Economists on Budget",
+        "english": "Prime Minister Narendra Modi held a meeting with leading economists to discuss the roadmap for the upcoming Union Budget 2026-27, focusing on sustainable growth and reforms.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी ने आगामी केंद्रीय बजट 2026-27 के रोडमैप पर चर्चा करने के लिए प्रमुख अर्थशास्त्रियों के साथ बैठक की, जिसमें सतत विकास और सुधारों पर ध्यान केंद्रित किया गया।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদি আসন্ন কেন্দ্রীয় বাজেট ২০২৬-২৭-এর রোডম্যাপ নিয়ে আলোচনা করার জন্য শীর্ষস্থানীয় অর্থনীতিবিদদের সাথে একটি বৈঠক করেছেন, যা টেকসই প্রবৃদ্ধি এবং সংস্কারের ওপর গুরুত্ব দেয়।"
+      }
+    ]
+  },
+  {
     "id": "2025-12-29",
     "slug": "2025-12-29",
     "date": "2025-12-29",
