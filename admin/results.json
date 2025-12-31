@@ -1,5 +1,68 @@
 [
   {
+    "id": "ibps-rrb-13th-reserve-list-2025",
+    "createdAt": "2025-12-31T14:30:00.000Z",
+    "updatedAt": "2025-12-31T14:30:00.000Z",
+    "title": "IBPS RRB 13th Reserve List 2025",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने Office Assistant और Officer Scale I, II, III पदों के लिए Reserve List जारी कर दी है। उम्मीदवार नीचे दिए गए लिंक से अपना रिजल्ट चेक कर सकते हैं।",
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "educationalQualifications": "Generaly Bachelor Degree in any stream is required.",
+    "ageLimit": "18-40 Years (Post Wise)",
+    "applicationFee": "Please check official notification.",
+    "importantDates": {
+      "Reserve List Released": "31/12/2025",
+      "Result Declared": "01/01/2025"
+    },
+    "importantLinks": {
+      "Download Reserve List": "https://ibpsonline.ibps.in/crprrb13jun24/parla_jul25/login.php?appid=1264560e90924903332766374a56a651",
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "ibps-po-14-reserve-list-2025",
+    "createdAt": "2025-12-31T14:30:00.000Z",
+    "updatedAt": "2025-12-31T14:30:00.000Z",
+    "title": "IBPS PO 14 Reserve List 2025",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने Probationary Officer (PO) / Management Trainee (MT) XIV परीक्षा के लिए Provisional Allotment Reserve List जारी कर दी है।",
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "educationalQualifications": "Bachelor Degree in any stream.",
+    "ageLimit": "20-30 Years",
+    "applicationFee": "Rs. 850/- (General/OBC)",
+    "importantDates": {
+      "Reserve List Released": "31/12/2025",
+      "Mains Result Available": "31/01/2025"
+    },
+    "importantLinks": {
+      "Download Reserve List": "https://ibpsonline.ibps.in/crppo14jul24/parla_jul25/login.php?appid=adfe33f72518e331a6c0446210f220f4",
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
+    "id": "ibps-so-14-reserve-list-2025",
+    "createdAt": "2025-12-31T14:30:00.000Z",
+    "updatedAt": "2025-12-31T14:30:00.000Z",
+    "title": "IBPS SO 14 Reserve List 2025",
+    "description": "Institute of Banking Personnel Selection (IBPS) ने Specialist Officer (SO) XIV भर्ती के लिए Reserve List जारी कर दी है। जो उम्मीदवार प्रतीक्षा सूची में थे, वे अब अपनी स्थिति की जांच कर सकते हैं।",
+    "vacancyDetails": {
+      "Total Posts": "896"
+    },
+    "educationalQualifications": "Degree in relevant discipline (Engineering/ Law/ HR etc).",
+    "ageLimit": "20-30 Years",
+    "applicationFee": "Rs. 850/- (General/OBC)",
+    "importantDates": {
+      "Reserve List Released": "31/12/2025",
+      "Final Result Declared": "01/04/2025"
+    },
+    "importantLinks": {
+      "Download Reserve List": "https://ibpsonline.ibps.in/crpsp14jul24/parla_jul25/login.php?appid=5e5d32365aea98571b54da66aaa3c366",
+      "Official Website": "https://www.ibps.in/"
+    }
+  },
+  {
     "id": "ippb-gds-executive-result-2025",
     "createdAt": "2025-12-30T09:00:00.000Z",
     "updatedAt": "2025-12-30T09:00:00.000Z",
