@@ -1,5 +1,67 @@
 [
     {
+        "id": "sebi-assistant-manager-phase-i-admit-card-2025",
+        "createdAt": "2026-01-03T20:00:00.000Z",
+        "updatedAt": "2026-01-03T20:00:00.000Z",
+        "title": "SEBI Assistant Manager Phase-I Admit Card",
+        "description": "Securities and Exchange Board of India (SEBI) ने Assistant Manager (Grade A) Phase-I परीक्षा का एडमिट कार्ड जारी कर दिया है।",
+        "importantDates": {
+            "Exam Date": "Available on Admit Card",
+            "Admit Card": "03/01/2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://www.sebi.gov.in/",
+            "Official Website": "https://www.sebi.gov.in/"
+        }
+    },
+    {
+        "id": "bhel-515-artisan-re-exam-admit-card-2025",
+        "createdAt": "2026-01-03T20:00:00.000Z",
+        "updatedAt": "2026-01-03T20:00:00.000Z",
+        "title": "BHEL 515 Artisan Post Re-Exam Admit Card",
+        "description": "Bharat Heavy Electricals Limited (BHEL) ने Artisan पदों की पुनर्परीक्षा (Re-Exam) के लिए एडमिट कार्ड जारी किया है।",
+        "importantDates": {
+            "Re-Exam Date": "Check Admit Card",
+            "Admit Card": "03/01/2026"
+        },
+        "importantLinks": {
+            "Download Admit Card": "https://www.bhel.in/",
+            "Official Website": "https://www.bhel.in/"
+        }
+    },
+    {
+        "id": "oicl-assistant-rlt-exam-date-2025",
+        "createdAt": "2026-01-03T19:30:00.000Z",
+        "updatedAt": "2026-01-03T19:30:00.000Z",
+        "title": "OICL Assistant RLT Exam Date 2025",
+        "description": "Oriental Insurance Company Limited (OICL) ने Assistant के 500 पदों पर भर्ती के लिए RLT Exam admit card जारी किया है।",
+        "importantDates": {
+            "Notification Out": "01/08/2025",
+            "RLT Test Date": "06-08 January 2026",
+            "RLT Admit Card": "02/01/2026"
+        },
+        "importantLinks": {
+            "RLT Admit Card": "https://ibpsonline.ibps.in/oicljul25/rlta_dec25/login.php?appid=08ab6ac252980ab4e234296c4ca10c58",
+            "Official Website": "https://orientalinsurance.org.in/careers"
+        }
+    },
+    {
+        "id": "bihar-police-bpssc-si-pre-admit-card-2025",
+        "createdAt": "2026-01-03T19:30:00.000Z",
+        "updatedAt": "2026-01-03T19:30:00.000Z",
+        "title": "Bihar Police BPSSC SI Pre Admit Card 2025",
+        "description": "Bihar Police Subordinate Services Commission (BPSSC) ने Sub Inspector के 1799 पदों पर भर्ती के लिए Prelims exam admit card जारी किया है।",
+        "importantDates": {
+            "Notification Out": "23/09/2025",
+            "Prelims Admit Card": "30/12/2025",
+            "Prelims Exam Date": "18 & 21 January 2026"
+        },
+        "importantLinks": {
+            "Prelims Admit Card": "https://apply-bpssc.com/bpssc525weadmitcards/applicationIndex",
+            "Official Website": "https://bpssc.bihar.gov.in/"
+        }
+    },
+    {
         "id": "cbse-board-class-10-12-date-sheet-2026",
         "createdAt": "2025-12-30T09:00:00.000Z",
         "updatedAt": "2025-12-30T09:00:00.000Z",

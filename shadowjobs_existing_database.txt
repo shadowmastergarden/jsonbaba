@@ -1,9 +1,18 @@
 # SHADOWJOBS.IN - EXISTING CONTENT DATABASE
-## Last Updated: 31 december 2025, 08:00 PM
+## Last Updated: 03 January 2026, 08:30 PM
 
 ===============================================================================
                          LATEST JOBS ON SHADOWJOBS.IN
 ===============================================================================
+1. JKSSB 1815 Police Constable Online Form 2025
+2. JKSSB 13/2025 Various Posts Online Form
+3. RRB (9/2025) 22000 Group D Post Online Form
+4. HSSC 5500 Police Constable Online Form 2026
+5. NTA CUET UG 2026 Apply Online Form
+6. Indian Navy 10+2 (B.Tech) Cadet Entry July 2026
+7. BSF 549 Constable (Sports) Online Form 2025
+8. NCERT 173 Non Teaching Vacancy Online Form
+9. Federal Bank Office Assistant Online Form 2025
 1. UP Police Constable Recruitment 2026
 2. UKPSC Lecturer Recruitment 2026
 1. UP Anganwadi Bharti Online Form 2025
@@ -81,6 +90,8 @@
 ===============================================================================
 Total Admit Cards: 57
 
+1. SEBI Assistant Manager Phase-I Admit Card
+2. BHEL 515 Artisan Post Re-Exam Admit Card
 1. OICL Assistant RLT Exam Date 2025
 2. Bihar Police BPSSC SI Pre Admit Card 2025
 1. CBSE Board Class 10th & 12th Exam Date Sheet 2026
@@ -146,6 +157,9 @@ Total Admit Cards: 57
 ===============================================================================
 Total Answer Keys: 29
 
+1. ECIL Graduate Engineer Trainee Answer Key
+2. SSC Stenographer Final Answer Key, Marks
+3. Bihar Parishad Driver, Attendant Answer Key
 1. SSC Delhi Police Driver Answer Key 2025
 2. NTA CSIR UGC NET December Answer Key 2025
 1. Bihar SHS Ophthalmic Assistant Answer Key 2025
@@ -183,6 +197,8 @@ Total Answer Keys: 29
 ===============================================================================
 Total Results: 60
 
+1. HPTET November 2025 Exam Result
+2. UPSSSC 157 Eye Testing Officer Final Result
 1. IBPS RRB 13th Reserve List 2025
 2. IBPS PO 14 Reserve List 2025
 3. IBPS SO 14 Reserve List 2025
@@ -251,6 +267,9 @@ Total Results: 60
 ===============================================================================
 Total Days Tracked: 20 (Recently Added)
 
+1. Current Affairs - 03 January 2026
+2. Current Affairs - 02 January 2026
+3. Current Affairs - 01 January 2026
 1. Current Affairs - 31 December 2025
 2. Current Affairs - 30 December 2025
 3. Current Affairs - 29 December 2025
@@ -310,14 +329,14 @@ Total Exam Dates: 23
 ===============================================================================
                             SUMMARY STATISTICS
 ===============================================================================
-Total Jobs:        67
-Total Admit Cards: 57
-Total Answer Keys: 29
-Total Results:     60
+Total Jobs:        76
+Total Admit Cards: 59
+Total Answer Keys: 32
+Total Results:     62
 Total Exam Dates:  23
-Total CA Days:     20
+Total CA Days:     23
 ------------------------------
-GRAND TOTAL:      256 items
+GRAND TOTAL:      275 items
 
 ===============================================================================
                               USAGE NOTES
