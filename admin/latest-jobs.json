@@ -1,5 +1,348 @@
 [
   {
+    "id": "jkssb-1815-police-constable-online-form-2025",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "JKSSB 1815 Police Constable Online Form 2025",
+    "description": "Jammu and Kashmir Services Selection Board (JKSSB) ने Police Constable (Executive) के 1815 पदों पर भर्ती के लिए ऑनलाइन आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "1815",
+    "educationalQualifications": "10th Class Passed",
+    "ageLimit": "18-28 Years (as on 01/01/2025)",
+    "applicationFee": "Gen/OBC: ₹700/-, SC/ST/EWS: ₹600/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "24/12/2025",
+      "Application Start": "19/01/2026",
+      "Last Date": "17/02/2026",
+      "Exam Date": "Available Soon"
+    },
+    "importantLinks": {
+      "Official Website": "https://jkssb.nic.in/",
+      "Apply Online": "https://jkssb.nic.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "1815"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Detail",
+        "items": {
+          "Constable (Division Jammu)": "934",
+          "Constable (Division Kashmir)": "881",
+          "Total": "1815"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies (Jammu)",
+        "items": {
+          "OM": "375",
+          "SC": "75",
+          "ST": "186 (ST1+ST2)",
+          "OBC": "75",
+          "EWS": "93"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jkssb-13-2025-various-posts-online-form",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "JKSSB 13/2025 Various Posts Online Form",
+    "description": "JKSSB ने Fisheries Dev. Assistant, Stock Assistant, Junior Supervisor सहित विभिन्न पदों पर भर्ती के लिए नोटिफिकेशन जारी किया है।",
+    "totalPosts": "Not Specified",
+    "educationalQualifications": "10th/Degree/Diploma/ITI (Post Wise)",
+    "ageLimit": "18-40 Years (as on 01/01/2025)",
+    "applicationFee": "Unreserved: ₹600/-, SC/ST/EWS/PH: ₹500/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "27/12/2025",
+      "Application Start": "27/01/2026",
+      "Last Date": "25/02/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://jkssb.nic.in/",
+      "Apply Online": "https://jkssb.nic.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Stock Assistant": "10th Passed",
+          "Fisheries Dev. Assistant": "B.F.Sc / B.Sc (Zoology)",
+          "Junior Supervisor": "Any Graduation",
+          "Works Supervisor": "10th + ITI (Building/Carpentry)",
+          "Motor Vehicle Inspector": "Diploma/Degree in Automobile/Mech Engg + DL"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rrb-9-2025-22000-group-d-recruitment-2026",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "RRB (9/2025) 22000 Group D Post Online Form",
+    "description": "Railway Recruitment Board (RRB) ने Group D (Level-1) के लगभग 22000 पदों पर भर्ती के लिए शॉर्ट नोटिस जारी किया है।",
+    "totalPosts": "22000 (Approx)",
+    "educationalQualifications": "10th Pass OR ITI from NCVT/SCVT",
+    "ageLimit": "18-33 Years (as on 01/01/2026)",
+    "applicationFee": "Gen/OBC/EWS: ₹500/-, SC/ST/Ex-SM/Female: ₹250/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Short Notice": "23/12/2025",
+      "Full Notification": "21/01/2026",
+      "Application Start": "21/01/2026",
+      "Last Date": "20/02/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://indianrailways.gov.in/",
+      "Apply Online": "https://indianrailways.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "22000"
+    },
+    "customSections": [
+      {
+        "title": "Exam Pattern",
+        "items": {
+          "Duration": "90 Minutes",
+          "Negative Marking": "1/3rd",
+          "Subjects": "Maths, Reasoning, General Science, Current Affairs"
+        }
+      },
+      {
+        "title": "Physical Eligibility (PET)",
+        "items": {
+          "Male Lift": "35kg for 100m in 2 min",
+          "Male Run": "1000m in 4 min 15 sec",
+          "Female Lift": "20kg for 100m in 2 min",
+          "Female Run": "1000m in 5 min 40 sec"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hssc-5500-police-constable-online-form-2026",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "HSSC 5500 Police Constable Online Form 2026",
+    "description": "Haryana Staff Selection Commission (HSSC) ने Police Constable के 5500 पदों पर भर्ती के लिए आवेदन मांगे हैं।",
+    "totalPosts": "5500",
+    "educationalQualifications": "12th Pass + HSSC CET Qualified",
+    "ageLimit": "18-25 Years (as on 01/01/2026)",
+    "applicationFee": "₹0/- (No Fee)",
+    "paymentMode": [
+      "No Fee"
+    ],
+    "importantDates": {
+      "Notification Date": "01/01/2026",
+      "Application Start": "11/01/2026",
+      "Last Date": "25/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://hssc.gov.in/",
+      "Apply Online": "https://hssc.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "5500"
+    },
+    "customSections": [
+      {
+        "title": "Selection Process",
+        "items": {
+          "Step 1": "Shortlisting via CET Score",
+          "Step 2": "PMT (Physical Measurement)",
+          "Step 3": "PST (Physical Screening)",
+          "Step 4": "Written Exam (97 Marks)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nta-cuet-ug-2026-apply-online-form",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "NTA CUET UG 2026 Apply Online Form",
+    "description": "National Testing Agency (NTA) ने Common University Entrance Test (CUET UG 2026) के लिए आवेदन प्रक्रिया शुरू कर दी है।",
+    "totalPosts": "Entrance Exam",
+    "educationalQualifications": "12th Passed or Appearing",
+    "ageLimit": "No Age Limit",
+    "applicationFee": "Gen: ₹1000/-, OBC/EWS: ₹900/-, SC/ST: ₹800/- (For 3 Subjects)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "03/01/2026",
+      "Last Date": "30/01/2026",
+      "Exam Date": "11-31 May 2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://exams.nta.ac.in/CUET-UG/",
+      "Apply Online": "https://cuetug.ntaonline.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Admission Test"
+    },
+    "customSections": [
+      {
+        "title": "Fee Details (Extra Subject)",
+        "items": {
+          "General": "₹400 per subject",
+          "OBC/EWS": "₹375 per subject",
+          "SC/ST/PH": "₹350 per subject"
+        }
+      }
+    ]
+  },
+  {
+    "id": "indian-navy-10-2-btech-cadet-entry-july-2026",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "Indian Navy 10+2 (B.Tech) Cadet Entry July 2026",
+    "description": "Indian Navy ने 10+2 (B.Tech) Cadet Entry Scheme (Permanent Commission) के लिए आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "Not Specified",
+    "educationalQualifications": "12th with PCM (70%) + JEE Main 2025 Appeared",
+    "ageLimit": "Born between 02/01/2007 to 01/07/2009",
+    "applicationFee": "₹0/- (No Fee)",
+    "paymentMode": [
+      "No Fee"
+    ],
+    "importantDates": {
+      "Application Start": "03/01/2026",
+      "Last Date": "19/01/2026",
+      "SSB Interview": "March 2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.joinindiannavy.gov.in/",
+      "Apply Online": "https://www.joinindiannavy.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "As per Navy rules"
+    },
+    "customSections": [
+      {
+        "title": "Selection Criteria",
+        "items": {
+          "Basis": "JEEMAIN 2025 Rank",
+          "Subsequent Stage": "SSB Interview"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bsf-549-constable-sports-quota-online-form-2025",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "BSF 549 Constable (Sports) Online Form 2025",
+    "description": "Border Security Force (BSF) ने Sports Quota के तहत Constable (GD) के 549 पदों पर भर्ती निकाली है।",
+    "totalPosts": "549",
+    "educationalQualifications": "10th Pass + Sports Valid Certificate",
+    "ageLimit": "18-23 Years (as on 01/08/2025)",
+    "applicationFee": "Gen/OBC: ₹159/-, SC/ST/Female: ₹0/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "27/12/2025",
+      "Last Date": "15/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://rectt.bsf.gov.in/",
+      "Apply Online": "https://rectt.bsf.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "549"
+    },
+    "customSections": [
+      {
+        "title": "Vacancy Distribution",
+        "items": {
+          "Male": "277",
+          "Female": "272",
+          "Total": "549"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ncert-173-non-teaching-recruitment-2025",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "NCERT 173 Non Teaching Vacancy Online Form",
+    "description": "National Council of Educational Research and Training (NCERT) ने Non-Teaching पदों पर भर्ती के लिए आवेदन मांगे हैं।",
+    "totalPosts": "173",
+    "educationalQualifications": "Varies by Post (See Notification)",
+    "ageLimit": "As per Post Rules",
+    "applicationFee": "Level 10-12: ₹1500/-, Level 6-7: ₹1200/-, Level 2-5: ₹1000/-, SC/ST/PH: ₹0/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "27/12/2025",
+      "Last Date": "16/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://ncert.nic.in/",
+      "Apply Online": "https://ncert.nic.in/career.php"
+    },
+    "vacancyDetails": {
+      "Total Posts": "173"
+    },
+    "customSections": [
+      {
+        "title": "Post Level Distribution",
+        "items": {
+          "Level 10-12": "09 Posts",
+          "Level 6-8": "26 Posts",
+          "Level 2-5": "138 Posts"
+        }
+      }
+    ]
+  },
+  {
+    "id": "federal-bank-office-assistant-recruitment-2025",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "Federal Bank Office Assistant Online Form 2025",
+    "description": "Federal Bank ने Office Assistant के पदों पर भर्ती के लिए नोटिफिकेशन जारी किया है।",
+    "totalPosts": "Not Disclosed",
+    "educationalQualifications": "10th Class Passed",
+    "ageLimit": "18-20 Years (Born between 01/12/2005 to 01/12/2007)",
+    "applicationFee": "Gen/OBC: ₹590/- (incl GST), SC/ST: ₹118/- (incl GST)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Application Start": "30/12/2025",
+      "Last Date": "08/01/2026",
+      "Exam Date": "01/02/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.federalbank.co.in/career",
+      "Apply Online": "https://www.federalbank.co.in/career"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Not Specified"
+    },
+    "customSections": [
+      {
+        "title": "Pay Scale",
+        "items": {
+          "Starting Basic Pay": "₹19,500 - ₹37,815"
+        }
+      }
+    ]
+  },
+  {
     "id": "up-anganwadi-bharti-online-form-2025",
     "createdAt": "2025-12-27T08:45:00.000Z",
     "updatedAt": "2025-12-27T08:45:00.000Z",
@@ -17,7 +360,6 @@
       "Last Date": "See District Wise"
     },
     "importantLinks": {
-     
       "Official Website": "http://balvikasup.gov.in/"
     },
     "vacancyDetails": {
@@ -1092,7 +1434,6 @@
     "importantLinks": {
       "Apply Online (Registration)": "https://ibpsreg.ibps.in/rspcsep25/basic_details.php",
       "Apply Online (Login)": "https://ibpsreg.ibps.in/rspcsep25/",
-    
       "Official Website": "https://environment.rajasthan.gov.in/content/environment/en.html"
     },
     "customSections": [
@@ -1457,7 +1798,6 @@
     },
     "importantLinks": {
       "Apply Online": "https://www.upprpb.in/#/auth/landing",
-  
       "Official Website": "http://uppbpb.gov.in/"
     },
     "additionalDetails": {
@@ -3144,7 +3484,6 @@
       "Total Posts": "82"
     },
     "importantLinks": {
-     
       "Official Website": "https://faridabadpolice.gov.in/"
     },
     "additionalDetails": {

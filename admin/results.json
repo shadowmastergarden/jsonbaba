@@ -1,5 +1,34 @@
 [
   {
+    "id": "hptet-november-2025-exam-result",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "HPTET November 2025 Exam Result",
+    "description": "Himachal Pradesh Board of School Education (HPBOSE) ने HP Teacher Eligibility Test (HPTET) November 2025 का परिणाम घोषित कर दिया है।",
+    "importantDates": {
+      "Result Declared": "02/01/2026",
+      "Exam Date": "November 2025"
+    },
+    "importantLinks": {
+      "Check Result": "https://hpbose.org/",
+      "Official Website": "https://hpbose.org/"
+    }
+  },
+  {
+    "id": "upsssc-157-eye-testing-officer-final-result",
+    "createdAt": "2026-01-03T20:00:00.000Z",
+    "updatedAt": "2026-01-03T20:00:00.000Z",
+    "title": "UPSSSC 157 Eye Testing Officer Final Result",
+    "description": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) ने Eye Testing Officer (Netra Parikshan Adhikari) का अंतिम परिणाम जारी किया है।",
+    "importantDates": {
+      "Final Result": "02/01/2026"
+    },
+    "importantLinks": {
+      "Download Result": "http://upsssc.gov.in/",
+      "Official Website": "http://upsssc.gov.in/"
+    }
+  },
+  {
     "id": "ibps-rrb-13th-reserve-list-2025",
     "createdAt": "2025-12-31T14:30:00.000Z",
     "updatedAt": "2025-12-31T14:30:00.000Z",
