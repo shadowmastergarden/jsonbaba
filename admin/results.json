@@ -1,5 +1,37 @@
 [
   {
+    "id": "ib-jio-tech-exam-result-2025",
+    "createdAt": "2026-01-05T13:40:00.000Z",
+    "updatedAt": "2026-01-05T13:40:00.000Z",
+    "title": "IB Jr Intelligence Officer (Tech.) Exam Result",
+    "description": "Intelligence Bureau (IB) ने Junior Intelligence Officer Grade-II (Technical) भर्ती परीक्षा का परिणाम जारी कर दिया है।",
+    "totalPosts": "394",
+    "educationalQualifications": "Diploma / B.Sc / BCA",
+    "ageLimit": "18-27 Years",
+    "applicationFee": "NA",
+    "paymentMode": [
+      "NA"
+    ],
+    "importantDates": {
+      "CBT Exam Date": "15/10/2025",
+      "Result Out": "01/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://www.mha.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "394"
+    },
+    "customSections": [
+      {
+        "title": "Selection Process Items",
+        "items": {
+          "Next Steps": "Tier-II Skill Test & Tier-III Interview"
+        }
+      }
+    ]
+  },
+  {
     "id": "hptet-november-2025-exam-result",
     "createdAt": "2026-01-03T20:00:00.000Z",
     "updatedAt": "2026-01-03T20:00:00.000Z",

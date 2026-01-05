@@ -1,5 +1,254 @@
 [
   {
+    "id": "hisar-court-clerk-steno-offline-form",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "Hisar Court 52 Clerk, Steno Offline Form",
+    "description": "District and Sessions Judge, Hisar ने Clerk और Stenographer Grade-III के 52 पदों के लिए offline आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "52",
+    "educationalQualifications": "Graduation Degree",
+    "ageLimit": "18-42 Years (as on 31/01/2026)",
+    "applicationFee": "No Fees",
+    "paymentMode": [
+      "Offline Mode"
+    ],
+    "importantDates": {
+      "Notification Out": "05/01/2026",
+      "Starting Date": "05/01/2026",
+      "Last Date": "20/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://hisar.dcourts.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "52"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Stenographer Grade-III": "Graduation + English Stenography (80 wpm) + Transcription (20 wpm) + Computer Knowledge",
+          "Clerk": "Graduation Degree + Typing Speed 30 wpm"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Stenographer Grade-III": "26",
+          "Clerk": "26"
+        }
+      },
+      {
+        "title": "Send Application To",
+        "items": {
+          "Address": "Office of the District and Sessions Judge, Hisar, Haryana"
+        }
+      }
+    ]
+  },
+  {
+    "id": "haryana-htet-2025",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "Haryana HTET 2025 Apply Online Form",
+    "description": "Board of School Education Haryana (BSEH) ने Haryana Teacher Eligibility Test (HTET) 2025 के लिए ऑनलाइन आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "NA",
+    "educationalQualifications": "Varies by Level - See customSections",
+    "ageLimit": "No Age Limit",
+    "applicationFee": "Varies by Level and Category",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "24/12/2025",
+      "Last Date": "05/01/2026",
+      "Correction Date": "04-05 January 2026",
+      "Exam Date": "17-18 January 2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://bseh.org.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "NA"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Level I (PRT)": "12th (50%) + 2 Year Diploma in Elementary Education / B.E.Ed OR Graduation + Diploma",
+          "Level II (TGT)": "Bachelor Degree in Subject (50%) + B.Ed / 2 Year Diploma",
+          "Level III (PGT)": "Master Degree in Subject (50%) + B.Ed"
+        }
+      },
+      {
+        "title": "Application Fees",
+        "items": {
+          "SC/PH (Haryana)": "Level 1: 500/-, Level 2: 900/-, Level 3: 1200/-",
+          "All Others": "Level 1: 1000/-, Level 2: 1800/-, Level 3: 2400/-"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hp-set-2026",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "HP SET (State Eligibility Test) Online Form 2026",
+    "description": "Himachal Pradesh Public Service Commission (HPPSC) ने State Eligibility Test (SET) 2026 के लिए आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "NA",
+    "educationalQualifications": "Master Degree",
+    "ageLimit": "No Age Limit",
+    "applicationFee": "Gen: 1150/-, EWS/OBC: 600/-, SC/ST/PH: 325/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "03/01/2026",
+      "Last Date": "30/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "http://www.hppsc.hp.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "NA"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Details": "Master Degree in Related Subject with 55% Marks (50% for SC/ST/OBC/PWD)"
+        }
+      },
+      {
+        "title": "Subjects",
+        "items": {
+          "List": "Chemical Sciences, English, Life Sciences, Commerce, Economics, Geography, Hindi, History, Mathematical Sciences, Music, Physical Sciences, etc."
+        }
+      }
+    ]
+  },
+  {
+    "id": "up-police-assistant-operator-correction-2025",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "UP Police Assistant Operator Correction Form",
+    "description": "Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB) ने Assistant Operator के पदों के लिए आवेदन सुधार (Correction) विंडो खोली है।",
+    "totalPosts": "44",
+    "educationalQualifications": "12th Passed with Physics & Maths",
+    "ageLimit": "18-22 Years (as on 01/07/2025)",
+    "applicationFee": "Gen/OBC/EWS: 500/-, SC/ST: 400/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Last Date": "02/01/2026",
+      "Correction Date": "03-06 January 2026"
+    },
+    "importantLinks": {
+      "Official Website": "http://uppbpb.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "44"
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "Gen": "20",
+          "EWS": "04",
+          "OBC": "11",
+          "SC": "09",
+          "ST": "00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bpssc-havildar-clerk-recruitment-2026",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "BPSSC 64 Havildar Clerk Vacancy Online Form",
+    "description": "Bihar Police Subordinate Services Commission (BPSSC) ने Havildar Clerk के 64 पदों पर भर्ती के लिए ऑनलाइन आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "64",
+    "educationalQualifications": "12th Class Passed",
+    "ageLimit": "18-37 Years (as on 01/08/2025)",
+    "applicationFee": "Rs. 100/- (All Candidates)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "02/01/2026",
+      "Last Date": "02/02/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://bpssc.bih.nic.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "64"
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "UR": "26",
+          "EWS": "06",
+          "BC": "08",
+          "EBC": "11",
+          "SC": "10",
+          "ST": "01",
+          "BCW": "02"
+        }
+      },
+      {
+        "title": "Physical Eligibility",
+        "items": {
+          "Height (Male)": "Gen/BC: 165 CM, EBC/SC/ST: 160 CM",
+          "Height (Female)": "All Category: 155 CM",
+          "Chest (Male)": "Gen/BC/EBC: 81-86 CM, SC/ST: 79-84 CM",
+          "Running": "Male: 1.6 Km in 6 Min, Female: 1 Km in 5 Min"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nalco-graduate-engineer-trainee-2026",
+    "createdAt": "2026-01-05T13:30:00.000Z",
+    "updatedAt": "2026-01-05T13:30:00.000Z",
+    "title": "NALCO Graduate Engineer Trainee Online Form",
+    "description": "National Aluminium Company Limited (NALCO) ने Graduate Engineer Trainees (GETs) के 110 पदों के लिए आवेदन आमंत्रित किए हैं।",
+    "totalPosts": "110",
+    "educationalQualifications": "B.E / B.Tech + GATE 2025",
+    "ageLimit": "Max 30 Years (as on 22/01/2026)",
+    "applicationFee": "Gen/OBC/EWS: 500/-, SC/ST/PH: 100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "02/01/2026",
+      "Last Date": "22/01/2026"
+    },
+    "importantLinks": {
+      "Official Website": "https://nalcoindia.com/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "110"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Details": "B.E / B.Tech in Related Field with 65% Marks (55% for SC/ST/PH) AND GATE 2025 Qualified"
+        }
+      },
+      {
+        "title": "Pay Scale",
+        "items": {
+          "Salary": "Rs. 40,000 - 1,40,000/- (During Training), absorbed as Assistant Manager at E1 grade (60000-180000)"
+        }
+      }
+    ]
+  },
+  {
     "id": "jkssb-1815-police-constable-online-form-2025",
     "createdAt": "2026-01-03T20:00:00.000Z",
     "updatedAt": "2026-01-03T20:00:00.000Z",

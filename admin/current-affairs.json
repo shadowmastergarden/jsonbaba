@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-01-05",
+    "slug": "2026-01-05",
+    "date": "2026-01-05",
+    "current_affairs": [
+      {
+        "topic": "National: Delhi Cabinet Approves Jan Vishwas Amendment Bill 2026",
+        "english": "The Delhi Cabinet has approved the Jan Vishwas Amendment Bill 2026 to decriminalize minor offenses and replace criminal proceedings with civil penalties, aligning with the central government's 'Minimum Government, Maximum Governance' initiative.",
+        "hindi": "दिल्ली कैबिनेट ने 'जन विश्वास संशोधन विधेयक 2026' को मंजूरी दे दी है, जिसका उद्देश्य मामूली अपराधों को अपराध की श्रेणी से बाहर करना और आपराधिक कार्यवाही को नागरिक दंड से बदलना है, जो केंद्र सरकार की 'न्यूनतम सरकार, अधिकतम शासन' पहल के अनुरूप है।",
+        "bengali": "দিল্লি ক্যাবিনেট 'জন বিশ্বাস সংশোধনী বিল ২০২৬' অনুমোদন করেছে, যার লক্ষ্য ছোটখাটো অপরাধগুলিকে অপরাধমুক্ত করা এবং অপরাধমূলক কার্যক্রমকে দেওয়ানি জরিমানার সাথে প্রতিস্থাপন করা, যা কেন্দ্র সরকারের 'ন্যূনতম সরকার, সর্বাধিক শাসন' উদ্যোগের সাথে সামঞ্জস্যপূর্ণ।"
+      },
+      {
+        "topic": "Economy: India's Forex Reserves Reach $686.2 Billion",
+        "english": "India's foreign exchange reserves have surged to $686.2 billion as of November 2025, providing a robust import cover of over 11 months and signaling strong external sector stability amidst global economic fluctuations.",
+        "hindi": "नवंबर 2025 तक भारत का विदेशी मुद्रा भंडार $686.2 बिलियन तक बढ़ गया है, जो 11 महीने से अधिक का मजबूत आयात कवर प्रदान करता है और वैश्विक आर्थिक उतार-चढ़ाव के बीच मजबूत बाहरी क्षेत्र की स्थिरता का संकेत देता है।",
+        "bengali": "নভেম্বর ২০২৫ পর্যন্ত ভারতের বৈদেশিক মুদ্রার রিজার্ভ $৬৮৬.২ বিলিয়নে পৌঁছেছে, যা ১১ মাসেরও বেশি আমদানির সুরক্ষা প্রদান করে এবং বিশ্ব অর্থনীতির অস্থিরতার মধ্যেও শক্তিশালী বাহ্যিক খাতের স্থিতিশীলতার ইঙ্গিত দেয়।"
+      },
+      {
+        "topic": "Science: ISRO Unveils 2026 Mission Lineup",
+        "english": "ISRO has announced its 2026 mission lineup, featuring the PSLV-N1 (first commercially built PSLV), the uncrewed Gaganyaan mission (HLVM3 G1/OM-1), and the strategic Earth Observation Satellite GSLV F17/EOS-05.",
+        "hindi": "इसरो ने अपने 2026 के मिशन लाइनअप की घोषणा की है, जिसमें PSLV-N1 (पहला व्यावसायिक रूप से निर्मित PSLV), मानव रहित गगनयान मिशन (HLVM3 G1/OM-1), और रणनीतिक पृथ्वी अवलोकन उपग्रह GSLV F17/EOS-05 शामिल हैं।",
+        "bengali": "ইসরো তার ২০২৬ সালের মিশন লাইনআপ ঘোষণা করেছে, যার মধ্যে রয়েছে PSLV-N1 (প্রথম বাণিজ্যিকভাবে নির্মিত PSLV), মানববিহীন গগনযান মিশন (HLVM3 G1/OM-1) এবং কৌশলগত পৃথিবী পর্যবেক্ষণ স্যাটেলাইট GSLV F17/EOS-05।"
+      },
+      {
+        "topic": "Culture: PM Modi Inaugurates 'The Light and the Lotus' Exhibition",
+        "english": "Prime Minister Narendra Modi inaugurated 'The Light and the Lotus' exhibition in New Delhi, displaying the sacred Piprahwa Relics of Lord Buddha, repatriated after 125 years, highlighting India's Buddhist heritage.",
+        "hindi": "प्रधानमंत्री नरेंद्र मोदी ने नई दिल्ली में 'द लाइट एंड द लोटस' प्रदर्शनी का उद्घाटन किया, जिसमें 125 वर्षों बाद स्वदेश लाए गए भगवान बुद्ध के पवित्र पिप्रहवा अवशेषों को प्रदर्शित किया गया है, जो भारत की बौद्ध विरासत को उजागर करता है।",
+        "bengali": "প্রধানমন্ত্রী নরেন্দ্র মোদি নয়াদিল্লিতে 'দ্য লাইট এন্ড দ্য লোটাস' প্রদর্শনীর উদ্বোধন করেছেন, যেখানে ১২৫ বছর পর দেশে ফিরিয়ে আনা ভগবান বুদ্ধের পবিত্র পিপরাহওয়া ধ্বংসাবশেষ প্রদর্শন করা হয়েছে, যা ভারতের বৌদ্ধ ঐতিহ্যকে তুলে ধরে।"
+      },
+      {
+        "topic": "International: US Military Operations in Venezuela",
+        "english": "Significant geopolitical tension has arisen with reports of US military operations in Venezuela targeting President Nicolás Maduro's regime. The move has sparked global reactions and impacted oil markets.",
+        "hindi": "वेनेजुएला में राष्ट्रपति निकोलस मादुरो के शासन को निशाना बनाकर अमेरिकी सैन्य अभियानों की खबरों के साथ महत्वपूर्ण भू-राजनीतिक तनाव पैदा हो गया है। इस कदम ने वैश्विक प्रतिक्रियाओं को जन्म दिया है और तेल बाजारों को प्रभावित किया है।",
+        "bengali": "ভেনেজুয়েলায় রাষ্ট্রপতি নিকোলাস মাদুরোর শাসনকে লক্ষ্য করে মার্কিন সামরিক অভিযানের খবরে উল্লেখযোগ্য ভূ-রাজনৈতিক উত্তেজনার সৃষ্টি হয়েছে। এই পদক্ষেপ বিশ্বব্যাপী প্রতিক্রিয়ার সৃষ্টি করেছে এবং তেলের বাজারকে প্রভাবিত করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-04",
+    "slug": "2026-01-04",
+    "date": "2026-01-04",
+    "current_affairs": [
+      {
+        "topic": "Economy: Govt Launches Rs 7,295 Crore Initiative for MSME Exports",
+        "english": "The Ministry of Commerce & Industry has launched two financial interventions totaling Rs 7,295 crore under the Export Promotion Mission to boost MSME exports and enhance their global competitiveness.",
+        "hindi": "वाणिज्य और उद्योग मंत्रालय ने एमएसएमई निर्यात को बढ़ावा देने और उनकी वैश्विक प्रतिस्पर्धात्मकता को बढ़ाने के लिए निर्यात संवर्धन मिशन के तहत 7,295 करोड़ रुपये के दो वित्तीय हस्तक्षेप शुरू किए हैं।",
+        "bengali": "বাণিজ্য ও শিল্প মন্ত্রণালয় এমএসএমই রফতানি বৃদ্ধি এবং তাদের বিশ্বব্যাপী প্রতিযোগিতা বাড়ানোর জন্য রফতানি প্রচার মিশনের অধীনে মোট ৭,২৯৫ কোটি টাকার দুটি আর্থিক হস্তক্ষেপ চালু করেছে।"
+      },
+      {
+        "topic": "Education: S. Jaishankar Inaugurates IITM Global Research Foundation",
+        "english": "External Affairs Minister Dr. S. Jaishankar inaugurated the 'IITM Global Research Foundation' at IIT Madras. This initiative aims to drive global research collaborations and position IIT Madras as a multinational university.",
+        "hindi": "विदेश मंत्री डॉ. एस. जयशंकर ने आईआईटी मद्रास में 'IITM ग्लोबल रिसर्च फाउंडेशन' का उद्घाटन किया। इस पहल का उद्देश्य वैश्विक अनुसंधान सहयोग को बढ़ावा देना और आईआईटी मद्रास को एक बहुराष्ट्रीय विश्वविद्यालय के रूप में स्थापित करना है।",
+        "bengali": "পররাষ্ট্রমন্ত্রী ডঃ এস জয়শঙ্কর আইআইটি মাদ্রাজে 'আইআইটিএম গ্লোবাল রিসার্চ ফাউন্ডেশন'-এর উদ্বোধন করেছেন। এই উদ্যোগের লক্ষ্য বিশ্বব্যাপী গবেষণা সহযোগিতা চালিত করা এবং আইআইটি মাদ্রাজকে একটি বহুজাতিক বিশ্ববিদ্যালয় হিসেবে প্রতিষ্ঠিত করা।"
+      },
+      {
+        "topic": "Infrastructure: Mumbai-Ahmedabad Bullet Train Project Update",
+        "english": "The Mumbai-Ahmedabad High-Speed Rail project has achieved a milestone with 55% completion of its longest mountain tunnel (MT-5). The tunnel spans 1.5 km between Virar and Boisar in Maharashtra.",
+        "hindi": "मुंबई-अहमदाबाद हाई-स्पीड रेल परियोजना ने अपनी सबसे लंबी पहाड़ी सुरंग (MT-5) के 55% पूरा होने के साथ एक मील का पत्थर हासिल किया है। यह सुरंग महाराष्ट्र के विरार और बोईसर के बीच 1.5 किमी तक फैली है।",
+        "bengali": "মুম্বাই-আহমেদাবাদ হাই-স্পিড রেল প্রকল্প তার দীর্ঘতম পর্বত সুড়ঙ্গ (MT-5) ৫৫% সম্পন্ন করার মাধ্যমে একটি মাইলফলক অর্জন করেছে। এই সুড়ঙ্গটি মহারাষ্ট্রের ভিরার এবং বোইসারের মধ্যে ১.৫ কিমি বিস্তৃত।"
+      },
+      {
+        "topic": "Observance: World Braille Day 2026",
+        "english": "January 4th marked World Braille Day, commemorating the birth anniversary of Louis Braille. The day raises awareness about the importance of Braille as a means of communication for the visually impaired.",
+        "hindi": "4 जनवरी को लुइस ब्रेल की जयंती के उपलक्ष्य में विश्व ब्रेल दिवस मनाया गया। यह दिन दृष्टिबाधित लोगों के लिए संचार के साधन के रूप में ब्रेल के महत्व के बारे में जागरूकता बढ़ाता है।",
+        "bengali": "৪ জানুয়ারি বিশ্ব ব্রেইল দিবস পালিত হয়েছে, যা লুই ব্রেইলের জন্মবার্ষিকী স্মরণ করে। এই দিনটি দৃষ্টি প্রতিবন্ধীদের যোগাযোগের মাধ্যম হিসেবে ব্রেইলের গুরুত্ব সম্পর্কে সচেতনতা বৃদ্ধি করে।"
+      },
+      {
+        "topic": "Space: First Supermoon of 2026 Visible",
+        "english": "The first Supermoon of 2026 was witnessed, appearing 30% brighter and 14% larger than a micro-moon. This astronomical event delighted skygazers across the country.",
+        "hindi": "2026 का पहला सुपरमून देखा गया, जो माइक्रो-मून की तुलना में 30% चमकीला और 14% बड़ा दिखाई दिया। इस खगोलीय घटना ने देश भर के आकाश देखने वालों को प्रसन्न किया।",
+        "bengali": "২০২৬ সালের প্রথম সুপারমুন দেখা গেছে, যা মাইক্রো-মুনের চেয়ে ৩০% উজ্জ্বল এবং ১৪% বড় দেখাচ্ছিল। এই মহাজাগতিক ঘটনাটি সারা দেশের আকাশ পর্যবেক্ষকদের আনন্দিত করেছে।"
+      }
+    ]
+  },
+  {
     "id": "2026-01-03",
     "slug": "2026-01-03",
     "date": "2026-01-03",
