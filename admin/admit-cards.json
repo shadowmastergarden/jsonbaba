@@ -1,5 +1,74 @@
 [
     {
+        "id": "rrb-group-d-exam-city-admit-card-2025",
+        "createdAt": "2026-01-05T13:35:00.000Z",
+        "updatedAt": "2026-01-05T13:35:00.000Z",
+        "title": "RRB Group D Vacancy Exam City/ Admit Card",
+        "description": "Railway Recruitment Board (RRB) ने Group D (Various Posts) के लिए Exam City और Admit Card जारी कर दिए हैं।",
+        "totalPosts": "32438",
+        "educationalQualifications": "10th OR ITI Passed",
+        "ageLimit": "18-36 Years (as on 01/01/2025)",
+        "applicationFee": "Gen/OBC/EWS: 500/-, Others: 250/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "importantDates": {
+            "Exam Date": "27 Nov 2025 To 10 Feb 2026",
+            "Admit Card": "04 Days Before Exam"
+        },
+        "importantLinks": {
+            "Official Website": "https://indianrailways.gov.in/"
+        },
+        "vacancyDetails": {
+            "Total Posts": "32438"
+        },
+        "customSections": [
+            {
+                "title": "Zone Wise Vacancies",
+                "items": {
+                    "Delhi (NR)": "4785",
+                    "Mumbai (WR)": "4672",
+                    "Mumbai (CR)": "3244",
+                    "Chennai (SR)": "2694"
+                }
+            }
+        ]
+    },
+    {
+        "id": "delhi-police-hcm-exam-city-admit-card-2025",
+        "createdAt": "2026-01-05T13:35:00.000Z",
+        "updatedAt": "2026-01-05T13:35:00.000Z",
+        "title": "Delhi Police HC (Min.) Exam City/ Admit Card",
+        "description": "Staff Selection Commission (SSC) ने Delhi Police Head Constable (Ministerial) के लिए Exam City Details जारी कर दी हैं।",
+        "totalPosts": "509",
+        "educationalQualifications": "12th Passed + Typing",
+        "ageLimit": "18-25 Years (as on 01/07/2025)",
+        "applicationFee": "Gen/OBC/EWS: 100/-, Others: 0/-",
+        "paymentMode": [
+            "Online Mode"
+        ],
+        "importantDates": {
+            "Exam Date": "07-12 January 2026",
+            "Admit Card": "02/03 Days Before Exam",
+            "Slot Selection": "05/12/2025 - 05/01/2026"
+        },
+        "importantLinks": {
+            "Official Website": "https://ssc.gov.in/"
+        },
+        "vacancyDetails": {
+            "Total Posts": "509"
+        },
+        "customSections": [
+            {
+                "title": "Vacancy Breakup",
+                "items": {
+                    "Male": "341",
+                    "Female": "168"
+                }
+            }
+        ]
+    },
+    {
         "id": "sebi-assistant-manager-phase-i-admit-card-2025",
         "createdAt": "2026-01-03T20:00:00.000Z",
         "updatedAt": "2026-01-03T20:00:00.000Z",

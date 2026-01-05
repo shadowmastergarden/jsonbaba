@@ -1,10 +1,16 @@
 # SHADOWJOBS.IN - EXISTING CONTENT DATABASE
-## Last Updated: 03 January 2026, 08:30 PM
+## Last Updated: 05 January 2026, 02:00 PM
 
 ===============================================================================
                          LATEST JOBS ON SHADOWJOBS.IN
 ===============================================================================
-1. JKSSB 1815 Police Constable Online Form 2025
+1. Hisar Court 52 Clerk, Steno Offline Form
+2. Haryana HTET 2025 Apply Online Form
+3. HP SET (State Eligibility Test) Online Form 2026
+4. UP Police Assistant Operator Correction Form
+5. BPSSC 64 Havildar Clerk Vacancy Online Form
+6. NALCO Graduate Engineer Trainee Online Form
+7. JKSSB 1815 Police Constable Online Form 2025
 2. JKSSB 13/2025 Various Posts Online Form
 3. RRB (9/2025) 22000 Group D Post Online Form
 4. HSSC 5500 Police Constable Online Form 2026
@@ -83,13 +89,15 @@
 60. SBI Bank SO Recruitment 2026
 61. CBSE CTET February Examination 2026
 62. RITES Assistant Manager Recruitment 2025
-63. RRB Junior Engineer (JE) Recruitment 2025
 
 ===============================================================================
                        ADMIT CARDS ON SHADOWJOBS.IN
 ===============================================================================
-Total Admit Cards: 57
+Total Admit Cards: 60
 
+- RRB Group D Vacancy Exam City/ Admit Card
+- Delhi Police HC (Min.) Exam City/ Admit Card
+- SSC CHTE 2025 Vacancy Paper-II Exam City
 1. SEBI Assistant Manager Phase-I Admit Card
 2. BHEL 515 Artisan Post Re-Exam Admit Card
 1. OICL Assistant RLT Exam Date 2025
@@ -133,7 +141,7 @@ Total Admit Cards: 57
 25. BSHS 5006 ANM Vacancy Exam Admit Card
 26. BSHS 220 Ophthalmic Assistant Admit Card
 27. EMRS 7267 Teaching, Non-Teaching Admit Card
-28. RRB 3445 NTPC (12th Level) CBT-II Exam City
+28. RRB 3445 NTPC (12th Level) CBT-2 Exam City
 29. MPESB Subedar (Steno), ASI (Mini.) Admit Card
 30. UPSSSC Asst. Store Keeper Typing Admit Card
 31. IBPS PO / MT XV Interview Admit Card 2025
@@ -150,13 +158,14 @@ Total Admit Cards: 57
 42. Kolkata Police 3734 Constable Pre Admit Card
 43. RPSC 574 Assistant Professor Exam Admit Card
 44. Rajasthan Police Constable PET/PST Admit Card
-45. SSC CHTE 2025 Vacancy Paper-II Exam City
 
 ===============================================================================
                        ANSWER KEYS ON SHADOWJOBS.IN
 ===============================================================================
-Total Answer Keys: 29
+Total Answer Keys: 31
 
+- PSSSB Various Vacancy Final Answer Key
+- Haryana HTET 2024 Result, Final Answer Key
 1. ECIL Graduate Engineer Trainee Answer Key
 2. SSC Stenographer Final Answer Key, Marks
 3. Bihar Parishad Driver, Attendant Answer Key
@@ -190,13 +199,14 @@ Total Answer Keys: 29
 23. RSSB 500 Conductor Exam Answer Key 2025
 24. RSSB 850 VDO Vacancy Exam Answer Key
 25. UPSSSC 709 Forest Guard Exam Answer Key
-26. Haryana HTET 2024 Result, Final Answer Key
 
 ===============================================================================
                          RESULTS ON SHADOWJOBS.IN
 ===============================================================================
-Total Results: 60
+Total Results: 61
 
+- IB Jr Intelligence Officer (Tech.) Exam Result
+- UPPSC PCS (200 Post) Pre Exam Result 2025
 1. HPTET November 2025 Exam Result
 2. UPSSSC 157 Eye Testing Officer Final Result
 1. IBPS RRB 13th Reserve List 2025
@@ -259,23 +269,22 @@ Total Results: 60
 35. HPSC 29 AEE Vacancy SKT Exam Result 2025
 36. HPSC Scientist-B (Group-B) SKT Exam Result
 37. Navy HQ AN 362 Tradesman Exam Result
-38. UPPSC PCS (200 Post) Pre Exam Result 2025
 
 ===============================================================================
 ===============================================================================
                       CURRENT AFFAIRS ON SHADOWJOBS.IN
 ===============================================================================
-Total Days Tracked: 20 (Recently Added)
-
-1. Current Affairs - 03 January 2026
-2. Current Affairs - 02 January 2026
-3. Current Affairs - 01 January 2026
-1. Current Affairs - 31 December 2025
-2. Current Affairs - 30 December 2025
-3. Current Affairs - 29 December 2025
-3. Current Affairs - 28 December 2025
-2. Current Affairs - 27 December 2025
-2. Current Affairs - 26 December 2025
+1. Current Affairs - 05 January 2026
+2. Current Affairs - 04 January 2026
+3. Current Affairs - 03 January 2026
+4. Current Affairs - 02 January 2026
+5. Current Affairs - 01 January 2026
+6. Current Affairs - 31 December 2025
+7. Current Affairs - 30 December 2025
+8. Current Affairs - 29 December 2025
+9. Current Affairs - 28 December 2025
+10. Current Affairs - 27 December 2025
+11. Current Affairs - 26 December 2025
 3. Current Affairs - 25 December 2025
 2. Current Affairs - 24 December 2025
 3. Current Affairs - 23 December 2025
@@ -334,9 +343,9 @@ Total Admit Cards: 59
 Total Answer Keys: 32
 Total Results:     62
 Total Exam Dates:  23
-Total CA Days:     23
+Total CA Days:     25
 ------------------------------
-GRAND TOTAL:      275 items
+GRAND TOTAL:      277 items
 
 ===============================================================================
                               USAGE NOTES
