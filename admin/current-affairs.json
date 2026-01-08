@@ -1,5 +1,116 @@
 [
   {
+    "id": "2026-01-08",
+    "slug": "2026-01-08",
+    "date": "2026-01-08",
+    "current_affairs": [
+      {
+        "topic": "National: India First to Produce Bio-Bitumen from Rice Straw",
+        "english": "India has achieved a global milestone by becoming the first country to commercially produce bio-bitumen for road construction using agricultural residues like rice straw, aiding in 'Clean, Green Highways'.",
+        "hindi": "भारत चावल की भूसी जैसे कृषि अवशेषों का उपयोग करके सड़क निर्माण के लिए बायो-बिटुमेन का व्यावसायिक उत्पादन करने वाला दुनिया का पहला देश बन गया है, जो 'स्वच्छ, हरित राजमार्ग' में सहायता करेगा।",
+        "bengali": "ভারত ধানের খড়ের মতো কৃষি অবশিষ্টাংশ ব্যবহার করে রাস্তা নির্মাণের জন্য বায়ো-বিটুমেনের বাণিজ্যিক উৎপাদনকারী বিশ্বের প্রথম দেশে পরিণত হয়েছে, যা 'স্বচ্ছ, সবুজ মহাসড়ক'-এ সহায়তা করবে।"
+      },
+      {
+        "topic": "National: Govt Issues Notification for Census of India 2027",
+        "english": "The Centre has issued the notification for the Census of India 2027. The houselisting and housing census phase will begin in April 2026, followed by population enumeration in 2027.",
+        "hindi": "केंद्र सरकार ने भारत की जनगणना 2027 के लिए अधिसूचना जारी कर दी है। मकान सूचीकरण और आवास जनगणना का चरण अप्रैल 2026 में शुरू होगा, जिसके बाद 2027 में जनसंख्या की गिनती होगी।",
+        "bengali": "কেন্দ্র সরকার ২০২৭ সালের ভারতের আদমশুমারির জন্য বিজ্ঞপ্তি জারি করেছে। এপ্রিল ২০২৬-এ বাড়ি তালিকাভুক্তি এবং আবাসন আদমশুমারি শুরু হবে, এরপর ২০২৭-এ জনসংখ্যা গণনা হবে।"
+      },
+      {
+        "topic": "Defence: 'Mission Sudarshan Chakra' Launched for Anti-Drone Defence",
+        "english": "India has launched 'Mission Sudarshan Chakra' to build a comprehensive, multi-layered air defense shield specifically designed to counter aerial threats from hostile drones.",
+        "hindi": "भारत ने दुश्मन के ड्रोन से होने वाले हवाई खतरों का मुकाबला करने के लिए एक व्यापक, बहु-स्तरीय वायु रक्षा कवच बनाने हेतु 'मिशन सुदर्शन चक्र' शुरू किया है।",
+        "bengali": "শত্রু ড্রোন থেকে আসা আকাশপথে হুমকির মোকাবিলা করার জন্য একটি ব্যাপক, বহু-স্তরের আকাশ প্রতিরক্ষা ঢাল তৈরি করতে ভারত 'মিশন সুদর্শন চক্র' চালু করেছে।"
+      },
+      {
+        "topic": "Environment: Keyi Panyor to be India's First Bio-Happy District",
+        "english": "Keyi Panyor district in Arunachal Pradesh is set to become India's first 'Bio-Happy District', pioneering a model that integrates biodiversity conservation with human well-being.",
+        "hindi": "अरुणाचल प्रदेश का केयी पान्योर जिला भारत का पहला 'बायो-हैप्पी जिला' बनने के लिए तैयार है, जो मानव कल्याण के साथ जैव विविधता संरक्षण को एकीकृत करने वाले मॉडल की शुरुआत करेगा।",
+        "bengali": "অরুণাচল প্রদেশের কেই পানিয়র জেলা ভারতের প্রথম 'বায়ো-হ্যাপি জেলা' হতে চলেছে, যা মানব কল্যাণের সাথে জীববৈচিত্র্য সংরক্ষণের একটি মডেল প্রবর্তন করবে।"
+      },
+      {
+        "topic": "International: UN Declares 2026 as Year of Rangelands and Pastoralists",
+        "english": "The United Nations has declared 2026 as the International Year for Rangelands and Pastoralists to raise global awareness about the ecological importance of grasslands and savannas.",
+        "hindi": "संयुक्त राष्ट्र ने घास के मैदानों और सवाना के पारिस्थितिक महत्व के बारे में वैश्विक जागरूकता बढ़ाने के लिए 2026 को 'रेंजलैंड्स और चरवाहों का अंतर्राष्ट्रीय वर्ष' घोषित किया है।",
+        "bengali": "তৃণভূমি এবং সাভানার পরিবেশগত গুরুত্ব সম্পর্কে বিশ্বব্যাপী সচেতনতা বাড়াতে রাষ্ট্রসংঘ ২০২৬ সালকে 'তৃণভূমি ও পশুপালকদের আন্তর্জাতিক বর্ষ' হিসেবে ঘোষণা করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-07",
+    "slug": "2026-01-07",
+    "date": "2026-01-07",
+    "current_affairs": [
+      {
+        "topic": "National: Indian Railways World's Largest Electrified Network",
+        "english": "Indian Railways has become the largest electrified rail network globally, with approximately 99.2% of its broad-gauge network electrified, marking a major green milestone.",
+        "hindi": "भारतीय रेलवे दुनिया का सबसे बड़ा विद्युतीकृत रेल नेटवर्क बन गया है, जिसका लगभग 99.2% ब्रॉड-गेज नेटवर्क विद्युतीकृत हो चुका है, जो एक प्रमुख हरित उपलब्धि है।",
+        "bengali": "ভারতীয় রেল বিশ্বের বৃহত্তম বৈদ্যুতিক রেল নেটওয়ার্কে পরিণত হয়েছে, যার ব্রড-গেজ নেটওয়ার্কের প্রায় ৯৯.২% বৈদ্যুতিকরণ করা হয়েছে, যা একটি বড় পরিবেশগত মাইলফলক।"
+      },
+      {
+        "topic": "State: Haryana to Launch India's First Hydrogen-Powered Train",
+        "english": "Haryana is set to launch India's first hydrogen-powered train on the Jind–Sonipat route as a pilot project, pushing towards eco-friendly public transport.",
+        "hindi": "हरियाणा पर्यावरण के अनुकूल सार्वजनिक परिवहन को बढ़ावा देने के लिए एक पायलट प्रोजेक्ट के रूप में जींद-सोनीपत मार्ग पर भारत की पहली हाइड्रोजन से चलने वाली ट्रेन शुरू करने के लिए तैयार है।",
+        "bengali": "পরিবেশ-বান্ধব গণপরিবহণের দিকে একটি পদক্ষেপ হিসেবে হরিয়ানা জিন্দ-সোনিপথ রুটে ভারতের প্রথম হাইড্রোজেন-চালিত ট্রেন চালু করতে প্রস্তুত।"
+      },
+      {
+        "topic": "Education: Assam Launches 'Sanskaar Shaala' Initiative",
+        "english": "The Assam government has launched 'Sanskaar Shaala', an initiative focused on imparting value-based education and traditional wisdom to children aged four to fourteen.",
+        "hindi": "असम सरकार ने 'संस्कार शाला' शुरू की है, जो चार से चौदह वर्ष की आयु के बच्चों को मूल्य-आधारित शिक्षा और पारंपरिक ज्ञान प्रदान करने पर केंद्रित एक पहल है।",
+        "bengali": "আসাম সরকার 'সংস্কার শালা' চালু করেছে, যা চার থেকে চৌদ্দ বছর বয়সী শিশুদের মূল্যবোধ-ভিত্তিক শিক্ষা এবং ঐতিহ্যগত জ্ঞান প্রদানের উপর একটি উদ্যোগ।"
+      },
+      {
+        "topic": "Economy: Govt Unveils ₹17 Lakh Crore PPP Project Pipeline",
+        "english": "The Centre has unveiled a three-year Public Private Partnership (PPP) project pipeline valued at over ₹17 lakh crore to boost infrastructure across various sectors.",
+        "hindi": "केंद्र सरकार ने विभिन्न क्षेत्रों में बुनियादी ढांचे को बढ़ावा देने के लिए ₹17 लाख करोड़ से अधिक मूल्य की तीन साल की सार्वजनिक निजी भागीदारी (पीपीपी) परियोजना पाइपलाइन का अनावरण किया है।",
+        "bengali": "কেন্দ্র বিভিন্ন খাতে পরিকাঠামো বাড়াতে ১৭ লক্ষ কোটি টাকারও বেশি মূল্যের তিন বছরের পাবলিক প্রাইভেট পার্টনারশিপ (পিপিপি) প্রজেক্ট পাইপলাইন উন্মোচন করেছে।"
+      },
+      {
+        "topic": "International: Ukraine, UK and France Sign Defence Declaration",
+        "english": "Ukraine, the UK, and France have signed a declaration in Paris committing to deploy multinational forces to support Ukraine's defense and strategic stability.",
+        "hindi": "यूक्रेन, यूके और फ्रांस ने पेरिस में एक घोषणा पत्र पर हस्ताक्षर किए हैं, जिसमें यूक्रेन की रक्षा और रणनीतिक स्थिरता के समर्थन में बहुराष्ट्रीय सेना तैनात करने की प्रतिबद्धता जताई गई है।",
+        "bengali": "ইউক্রেন, যুক্তরাজ্য এবং ফ্রান্স প্যারিসে একটি ঘোষণাপত্রে স্বাক্ষর করেছে, যেখানে ইউক্রেনের প্রতিরক্ষা এবং কৌশলগত স্থিতিশীলতাকে সমর্থন করার জন্য বহুজাতিক বাহিনী মোতায়েন করার প্রতিশ্রুতি দেওয়া হয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-06",
+    "slug": "2026-01-06",
+    "date": "2026-01-06",
+    "current_affairs": [
+      {
+        "topic": "Ref Defence: Indian Army Declares 2026 'Year of Networking & Data'",
+        "english": "The Indian Army has designated 2026 as the 'Year of Networking and Data Centricity' to enhance preparedness for future conflicts by leveraging AI and data capabilities.",
+        "hindi": "भारतीय सेना ने एआई और डेटा क्षमताओं का लाभ उठाकर भविष्य के संघर्षों के लिए तैयारी बढ़ाने हेतु 2026 को 'नेटवर्किंग और डेटा केंद्रितता वर्ष' घोषित किया है।",
+        "bengali": "এআই এবং ডেটা সক্ষমতাকে কাজে লাগিয়ে ভবিষ্যতের সংঘাতের জন্য প্রস্তুতি বাড়াতে ভারতীয় সেনাবাহিনী ২০২৬ সালকে 'নেটওয়ার্কিং এবং ডেটা সেন্ট্রিসিটি বর্ষ' হিসেবে ঘোষণা করেছে।"
+      },
+      {
+        "topic": "Agriculture: India Becomes World's Largest Rice Producer",
+        "english": "India has surpassed China to become the world's largest producer of rice, achieving a record output of approximately 150 million tonnes.",
+        "hindi": "भारत लगभग 150 मिलियन टन का रिकॉर्ड उत्पादन हासिल करते हुए चीन को पछाड़कर दुनिया का सबसे बड़ा चावल उत्पादक बन गया है।",
+        "bengali": "প্রায় ১৫০ মিলিয়ন টন রেকর্ড উৎপাদনের মাধ্যমে চীনকে টপকে ভারত বিশ্বের বৃহত্তম চাল উৎপাদনকারী দেশে পরিণত হয়েছে।"
+      },
+      {
+        "topic": "International: US Arrests Venezuelan President Maduro",
+        "english": "In a major geopolitical development, the US has arrested Venezuelan leader Nicolás Maduro under 'Operation Absolute Resolve', citing drug trafficking charges.",
+        "hindi": "एक बड़े भू-राजनीतिक घटनाक्रम में, अमेरिका ने मादक पदार्थों की तस्करी के आरोपों का हवाला देते हुए 'ऑपरेशन एब्सोल्यूट रिजॉल्यूशन' के तहत वेनेजुएला के नेता निकोलस मादुरो को गिरफ्तार किया है।",
+        "bengali": "একটি বড় ভূ-রাজনৈতিক ঘটনায়, আমেরিকা মাদক পাচারের অভিযোগ এনে 'অপারেশন অ্যাবসোলিউট রিজল্ভ'-এর অধীনে ভেনিজুয়েলার নেতা নিকোলাস মাদুরোকে গ্রেপ্তার করেছে।"
+      },
+      {
+        "topic": "Culture: First Jallikattu of 2026 Begins in Tamil Nadu",
+        "english": "The traditional bull-taming sport, Jallikattu, kicked off its 2026 season with the first event held in Thatchankurichi, Tamil Nadu, amidst traditional fervor.",
+        "hindi": "पारंपरिक सांडों को काबू करने वाला खेल, जल्लीकट्टू, पारंपरिक उत्साह के बीच तमिलनाडु के थचनकुरिची में आयोजित पहले कार्यक्रम के साथ अपने 2026 सीज़न की शुरुआत कर चुका है।",
+        "bengali": "ঐতিহ্যবাহী ষাঁড় নিবানোর খেলা, জাল্লিকাট্টু, তামিলনাড়ুর থাচানকুড়ুচিতে অনুষ্ঠিত প্রথম ইভেন্টের মাধ্যমে তার ২০২৬ মরসুম শুরু করেছে।"
+      },
+      {
+        "topic": "Environment: India Inaugurates 2nd National Environmental Lab",
+        "english": "India inaugurated its second National Environmental Standard Laboratory (NESL) at CSIR-NPL in New Delhi to strengthen environmental monitoring standards.",
+        "hindi": "भारत ने पर्यावरण निगरानी मानकों को मजबूत करने के लिए नई दिल्ली में सीएसआईआर-एनपीएल में अपनी दूसरी राष्ट्रीय पर्यावरण मानक प्रयोगशाला (एनईएसएल) का उद्घाटन किया।",
+        "bengali": "পরিবেশগত নজরদারির মান শক্তিশালী করার জন্য ভারত নতুন দিল্লিতে সিএসআইআর-এনপিএল-এ তার দ্বিতীয় জাতীয় পরিবেশগত মান ল্যাবরেটরি (এনইএসএল) উদ্বোধন করেছে।"
+      }
+    ]
+  },
+  {
     "id": "2026-01-05",
     "slug": "2026-01-05",
     "date": "2026-01-05",
