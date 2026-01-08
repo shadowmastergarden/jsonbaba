@@ -1,5 +1,794 @@
 [
   {
+    "id": "army-ssc-tech-67th-women-2026",
+    "createdAt": "2026-01-08T16:30:00.000Z",
+    "updatedAt": "2026-01-08T16:30:00.000Z",
+    "title": "Indian Army SSC Technical 38th Course (Women) Recruitment 2026",
+    "description": "Indian Army ne unmarried Female Engineering Candidates ke liye Short Service Commission (SSC) Technical 38th Course (Oct 2026) ke liye online aavedan aamantrit kiye hain.",
+    "totalPosts": "Check Notification",
+    "educationalQualifications": "BE / B.Tech in Any Stream / Related Stream or Graduation",
+    "ageLimit": "20-27 Years",
+    "applicationFee": "No Fee",
+    "paymentMode": [
+      "No Fee"
+    ],
+    "importantDates": {
+      "Starting Date": "06/01/2026",
+      "Last Date": "04/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://joinindianarmy.nic.in/Default.aspx?id=363&lg=eng&",
+      "Official Website": "https://joinindianarmy.nic.in/index.htm"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "SSC (Technical)": "B.E / B.Tech in Related Stream",
+          "SSCW (Tech)": "B.E / B.Tech in any Stream",
+          "SSCW (Non-Tech)": "Graduation in any Discipline"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bank-of-india-400-apprentice-2025",
+    "createdAt": "2026-01-08T16:30:00.000Z",
+    "updatedAt": "2026-01-08T16:30:00.000Z",
+    "title": "Bank of India 400 Apprentice Recruitment 2025",
+    "description": "Bank of India ne Apprentice ke 400 padon par bharti ke liye notification jaari kiya hai. Ye bharti NATS portal ke madhyam se hogi.",
+    "totalPosts": "400",
+    "educationalQualifications": "Graduate in any Field + Local Language Knowledge",
+    "ageLimit": "20-28 Years",
+    "applicationFee": "Rs. 800/- (Gen/OBC/EWS), Rs. 600/- (SC/ST/Female), Rs. 400/- (PH)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "25/12/2025",
+      "Last Date": "10/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://nats.education.gov.in/",
+      "Official Website": "https://bankofindia.co.in/career/recruitment-notice"
+    },
+    "vacancyDetails": {
+      "Total Posts": "400"
+    },
+    "customSections": [
+      {
+        "title": "Selection Process",
+        "items": {
+          "1": "Written Exam",
+          "2": "Local Language Test",
+          "3": "Document Verification"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bombay-high-court-clerk-peon-driver-recruitment-2025",
+    "createdAt": "2026-01-08T15:30:00.000Z",
+    "updatedAt": "2026-01-08T15:30:00.000Z",
+    "title": "Bombay High Court Clerk, Peon, Driver & Stenographer Recruitment 2025",
+    "description": "Bombay High Court ne Clerk, Peon, Hamal, Driver aur Stenographer ke vibhinn padon par bharti ke liye online aavedan aamantrit kiye hain. Ye bharti Bombay High Court aur uski benches (Nagpur aur Aurangabad) ke liye hai.",
+    "totalPosts": "2331",
+    "educationalQualifications": "7th / 10th / Graduate + Typing/Steno",
+    "ageLimit": "18-38 Years",
+    "applicationFee": "Rs. 1000/-",
+    "paymentMode": [
+      "Online Mode (SBI Collect)"
+    ],
+    "importantDates": {
+      "Starting Date": "15/12/2025",
+      "Last Date": "16/01/2026 (Extended)"
+    },
+    "importantLinks": {
+      "Apply Online": "https://bombayhighcourt.nic.in/recruitment.php",
+      "Official Website": "https://bombayhighcourt.nic.in/recruitment.php"
+    },
+    "vacancyDetails": {
+      "Total Posts": "2331"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Clerk": "Graduate + English Typing (40 wpm) + Computer Certificate",
+          "Peon / Hamal": "7th Class Passed + Physical Fitness",
+          "Staff Car Driver": "10th Passed + LMV License + 3 Years Exp.",
+          "Stenographer (Lower)": "Graduate + English Shorthand 80 wpm + English Typing 40 wpm",
+          "Stenographer (Higher)": "Graduate + English Shorthand 100 wpm + English Typing 40 wpm"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Clerk": "1332",
+          "Peon / Hamal": "887",
+          "Steno (Lower Grade)": "56",
+          "Staff Car Driver": "37",
+          "Steno (Higher Grade)": "19",
+          "Total": "2331"
+        }
+      },
+      {
+        "title": "Application Fees",
+        "items": {
+          "All Candidates": "Rs. 1000/-"
+        }
+      }
+    ]
+  },
+  {
+    "id": "indian-army-ssc-tech-67th-men-2026",
+    "createdAt": "2026-01-08T16:30:00.000Z",
+    "updatedAt": "2026-01-08T16:30:00.000Z",
+    "title": "Indian Army SSC Technical 67th Course (Men) Recruitment 2026",
+    "description": "Indian Army ne unmarried Male Engineering Candidates ke liye Short Service Commission (SSC) Technical 67th Course (Oct 2026) ke liye online aavedan aamantrit kiye hain.",
+    "totalPosts": "Check Notification",
+    "educationalQualifications": "BE / B.Tech in Related Stream",
+    "ageLimit": "20-27 Years",
+    "applicationFee": "No Fee",
+    "paymentMode": [
+      "No Fee"
+    ],
+    "importantDates": {
+      "Starting Date": "07/01/2026",
+      "Last Date": "05/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://joinindianarmy.nic.in/Default.aspx?id=363&lg=eng&",
+      "Official Website": "https://joinindianarmy.nic.in/index.htm"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "customSections": [
+      {
+        "title": "Selection Process",
+        "items": {
+          "1": "Shortlisting of Applications",
+          "2": "SSB Interview (April-June 2026)",
+          "3": "Medical Examination"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jkpsc-medical-officer-recruitment-2026",
+    "createdAt": "2026-01-08T15:50:00.000Z",
+    "updatedAt": "2026-01-08T15:50:00.000Z",
+    "title": "JKPSC Medical Officer (Allopathic) Recruitment 2026",
+    "description": "Jammu & Kashmir Public Service Commission (JKPSC) ne Health & Medical Education Department mein Medical Officer (Allopathic) ke 480 padon par bharti ke liye notification jaari kiya hai.",
+    "totalPosts": "480",
+    "educationalQualifications": "MBBS Degree",
+    "ageLimit": "Max 40 Years",
+    "applicationFee": "Rs. 1200/- (Gen), Rs. 700/- (Reserved)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "05/01/2026",
+      "Last Date": "04/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://jkpsc.nic.in/home.html",
+      "Official Website": "https://jkpsc.nic.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "480"
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "OM": "192",
+          "RBA": "48",
+          "SC": "38",
+          "ST1": "48",
+          "ST2": "48",
+          "ALC/IB": "19",
+          "OBC": "39",
+          "EWS": "48",
+          "Total": "480"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Max Age": "40 Years",
+          "Calculate on": "01/01/2025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jssc-special-teacher-recruitment-2025",
+    "createdAt": "2026-01-08T15:50:00.000Z",
+    "updatedAt": "2026-01-08T15:50:00.000Z",
+    "title": "JSSC Special Assistant Teacher Recruitment 2025 (3451 Posts)",
+    "description": "Jharkhand Staff Selection Commission (JSSC) ne Special Assistant Teacher (Intermediate and Graduate Trained) ke 3451 padon par bharti ke liye aavedan aamantrit kiye hain.",
+    "totalPosts": "3451",
+    "educationalQualifications": "12th / Graduate + Special Education Degree/Diploma + JTET",
+    "ageLimit": "21-40 Years",
+    "applicationFee": "Rs. 100/- (Gen/OBC/EWS)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "14/12/2025",
+      "Last Date": "05/02/2026 (Extended)"
+    },
+    "importantLinks": {
+      "Apply Online": "https://jigtseatcce25.com/",
+      "Official Website": "https://jssc.jharkhand.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "3451"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Intermediate Trained Teacher (Class 1-5)": "12th Passed + 2 Years D.Ed (Special Education) + JTET Passed",
+          "Graduate Trained Teacher (Class 6-8)": "Graduate + B.Ed (Special Education) + JTET Passed"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Intermediate Trained (Class 1-5)": "2399",
+          "Graduate Trained (Science/Math)": "352",
+          "Graduate Trained (Language)": "To be notified",
+          "Graduate Trained (Social Science)": "To be notified"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mp-anganwadi-worker-helper-online-form-2026",
+    "createdAt": "2026-01-08T15:40:00.000Z",
+    "updatedAt": "2026-01-08T15:40:00.000Z",
+    "title": "MP Anganwadi Worker & Helper Recruitment 2026 (4767 Posts)",
+    "description": "Madhya Pradesh mein Mahila Bal Vikas Vibhag ne 4767 Anganwadi Workers aur Helpers ke padon par bharti ke liye aavedan maange hain. Ye bharti 12th pass mahilaon ke liye hai jo ussi ward/village ki nivasi hain.",
+    "totalPosts": "4767",
+    "educationalQualifications": "12th Pass + Local Resident",
+    "ageLimit": "18-35 Years",
+    "applicationFee": "Rs. 118/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "31/12/2025",
+      "Last Date": "10/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://chayan.mponline.gov.in/Portal/Services/WCDR/links.aspx?langid=en-US&Post=PH",
+      "Official Notification": "https://chayan.mponline.gov.in/img/WCD/PH2/AWW-AWH%20Recruitment%20Phase-2%20(29-12-2025).pdf",
+      "Official Website": "https://chayan.mponline.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "4767"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Education": "12th Class Passed",
+          "Residency": "Applicant must be a resident of the same ward in the Village / Urban area where the vacancy exists."
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "1": "Merit List Based on Marks",
+          "2": "Document Verification"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mp-apex-bank-recruitment-2026",
+    "createdAt": "2026-01-08T16:00:00.000Z",
+    "updatedAt": "2026-01-08T16:00:00.000Z",
+    "title": "MP Apex Bank Recruitment 2026 for Banking Assistant & Other Posts",
+    "description": "MP Rajya Sahakari Bank Mydt (Apex Bank) ne Officer Grade, Computer Operator, aur Society Manager ke 2076 padon par bharti ke liye notification jaari kiya hai.",
+    "totalPosts": "2076",
+    "educationalQualifications": "Graduate / PG / MBA / MCA / BE",
+    "ageLimit": "18-35 Years",
+    "applicationFee": "Rs. 850/- to Rs. 1100/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "06/01/2026",
+      "Last Date": "05/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online (Officer)": "https://ibpsreg.ibps.in/mprsbbooct25",
+      "Apply Online (Clerk/Manager)": "https://ibpsreg.ibps.in/mprsboct25",
+      "Official Website": "http://apexbankmp.bank.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "2076"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Computer Operator / Society Manager": "Graduate + Hindi/English Typing + 1 Year Computer Diploma",
+          "Computer Programmer-I": "BE/B.Tech/M.Sc(CS/IT)/MCA + 2 Years Exp",
+          "Accountant/Financial Analyst": "MBA/CA/ICWA/PG + Exp",
+          "Branch Manager": "MBA/PG + 1 Year Exp"
+        }
+      },
+      {
+        "title": "Application Fees",
+        "items": {
+          "Officer Grade (Gen/OBC/EWS)": "Rs. 1100/-",
+          "Officer Grade (SC/ST/PH)": "Rs. 800/-",
+          "Clerk/Manager (Gen/OBC/EWS)": "Rs. 850/-",
+          "Clerk/Manager (SC/ST/PH)": "Rs. 650/-"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mpesb-group-1-sub-group-2-recruitment-2025",
+    "createdAt": "2026-01-08T16:00:00.000Z",
+    "updatedAt": "2026-01-08T16:00:00.000Z",
+    "title": "MPESB Group-1 Sub Group-2 Recruitment 2025 (474 Posts)",
+    "description": "Madhya Pradesh Employees Selection Board (MPESB) ne Group-1 Sub Group-2 ke antargat vibhinn padon par bharti ke liye aavedan maange hain.",
+    "totalPosts": "474",
+    "educationalQualifications": "PG Degree in Relevant Subject",
+    "ageLimit": "18-40 Years",
+    "applicationFee": "Rs. 500/- (Gen), Rs. 250/- (Reserved)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "24/12/2025",
+      "Last Date": "13/01/2026 (Extended)",
+      "Exam Date": "10/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+      "Official Website": "https://esb.mp.gov.in/e_default.html"
+    },
+    "vacancyDetails": {
+      "Total Posts": "474"
+    },
+    "customSections": [
+      {
+        "title": "Application Fees",
+        "items": {
+          "General": "Rs. 500/-",
+          "SC/ST/OBC/EWS/PH": "Rs. 250/-",
+          "Portal Charge": "Extra"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mumbai-income-tax-vacancy-online-form-2026",
+    "createdAt": "2026-01-08T15:30:00.000Z",
+    "updatedAt": "2026-01-08T15:30:00.000Z",
+    "title": "Mumbai Income Tax MTS, Stenographer & Tax Assistant Recruitment 2026",
+    "description": "Income Tax Department, Mumbai ne Sports Quota ke antargat Multi Tasking Staff (MTS), Stenographer aur Tax Assistant ke padon par bharti ke liye notification jaari kiya hai. Ye bharti 10th aur Graduate pass ummidwaron ke liye hai jinhone sports mein pratinidhitva kiya ho.",
+    "totalPosts": "50+ Posts",
+    "educationalQualifications": "10th / 12th / Graduate + Sports Qualification",
+    "ageLimit": "18-27 Years (Post Wise)",
+    "applicationFee": "Rs. 200/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "07/01/2026",
+      "Last Date": "31/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://www.mumbai-itax-sportsrecr26.com/",
+      "Official Website": "https://www.incometaxmumbai.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "50+"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Tax Assistant": "Degree from a recognized University + Data Entry Speed 8000 Key depressions per hour + Sports Qualification",
+          "Stenographer Gr. II": "12th Class pass + Dictation: 10 mts @ 80 wpm, Transcription: 50 mts (Eng) / 65 mts (Hindi) + Sports Qualification",
+          "Multi Tasking Staff (MTS)": "Matriculation (10th) pass or equivalent + Sports Qualification"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "MTS": "18-25 Years",
+          "Tax Assistant / Steno": "18-27 Years",
+          "Calculate on": "01/01/2026",
+          "Relaxation": "As per Rules"
+        }
+      },
+      {
+        "title": "Post Wise Vacancies",
+        "items": {
+          "Stenographer Grade-II": "12",
+          "Multi Tasking Staff": "38",
+          "Tax Assistant": "Check Notification"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nta-nchm-jee-2026",
+    "createdAt": "2026-01-08T16:30:00.000Z",
+    "updatedAt": "2026-01-08T16:30:00.000Z",
+    "title": "NTA NCHM JEE 2026 Admission Online Form",
+    "description": "National Testing Agency (NTA) ne National Council for Hotel Management Joint Entrance Examination (NCHM JEE) 2026 ke liye online aavedan aamantrit kiye hain.",
+    "totalPosts": "Admission",
+    "educationalQualifications": "12th Class Passed with English as Compulsory Subject",
+    "ageLimit": "No Age Limit",
+    "applicationFee": "Rs. 1000/- (Gen/OBC), Rs. 700/- (Gen-EWS), Rs. 450/- (SC/ST/PH)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "26/12/2025",
+      "Last Date": "25/01/2026",
+      "Exam Date": "25/04/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://examinationservices.nic.in/examsys2026/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFQlBQayGFQnhy+HS+qvyGGtkXA93AAkir92kAAgiEQHx",
+      "Official Website": "https://exams.nta.nic.in/nchm-jee/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Admission Test"
+    },
+    "customSections": [
+      {
+        "title": "Exam Pattern",
+        "items": {
+          "Duration": "02 Hours",
+          "Negative Marking": "1/4th",
+          "Type": "Objective Type (CBT)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "osssc-1518-forest-guard-constable-form-2026",
+    "createdAt": "2026-01-08T15:40:00.000Z",
+    "updatedAt": "2026-01-08T15:40:00.000Z",
+    "title": "OSSSC Forest Guard, Forester & Excise Constable Recruitment 2026",
+    "description": "Odisha Sub-Ordinate Staff Selection Commission (OSSSC) ne CRE-II ke madhyam se Forest Guard, Forester aur Excise Constable ke 1518 padon par bharti ke liye notification jaari kiya hai.",
+    "totalPosts": "1518",
+    "educationalQualifications": "10th / 12th Pass",
+    "ageLimit": "18-32 Years / 21-32 Years",
+    "applicationFee": "Rs. 500/- (Exempt for SC/ST)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "07/01/2026",
+      "Registration Last Date": "31/01/2026",
+      "Form Submission Last Date": "07/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://www.osssc.gov.in/Public/OSSSC/Default.aspx",
+      "Official Website": "https://osssc.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "1518"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Forester": "12th Class Passed + Basic Computer Knowledge",
+          "Forest Guard": "10th Class Passed",
+          "Excise Constable": "12th Class Passed"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Excise Constable": "21-32 Years",
+          "Forester / Forest Guard": "18-32 Years",
+          "Calculate on": "01/01/2025"
+        }
+      },
+      {
+        "title": "Pay Scale",
+        "items": {
+          "Forester": "Level-7 (Rs. 25500-81100)",
+          "Forest Guard": "Level-4 (Rs. 19900-63200)",
+          "Excise Constable": "Level-4 (Rs. 19900-63200)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "osssc-cre-3250-various-posts-online-form-2026",
+    "createdAt": "2026-01-08T15:30:00.000Z",
+    "updatedAt": "2026-01-08T15:30:00.000Z",
+    "title": "OSSSC CRE Recruitment 2026 for RI, ARI, Amin & Other Posts",
+    "description": "Odisha Sub-Ordinate Staff Selection Commission (OSSSC) ne Combined Recruitment Examination (CRE) 2026 ke madhyam se Revenue Inspector (RI), Assistant Revenue Inspector (ARI), Amin, ICDS Supervisor aur anya padon par bharti ke liye notification jaari kiya hai.",
+    "totalPosts": "3250",
+    "educationalQualifications": "12th / Graduate",
+    "ageLimit": "20-42 / 21-42 Years",
+    "applicationFee": "Rs. 500/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "07/01/2026",
+      "Registration Last Date": "31/01/2026",
+      "Form Submission Last Date": "07/02/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://www.osssc.gov.in/Public/OSSSC/Default.aspx",
+      "Official Website": "https://osssc.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "3250"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "Revenue Inspector (RI)": "Bachelor Degree + Computer Knowledge",
+          "Assistant Revenue Inspector (ARI)": "Bachelor Degree or Equivalent",
+          "ICDS Supervisor": "Bachelor Degree in any discipline",
+          "Amin": "12th Pass + Amin Training Certificate",
+          "Junior Assistant": "+3 Pass in Arts/Science/Commerce + Computer Skill",
+          "Statistics Field Surveyor": "12th with Math/Stats/Economics OR Degree in Statistics"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "RI and ARI": "20-42 Years",
+          "Other Posts": "21-42 Years",
+          "Calculate on": "01/01/2025"
+        }
+      },
+      {
+        "title": "Application Fees",
+        "items": {
+          "Gen / OBC / EWS": "Rs. 500/-",
+          "SC / ST / PH": "Rs. 0/- (Nil)"
+        }
+      }
+    ]
+  },
+  {
+    "id": "psssb-junior-engineer-recruitment-2025",
+    "createdAt": "2026-01-08T15:40:00.000Z",
+    "updatedAt": "2026-01-08T15:40:00.000Z",
+    "title": "PSSSB Junior Engineer (Civil/Electrical/Mechanical) Recruitment 2025",
+    "description": "Punjab Subordinate Services Selection Board (PSSSB) ne Junior Engineer (Civil, Mechanical, Electrical) ke vibhinn padon par bharti ke liye notification jaari kiya hai. Isme Advt No 15/2025 aur 16/2025 shamil hain.",
+    "totalPosts": "Various",
+    "educationalQualifications": "Diploma / Degree in Engineering",
+    "ageLimit": "18-37 Years",
+    "applicationFee": "Rs. 1500/-",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "22/12/2025",
+      "Last Date": "20/01/2026 (Extended)",
+      "Fee Last Date": "23/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online (Advt 15/2025)": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_b&value=1222",
+      "Official Website": "https://sssb.punjab.gov.in"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "customSections": [
+      {
+        "title": "Post Wise Qualification",
+        "items": {
+          "JE (Civil)": "Degree/Diploma in Civil Engineering + Punjabi upto Matric",
+          "JE (Mechanical)": "Degree/Diploma in Mechanical Engineering + Punjabi upto Matric",
+          "JE (Electrical)": "Degree/Diploma in Electrical Engineering + Punjabi upto Matric"
+        }
+      },
+      {
+        "title": "Application Fees",
+        "items": {
+          "General": "Rs. 1500/-",
+          "SC/ST/BC": "Rs. 750/-",
+          "EWS/ESM/PH": "Rs. 500/-"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pune-peoples-co-op-bank-clerk-recruitment-2026",
+    "createdAt": "2026-01-08T16:00:00.000Z",
+    "updatedAt": "2026-01-08T16:00:00.000Z",
+    "title": "Pune People's Co-Operative Bank Clerk Recruitment 2026 (80 Posts)",
+    "description": "Pune People's Co-Operative Bank Ltd ne Clerk ke 80 padon par bharti ke liye notification jaari kiya hai. Ye bharti any Graduates ke liye hai jinke paas computer knowledge hai.",
+    "totalPosts": "80",
+    "educationalQualifications": "Graduate + Computer Knowledge",
+    "ageLimit": "20-28 Years",
+    "applicationFee": "Rs. 1416/- (including GST)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "02/01/2026",
+      "Last Date": "17/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://www.kopbankasso.co.in/",
+      "Official Website": "https://punepeoples.bank.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "80"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Education": "Any Graduation Degree",
+          "Technical": "M.S.C.I.T. / Diploma In Computer",
+          "Language": "Knowledge of Marathi, Hindi, English Language"
+        }
+      },
+      {
+        "title": "Selection Process",
+        "items": {
+          "1": "Written Exam (IIBF lines)",
+          "2": "Personal Interview"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rrb-cen-08-2025-various-posts",
+    "createdAt": "2026-01-08T16:30:00.000Z",
+    "updatedAt": "2026-01-08T16:30:00.000Z",
+    "title": "RRB Ministerial and Isolated Categories (CEN 08/2025) Recruitment 2025",
+    "description": "Railway Recruitment Board (RRB) ne Ministerial and Isolated Categories ke antargat vibhinn padon (Jaise Junior Translator, Chief Law Assistant, etc.) par bharti ke liye notification jaari kiya hai.",
+    "totalPosts": "Various",
+    "educationalQualifications": "Graduate / PG / Diploma in Related Field",
+    "ageLimit": "Given in Notification (Calculated on 01/01/2026)",
+    "applicationFee": "Rs. 500/- (Gen/OBC/EWS), Rs. 250/- (SC/ST/Female/Minority)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "30/12/2025",
+      "Last Date": "29/01/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://www.rrbapply.gov.in/#/auth/landing",
+      "Official Website": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281"
+    },
+    "vacancyDetails": {
+      "Total Posts": "Various"
+    },
+    "customSections": [
+      {
+        "title": "Pay Scale Details",
+        "items": {
+          "Junior Translator (Hindi)": "Level-6 (Rs. 35,400/-)",
+          "Chief Law Assistant": "Level-7 (Rs. 44,900/-)",
+          "Lab Assistant Grade III": "Level-2 (Rs. 19,900/-)"
+        }
+      },
+      {
+        "title": "Exam Pattern",
+        "items": {
+          "Mode": "CBT (Computer Based Test)",
+          "Duration": "90 Minutes",
+          "Negative Marking": "1/3rd Marks"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rssb-female-supervisor-recruitment-2026",
+    "createdAt": "2026-01-08T15:50:00.000Z",
+    "updatedAt": "2026-01-08T15:50:00.000Z",
+    "title": "RSSB Female Supervisor Recruitment 2026",
+    "description": "Rajasthan Staff Selection Board (RSSB) ne Mahila Paryavekshak (Female Supervisor) ke 72 padon par bharti ke liye notification jaari kiya hai. Ye bharti CET (Graduation Level) 2024 ke aadhar par hogi.",
+    "totalPosts": "72",
+    "educationalQualifications": "Graduate + CET 2024 Passed",
+    "ageLimit": "18-40 Years",
+    "applicationFee": "Rs. 600/- (Gen), Rs. 400/- (Reserved)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "07/01/2026",
+      "Last Date": "05/02/2026",
+      "Exam Date": "18/06/2026 (Tentative)"
+    },
+    "importantLinks": {
+      "Apply Online": "https://sso.rajasthan.gov.in/signin",
+      "Official Website": "https://rssb.rajasthan.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "72"
+    },
+    "customSections": [
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Education": "Any Graduation Degree + Computer Course",
+          "Eligibility": "RSSB CET (Graduation Level) 2024 Passed"
+        }
+      },
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "Non-TSP Area": "57 Posts",
+          "TSP Area": "15 Posts",
+          "Total": "72 Posts"
+        }
+      },
+      {
+        "title": "Age Limit Details",
+        "items": {
+          "Age Range": "18-40 Years",
+          "Calculate on": "01/01/2027"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rssb-forester-recruitment-2026",
+    "createdAt": "2026-01-08T16:00:00.000Z",
+    "updatedAt": "2026-01-08T16:00:00.000Z",
+    "title": "RSSB Forester Recruitment 2026 (259 Posts)",
+    "description": "Rajasthan Staff Selection Board (RSSB) ne Forester (Vanpal) ke 259 padon par bharti ke liye notification jaari kiya hai. Ye bharti CET (Sr. Sec. Level) 2024 ke aadhar par hogi.",
+    "totalPosts": "259",
+    "educationalQualifications": "12th Pass + CET 2024",
+    "ageLimit": "18-40 Years",
+    "applicationFee": "Rs. 600/- (Gen), Rs. 400/- (Reserved)",
+    "paymentMode": [
+      "Online Mode"
+    ],
+    "importantDates": {
+      "Starting Date": "06/01/2026",
+      "Last Date": "04/02/2026",
+      "Exam Date": "28/06/2026"
+    },
+    "importantLinks": {
+      "Apply Online": "https://sso.rajasthan.gov.in/signin",
+      "Official Website": "https://rssb.rajasthan.gov.in/"
+    },
+    "vacancyDetails": {
+      "Total Posts": "259"
+    },
+    "customSections": [
+      {
+        "title": "Category Wise Vacancies",
+        "items": {
+          "Non-TSP": "213 Posts",
+          "TSP": "46 Posts"
+        }
+      },
+      {
+        "title": "Qualification Details",
+        "items": {
+          "Education": "12th Class Passed from recognized Board",
+          "Eligibility": "RSSB CET (12th Level) 2024 Passed"
+        }
+      }
+    ]
+  },
+  {
     "id": "hisar-court-clerk-steno-offline-form",
     "createdAt": "2026-01-05T13:30:00.000Z",
     "updatedAt": "2026-01-05T13:30:00.000Z",
